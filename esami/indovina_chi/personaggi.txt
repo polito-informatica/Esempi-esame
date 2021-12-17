@@ -1,0 +1,25 @@
+﻿Nome;Sesso;Colore Capelli;Lunghezza Capelli;Occhiali;Cappello;Baffi;Barba;Pelato
+Alex;Uomo;Nero;Corti;NO;NO;SI;NO;NO
+Alfred;Uomo;Rosso;Lunghi;NO;NO;SI;NO;NO
+Anita;Donna;Biondo;Lunghi;NO;NO;NO;NO;NO
+Anne;Donna;Nero;Corti;NO;NO;NO;NO;NO
+Bernard;Uomo;Castano;Corti;NO;SI;NO;NO;NO
+Bill;Uomo;Rosso;Corti;NO;NO;NO;SI;SI
+Charles;Uomo;Biondo;Corti;NO;NO;SI;NO;NO
+Claire;Donna;Rosso;Corti;SI;SI;NO;NO;NO
+David;Uomo;Biondo;Corti;NO;NO;NO;SI;NO
+Eric;Uomo;Biondo;Corti;NO;SI;NO;NO;NO
+Frans;Uomo;Rosso;Corti;NO;NO;NO;NO;NO
+George;Uomo;Bianco;Corti;NO;SI;NO;NO;NO
+Herman;Uomo;Rosso;Corti;NO;NO;NO;NO;SI
+Joe;Uomo;Biondo;Corti;SI;NO;NO;NO;NO
+Maria;Donna;Castano;Lunghi;NO;SI;NO;NO;NO
+Max;Uomo;Nero;Corti;NO;NO;SI;NO;NO
+Paul;Uomo;Bianco;Corti;SI;NO;NO;NO;NO
+Peter;Uomo;Bianco;Corti;NO;NO;NO;NO;NO
+Philip;Uomo;Nero;Corti;NO;NO;NO;SI;NO
+Richard;Uomo;Castano;Corti;NO;NO;SI;SI;SI
+Robert;Uomo;Castano;Corti;NO;NO;NO;NO;NO
+Sam;Uomo;Bianco;Corti;SI;NO;NO;NO;SI
+Susan;Donna;Bianco;Lunghi;NO;NO;NO;NO;NO
+Tom;Uomo;Nero;Corti;SI;NO;NO;NO;SI
