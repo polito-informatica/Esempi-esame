@@ -1,7 +1,7 @@
 # Domande di Teoria - Programmazione Python
 
 ## 1
-Spiegare il concetto di ***alias*** in Python ed i potenziali problemi ad esso correlati durante la scrittura del codice.
+Spiegare il concetto di **alias** in Python ed i potenziali problemi ad esso correlati durante la scrittura del codice.
 
 ## 2
 Perché in Python i dizionari sono chiamati così?
@@ -52,7 +52,7 @@ Quale tra le istruzioni seguenti permette di creare una variabile `d2` che conti
 4. `d2 = dict(d1)`
 
 ## 10
-Il linguaggio Python mette a disposizione dei programmatori ***dizionari*** (`dict`) e ***insiemi*** (`set`). Si richiede di
+Il linguaggio Python mette a disposizione dei programmatori **dizionari** (`dict`) e **insiemi** (`set`). Si richiede di
 fornire una sintetica descrizione di queste due strutture dati complesse, indicando almeno una caratteristiche comune.
 
 ## 11

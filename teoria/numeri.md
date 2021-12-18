@@ -24,8 +24,8 @@ per la rappresentazione in CA2 ed in binario puro.
 
 ## 5
 
-I seguenti numeri esadecimali rappresentano numeri binari codificati ***in CA2*** su ***8 bit***. Riportare tali numeri in
-ordine ***crescente*** di valore. (Non è necessario scrivere il valore decimale corrispondente).
+I seguenti numeri esadecimali rappresentano numeri binari codificati **in CA2** su **8 bit**. Riportare tali numeri in
+ordine **crescente** di valore. (Non è necessario scrivere il valore decimale corrispondente).
 
       01 A2 B2 32 80 7F FF
 
