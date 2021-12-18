@@ -6,8 +6,8 @@ FILE_ZODIACO = 'zodiaco.csv'
 FILE_SPORTIVI = 'sportivi.csv'
 
 
-def leggi_zodiaco(nomefile):
-    zodiaco = open(nomefile, 'r')
+def leggi_zodiaco(nome_file):
+    zodiaco = open(nome_file, 'r')
     segni = []
     for line in zodiaco:
         campi = line.rstrip().split(',')
@@ -16,23 +16,23 @@ def leggi_zodiaco(nomefile):
     return segni
 
 
-def leggi_sportivi(nomefile):
-    filesport = open(nomefile, 'r', encoding='UTF-8')
+def leggi_sportivi(nome_file):
+    file_sport = open(nome_file, 'r', encoding='UTF-8')
     sportivi = []
-    for line in filesport:
+    for line in file_sport:
         campi = line.rstrip().split(',')
         sportivi.append({'nome': campi[0], 'punti': int(campi[1]), 'nazione': campi[2], 'nato': campi[3]})
-    filesport.close()
+    file_sport.close()
     return sportivi
 
 
 def trova_segno(nato, segni):
-    '''
+    """
     Trova il segno zodiacale, a partire dalla data di nascita
     :param nato: data di nascita, in formato 'gg/mm'
     :param segni: elenco dei segni zodiacali
     :return: il nome del segno zodiacale
-    '''
+    """
 
     nascita = nato.split('/')[1] + nato.split('/')[0]  # trasforma '15/03' in '0315'
 
@@ -44,7 +44,7 @@ def trova_segno(nato, segni):
         if (nascita >= gg_inizio) and (nascita <= gg_fine):
             return segno['segno']
 
-    # altrimenti, se non lo strovo, sarà per forza Capricorno, perché è a cavallo dell'anno
+    # altrimenti, se non lo trovo, sarà per forza Capricorno, perché è a cavallo dell'anno
     return 'Capricorno'
 
 

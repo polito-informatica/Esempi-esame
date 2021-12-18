@@ -2,11 +2,16 @@
 
 Si realizzi un programma per verificare se l'astrologia abbia degli effetti sulle prestazioni dei giocatori di Calcio.
 
-Un file di testo denominato `sportivi.csv` contiene le informazioni sui calciatori che hanno segnato più di 500 goal (
-fonte: https://en.wikipedia.org/wiki/List_of_footballers_with_500_or_more_goals), in cui ciascuna riga contiene le
+Un file di testo denominato `sportivi.csv` contiene le informazioni sui calciatori che hanno segnato più di 500 goal (fonte: https://en.wikipedia.org/wiki/List_of_footballers_with_500_or_more_goals), in cui ciascuna riga contiene le
 informazioni relative ad uno sportivo. Le informazioni, riportate in campi separati da virgola, sono: il cognome e nome
 dello sportivo, il numero di goal segnati nella propria carriera, la nazionalità ed infine la data di nascita (nel
-formato gg/mm/aaaa).
+formato gg/mm/aaaa). Le prime righe del file, ad esempio, sono:
+
+    Abe Lenstra,710,Netherlands,27/11/1920
+    Alfredo Di Stéfano,513,Argentina,04/07/1926
+    Boy Martin,541,Ireland,01/02/1914
+    Cristiano Ronaldo,798,Portugal,05/02/1985
+
 
 Un secondo file chiamato `zodiaco.csv` contiene, per ogni segno zodiacale, le date di inizio e di fine di quel segno
 zodiacale (nel formato gg/mm), in campi separati da virgola. Ad esempio:
@@ -15,9 +20,9 @@ zodiacale (nel formato gg/mm), in campi separati da virgola. Ad esempio:
     Toro,21/04,20/05
     ...ecc...
 
-Il programma dovrà leggere entrambi i file, e sommare i punteggi ottenuti dai diversi giocatori appartenenti a ciascuno
-dei segni zodiacali, per poi creare un istogramma dei punti attribuibili a ciascun segno e stamparlo a video.
-L'istogramma dovrà mostrare, per ciascun segno: il nome del segno, il punteggio totale, una barra di asterischi di
+Il programma dovrà leggere entrambi i file, e sommare i goal segnati dai diversi giocatori appartenenti a ciascuno
+dei segni zodiacali, per poi creare un istogramma dei goal attribuibili a ciascun segno e stamparlo a video.
+L'istogramma dovrà mostrare, per ciascun segno: il nome del segno, il numero totale di goal, una barra di asterischi di
 lunghezza proporzionale al punteggio totale. I dati dovranno essere stampati in ordine decrescente di punteggio totale.
 La scala dell'istogramma deve essere determinata in modo che la barra più lunga abbia 50 asterischi.
 
