@@ -10,6 +10,11 @@ FILE_NAME = 'mazzo.txt'
 
 
 def genera_mazzo():
+    """
+    Crea un mazzo con le 32 carte.
+
+    :return: una lista di 32 record del tipo { 'valore': '7', 'seme': 'P' }
+    """
     mazzo = []
     for valore in VALORI:
         for seme in SEMI:
@@ -18,13 +23,22 @@ def genera_mazzo():
                 'seme': seme
             }
             mazzo.append(carta)
+
+    # oppure, usando una list comprehension annidata
+    # mazzo = [{'valore': valore, 'seme': seme} for valore in VALORI for seme in SEMI]
     return mazzo
 
 
 def salva_mazzo(file_name, mazzo):
+    """
+    Salva su file il contenuto del mazzo specificato
+
+    :param file_name: nome del file da salvare
+    :param mazzo: lista di record contenente le carte del mazzo
+    """
     try:
         file = open(file_name, 'w')
-    except IOError:
+    except OSError:
         print('Impossibile creare il file')
         return
 
@@ -35,13 +49,18 @@ def salva_mazzo(file_name, mazzo):
 
 
 def mescola_mazzo(mazzo):
+    """
+    Dato un mazzo, rimescola in modo casuale il suo contenuto.
+
+    :param mazzo: mazzo da mescolare. Viene modificato direttamente.
+    """
     shuffle(mazzo)  # la funzione random.shuffle fa già tutto da sola
 
     # altrimenti si può realizzare "a mano", come indicato nel blocco commentato di seguito:
 
     # # sposto tutte le carte in un altro mazzo
     # vecchio_mazzo = list(mazzo)
-    # mazzo.clear()
+    # mazzo.clear()  # azzero 'mazzo' e dovrò modificarlo per non perdere l'alias
     #
     # while len(vecchio_mazzo) > 0:
     #     # scelgo una carta a caso
@@ -52,15 +71,30 @@ def mescola_mazzo(mazzo):
 
 
 def estrai_5_carte(mazzo):
+    """
+    Estrae le prossime 5 carte dal mazzo (se ve ne sono almeno 5) e le cancella dal mazzo stesso. Se sono meno di 5,
+    restituisce una lista vuota.
+
+    :param mazzo: mazzo da cui estrarre le prime 5 carte, verrà modificato eliminando le carte restituite
+    :return: lista di 5 carte (le prime 5 del mazzo)
+    """
     if len(mazzo) < 5:
         return []
 
     mano = mazzo[0:5]
-    del mazzo[0:5]  # oppure faccio 5 volte mazzo.pop(0)
+    del mazzo[0:5]  # oppure faccio 5 volte mazzo.pop(0) // oppure faccio mazzo[0:5]=[]
     return mano
 
 
 def trova_combinazione(mano):
+    """
+    Data una mano composta da 5 carte, determina quale combinazione "vincente" del Poker sia il valore della mano
+
+    :param mano: lista di 5 carte
+    :return: la descrizione (stringa) del punto ottenuto, oppure la stringa "Niente..." se non si hanno punti.
+    """
+
+    # serie di controlli, in ordine decrescente di valore
     if is_colore(mano) and is_scala(mano):
         return "Scala Reale"
     elif ha_ripetuti(mano, 4):
@@ -94,9 +128,12 @@ def main():
         mano = estrai_5_carte(mazzo)
 
 
-# Funzioni ausiliarie
+# Seguono tutte le funzioni ausiliarie utilizzate da trova_combinazione
 
 def is_colore(mano):
+    """
+    Le 5 carte hanno tutte lo stesso seme?
+    """
     for i in range(1, 5):
         if mano[i]['seme'] != mano[0]['seme']:
             return False
@@ -104,6 +141,9 @@ def is_colore(mano):
 
 
 def is_scala(mano):
+    """
+    I valori delLe 5 carte formano una sequenza crescente?
+    """
     valori = set()
     for carta in mano:
         valori.add(carta['valore'])
@@ -122,8 +162,11 @@ def is_scala(mano):
     return False
 
 
-# determina se ci sono dei valori ripetuti ESATTAMENTE 'num' volte
 def ha_ripetuti(mano, num):
+    """
+    determina se ci sono dei valori ripetuti ESATTAMENTE 'num' volte
+    """
+
     valori = []
     for carta in mano:
         valori.append(carta['valore'])
@@ -145,6 +188,10 @@ def ha_ripetuti(mano, num):
 
 
 def is_doppia_coppia(mano):
+    """
+    Due coppie?
+    """
+
     valori = []
     for carta in mano:
         valori.append(carta['valore'])
@@ -165,7 +212,7 @@ def is_doppia_coppia(mano):
 def format_mano(mano):
     msg = ""
     for carta in mano:
-        msg += (' '+carta['valore'])[-2:] + SEMI_UNICODE[carta['seme']] + ' '
+        msg += f"{carta['valore']:>2}{SEMI_UNICODE[carta['seme']]} "
     return msg
 
 
