@@ -1,4 +1,4 @@
-# Soluzione proposta esame "Dinosauri"
+# Soluzione proposta esercizio "Dinosauri"
 
 FILE_NAME = 'mazzo.txt'
 NUM_CARTE = 30
@@ -14,7 +14,7 @@ PUNTEGGI = {
 def leggi_mazzo(file_name):
     try:
         infile = open(file_name, 'r')
-    except IOError:
+    except OSError:
         exit('Impossibile aprire il file')
 
     mazzo = []
