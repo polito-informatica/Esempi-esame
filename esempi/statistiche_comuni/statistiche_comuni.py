@@ -19,21 +19,19 @@ def leggi_file():
         print('Impossibile aprire il file:\n' + str(error))
         exit()
 
+    file.readline() # salta la prima riga
+
     lista = []
-    prima = True
     for linea in file:
-        if not prima:  # salta la prima riga
-            try:
-                campi = linea.split(';')
-                comune = campi[6]
-                regione = campi[10]
-                # print(comune, regione)
-                record = {'comune': comune, 'regione': regione}
-                lista.append(record)
-            except IndexError:
-                print('Riga con numero di campi insufficiente (viene ignorata):\n' + linea)
-        else:
-            prima = False
+        try:
+            campi = linea.split(';')
+            comune = campi[6]
+            regione = campi[10]
+            # print(comune, regione)
+            record = {'comune': comune, 'regione': regione}
+            lista.append(record)
+        except IndexError:
+            print('Riga con numero di campi insufficiente (viene ignorata):\n' + linea)
 
     file.close()
     return lista
@@ -125,5 +123,6 @@ def main():
             print(f'Regione {regione} non valida')
 
     regioni_scelte.close()
+
 
 main()

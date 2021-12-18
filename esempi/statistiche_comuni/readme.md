@@ -1,10 +1,10 @@
 # Esempio esame "Statistiche Comuni"
 
-Si consideri un file in formato testuale contenente le informazioni sui comuni italiani (*elenco-comuni-italiani.csv*)
-in cui vi sia l'informazione di un comune per ciascuna riga del file, con i campi separati dal carattere ';'.
+Si consideri un file in formato testuale contenente le informazioni sui comuni italiani (`elenco-comuni-italiani.csv`)
+in cui vi sia l'informazione di un comune per ciascuna riga del file, con i campi separati dal carattere `';'`.
 
 Si realizzi un programma in linguaggio Python che, dopo avere letto le informazioni contenute nel file, legga il
-contenuto del file *regioni.txt*, che contiene il nome di una regione italiana in ciascuna riga. Per ciascuna di tali
+contenuto del file `regioni.txt`, che contiene il nome di una regione italiana in ciascuna riga. Per ciascuna di tali
 regioni, il programma stampi:
 
 - il numero di comuni presenti in tale regione
@@ -13,7 +13,7 @@ regioni, il programma stampi:
 - il comune il cui nome ha il numero massimo di caratteri (a parità di lunghezza, si stampi quello che viene prima in
   ordine alfabetico)
 
-Il programma ripeterà l'elaborazione fino al termine del file *regioni.txt*.
+Il programma ripeterà l'elaborazione fino al termine del file `regioni.txt`.
 
 ## Note di formato
 
@@ -29,7 +29,7 @@ Esempio di riga del file:
 
 ## Esempio
 
-Supponendo che il file *regioni.txt* abbia il seguente contenuto:
+Supponendo che il file `regioni.txt` abbia il seguente contenuto:
 
     Lazio
     Piemonte
