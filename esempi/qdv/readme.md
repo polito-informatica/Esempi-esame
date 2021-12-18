@@ -2,13 +2,13 @@
 
 Consideriamo gli indicatori della _Qualità della vita_ nelle diverse province italiane, pubblicate da _Il Sole 24 ORE_
 il 14/12/2020 e disponibili on-line alla pagina https://github.com/IlSole24ORE/QDV in formato CSV, nel file denominato
-*20201214_QDV2020_001.csv*.
+`20201214_QDV2020_001.csv`.
 
 Si realizzi un programma Python che dovrà compiere due azioni:
 
 - a partire dai dati presenti nel file, scoprire gli indicatori presenti (campo *INDICATORE*, nella sesta colonna), e
   stamparne in output l'elenco (si noti che esistono 90 indicatori diversi definiti nel file)
-- leggere la prima riga del file *indicatore.txt*, che conterrà il nome di uno degli indicatori. A questo punto il
+- leggere la prima riga del file `indicatore.txt`, che conterrà il nome di uno degli indicatori. A questo punto il
   programma stampi il valore di tale indicatore (campo *VALORE*
   nella quinta colonna) per tutte le province, in ordine decrescente, a fianco del nome della provincia stessa (campo
   *DENOMINAZIONE CORRENTE*, quarta colonna).
@@ -30,7 +30,7 @@ Alcune righe di esempio del file (prese a caso) sono:
     "Viterbo","ITI41",56,"Viterbo",6.17,"Tasso di mortalità","Standardizzato per 10mila abitanti","gennaio - agosto 2020","Nebo Ricerche Pa"
     "Pisa","ITI17",50,"Pisa",0.075641026,"Imprenditorialità giovanile","Imprese con titolare under 35 - In % su imprese registrate","A settembre 2020","Infocamere"
 
-Si più assumere che il formato del file sia corretto.
+Si può assumere che il formato del file sia corretto.
 
 ## Esempio
 
@@ -44,7 +44,7 @@ All'avvio il programma mostrerà l'elenco degli indicatori disponibili (nota: l'
      5. Biblioteche
     ...ecc...
 
-Poi, supponendo che il file *indicatore.txt* contenga la seguente linea:
+Poi, supponendo che il file `indicatore.txt` contenga la seguente linea:
 
     Pos attivi
 
@@ -52,15 +52,15 @@ il programma stamperà la classifica delle province secondo tale indicatore (dal
 piccolo):
 
     Classifica secondo l'indicatore 'Pos attivi': 
-    Rimini                 : 102.8882035
-    Milano                 : 94.75893491
-    Aosta                  : 90.40565414
-    Grosseto               : 84.43055461
-    Venezia                : 84.37374877
-    Siena                  : 81.19051375
-    Roma                   : 80.3457155
+    Rimini                 :  102.888
+    Milano                 :   94.759
+    Aosta                  :   90.406
+    Grosseto               :   84.431
+    Venezia                :   84.374
+    Siena                  :   81.191
+    Roma                   :   80.346
     ...ecc...
-    Crotone                : 35.56156937
-    Foggia                 : 35.18359267
-    Monza e Brianza        : 33.8484766
-    Barletta-Andria-Trani  : 22.59841911
+    Crotone                :   35.562
+    Foggia                 :   35.184
+    Monza e Brianza        :   33.848
+    Barletta-Andria-Trani  :   22.598
