@@ -11,7 +11,7 @@ def tartaglia(N):
     potenza p-esima di 'y' ed alla potenza (g-p)-esima di 'x'.
 
     :param N: grado del polinomio, ultima riga calcolata del triangolo
-    :return: il triangono corrispondente dalla riga 0 alla riga N
+    :return: il triangolo corrispondente dalla riga 0 alla riga N
     """
 
     triangolo = [[1]]  # riga 0 -> (a+b)^0 = 1
@@ -20,9 +20,9 @@ def tartaglia(N):
     for grado in range(1, N + 1):
         riga = [1]  # la riga inizia sempre con 1
         # ci sono tanti elementi intermedi quanti "grado-1" (es: grado = 3 -> 1/3/3/1 -> 2 elementi intermedi)
-        # quindi range da 0 compreso a grado-2 escluso
+        # quindi range da 0 compreso a grado-2 compreso (grado-1 escluso)
         for pos in range(0, grado - 1):
-            # faccio la somma dei giusti elementi nella riga precedente (che è già in triangolo[grado-1]
+            # faccio la somma dei giusti elementi nella riga precedente (che è già in triangolo[grado-1])
             riga.append(triangolo[grado - 1][pos] + triangolo[grado - 1][pos + 1])
         riga.append(1)  # la riga termina sempre con 1
 
@@ -30,40 +30,6 @@ def tartaglia(N):
 
     # pprint(triangolo)
     return triangolo
-
-
-def leggi_float(msg):
-    """
-    Legge un numero reale, controllando gli errori
-
-    :param msg: messaggio di invito da stampare
-    :return: numero reale ritornato
-    """
-    ok = False
-    while not ok:
-        try:
-            x = float(input(msg))
-            ok = True
-        except ValueError:
-            print('Errore di immissione - ripetere')
-    return x
-
-
-def leggi_int(msg):
-    """
-    Legge un numero intero, controllando gli errori
-
-    :param msg: messaggio di invito da stampare
-    :return: numero intero ritornato
-    """
-    ok = False
-    while not ok:
-        try:
-            x = int(input(msg))
-            ok = True
-        except ValueError:
-            print('Errore di immissione - ripetere')
-    return x
 
 
 # coefficienti del polinomio potenza
@@ -80,7 +46,7 @@ def coeff_potenza(a, b, n):
     triangolo = tartaglia(n)
 
     coeff = []
-    # cicliamo sull'esponente di x da 0 a n
+    # cicliamo sull'esponente di x da 0 a n (estremi compresi)
     for exp_x in range(0, n + 1):
         c = triangolo[n][exp_x] * a ** (n - exp_x) * b ** (exp_x)
         coeff.append(c)

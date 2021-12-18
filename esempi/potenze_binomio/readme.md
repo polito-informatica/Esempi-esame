@@ -10,10 +10,17 @@ Il programma deve acquisire da un file denominato *potenze.txt* le seguenti info
 
 Per ciascun valore di "N" presente nel file, il programma stamperà l'espressione del polinomio potenza.
 
-Per il calcolo dei coefficienti del polinomio potenza, costruire una funzione "tartaglia(N)" che calcoli e restituisce
+Per il calcolo dei coefficienti del polinomio potenza, costruire una funzione `tartaglia(N)` che calcoli e restituisca
 il _triangolo di Tartaglia_ fino all'ordine "N", sotto forma di lista di liste:
 
-    [ [1], [1,1], [1,2,1], [1,3,3,1], [1,4,6,4,1], ... ]
+    [ 
+        [1],
+        [1, 1],
+        [1, 2, 1],
+        [1, 3, 3, 1],
+        [1, 4, 6, 4, 1],
+        ...
+    ]
 
 ## Esempio:
 
