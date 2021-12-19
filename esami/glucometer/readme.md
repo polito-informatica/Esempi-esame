@@ -23,7 +23,7 @@ Ogni riga del file contiene 5 diversi dati separati da singolo spazio e nel segu
 2. orario di acquisizione (formato hh:mm)
 3. valore glicemico (g)
 4. temperatura corporea (°C)
-5. frequenza cardiaca (bpm)
+5. frequenza cardiaca (bpm).
 
 Il programma, dopo aver memorizzato i dati in un'opportuna struttura dati, dovrà stampare su video l'elenco di tutti i
 pazienti che hanno registrato almeno un superamento e, per ogni superamento, l'ora ed il livello di glicemia
@@ -39,8 +39,8 @@ corrispondente. L'elenco dovrà apparire in ordine di criticità, partendo dal p
 	0AE1 21:15 192 37.3 70
 	0AE1 21:20 195 37.4 70
 	0AE1 21:25 201 37.4 75
-	XYZ3 22:30 108 37.5 73
-	XYZ3 22:35 200 37.5 73
+	BBB3 22:30 108 37.5 73
+	BBB3 22:35 200 37.5 73
 	0AE1 23:05 203 37.4 73
 	0AE1 23:10 210 37.5 71
 	1BF0 21:10 213 37.2 68
@@ -50,6 +50,8 @@ corrispondente. L'elenco dovrà apparire in ordine di criticità, partendo dal p
 	0AE1 21:25 201
 	0AE1 23:05 203
 	0AE1 23:10 210
+
 	1BF0 21:05 210
 	1BF0 21:10 213
-	XYZ3 22:35 200
+
+	BBB3 22:35 200
