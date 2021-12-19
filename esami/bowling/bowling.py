@@ -1,67 +1,65 @@
+# Soluzione proposta al Tema d'Esame "Bowling"
+
 from operator import itemgetter
 
-NOME_FILE = 'bowling.txt'
+FILENAME = 'bowling.txt'
+
+
+def leggi_bowling(file_name):
+    classifica = []
+    bowling_file = open(file_name, 'r')
+    for line in bowling_file:
+        campi = line.rstrip().split(';')
+        cognome = campi[0]
+        nome = campi[1]
+        punti = campi[2:]
+        for i in range(0, len(punti)):
+            punti[i] = int(punti[i])
+        classifica.append({'cognome': cognome, 'nome': nome, 'punti': punti})
+    return classifica
+
+
+def calcola_totali(classifica):
+    for atleta in classifica:
+        atleta['totale'] = sum(atleta['punti'])
+
+        num_0 = 0
+        num_10 = 0
+        for pt in atleta['punti']:
+            if pt == 0:
+                num_0 = num_0 + 1
+            if pt == 10:
+                num_10 = num_10 + 1
+        atleta['num_0'] = num_0
+        atleta['num_10'] = num_10
 
 
 def main():
-    # Provo ad aprire il file e gestisco l'eccezione
-    try:
-        infile = open(NOME_FILE, "r", encoding="utf-8")
-        partita = leggi_file(infile)  # se posso aprire il file carico i dati
-        visualizza(partita)
-    except OSError:
-        print("Error: file bowling.txt not found.")
-        exit(-1)
+    classifica = leggi_bowling(FILENAME)
+    calcola_totali(classifica)
+    classifica.sort(key=itemgetter('totale'), reverse=True)
 
-    infile.close()  # chiudo il file
+    for atleta in classifica:
+        print(f"{atleta['cognome']:20} {atleta['nome']:20} {atleta['totale']}")
 
+    max_zeri = max([a['num_0'] for a in classifica])
+    # pprint(max_zeri)
+    max_dieci = max([a['num_10'] for a in classifica])
+    # pprint(max_dieci)
 
-def leggi_file(fp):
-    partita = []
-    for line in fp:
-        campi = line.rstrip().split(";")
-        punteggi = []
-        n_max = n_min = 0
-        for campo in campi[2:]:
-            num = int(campo)
-            punteggi.append(num)
-            if num == 10:
-                n_max = n_max + 1
-            elif num == 0:
-                n_min = n_min + 1
-        record_giocatore = {  # creo un dizionario che contiene i dati di ogni giocatore
-            'cognome': campi[0],
-            'nome': campi[1],
-            'punteggi': punteggi,
-            'totale': sum(punteggi),
-            'massimo': n_max,
-            'minimo': n_min
-        }
-        partita.append(record_giocatore)  # creo una lista di dizionari
+    if max_dieci != 0:
+        for atleta in classifica:
+            if atleta['num_10'] == max_dieci:
+                print(
+                    f"{atleta['cognome']:20} {atleta['nome']:20} ha abbattuto tutti i birilli {max_dieci} volte"
+                )
 
-    return partita
-
-
-def visualizza(partita):
-    partita_ordinata = list(partita)
-    partita_ordinata.sort(key=itemgetter('totale'), reverse=True)
-    piu_dieci = 0
-    piu_zero = 0
-    for i in range(0, len(partita_ordinata)):
-        p = partita_ordinata[i]
-        print(f'{p["cognome"]:20s} {p["nome"]:20s} {p["totale"]:3d}')
-        if p["minimo"] > partita_ordinata[piu_zero]["minimo"]:
-            piu_zero = i
-        if p["massimo"] > partita_ordinata[piu_dieci]["massimo"]:
-            piu_dieci = i
-
-    print("%s %s ha abbattuto tutti i birilli %d volta/e" % (
-        partita_ordinata[piu_dieci]["cognome"], partita_ordinata[piu_dieci]["nome"],
-        partita_ordinata[piu_dieci]["massimo"]))
-    print("%s %s ha mancato tutti i birilli %d volta/e" % (
-        partita_ordinata[piu_zero]["cognome"], partita_ordinata[piu_zero]["nome"],
-        partita_ordinata[piu_zero]["minimo"]))
-    return
+    if max_zeri != 0:
+        for atleta in classifica:
+            if atleta['num_0'] == max_zeri:
+                print(
+                    f"{atleta['cognome']:20} {atleta['nome']:20} ha mancato tutti i birilli {max_zeri} volte"
+                )
 
 
 main()
