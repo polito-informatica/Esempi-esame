@@ -14,33 +14,37 @@ BUDGET_ATTACCANTI = 120
 def main():
     calciatori = leggi_file("fantacalcio.txt")
     print("Portieri: ", end="")
-    budget = BUDGET_PORTIERI - NUM_PORTIERI + 1
+    budget = BUDGET_PORTIERI
     for i in range(NUM_PORTIERI):
-        (nome, spesa) = trova_calciatore(calciatori, "portiere", budget)
+        (nome, spesa) = trova_calciatore(calciatori, "portiere", budget - (NUM_PORTIERI - i - 1))
+        # devo tenere da parte almeno 1 milione per ciascuno degli ALTRI portieri
+        # quando i==0 devo salvare un budget pari a NUM_PORTIERI-1
+        # quando i==NUM_PORTIERI-1 (valore max) non devo più salvare budget (infatti NUM_PORTIERI - (NUM_PORTIERI-1)) - 1 == 0)
+
         print(nome, spesa, end=", ")
-        budget = budget - spesa + 1
+        budget = budget - spesa
 
     # L'eventuale budget avanzato nell'acquisto dei portieri è usato per i difensori
     print("\nDifensori: ", end="")
-    budget += BUDGET_DIFENSORI - NUM_DIFENSORI
+    budget += BUDGET_DIFENSORI
     for i in range(NUM_DIFENSORI):
-        (nome, spesa) = trova_calciatore(calciatori, "difensore", budget)
+        (nome, spesa) = trova_calciatore(calciatori, "difensore", budget - (NUM_DIFENSORI - (i - 1)))
         print(nome, spesa, end=", ")
-        budget = budget - spesa + 1
+        budget = budget - spesa
 
     print("\nCentrocampisti: ", end="")
-    budget += BUDGET_CENTROCAMPISTI - NUM_CENTROCAMPISTI
+    budget += BUDGET_CENTROCAMPISTI
     for i in range(NUM_CENTROCAMPISTI):
-        (nome, spesa) = trova_calciatore(calciatori, "centrocampista", budget)
+        (nome, spesa) = trova_calciatore(calciatori, "centrocampista", budget - (NUM_CENTROCAMPISTI - (i - 1)))
         print(nome, spesa, end=", ")
-        budget = budget - spesa + 1
+        budget = budget - spesa
 
     print("\nAttaccanti: ", end="")
-    budget += BUDGET_ATTACCANTI - NUM_ATTACCANTI
+    budget += BUDGET_ATTACCANTI
     for i in range(NUM_ATTACCANTI):
-        (nome, spesa) = trova_calciatore(calciatori, "attaccante", budget)
+        (nome, spesa) = trova_calciatore(calciatori, "attaccante", budget - (NUM_ATTACCANTI - (i - 1)))
         print(nome, spesa, end=", ")
-        budget = budget - spesa + 1
+        budget = budget - spesa
     return
 
 
