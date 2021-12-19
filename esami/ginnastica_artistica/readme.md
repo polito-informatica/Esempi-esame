@@ -1,25 +1,26 @@
 # Testo d'esame "Ginnastica artistica"
 
-Si realizzi un programma in Python che gestisca i punteggi di una gara di ginnastica artistica. 
-Le informazioni sono contenute in un file. Ogni riga del file ha il seguente formato:
+Si realizzi un programma in Python che gestisca i punteggi di una gara di ginnastica artistica. Le informazioni sono
+contenute in un file. Ogni riga del file ha il seguente formato (campi separati da spazio):
 
-    nome, cognome, sesso e nazione dell’atleta, e i 5 punteggi assegnati dai giudici. 
+    nome, cognome, sesso, nazione, i 5 punteggi assegnati dai giudici. 
 
 Si facciano le seguenti assunzioni:
 
 - Il numero di righe del file non è noto a priori
 - I campi Nome e Cognome non contengono spazi
-- Il sesso dell’atleta è codificato da un carattere M o F.
+- Il sesso dell’atleta è codificato da un carattere `M` o `F`.
 - La sigla della nazione è sempre codificata su 3 lettere maiuscole
-- Sono sempre assegnati 5 voti per ogni atleta, separati da uno spazio e il valore può variare da un inimo di 0 ad un massimo di 10.
+- Sono sempre assegnati 5 voti per ogni atleta, separati da uno spazio e il valore può variare  
+  da un minimo di 0 ad un massimo di 10.
 
 Il programma deve stampare:
 
-1.	Il nome della vincitrice femminile. Nel computo dei punti totali, vanno sempre SCARTATI il punteggio 
-        massimo e quello minimo tra i 5 assegnati. Il punteggio finale è quindi dato dalla somma dei tre punteggi rimanenti.
-2.	La classifica delle prime 3 nazioni includendo sia femminile che maschile. Per ogni nazione il punteggio totale 
-        è calcolato sommando i punteggi di tutti i suoi atleti (M e F, e sempre scartando il punteggio maggiore e quello 
-        minore di ogni atleta). Si assuma che in gara le nazioni rappresentate non siano più di 20.
+1. Il nome della vincitrice femminile. Nel computo dei punti totali, vanno sempre SCARTATI il punteggio massimo e quello
+   minimo tra i 5 assegnati. Il punteggio finale è quindi dato dalla somma dei tre punteggi rimanenti.
+2. La classifica delle prime 3 nazioni, includendo sia atleti femminili che maschili. Per ogni nazione il punteggio totale è
+   calcolato sommando i punteggi di tutti i suoi atleti (M e F, e sempre scartando il punteggio maggiore e quello minore
+   di ogni atleta).
 
 Esempio:
 
@@ -30,7 +31,6 @@ Esempio:
     Rebecca Downie F GRB 8.2 8.9 8.9 8.6 9.3 
     Gabbie Douglas F USA 8.2 8.9 8.9 8.6 9.3 
     Hannah Whelan F GRB 8.0 8.0 8.0 8.0 8.0 
-
 
 l'output del programma dovrà essere il seguente:
 
