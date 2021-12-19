@@ -13,8 +13,8 @@ se, dopo aver filtrato i personaggi con una serie di domande, è rimasto un solo
 
 In particolare, il programma dovrà:
 
-1. leggere le caratteristiche dei personaggi dal file "personaggi.txt" e memorizzarle. Tale file riporta i singoli campi
-   separati da un ";" e contiene una prima riga di intestazione, utile per identificare i campi riportati per ogni
+1. leggere le caratteristiche dei personaggi dal file `personaggi.txt` e memorizzarle. Tale file riporta i singoli campi
+   separati da un `";"` e contiene una prima riga di intestazione, utile per identificare i campi riportati per ogni
    personaggio.
 
 2. leggere le domande dell'utente da un secondo file (ad esempio, "domande1.txt" o "domande2.txt"). Il file delle
@@ -22,7 +22,7 @@ In particolare, il programma dovrà:
 
         nome_caratteristica=valore_caratteristica
 
-(ad esempio, Barba=true, o Lunghezza Capelli=Corti).
+(ad esempio, Barba=SI, o Lunghezza Capelli=Corti).
 
 3. stampare a video tutti i personaggi presenti e le relative informazioni
 

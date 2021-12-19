@@ -1,4 +1,4 @@
-﻿Nome;Sesso;Colore Capelli;Lunghezza Capelli;Occhiali;Cappello;Baffi;Barba;Pelato
+Nome;Sesso;Colore Capelli;Lunghezza Capelli;Occhiali;Cappello;Baffi;Barba;Pelato
 Alex;Uomo;Nero;Corti;NO;NO;SI;NO;NO
 Alfred;Uomo;Rosso;Lunghi;NO;NO;SI;NO;NO
 Anita;Donna;Biondo;Lunghi;NO;NO;NO;NO;NO
