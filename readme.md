@@ -25,8 +25,8 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 - [Hacking](esami/hacking)
 - [Indovina Chi](esami/indovina_chi)
 - [Leggi di Murphy](esami/murphy)
+- [Piramidi](esami/piramidi)
 - [Ricette](esami/ricette)
-- [Sensori](esami/sensori)
 
 # Selezione di quesiti di teoria del 2020/2021
 

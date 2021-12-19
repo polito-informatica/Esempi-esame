@@ -1,4 +1,4 @@
-# Testo d'esame "Sensori"
+# Testo d'esame "Piramidi"
 
 Il Prof Otto Lidenbrock, durante un viaggio in val Vermenagna, ha scoperto un sorprendente complesso di costruzioni
 piramidali composte da cubi di un metro di lato. Ogni struttura ha il punto più alto al centro, circondato da un secondo
@@ -10,12 +10,13 @@ tutte le altezze (numeri interi). Si noti che una cima deve avere altezza maggio
 dall’assenza di punti adiacenti più alti. Si noti anche che ogni cima non ha cime direttamente adiacenti, nemmeno in
 diagonale.
 
-Si richiede di scrivere un programma in grado di acquisire il file scritto dal Professore, il cui nome è mappa.txt. Il
+Si richiede di scrivere un programma in grado di acquisire il file scritto dal Professore, il cui nome è `mappa.txt`. Il
 programma dovrà stampare a video l’elenco delle cime, seguendo il seguente formato. Numerare le righe e le colonne
 partendo da 0. Si assume che il contenuto del file sia corretto e conforme alla descrizione. Se non ci sono cime,
 segnalarlo.
 
-    altezza riga colonna altezza riga colonna
+    altezza riga colonna
+    altezza riga colonna
 
 Al termine stampare l’altezza media delle cime.
 
