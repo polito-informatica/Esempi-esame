@@ -1,23 +1,21 @@
 def main():
-    (ingredienti, procedimento) = leggiFileRicetta("polenta_concia.txt")
-    # (ingredienti, procedimento) = leggiFileRicetta("fusilli_alle_olive.txt")
+    (ingredienti, procedimento) = leggi_file_ricetta("polenta_concia.txt")
+    # (ingredienti, procedimento) = leggi_file_ricetta("fusilli_alle_olive.txt")
 
     print("Ingredienti: ")
-    print(stampaIngredienti(ingredienti))
-    # print("Procedimento: "+procedimento)
-    # print()
+    print(stampa_ingredienti(ingredienti))
 
-    print("Numero di ingredienti: %d" % (contaIngredienti(ingredienti)))
+    print(f"Numero di ingredienti: {len(ingredienti)}")
 
-    cibi = leggiFileCibi("cibi.txt")
+    cibi = leggi_file_cibi("cibi.txt")
 
-    (costo, calorie) = calcolaCostoCalorie(ingredienti, cibi)
+    (costo, calorie) = calcola_costo_calorie(ingredienti, cibi)
 
-    print("Costo ricetta: %.2f" % (costo))
-    print("Calorie ricetta: %.2f" % (calorie))
+    print(f"Costo ricetta: {costo:.2f}")
+    print(f"Calorie ricetta: {calorie:.2f}")
 
 
-def leggiFileRicetta(nome_file):
+def leggi_file_ricetta(nome_file):
     infile_ricetta = open(nome_file, "r")
     line = infile_ricetta.readline()
 
@@ -27,9 +25,7 @@ def leggiFileRicetta(nome_file):
     while "Procedimento:" not in line:
         if "Ingredienti" not in line and len(line) > 1:
             campi = line.rstrip().split(";")
-            ingrediente = {}
-            ingrediente["nome"] = campi[0]
-            ingrediente["quantita"] = campi[1]
+            ingrediente = {"nome": campi[0], "quantita": float(campi[1])}
 
             ingredienti.append(ingrediente)
 
@@ -42,50 +38,43 @@ def leggiFileRicetta(nome_file):
 
     infile_ricetta.close()
 
-    return (ingredienti, procedimento)
+    return ingredienti, procedimento
 
 
-def contaIngredienti(ingredienti):
-    return len(ingredienti)
-
-
-def stampaIngredienti(ingredienti):
+def stampa_ingredienti(ingredienti):
     risultato = ""
     for ingrediente in ingredienti:
-        risultato += ingrediente["nome"] + " - " + ingrediente["quantita"] + "\n"
+        risultato += f'{ingrediente["nome"]} - {ingrediente["quantita"]}\n'
 
     return risultato
 
 
-def leggiFileCibi(nome_file):
+def leggi_file_cibi(nome_file):
     infile_cibi = open(nome_file, "r")
 
     cibi = []
     for line in infile_cibi:
         campi = line.rstrip().split(";")
-        cibo = {}
-        cibo["nome"] = campi[0]
-        cibo["costo"] = campi[1]
-        cibo["calorie"] = campi[2]
+        cibo = {"nome": campi[0], "costo": float(campi[1]), "calorie": float(campi[2])}
 
         cibi.append(cibo)
 
     infile_cibi.close()
 
-    return (cibi)
+    return cibi
 
 
-def calcolaCostoCalorie(ingredienti, cibi):
+def calcola_costo_calorie(ingredienti, cibi):
     costo = 0.0
     calorie = 0.0
 
     for ingrediente in ingredienti:
         for cibo in cibi:
             if ingrediente["nome"] == cibo["nome"]:
-                costo += float(ingrediente["quantita"]) / 1000 * float(cibo["costo"])
-                calorie += float(ingrediente["quantita"]) / 1000 * float(cibo["calorie"])
+                costo += ingrediente["quantita"] / 1000 * cibo["costo"]
+                calorie += ingrediente["quantita"] / 1000 * cibo["calorie"]
 
-    return (costo, calorie)
+    return costo, calorie
 
 
 main()
