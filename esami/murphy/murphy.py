@@ -1,51 +1,64 @@
-def creaLegge(text):
-    parts = text.strip().split()
-    parole = set()
-    for i in range(len(parts)):
-        token = parts[i].strip(",;.:-_'?^)(!")
-        if token != "":
-            parole.add(token.lower())
-
-    if len(text) > 50:
-        text = text[:50] + "..."
-
-    return {"testo": text, "parole": parole}
+FILE_MASSIME = 'leggi_di_Murphy.txt'
+FILE_ARGOMENTI = 'argomenti.txt'
 
 
-def caricaElenco(fileName):
-    elenco = {}
-    with open(fileName, "r", encoding="utf-8") as file:
-        lines = file.readlines()
+def leggi_massime(nomefile):
+    massime = []
 
-        i = 0
-        title = ""
-        text = ""
-        while i < len(lines):
-            line = lines[i].strip()
-            if title != "" and line != "":
-                text += line + " "
-            elif title == "" and line != "":
-                title = line
-            elif title != "" and line == "":
-                legge = creaLegge(text)
-                elenco[title] = legge
-                title = ""
-                text = ""
+    murphile = open(nomefile, 'r', encoding='utf-8')
 
-            i += 1
+    titolo = murphile.readline().rstrip()
+    while titolo != '':  # fino alla fine del file
+        enunciato = ''
+        riga = murphile.readline().rstrip()
+        while riga != '':  # leggo il testo finché non trovo una riga vuota
+            enunciato += riga + ' '
+            riga = murphile.readline().rstrip()
 
-    return elenco
+        massima = {'titolo': titolo, 'enunciato': enunciato}
+        massime.append(massima)
+
+        titolo = murphile.readline().rstrip()  # leggo il titolo della successiva
+
+    murphile.close()
+    return massime
 
 
-CERCA = "male"
+def leggi_argomenti(nomefile):
+    parole = []
+    infile = open(nomefile, 'r')
+    for line in infile:
+        if len(line) > 1:
+            parole.append(line.strip().lower())
+    infile.close()
+    return parole
+
+
+def ricerca(massime, parole):
+    rilevanti = []
+    for massima in massime:
+        lista_parole = massima['enunciato'].split()  # separa le parole in corrispondenza degli spazi
+        for i in range(len(lista_parole)):
+            lista_parole[i] = lista_parole[i].strip(',.;:\'\"()').lower()
+
+        if set(parole).intersection(lista_parole) != set():
+            rilevanti.append(massima)
+
+    return rilevanti
 
 
 def main():
-    elenco = caricaElenco("leggi_di_Murphy.txt")
-    # print(elenco)
-    for (titolo, legge) in elenco.items():
-        if CERCA in legge["parole"]:
-            print(titolo + " - " + legge["testo"])
+    massime = leggi_massime(FILE_MASSIME)
+    argomenti = leggi_argomenti(FILE_ARGOMENTI)
+
+    rilevanti = ricerca(massime, argomenti)
+
+    for massima in rilevanti:
+        print(f"{massima['titolo']} - ", end='')
+        if len(massima['enunciato']) >= 50:
+            print(f"{massima['enunciato'][:50]}...")
+        else:
+            print(f"{massima['enunciato']}")
 
 
 main()

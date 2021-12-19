@@ -1,8 +1,8 @@
 # Testo d'esame "Leggi di Murphy"
 
-Si consideri un file di testo, denominato "leggi_di_Murphy.txt", che contiene alcune delle massime derivate dalla famosa *legge di Murphy*.
+Si consideri un file di testo, denominato `leggi_di_Murphy.txt`, che contiene alcune delle massime derivate dalla famosa *legge di Murphy*.
 
-Nel file di testo, ciascuna massima è composta da due o più righe di testo: sulla prima riga c'è il **titolo** della massima, sulle successive c'è l'**enunciato**. Le diverse massime sono separate tra di loro da una riga vuota.
+Nel file di testo, ciascuna massima è composta da _due o più_ righe di testo: sulla prima riga c'è il **titolo** della massima, sulle successive c'è l'**enunciato**. Le diverse massime sono separate tra di loro da una riga vuota.
 
 Ad esempio:
 
@@ -31,7 +31,7 @@ Ad esempio:
     Più un oggetto costa, più lontano bisognerà spedirlo per farlo riparare.
 
 
-Un secondo file di testo, denominato "argomenti.txt" contiene una serie di parole (una per riga, prive di spazi o punteggiatura).
+Un secondo file di testo, denominato `argomenti.txt` contiene una serie di parole (una per riga, prive di spazi o punteggiatura).
 
 Ad esempio:
 
@@ -42,7 +42,9 @@ Ad esempio:
 
 Scrivere un programma Python per identificare le leggi di Murphy che parlano di determinati argomenti. 
 
-Il programma deve identificare tutte le massime in cui almeno una di tali parole compaia nell'enunciato. La parola ricercata deve comparire come parola "completa" nel testo, non è ammesso avere corrispondenze parziali.
+Il programma deve identificare tutte le massime in cui almeno una di tali parole compaia
+**nell'enunciato** (non è importante se compare o meno nel titolo).
+La parola ricercata deve comparire come parola "completa" nel testo, non è ammesso avere corrispondenze parziali.
 Ad esempio, se la parola fosse "con", non deve essere selezionata una massima contenente "conti". 
 Il confronto deve essere fatto ignorando la differenza tra maiuscole e minuscole, e rimuovendo i caratteri di punteggiatura.
 
@@ -58,4 +60,4 @@ Nel caso di file con il contenuto indicato negli esempi, il programma dovrà  p
     Legge di Pudder - Chi ben comincia, finisce male. Chi comincia male,...
 
 
-(FONTE: http://www.fenice.info/Wisdom/Aforismi/index.asp)
+(Fonte: http://www.fenice.info/Wisdom/Aforismi/index.asp)
