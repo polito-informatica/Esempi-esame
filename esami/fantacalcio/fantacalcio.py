@@ -1,99 +1,103 @@
-# La rosa della squadra è composta da 25 calciatori:
-NUM_PORTIERI = 3
-NUM_DIFENSORI = 8
-NUM_CENTROCAMPISTI = 8
-NUM_ATTACCANTI = 6
-
-# Il budget complessivo è 260 FantaMilioni; si decide di suddividerlo come segue:
-BUDGET_PORTIERI = 20
-BUDGET_DIFENSORI = 40
-BUDGET_CENTROCAMPISTI = 80
-BUDGET_ATTACCANTI = 120
-
-
-def main():
-    calciatori = leggi_file("fantacalcio.txt")
-    print("Portieri: ", end="")
-    budget = BUDGET_PORTIERI
-    for i in range(NUM_PORTIERI):
-        (nome, spesa) = trova_calciatore(calciatori, "portiere", budget - (NUM_PORTIERI - i - 1))
-        # devo tenere da parte almeno 1 milione per ciascuno degli ALTRI portieri
-        # quando i==0 devo salvare un budget pari a NUM_PORTIERI-1
-        # quando i==NUM_PORTIERI-1 (valore max) non devo più salvare budget (infatti NUM_PORTIERI - (NUM_PORTIERI-1)) - 1 == 0)
-
-        print(nome, spesa, end=", ")
-        budget = budget - spesa
-
-    # L'eventuale budget avanzato nell'acquisto dei portieri è usato per i difensori
-    print("\nDifensori: ", end="")
-    budget += BUDGET_DIFENSORI
-    for i in range(NUM_DIFENSORI):
-        (nome, spesa) = trova_calciatore(calciatori, "difensore", budget - (NUM_DIFENSORI - (i - 1)))
-        print(nome, spesa, end=", ")
-        budget = budget - spesa
-
-    print("\nCentrocampisti: ", end="")
-    budget += BUDGET_CENTROCAMPISTI
-    for i in range(NUM_CENTROCAMPISTI):
-        (nome, spesa) = trova_calciatore(calciatori, "centrocampista", budget - (NUM_CENTROCAMPISTI - (i - 1)))
-        print(nome, spesa, end=", ")
-        budget = budget - spesa
-
-    print("\nAttaccanti: ", end="")
-    budget += BUDGET_ATTACCANTI
-    for i in range(NUM_ATTACCANTI):
-        (nome, spesa) = trova_calciatore(calciatori, "attaccante", budget - (NUM_ATTACCANTI - (i - 1)))
-        print(nome, spesa, end=", ")
-        budget = budget - spesa
-    return
+"""
+Soluzione proposta per il tema d'esame "Fantacalcio"
+"""
 
 
 def leggi_file(nome_file):
     """
-    Legge i dati dei calciatori
-
-    :param nome_file: nome del file da leggere
-    :return: una lista di dizionari: nome, ruolo, quotazione
+    Acquisisci le informazioni sui calciatori
+    :param nome_file: Nome del file che contiene le informazioni sui calciatori
+    :return: una lista di giocatori; ciascun giocatore è rappresentato da un dizionario
+    contenente i 4 campi: nome, squadra, ruolo, costo
     """
-    lista = []  # crea un dizionario vuoto
-    try:
-        input_file = open(nome_file, "r")
-    except IOError:
-        print("Il file non esiste.")
-        return lista
+    file = open(nome_file, 'r', encoding='utf-8')
+    elenco_giocatori = []
+    for riga in file:
+        campi = riga.split(',')
+        record = {
+            'nome': campi[0].strip(),
+            'squadra': campi[1].strip(),
+            'ruolo': campi[2].strip(),
+            'costo': int(campi[3])
+        }
+        elenco_giocatori.append(record)
+    file.close()
+    return elenco_giocatori
 
-    for riga in input_file:  # Legge tutti i record presenti nel file.
-        campi = riga.split(",")
-        lista.append({"nome": campi[0],
-                      "ruolo": campi[2].strip(),
-                      "quotazione": int(campi[3])})
-    input_file.close()
-    return lista
 
-
-def trova_calciatore(lista, ruolo, budget):
+def scegli_rosa(info_ruolo, elenco_giocatori):
     """
-    Restituisce il calciatore con il ruolo indicato e con la più alta quotazione
-    purché inferiore al budget indicato
-
-    :param lista: lista di dizionari con i dati dei calciatori
-    :param ruolo: ruolo del calciatore
-    :param budget: quotazione massima del calciatore
-    :return: una tupla: nome del calciatore e quotazione
+    Sceglie in modo "ottimale" i giocatori per un determinato ruolo
+    (secondo il criterio specificato nel testo).
+    :param info_ruolo: dizionario che contiene la descrizione dei vincoli
+    per la scelta dei giocatori: budget, num (numero di giocatori da scegliere), ruolo
+    :param elenco_giocatori: lista contenente tutti i giocatori (non viene modificata)
+    :return: lista di giocatori contenente quelli selezionati per l'acquisto
     """
-    nome = ""
-    quotazione = 0
-    indice = 0
-    i = 0
-    for calciatore in lista:
-        if (calciatore["ruolo"] == ruolo and
-                quotazione < calciatore["quotazione"] <= budget):
-            nome = calciatore["nome"]
-            quotazione = calciatore["quotazione"]
-            indice = i
-        i = i + 1
-    lista.pop(indice)
-    return nome, quotazione
+
+    # estraggo i dati per comodità
+    budget = info_ruolo['budget']
+    num = info_ruolo['num']
+
+    # seleziono solo i giocatori che hanno il ruolo specificato
+    giocatori = [g for g in elenco_giocatori if g['ruolo'] == info_ruolo['ruolo']]
+    # print(giocatori)
+
+    rosa = []
+    for i in range(num):  # ripeto tante volte quanti sono i giocatori desiderati
+        costo_max = 0
+        # cerco il giocatore di costo massimo
+        for g in giocatori:
+            # budget - (num - 1 - i) tiene conto del fatto che devo
+            # 'riservare' un certo numero di milioni (num-1) la prima volta,
+            # (num-2) la seconda volta, ecc... per i futuri giocatori
+            if g['costo'] > costo_max and g['costo'] <= budget - (num - 1 - i):
+                mio = g  # giocatore scelto
+                costo_max = g['costo']
+        # print(f'Budget: {budget}  -- Acquisto {mio}')
+        rosa.append(mio)
+        budget = budget - mio['costo']
+        giocatori.remove(mio)  # per evitare di prendere due volte lo stesso
+    return rosa
+
+
+def main():
+
+    # parametri di funzionamento del programma: elenco ruoli e relative cartteristiche
+    info_ruoli = [
+        {
+            'ruolo': 'portiere',
+            'num': 3,
+            'budget': 20
+        },
+        {
+            'ruolo': 'difensore',
+            'num': 8,
+            'budget': 40
+        },
+        {
+            'ruolo': 'centrocampista',
+            'num': 8,
+            'budget': 80
+        },
+        {
+            'ruolo': 'attaccante',
+            'num': 6,
+            'budget': 120
+        }
+    ]
+
+    giocatori = leggi_file('fantacalcio.txt')
+    # print(giocatori)
+
+    for info_ruolo in info_ruoli:
+        rosa = scegli_rosa(info_ruolo, giocatori)
+
+        # Stampa la rosa di giocatori per quel ruolo
+        print(f'Ruolo: {info_ruolo["ruolo"]}')
+        for g in rosa:
+            print(g['nome'], g['costo'], end='  ')
+        print()
 
 
 main()
