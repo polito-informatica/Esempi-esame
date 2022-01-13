@@ -1,0 +1,6 @@
+Torino;Santhia
+Torino;Milano
+Santhia;Magenta
+Bologna;Magenta
+Santhia;Rho
+Chivasso;Venezia

@@ -1,0 +1,5 @@
+Lucidatura,25/8/2018,50
+Controllo Testata,23/7/2017,200
+Pulitura,15/8/2018,50
+Lavaggio,12/9/2019,20 
+Controllo Cilindro,17/9/2019,150

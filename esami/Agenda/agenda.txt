@@ -1,0 +1,5 @@
+10;12;Pranzo con il capo
+17;09;Esame di Informatica
+17;17;Consiglio di Dipartimento
+100;10;Visita dal dottore
+75;19;Aperitivo con amici
