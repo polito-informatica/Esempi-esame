@@ -68,13 +68,52 @@ Dati i seguenti 3 numeri su base 8 e in complemento a 2, calcolare la somma tota
 ## 11
 
 Convertire in complemento a 2 e modulo e segno, su 5 bit, i seguenti valori decimali
+
 - -16
 - +10
 
-
 ## 12
+
 In quale base è corretta la seguente operazione 20 + 12 = 32
+
 1. in base 3
 2. in nessuna base
 3. in qualunque base
 4. in qualunque base maggiore o uguale a 4
+
+## 13
+
+Considerando operandi e risultato su 8 bit, si esegua la somma dei seguenti valori esadecimali: B1 e 3F, che
+rappresentano valori in complemento a due, e si indichi l'eventuale presenza di overflow.
+
+## 14
+
+Quale relazione esiste tra i due valori A e B rappresentati in complemento a due rispettivamente su 5 e 7 bit: A>B, A<B,
+o A=B?
+
+A = 1110011
+
+B = 10011
+
+## 15
+
+Si sommino i seguenti numeri binari in complemento a 2 espressi su 8 bit, indicando se si genera un overflow:
+
+- 10001001
+- 11101010
+
+Si riportino tutti i passaggi per la soluzione.
+
+## 16
+
+Dati i seguenti due numeri in complemento a due su 6 bit, sommarli indicando se vi e’ overflow. Indicare anche il loro
+valore in decimale (con segno):
+
+1. 101110 ca2
+2. 011000 ca2
+
+## 17
+
+Spiegare perché i numeri con la virgola vengono in genere immagazzinati con la notazione in virgola mobile IEEE 754
+vista brevemente a lezione e non con altri possibili sistemi; in altre parole quali sono i vantaggi della virgola
+mobile?

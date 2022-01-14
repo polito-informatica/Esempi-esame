@@ -1,27 +1,27 @@
 GIORNI = 365
 ORE = 24
 
-def main():
 
-#Creo l'agenda
+def main():
+    # Creo l'agenda
     agenda = []
     for i in range(GIORNI):
         row = [0] * ORE
         agenda.append(row)
-#Inizializzo a stringa vuota tutte le descrizioni
+    # Inizializzo a stringa vuota tutte le descrizioni
     for i in range(len(agenda)):
         for j in range(len(agenda[0])):
             agenda[i][j] = ""
 
-#Provo ad aprire il file e gestisco l'eccezione
+    # Provo ad aprire il file e gestisco l'eccezione
     try:
         infile = open("agenda.txt", "r", encoding="utf-8")
-        leggi_file(infile, agenda) #se posso aprire il file carico l'agenda
+        leggi_file(infile, agenda)  # se posso aprire il file carico l'agenda
     except IOError:
         print("Error: file agenda.txt not found.")
         exit(-1)
 
-    infile.close() #chiudo il file
+    infile.close()  # chiudo il file
 
     try:
         infile = open("comandi.txt", "r", encoding="utf-8")
@@ -30,19 +30,20 @@ def main():
         exit(-1)
 
     for riga in infile:
-        if riga[0] == "v" or riga[0]== "V": #se è richiesto visualizzare invoco la procedura visualizza
+        if riga[0] == "v" or riga[0] == "V":  # se è richiesto visualizzare invoco la procedura visualizza
             campi = riga.split()
             giorno = int(campi[1])
             visualizza(agenda, giorno)
-        elif riga[0] == "i" or riga[0] == "I": #altrimenti provo a inserire l'appuntamento
-            campi = riga.split(maxsplit=3) #gestisco descrizioni su più parole
+        elif riga[0] == "i" or riga[0] == "I":  # altrimenti provo a inserire l'appuntamento
+            campi = riga.split(maxsplit=3)  # gestisco descrizioni su più parole
             giorno = int(campi[1])
             ora = int(campi[2])
             descrizione = campi[3]
-            inserisci(agenda,giorno,ora,descrizione) #invoco la procedura che prova a inserire
+            inserisci(agenda, giorno, ora, descrizione)  # invoco la procedura che prova a inserire
         else:
-            print("Comando %s errato"%(riga))
-    infile.close() #chiudo il file
+            print("Comando %s errato" % (riga))
+    infile.close()  # chiudo il file
+
 
 def leggi_file(fp, agenda):
     for line in fp:
@@ -54,23 +55,24 @@ def leggi_file(fp, agenda):
 
     return
 
-def visualizza(agenda, giorno):
 
+def visualizza(agenda, giorno):
     for i in range(len(agenda)):
         for j in range(len(agenda[0])):
-            if i == giorno-1 and agenda[i][j] != "":
-                print("%s %d %s %02d: %s"%("giorno",giorno,"ore",j,agenda[i][j]))
+            if i == giorno - 1 and agenda[i][j] != "":
+                print("%s %d %s %02d: %s" % ("giorno", giorno, "ore", j, agenda[i][j]))
 
     return
 
-def inserisci(agenda, giorno, ora, descrizione):
 
-    if agenda[giorno-1][ora] != "":
+def inserisci(agenda, giorno, ora, descrizione):
+    if agenda[giorno - 1][ora] != "":
         print("Impossibile inserire appuntamento")
     else:
-        agenda[giorno-1][ora] = agenda[giorno-1][ora] + descrizione
+        agenda[giorno - 1][ora] = agenda[giorno - 1][ora] + descrizione
         print("Appuntamento inserito correttamente")
         visualizza(agenda, giorno)
     return
+
 
 main()
