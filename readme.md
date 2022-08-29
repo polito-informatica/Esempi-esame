@@ -39,5 +39,8 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 2020/2021.
 
 - [Esercizi sui sistemi di numerazione](teoria/numeri.md)
+  - Video con la [soluzione di alcuni quesiti](https://youtu.be/NHuU4cKeDfM), tratto dalle lezioni del 2021/22
 - [Esercizi sull'architettura degli elaboratori](teoria/architettura.md)
+  - Video con la [soluzione di alcuni quesiti](https://youtu.be/1BNqThR1YWU), tratto dalle lezioni del 2021/22
 - [Esercizi sulla programmazione in Python](teoria/python.md)
+  - Video con la [soluzione di alcuni quesiti](https://youtu.be/6YCwZKBAoUc), tratto dalle lezioni del 2021/22
