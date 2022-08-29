@@ -16,7 +16,7 @@ propria preparazione personale.
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2020/2021.
 
-- [Agenda appuntamenti](esami2020-21/agenda) (new)
+- [Agenda appuntamenti](esami2020-21/agenda)
 - [Astrologia Calciatori](esami2020-21/astrologia_calciatori)
 - [Bowling](esami2020-21/bowling)
 - [Discografia](esami2020-21/discografia)
@@ -26,10 +26,10 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 - [Hacking](esami2020-21/hacking)
 - [Indovina Chi](esami2020-21/indovina_chi)
 - [Leggi di Murphy](esami2020-21/murphy)
-- [Manutenzione macchine](esami2020-21/manutenzione) (new)
-- [Mappa Laser](esami2020-21/mappa_laser) (new)
-- [Parole obsolete](esami2020-21/parole_obsolete) (new)
-- [Pedaggi autostradali](esami2020-21/pedaggi_autostradali) (new)
+- [Manutenzione macchine](esami2020-21/manutenzione)
+- [Mappa Laser](esami2020-21/mappa_laser)
+- [Parole obsolete](esami2020-21/parole_obsolete)
+- [Pedaggi autostradali](esami2020-21/pedaggi_autostradali)
 - [Piramidi](esami2020-21/piramidi)
 - [Ricette](esami2020-21/ricette)
 
@@ -38,6 +38,6 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2020/2021.
 
-- [Esercizi sui sistemi di numerazione](teoria/numeri.md) (aggiornato)
-- [Esercizi sull'architettura degli elaboratori](teoria/architettura.md) (aggiornato)
-- [Esercizi sulla programmazione in Python](teoria/python.md) (aggiornato)
+- [Esercizi sui sistemi di numerazione](teoria/numeri.md)
+- [Esercizi sull'architettura degli elaboratori](teoria/architettura.md)
+- [Esercizi sulla programmazione in Python](teoria/python.md)
