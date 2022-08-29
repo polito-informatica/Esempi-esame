@@ -16,22 +16,22 @@ propria preparazione personale.
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2020/2021.
 
-- [Agenda appuntamenti](esami/agenda) (new)
-- [Astrologia Calciatori](esami/astrologia_calciatori)
-- [Bowling](esami/bowling)
-- [Discografia](esami/discografia)
-- [Fantacalcio](esami/fantacalcio)
-- [Ginnastica artistica](esami/ginnastica_artistica)
-- [Glucometer](esami/glucometer)
-- [Hacking](esami/hacking)
-- [Indovina Chi](esami/indovina_chi)
-- [Leggi di Murphy](esami/murphy)
-- [Manutenzione macchine](esami/manutenzione) (new)
-- [Mappa Laser](esami/mappa_laser) (new)
-- [Parole obsolete](esami/parole_obsolete) (new)
-- [Pedaggi autostradali](esami/pedaggi_autostradali) (new)
-- [Piramidi](esami/piramidi)
-- [Ricette](esami/ricette)
+- [Agenda appuntamenti](esami2020-21/agenda) (new)
+- [Astrologia Calciatori](esami2020-21/astrologia_calciatori)
+- [Bowling](esami2020-21/bowling)
+- [Discografia](esami2020-21/discografia)
+- [Fantacalcio](esami2020-21/fantacalcio)
+- [Ginnastica artistica](esami2020-21/ginnastica_artistica)
+- [Glucometer](esami2020-21/glucometer)
+- [Hacking](esami2020-21/hacking)
+- [Indovina Chi](esami2020-21/indovina_chi)
+- [Leggi di Murphy](esami2020-21/murphy)
+- [Manutenzione macchine](esami2020-21/manutenzione) (new)
+- [Mappa Laser](esami2020-21/mappa_laser) (new)
+- [Parole obsolete](esami2020-21/parole_obsolete) (new)
+- [Pedaggi autostradali](esami2020-21/pedaggi_autostradali) (new)
+- [Piramidi](esami2020-21/piramidi)
+- [Ricette](esami2020-21/ricette)
 
 # Selezione di quesiti di teoria del 2020/2021
 
