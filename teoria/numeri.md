@@ -117,3 +117,11 @@ valore in decimale (con segno):
 Spiegare perché i numeri con la virgola vengono in genere immagazzinati con la notazione in virgola mobile IEEE 754
 vista brevemente a lezione e non con altri possibili sistemi; in altre parole quali sono i vantaggi della virgola
 mobile?
+
+## 18
+
+Si considerino i numeri binari (rappresentati in complemento a 2) A = 101001 e B = 111000.
+
+Si esegua la somma A+B, specificando se si verifica una condizione di overflow.
+
+Si convertano inoltre operandi e risultato in base 10.

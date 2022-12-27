@@ -92,3 +92,7 @@ invocazione di funzione? E quanti valori può restituire una funzione?
 ## 15
 
 Come si può fare in Python a convertire una stringa in minuscolo?
+
+## 16
+
+Quali sono i tipi di dato validi per gli elementi contenuti in una lista? e di un insieme?
