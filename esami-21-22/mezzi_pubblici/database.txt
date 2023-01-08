@@ -1,0 +1,45 @@
+A002: Sebastiano Canali
+A003: Giacobbe Comboni
+A004: Lolita Crisafulli
+A006: Silvio Cabibbo
+A008: Fausto Papafava
+A010: Barbara Bush
+A012: Eliana Capuana
+A014: Verim Duran
+A015: Ivo Cendron
+A020: Fuzuli Soylu
+A021: Adelasia Ceravolo
+A022: Luisa Franscini
+A041: Adele Venditti
+A044: Sole Borgia
+A100: Marissa Iacobucci
+A104: Omar Barroso-Izaguirre
+A109: Felipe Casal Muñoz
+A110: Marcantonio Costalonga
+A119: Ida Contarini
+A137: Ezio Nugnes
+A139: Filippo Gregorio
+A154: Arsenio Sollima
+A156: Emperatriz de Albero
+A189: Amico Rusticucci
+A200: Elladio Endrizzi
+A202: Alderano Tiepolo
+A212: Livio Cuda
+A240: Danilo Bazzi
+A250: Matilde Rossi
+F009: Torino 1
+F010: Torino 2
+F011: Torino 3
+F012: Torino P. Susa
+F013: Torino P. Nuova
+F014: Torino Lingotto
+F021: Venaria 1
+F022: Venaria 2
+F027: Pianezza
+F028: Collegno 1
+F029: Collegno 2
+F030: Collegno 3
+F039: Borgaro
+F042: Aeroporto
+F043: Caselle 1
+F044: Caselle 2
