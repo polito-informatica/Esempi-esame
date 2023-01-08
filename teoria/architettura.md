@@ -69,3 +69,7 @@ Illustrare quali sono le principali unità del microprocessore. Cosa è la frequ
 ## 16
 
 Spiegare perché i computer attuali sono quasi tutti a 64 bit. Cosa significa "a 64 bit"?
+
+## 17 
+
+Spiegare brevemente la funzione dei *registri* presenti nell'Unità Operativa di una CPU.
