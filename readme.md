@@ -3,24 +3,19 @@
 I seguenti esercizi sono delle esercitazioni, di difficoltà simile a quella dell'esame, per esercitarsi e migliorare la
 propria preparazione personale.
 
-- [Codifica e decodifica Morse](esempi/morse/)
-- [Gioco 'Dinosauri'](esempi/dinosauri/)
-- [Plotter](esempi/plotter/)
-- [Poker](esempi/poker/)
-- [Potenze del binomio](esempi/potenze_binomio/)
-- [Statistiche sui comuni italiani](esempi/statistiche_comuni/)
-- [Qualità della vita](esempi/qdv/)
+- [Codifica e decodifica Morse](esempi/morse)
+- [Gioco 'Dinosauri'](esempi/dinosauri)
+- [Plotter](esempi/plotter)
+- [Poker](esempi/poker)
+- [Potenze del binomio](esempi/potenze_binomio)
+- [Statistiche sui comuni italiani](esempi/statistiche_comuni)
+- [Qualità della vita](esempi/qdv)
 
 # Selezione di testi d'esame del 2021/2022
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2021/2022.
 
-- [Auto Noleggio](./esami-21-22/auto_noleggio) (31/01/2022)
-- [Costo Prodotto](./esami-21-22/costo_prodotto) (14/02/2022)
-- [Classifica di un torneo](./esami-21-22/classifica_torneo) (24/04/2022)
-- [Mezzi Pubblici](./esami-21-22/mezzi_pubblici) (01/07/2022)
-- [Separa Conti](./esami-21-22/separa_conti) (13/09/2022)
 - [Auto Noleggio](esami2021-22/auto_noleggio) (31/01/2022)
 - [Costo Prodotto](esami2021-22/costo_prodotto) (14/02/2022)
 - [Classifica di un torneo](esami2021-22/classifica_torneo) (24/04/2022)
