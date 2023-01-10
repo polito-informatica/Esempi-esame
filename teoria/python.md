@@ -96,3 +96,17 @@ Come si può fare in Python a convertire una stringa in minuscolo?
 ## 16
 
 Quali sono i tipi di dato validi per gli elementi contenuti in una lista? e di un insieme?
+
+## 18
+
+Quali caratteristiche devono avere i valori memorizzati in un insieme? Elencare sia i valori memorizzabili sia quelli
+non memorizzabili in un insieme.
+
+## 19
+
+Qual è la differenza tra tipo mutabile e immutabile in Python? Si elenchino un tipo mutabile ed uno immutabile a scelta.
+
+## 20 
+
+Qual è la differenza tra liste e insiemi in Python? Dire se è possibile convertire una lista in un insieme 
+(e viceversa) e con quali effetti.

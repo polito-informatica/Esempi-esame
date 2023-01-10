@@ -125,3 +125,34 @@ Si considerino i numeri binari (rappresentati in complemento a 2) A = 101001 e B
 Si esegua la somma A+B, specificando se si verifica una condizione di overflow.
 
 Si convertano inoltre operandi e risultato in base 10.
+
+## 19
+
+Si considerino il numero A=101101 codificato in "complemento a 2" e B=110011 codificato in "modulo e segno", 
+entrambi su 6 bit. Quale dei due numeri rappresenta il valore maggiore?
+
+## 20
+
+Dati i due numeri in complemento a 2 scritti in formato Esadecimale AF04, 8711:
+- dire qual è il valore maggiore dei due
+- calcolare la somma dei due numeri e poi rappresentarla in formato esadecimale
+
+## 21
+
+Convertire i due numeri **BD** e **60** da esadecimale a binario.
+
+Considerando tali numeri binari come se fossero codificati in complemento a 2 su 8 bit, calcolarne la somma.
+
+Riportare il risultato della somma in binario e decimale, segnalare se c'è stato overflow e perché.
+
+## 22 
+
+Descrivere i concetti di overflow ed underflow nello standard floating-point IEEE-754.
+
+## 23
+
+Convertire i seguenti numeri da codifica decimale a CA2 su 8 bit.
+-    n1: 94
+-    n2: -101
+
+Quindi eseguire la loro somma verificando la presenza di overflow e convertire il risultato in esadecimale.

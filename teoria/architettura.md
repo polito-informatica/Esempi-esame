@@ -73,3 +73,29 @@ Spiegare perché i computer attuali sono quasi tutti a 64 bit. Cosa significa "a
 ## 17 
 
 Spiegare brevemente la funzione dei *registri* presenti nell'Unità Operativa di una CPU.
+
+## 18 
+
+Descrivere come si compone il ciclo macchina di un elaboratore.
+
+## 19
+
+Data una memoria RAM di dimensione 64Kbyte e con Address Bus su 12bit, se ne calcoli 
+la dimensione di ogni cella.
+
+## 20
+
+Qual è il ruolo della Floating Point Unit in una CPU?
+
+## 21
+
+Qual è il numero minimo di bit di Address Bus necessario per indirizzare una memoria da 4 megabyte con un 
+parallelismo di 16 bit?
+
+## 22
+
+Spiegare brevemente cos'è il clock di sistema e quale è la sua unità di misura
+
+## 23
+
+Che cosa sono e qual è la funzione dei registri di una CPU? A cosa serve il registro dei flag
