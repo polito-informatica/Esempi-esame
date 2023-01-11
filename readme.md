@@ -44,14 +44,17 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 - [Piramidi](esami2020-21/piramidi)
 - [Ricette](esami2020-21/ricette)
 
-# Selezione di quesiti di teoria del 2020/2021
+# Selezione di quesiti di teoria del 2020/2021 e 2021/22
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2020/2021.
 
 - [Esercizi sui sistemi di numerazione](teoria/numeri.md)
-  - Video con la [soluzione di alcuni quesiti](https://youtu.be/NHuU4cKeDfM), tratto dalle lezioni del 2021/22
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/JfSvRRgj35Q),
+      tratto dalle lezioni del 2022/23,
+      e [appunti della lezione](https://github.com/polito-info-2022/Settimane/raw/master/Settimana14/TEORIA/L42-esercizi-numeri.pdf)
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/NHuU4cKeDfM), tratto dalle lezioni del 2021/22
 - [Esercizi sull'architettura degli elaboratori](teoria/architettura.md)
-  - Video con la [soluzione di alcuni quesiti](https://youtu.be/1BNqThR1YWU), tratto dalle lezioni del 2021/22
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/1BNqThR1YWU), tratto dalle lezioni del 2021/22
 - [Esercizi sulla programmazione in Python](teoria/python.md)
-  - Video con la [soluzione di alcuni quesiti](https://youtu.be/6YCwZKBAoUc), tratto dalle lezioni del 2021/22
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/6YCwZKBAoUc), tratto dalle lezioni del 2021/22
