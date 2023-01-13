@@ -17,10 +17,15 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 2021/2022.
 
 - [Auto Noleggio](esami2021-22/auto_noleggio) (31/01/2022)
+  - Soluzione proposta: [Video](https://youtu.be/Qhke4XOch1Q) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Settimana14/auto_noleggio)
 - [Costo Prodotto](esami2021-22/costo_prodotto) (14/02/2022)
+  - Soluzione proposta: [Video](https://youtu.be/tjRcHRUY7Jo) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Settimana14/costo_prodotto)
 - [Classifica di un torneo](esami2021-22/classifica_torneo) (24/04/2022)
+  - Soluzione proposta: [Video 1](https://youtu.be/-GenonhFnCw)+[Video 2](https://youtu.be/usNo9p2I370) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Settimana14/classifica_torneo)
 - [Mezzi Pubblici](esami2021-22/mezzi_pubblici) (01/07/2022)
+  - Soluzione proposta: [Video](https://youtu.be/64WtQO3QSPQ) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Settimana14/mezzi_pubblici)
 - [Separa Conti](esami2021-22/separa_conti) (13/09/2022)
+  - Soluzione proposta: [Video](https://youtu.be/udb0aHCXGPY) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Settimana14/separa_conti)
 
 # Selezione di testi d'esame del 2020/2021
 
@@ -55,6 +60,12 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
       e [appunti della lezione](https://github.com/polito-info-2022/Settimane/raw/master/Settimana14/TEORIA/L42-esercizi-numeri.pdf)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/NHuU4cKeDfM), tratto dalle lezioni del 2021/22
 - [Esercizi sull'architettura degli elaboratori](teoria/architettura.md)
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/4UqjZzzJ1g8),
+      tratto dalle lezioni del 2022/23,
+      e [appunti della lezione](https://github.com/polito-info-2022/Settimane/raw/master/Settimana14/TEORIA/L43-esercizi-architetture.pdf)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/1BNqThR1YWU), tratto dalle lezioni del 2021/22
 - [Esercizi sulla programmazione in Python](teoria/python.md)
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/dmap7bnlb9s),
+      tratto dalle lezioni del 2022/23,
+      e [appunti della lezione](https://github.com/polito-info-2022/Settimane/raw/master/Settimana14/TEORIA/L44-esercizi-Python.pdf)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/6YCwZKBAoUc), tratto dalle lezioni del 2021/22
