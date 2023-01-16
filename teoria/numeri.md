@@ -156,3 +156,10 @@ Convertire i seguenti numeri da codifica decimale a CA2 su 8 bit.
 -    n2: -101
 
 Quindi eseguire la loro somma verificando la presenza di overflow e convertire il risultato in esadecimale.
+
+# 24
+
+Convertire i seguenti numeri esadecimali in base 2 e in base 8: 
+- 6B 
+- C8
+

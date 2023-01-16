@@ -110,3 +110,8 @@ Qual è la differenza tra tipo mutabile e immutabile in Python? Si elenchino un 
 
 Qual è la differenza tra liste e insiemi in Python? Dire se è possibile convertire una lista in un insieme 
 (e viceversa) e con quali effetti.
+
+## 21
+
+Spiegare la differenza tra liste e tuple. Una funzione può restituire una tupla? E una lista?
+

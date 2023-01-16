@@ -98,4 +98,8 @@ Spiegare brevemente cos'è il clock di sistema e quale è la sua unità di misur
 
 ## 23
 
-Che cosa sono e qual è la funzione dei registri di una CPU? A cosa serve il registro dei flag
+Che cosa sono e qual è la funzione dei registri di una CPU? A cosa serve il registro dei flag?
+
+## 24
+
+Descrivere i tipi di memoria all'interno del calcolatore ed elencarli in ordine di velocità
