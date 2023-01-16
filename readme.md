@@ -26,6 +26,7 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
   - Soluzione proposta: [Video](https://youtu.be/64WtQO3QSPQ) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Settimana14/mezzi_pubblici)
 - [Separa Conti](esami2021-22/separa_conti) (13/09/2022)
   - Soluzione proposta: [Video](https://youtu.be/udb0aHCXGPY) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Settimana14/separa_conti)
+- [Controllo Compiti Copiati](./esami2021-22/controllo_compiti)
 
 # Selezione di testi d'esame del 2020/2021
 
