@@ -20,6 +20,7 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 - [Gestione costi stampa](./esami2022-23/gestione_costi_stampa)  (30-31/01/2023)
 - [Impact factor](./esami2022-23/impact_factor) (30-31/01/2023)
 - [Polizia](./esami2022-23/polizia) (30-31/01/2023)
+  - Soluzione proposta: [Video](https://youtu.be/e7KRSKSfkBM) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Esami/polizia)
 - [Gestione del prestito PC aziendali](./esami2022-23/prestito_pc_aziendali) (30-31/01/2023)
 - [Traiettorie Droni](./esami2022-23/traiettorie_droni) (30-31/01/2023)
 - [Viaggio della slitta](./esami2022-23/viaggio_della_slitta) (30-31/01/2023)
