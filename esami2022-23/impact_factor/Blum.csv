@@ -1,0 +1,16 @@
+Authors,Title,Year,Source title,ISSN
+"Von Ahn L., Blum M., Langford J.",Telling humans and computers apart automatically,2004,Communications of the ACM,0001-0782
+"Wasserman H., Blum M.",Software reliability via run-time result-checking,1997,Journal of the ACM,0004-5411
+"Blum M., Kannan S.",Designing Programs that Check Their Work,1995,Journal of the ACM (JACM),0004-5411
+"Alon N., Blum M., Fiat A., Kannan S., Naor M., Ostrovsky R.",Matching nuts and bolts,1994,Proceedings of the Annual ACM SIAM Symposium on Discrete Algorithms,
+"Blum M.",Designing programs to check their work,1993,Proceedings of the 1993 International Symposium on Software Testing and Analysis (ISSTA),
+"Blum M., Luby M., Rubinfeld R.",Self-testing/correcting with applications to numerical problems,1993,Journal of Computer and System Sciences,0022-0000
+"Blum M.",How to Exchange (Secret) Keys,1983,ACM Transactions on Computer Systems (TOCS),0734-2071
+"Blum M., Karp R.M., Vornberger O., Papadimitriu C.H., Yannakakis M.",The complexity of testing whether a graph is a superconcentrator,1981,Information Processing Letters,0020-0190
+"Blum M., Chandra A.K., Wegman M.N.",Equivalence of free boolean graphs can be decided probabilistically in polynomial time,1980,Information Processing Letters,0020-0190
+"Gill J., Blum M.",On Almost Everywhere Complex Recursive Functions,1974,Journal of the ACM (JACM),0004-5411
+"Blum M., Floyd R.W., Pratt V., Rivest R.L., Tarjan R.E.",Time bounds for selection,1973,Journal of Computer and System Sciences,0022-0000
+"Blum M.",On Effective Procedures for Speeding Up Algorithms,1971,Journal of the ACM (JACM),0004-5411
+"Fischer P.C., Hartmanis J., Blum M.",Tape reversal complexity hierarchies,1968,"IEEE Conference Record of 1968 9th Annual Symposium on Switching and Automata Theory, SWAT 1968",
+"Blum M.",A Machine-Independent Theory of the Complexity of Recursive Functions,1967,Journal of the ACM (JACM),0004-5411
+"Blum M., Hewitt C.",Automata on a 2-dimensional tape,1967,"1967 8th Annual Symposium on Switching and Automata Theory, SWAT 1967",

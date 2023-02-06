@@ -128,12 +128,13 @@ Si convertano inoltre operandi e risultato in base 10.
 
 ## 19
 
-Si considerino il numero A=101101 codificato in "complemento a 2" e B=110011 codificato in "modulo e segno", 
+Si considerino il numero A=101101 codificato in "complemento a 2" e B=110011 codificato in "modulo e segno",
 entrambi su 6 bit. Quale dei due numeri rappresenta il valore maggiore?
 
 ## 20
 
 Dati i due numeri in complemento a 2 scritti in formato Esadecimale AF04, 8711:
+
 - dire qual è il valore maggiore dei due
 - calcolare la somma dei due numeri e poi rappresentarla in formato esadecimale
 
@@ -145,21 +146,98 @@ Considerando tali numeri binari come se fossero codificati in complemento a 2 su
 
 Riportare il risultato della somma in binario e decimale, segnalare se c'è stato overflow e perché.
 
-## 22 
+## 22
 
 Descrivere i concetti di overflow ed underflow nello standard floating-point IEEE-754.
 
 ## 23
 
 Convertire i seguenti numeri da codifica decimale a CA2 su 8 bit.
--    n1: 94
--    n2: -101
+
+- n1: 94
+- n2: -101
 
 Quindi eseguire la loro somma verificando la presenza di overflow e convertire il risultato in esadecimale.
 
-# 24
+## 24
 
-Convertire i seguenti numeri esadecimali in base 2 e in base 8: 
-- 6B 
+Convertire i seguenti numeri esadecimali in base 2 e in base 8:
+
+- 6B
 - C8
 
+## 25
+
+Trasformare i due numeri seguenti in complemento a 2 espressi in base esadecimale in: (a) base 2, (b) base 4 e (c) base
+8
+
+1. F1A2
+2. B023
+
+## 26
+
+Siano dati i seguenti numeri binari su 8 bit, codificati in **complemento a due** su 8 bit e rappresentati in base 16:
+
+- x = 3F
+- y = 99
+
+Si esprimano prima x e y in binario; si calcoli poi x+y e si riporti il risultato (in binario) dell'operazione con l'
+indicazione se si sia verificata una condizione di overflow.
+
+## 27
+
+Il modulo di due numeri interi n1 e n2 è rappresentato in base 16 come segue
+
+m1 = AF3
+
+m2 = E3D
+
+Effettuare la conversione in CA2 su 13 bit dei numeri n1 e n2
+
+n1 = +m1
+
+n2 = -m2
+
+ed eseguire la somma n1+n2 indicando l'eventuale presenza di overflow.
+
+## 28
+
+Trasformare i due numeri seguenti in complemento a 2 espressi in base esadecimale in: (a) base 2, (b) base 4 e (c) base
+8
+
+1. FFA2
+2. 1023
+
+## 29
+
+Convertire il numero 236:
+
+- in complemento a 2
+- in formato esadecimale
+
+## 30
+
+Convertire il numero 1266 (espresso in base 10) in:
+
+- binario puro
+- ottale
+- esadecimale
+
+## 31
+
+Eseguire le seguenti operazioni, riportare i risultati nello stesso formato e indicare se si verifica overflow:
+
+a) CA2: 0111 + 1110 =
+
+b) Binario puro: 0111 + 1110 =
+
+c) MS: 0111 + 1110 =
+
+## 32
+
+Spiegare come sono rappresentati i numeri reali nell'elaboratore.
+
+## 33
+
+Data l'equazione 12(i)+10(i)=112(3) dove i numeri 12 e 10 sono espressi in una base ignota (i) e il 112 è espresso in
+base 3, trovare la base ignota (i)

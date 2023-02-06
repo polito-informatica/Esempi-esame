@@ -70,17 +70,17 @@ Illustrare quali sono le principali unità del microprocessore. Cosa è la frequ
 
 Spiegare perché i computer attuali sono quasi tutti a 64 bit. Cosa significa "a 64 bit"?
 
-## 17 
+## 17
 
 Spiegare brevemente la funzione dei *registri* presenti nell'Unità Operativa di una CPU.
 
-## 18 
+## 18
 
 Descrivere come si compone il ciclo macchina di un elaboratore.
 
 ## 19
 
-Data una memoria RAM di dimensione 64Kbyte e con Address Bus su 12bit, se ne calcoli 
+Data una memoria RAM di dimensione 64Kbyte e con Address Bus su 12bit, se ne calcoli
 la dimensione di ogni cella.
 
 ## 20
@@ -89,7 +89,7 @@ Qual è il ruolo della Floating Point Unit in una CPU?
 
 ## 21
 
-Qual è il numero minimo di bit di Address Bus necessario per indirizzare una memoria da 4 megabyte con un 
+Qual è il numero minimo di bit di Address Bus necessario per indirizzare una memoria da 4 megabyte con un
 parallelismo di 16 bit?
 
 ## 22
@@ -103,3 +103,34 @@ Che cosa sono e qual è la funzione dei registri di una CPU? A cosa serve il reg
 ## 24
 
 Descrivere i tipi di memoria all'interno del calcolatore ed elencarli in ordine di velocità
+
+## 25
+
+Qual è la funzione dei registri in una CPU?
+
+## 26
+
+I progettisti di CPU solitamente inseriscono qualche decina di registri all'interno della unità operativa. Perché non
+vengono costruite CPU contenenti migliaia o milioni di registri?
+
+## 27
+
+Descrivere la differenza tra un'architettura di elaborazione con Address-Bus a 16bit e Data-Bus a 16bit rispetto alla
+stessa architettura con Address-Bus e Data-Bus a 8-bit.
+
+## 28
+
+Quali sono le funzioni della ALU?
+
+## 29
+
+Descrivere le tre fasi fondamentali di esecuzione delle istruzioni da parte della CPU.
+
+## 30
+
+Spiegare qual è la funzione del clock. Cosa si intende per periodo e per frequenza del clock?
+
+## 31
+
+Indicare brevemente quali sono le caratteristiche di un moderno computer portatile, in termini di velocità di clock,
+memoria RAM, hard disk, display.

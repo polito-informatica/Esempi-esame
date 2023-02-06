@@ -106,12 +106,45 @@ non memorizzabili in un insieme.
 
 Qual è la differenza tra tipo mutabile e immutabile in Python? Si elenchino un tipo mutabile ed uno immutabile a scelta.
 
-## 20 
+## 20
 
-Qual è la differenza tra liste e insiemi in Python? Dire se è possibile convertire una lista in un insieme 
+Qual è la differenza tra liste e insiemi in Python? Dire se è possibile convertire una lista in un insieme
 (e viceversa) e con quali effetti.
 
 ## 21
 
 Spiegare la differenza tra liste e tuple. Una funzione può restituire una tupla? E una lista?
 
+## 22
+
+Spiegare brevemente la differenza tra Liste e Dizionari in Python.
+
+## 23
+
+Quali sono gli **operatori** booleani? Scrivere un'istruzione Python contenente un operatore booleano.
+
+## 24
+
+Descrivere il fenomeno di **aliasing** in Python per mezzo di un esempio sulle liste. Indicare (sempre per mezzo di un
+esempio sulle liste) come effettuare una copia senza aliasing.
+
+## 25
+
+In un dizionario Python, che caratteristica fondamentale deve avere il tipo di dato usato come chiave del dizionario?
+
+## 26
+
+Discutere la differenza tra parametro formale e parametro attuale di una funzione.
+
+## 27
+
+Spiegare almeno due approcci per confrontare numeri reali tenendo conto di possibili errori di arrotondamento.
+
+## 28
+
+Spiegare il concetto di alias nel contesto del passaggio di parametri ad una funzione, evidenziando se e quando si
+applica.
+
+## 29
+
+Qual è la differenza tra liste e insiemi?

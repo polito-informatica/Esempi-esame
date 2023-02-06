@@ -11,6 +11,20 @@ propria preparazione personale.
 - [Statistiche sui comuni italiani](esempi/statistiche_comuni)
 - [Qualità della vita](esempi/qdv)
 
+# Testi d'esame del 2022/2023
+
+I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
+2022/2023.
+
+- [Gestione conto ristorante](./esami2022-23/gestione_conto_ristorante) (30-31/01/2023)
+- [Gestione costi stampa](./esami2022-23/gestione_costi_stampa)  (30-31/01/2023)
+- [Impact factor](./esami2022-23/impact_factor) (30-31/01/2023)
+- [Polizia](./esami2022-23/polizia) (30-31/01/2023)
+- [Gestione del prestito PC aziendali](./esami2022-23/prestito_pc_aziendali) (30-31/01/2023)
+- [Traiettorie Droni](./esami2022-23/traiettorie_droni) (30-31/01/2023)
+- [Viaggio della slitta](./esami2022-23/viaggio_della_slitta) (30-31/01/2023)
+- [Voti](./esami2022-23/voti) (30-31/01/2023)
+
 # Selezione di testi d'esame del 2021/2022
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
