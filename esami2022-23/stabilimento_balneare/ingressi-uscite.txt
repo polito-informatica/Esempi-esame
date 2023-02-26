@@ -1,0 +1,14 @@
+Jerry, 2, 3, 100
+Alba, 2, 4, 90
+Teo, 3, 6, 110
+Mauro, 1, 2, 30
+Franco, 3, 4, 75
+Alba
+Eva, 2, 3, 130
+Pier Maria, 2, 5, 100
+Nathalie, 3, 4, 160
+Mauro
+Jerry
+Pier Maria
+Teo
+Eva

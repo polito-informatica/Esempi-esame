@@ -167,3 +167,14 @@ virgola mobile (doppia precisione) è possibile memorizzare in tali celle?
 
 Quali sono le funzioni dell'unità di controllo?
 
+## 38
+
+Spiegare cosa sono e a cosa servono i bus. Quali tipi di bus esistono?
+
+## 39
+
+Qual è la funzione della memoria principale (o primaria) in un calcolatore?
+
+## 40
+
+Descrivere il concetto di ciclo macchina esplicitandone le varie fasi.

@@ -165,3 +165,20 @@ di una lista e un *alias* alla lista stessa? Fornire un esempio.
 ## 33
 
 Quali sono le principali caratteristiche di un insieme in Python?
+
+## 34
+
+Quali sono gli operatori booleani? Scrivere un'istruzione 
+Python contenente un operatore booleano.
+
+## 35
+
+Spiegare brevemente la differenza tra Liste e Insiemi in Python.
+
+## 36
+
+Che cosa succede se dopo aver costruito l'insieme Python `colori` come segue:
+```python
+colori = set(['bianco','giallo','verde','rosso','viola'])
+``` 
+viene eseguita la riga di codice `print(colori[2])`? Motivare la risposta.

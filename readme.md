@@ -16,17 +16,20 @@ propria preparazione personale.
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2022/2023.
 
-Secondo appello (13-14/02/2023)
-- [Paniere dei prezzi in Newfoundland](./esami2022-23/paniere_prezzi_newfoundland)
-- [Gestione stazioni meteo](./esami2022-23/gestione_stazioni_meteo)
-- [Verifica requisiti di Laurea](./esami2022-23/verifica_requisiti_laurea)
-- [Verifica requisiti di Laurea](./esami2022-23/estrazioni_lotto)
+Secondo appello (13-14/02/2023):
+- [Paniere dei prezzi in Newfoundland](./esami2022-23/paniere_prezzi)
+- [Gestione stazioni meteo](./esami2022-23/stazioni_meteo)
+- [Verifica requisiti di Laurea](./esami2022-23/requisiti_laurea)
+- [Estrazioni del Lotto](./esami2022-23/estrazioni_lotto)
 - [Gestione risultati di una gara podistica](./esami2022-23/gara_podistica)
+- [Stabilimento balneare](./esami2022-23/stabilimento_balneare)
+- [Ricerca Comuni](./esami2022-23/ricerca_comuni)
+- [Gestione Allarmi Robot](./esami2022-23/allarmi_robot)
 
 
 Primo appello (30-31/01/2023):
-- [Gestione conto ristorante](./esami2022-23/gestione_conto_ristorante) 
-- [Gestione costi stampa](./esami2022-23/gestione_costi_stampa)
+- [Gestione conto ristorante](./esami2022-23/conto_ristorante) 
+- [Gestione costi stampa](./esami2022-23/costi_stampa)
 - [Impact factor](./esami2022-23/impact_factor)
 - [Polizia](./esami2022-23/polizia)
   - Soluzione proposta: [Video](https://youtu.be/e7KRSKSfkBM) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Esami/polizia)

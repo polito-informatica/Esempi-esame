@@ -271,3 +271,26 @@ Eseguire le seguenti operazioni dopo aver convertito gli operandi, espressi in b
 
 1.    53 - 35
 2.    62 - 13
+
+## 39
+
+Spiegare la differenza fra la rappresentazione dei numeri reali in virgola
+fissa e in virgola mobile. A parità di bit, quale rappresentazione permette
+di memorizzare i numeri più grandi? 
+Quale permette di memorizzare i numeri più piccoli? Perché? 
+
+## 40
+
+Eseguire le seguenti operazioni, riportare i risultati nello stesso formato e specificare se si verifica un overflow, dandone la motivazione
+
+1. CA2: 0111 + 1110 =
+2. CA2: 0111 - 1110 =
+3. Binario puro: 0111 + 1110 =
+
+## 41
+
+Dati i due numeri seguenti espressi in **complemento a 2** su **6 bit**,
+quali sono i valori rappresentati?
+
+1.    001101
+2.    110011

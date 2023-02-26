@@ -1,0 +1,15 @@
+fk_id_robot;severity;alarm_text
+2213487;4;Timer  1 Alarm: (162)
+2213885;2;TP reconnection successfully completed (3s)
+2213369;4;Power Source 1 not ready for start riveting, waiting for $IN[103] = True
+2212111;4;PWS1 Fault 374 Alimentatore master: La slitta caricatore1 non ha ragg
+2213369;4;PWS1 Fault 476 Alimentatore master: Sensore di prossimit… _Ricevitore
+2212111;4;PWS1 Fault 210 DDC: La curva di rivettatura giace al di sopra della c
+2213487;10;Power Contactor Status Fault
+2213369;4;PWS1 Fault 374 Alimentatore master: La slitta caricatore1 non ha ragg
+2214565;2;MISURA OXFORD RETURNS ERROR
+2213885;4;ALARM code received from system 1 ERROR 1 from $FMI[95]
+2213885;2;RS - Joint Space Limiting SET 1 activation: TRUE
+2213885;2;RS - Joint Space Limiting SET 1 activation: FALSE
+2213885;4;Vision system in alarm $IN[389] = ON
+2214565;10;Axis 8 Arm 1 I2T triggered
