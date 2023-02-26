@@ -1,0 +1,2613 @@
+Date,Place,Grocery store,Food item,Essential/optional,$/kilo
+08/10/2020,Clarenville,Sobeys,Apple,E,5.49
+08/10/2020,Clarenville,Coop,Apple,E,6.59
+08/10/2020,Clarenville,Coop,Black tea,E,18.70
+08/10/2020,Clarenville,Sobeys,Black tea,E,19.07
+08/10/2020,Clarenville,Sobeys,Bread whole wheat,O,4.54
+08/10/2020,Clarenville,Coop,Carrot,O,3.85
+08/10/2020,Clarenville,Sobeys,Carrot,O,2.64
+08/10/2020,Clarenville,Coop,Cheddar cheese,O,14.98
+08/10/2020,Clarenville,Sobeys,Cheddar cheese,O,14.98
+08/10/2020,Clarenville,Sobeys,Corn,O,4.92
+08/10/2020,Clarenville,Coop,Corn,O,5.32
+08/10/2020,Clarenville,Coop,Ground beef,E,8.79
+08/10/2020,Clarenville,Sobeys,Ground beef,E,10.56
+08/10/2020,Clarenville,Sobeys,Orange,O,2.49
+08/10/2020,Clarenville,Coop,Orange,O,6.59
+08/10/2020,Clarenville,Coop,Peanut butter,E,4.99
+08/10/2020,Clarenville,Sobeys,Peanut butter,E,4.99
+08/10/2020,Clarenville,Sobeys,Peas,O,5.28
+08/10/2020,Clarenville,Coop,Peas,O,5.32
+08/10/2020,Clarenville,Coop,Tomato,E,7.69
+08/10/2020,Clarenville,Sobeys,Tomato,E,8.80
+08/10/2020,Clarenville,Sobeys,Tuna canned,E,11.70
+08/10/2020,Clarenville,Coop,Tuna canned,E,15.80
+08/10/2020,Clarenville,Coop,White flour,O,1.88
+08/10/2020,Clarenville,Sobeys,White flour,O,1.99
+13/10/2020,Clarenville,Sobeys,Apple,E,4.41
+13/10/2020,Clarenville,Coop,Apple,E,6.59
+13/10/2020,Clarenville,Coop,Black tea,E,17.58
+13/10/2020,Clarenville,Sobeys,Black tea,E,19.78
+13/10/2020,Clarenville,Sobeys,Bread whole wheat,O,3.29
+13/10/2020,Clarenville,Coop,Bread whole wheat,O,4.39
+13/10/2020,Clarenville,Coop,Carrot,O,2.76
+13/10/2020,Clarenville,Sobeys,Carrot,O,2.64
+13/10/2020,Clarenville,Sobeys,Cheddar cheese,O,11.08
+13/10/2020,Clarenville,Coop,Cheddar cheese,O,14.98
+13/10/2020,Clarenville,Coop,Corn,O,5.32
+13/10/2020,Clarenville,Sobeys,Corn,O,5.32
+13/10/2020,Clarenville,Coop,Ground beef,E,8.79
+13/10/2020,Clarenville,Sobeys,Ground beef,E,13.21
+13/10/2020,Clarenville,Sobeys,Orange,O,5.49
+13/10/2020,Clarenville,Coop,Orange,O,6.59
+13/10/2020,Clarenville,Sobeys,Peanut butter,E,5.99
+13/10/2020,Clarenville,Coop,Peanut butter,E,7.00
+13/10/2020,Clarenville,Coop,Peas,O,5.32
+13/10/2020,Clarenville,Sobeys,Peas,O,5.32
+13/10/2020,Clarenville,Coop,Tomato,E,7.69
+13/10/2020,Clarenville,Sobeys,Tomato,E,8.80
+13/10/2020,Clarenville,Sobeys,Tuna canned,E,14.60
+13/10/2020,Clarenville,Coop,Tuna canned,E,14.60
+13/10/2020,Clarenville,Coop,White flour,O,1.88
+13/10/2020,Clarenville,Sobeys,White flour,O,2.52
+13/10/2020,Happy Valley Goose Bay,Coop,Apple,E,4.38
+13/10/2020,Happy Valley Goose Bay,North Mart,Apple,E,5.48
+13/10/2020,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+13/10/2020,Happy Valley Goose Bay,North Mart,Black tea,E,37.96
+13/10/2020,Happy Valley Goose Bay,Coop,Bread whole wheat,O,5.32
+13/10/2020,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,8.32
+13/10/2020,Happy Valley Goose Bay,Coop,Carrot,O,3.29
+13/10/2020,Happy Valley Goose Bay,North Mart,Carrot,O,2.38
+13/10/2020,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.53
+13/10/2020,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,21.23
+13/10/2020,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+13/10/2020,Happy Valley Goose Bay,Coop,Corn,O,4.79
+13/10/2020,Happy Valley Goose Bay,Coop,Ground beef,E,14.53
+13/10/2020,Happy Valley Goose Bay,North Mart,Orange,O,3.96
+13/10/2020,Happy Valley Goose Bay,Coop,Orange,O,4.85
+13/10/2020,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+13/10/2020,Happy Valley Goose Bay,North Mart,Peanut butter,E,8.58
+13/10/2020,Happy Valley Goose Bay,North Mart,Peas,O,2.49
+13/10/2020,Happy Valley Goose Bay,Coop,Peas,O,5.05
+13/10/2020,Happy Valley Goose Bay,North Mart,Tomato,E,6.15
+13/10/2020,Happy Valley Goose Bay,Coop,Tomato,E,5.27
+13/10/2020,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+13/10/2020,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.71
+13/10/2020,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+13/10/2020,Happy Valley Goose Bay,Coop,White flour,O,4.08
+14/10/2020,Happy Valley Goose Bay,Coop,Apple,E,4.38
+14/10/2020,Happy Valley Goose Bay,North Mart,Apple,E,5.48
+14/10/2020,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+14/10/2020,Happy Valley Goose Bay,North Mart,Black tea,E,37.96
+14/10/2020,Happy Valley Goose Bay,Coop,Bread whole wheat,O,5.32
+14/10/2020,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,8.32
+14/10/2020,Happy Valley Goose Bay,Coop,Carrot,O,3.29
+14/10/2020,Happy Valley Goose Bay,North Mart,Carrot,O,2.38
+14/10/2020,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.53
+14/10/2020,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,21.23
+14/10/2020,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+14/10/2020,Happy Valley Goose Bay,Coop,Corn,O,4.79
+14/10/2020,Happy Valley Goose Bay,Coop,Ground beef,E,14.53
+14/10/2020,Happy Valley Goose Bay,North Mart,Orange,O,3.96
+14/10/2020,Happy Valley Goose Bay,Coop,Orange,O,4.85
+14/10/2020,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+14/10/2020,Happy Valley Goose Bay,North Mart,Peanut butter,E,8.58
+14/10/2020,Happy Valley Goose Bay,North Mart,Peas,O,3.49
+14/10/2020,Happy Valley Goose Bay,Coop,Peas,O,5.05
+14/10/2020,Happy Valley Goose Bay,North Mart,Tomato,E,6.15
+14/10/2020,Happy Valley Goose Bay,Coop,Tomato,E,5.27
+14/10/2020,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+14/10/2020,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+14/10/2020,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+14/10/2020,Happy Valley Goose Bay,Coop,White flour,O,4.08
+16/10/2020,Clarenville,Sobeys,Apple,E,4.41
+16/10/2020,Clarenville,Coop,Apple,E,6.59
+16/10/2020,Clarenville,Coop,Black tea,E,17.58
+16/10/2020,Clarenville,Sobeys,Black tea,E,19.77
+16/10/2020,Clarenville,Coop,Bread whole wheat,O,3.33
+16/10/2020,Clarenville,Sobeys,Bread whole wheat,O,4.54
+16/10/2020,Clarenville,Coop,Carrot,O,3.85
+16/10/2020,Clarenville,Sobeys,Carrot,O,2.64
+16/10/2020,Clarenville,Coop,Cheddar cheese,O,14.98
+16/10/2020,Clarenville,Sobeys,Cheddar cheese,O,14.98
+16/10/2020,Clarenville,Coop,Corn,O,5.32
+16/10/2020,Clarenville,Sobeys,Corn,O,5.32
+16/10/2020,Clarenville,Coop,Ground beef,E,11.00
+16/10/2020,Clarenville,Sobeys,Ground beef,E,11.00
+16/10/2020,Clarenville,Sobeys,Orange,O,5.49
+16/10/2020,Clarenville,Coop,Orange,O,6.59
+16/10/2020,Clarenville,Sobeys,Peanut butter,E,3.77
+16/10/2020,Clarenville,Coop,Peanut butter,E,8.99
+16/10/2020,Clarenville,Coop,Peas,O,5.32
+16/10/2020,Clarenville,Sobeys,Peas,O,5.32
+16/10/2020,Clarenville,Coop,Tomato,E,7.69
+16/10/2020,Clarenville,Sobeys,Tomato,E,8.80
+16/10/2020,Clarenville,Coop,Tuna canned,E,14.64
+16/10/2020,Clarenville,Sobeys,Tuna canned,E,14.64
+16/10/2020,Clarenville,Coop,White flour,O,1.71
+16/10/2020,Clarenville,Sobeys,White flour,O,2.52
+22/10/2020,Happy Valley Goose Bay,Coop,Apple,E,4.38
+22/10/2020,Happy Valley Goose Bay,North Mart,Apple,E,5.48
+22/10/2020,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+22/10/2020,Happy Valley Goose Bay,North Mart,Black tea,E,35.30
+22/10/2020,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.17
+22/10/2020,Happy Valley Goose Bay,Coop,Bread whole wheat,O,6.65
+22/10/2020,Happy Valley Goose Bay,Coop,Carrot,O,4.41
+22/10/2020,Happy Valley Goose Bay,North Mart,Carrot,O,2.38
+22/10/2020,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.53
+22/10/2020,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,21.23
+22/10/2020,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+22/10/2020,Happy Valley Goose Bay,Coop,Corn,O,4.79
+22/10/2020,Happy Valley Goose Bay,North Mart,Ground beef,E,14.45
+22/10/2020,Happy Valley Goose Bay,Coop,Ground beef,E,14.53
+22/10/2020,Happy Valley Goose Bay,North Mart,Orange,O,4.82
+22/10/2020,Happy Valley Goose Bay,Coop,Orange,O,3.28
+22/10/2020,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+22/10/2020,Happy Valley Goose Bay,North Mart,Peanut butter,E,11.98
+22/10/2020,Happy Valley Goose Bay,Coop,Peas,O,5.05
+22/10/2020,Happy Valley Goose Bay,North Mart,Peas,O,3.85
+22/10/2020,Happy Valley Goose Bay,North Mart,Tomato,E,6.15
+22/10/2020,Happy Valley Goose Bay,Coop,Tomato,E,5.27
+22/10/2020,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+22/10/2020,Happy Valley Goose Bay,North Mart,Tuna canned,E,17.59
+22/10/2020,Happy Valley Goose Bay,Coop,White flour,O,1.88
+22/10/2020,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+23/10/2020,Clarenville,Sobeys,Apple,E,3.67
+23/10/2020,Clarenville,Coop,Apple,E,4.40
+23/10/2020,Clarenville,Coop,Black tea,E,17.57
+23/10/2020,Clarenville,Sobeys,Black tea,E,19.78
+23/10/2020,Clarenville,Coop,Bread whole wheat,O,3.70
+23/10/2020,Clarenville,Sobeys,Bread whole wheat,O,4.73
+23/10/2020,Clarenville,Sobeys,Carrot,O,3.29
+23/10/2020,Clarenville,Coop,Carrot,O,3.85
+23/10/2020,Clarenville,Coop,Cheddar cheese,O,14.98
+23/10/2020,Clarenville,Sobeys,Cheddar cheese,O,13.98
+23/10/2020,Clarenville,Coop,Corn,O,5.32
+23/10/2020,Clarenville,Sobeys,Corn,O,5.32
+23/10/2020,Clarenville,Sobeys,Ground beef,E,13.21
+23/10/2020,Clarenville,Coop,Ground beef,E,13.99
+23/10/2020,Clarenville,Sobeys,Orange,O,5.49
+23/10/2020,Clarenville,Coop,Orange,O,5.59
+23/10/2020,Clarenville,Sobeys,Peanut butter,E,5.99
+23/10/2020,Clarenville,Coop,Peanut butter,E,8.99
+23/10/2020,Clarenville,Coop,Peas,O,5.32
+23/10/2020,Clarenville,Sobeys,Peas,O,5.32
+23/10/2020,Clarenville,Sobeys,Tomato,E,6.59
+23/10/2020,Clarenville,Coop,Tomato,E,7.49
+23/10/2020,Clarenville,Sobeys,Tuna canned,E,11.70
+23/10/2020,Clarenville,Coop,Tuna canned,E,17.59
+23/10/2020,Clarenville,Coop,White flour,O,3.79
+23/10/2020,Clarenville,Sobeys,White flour,O,2.52
+28/10/2020,Clarenville,Coop,Apple,E,4.40
+28/10/2020,Clarenville,Sobeys,Apple,E,7.16
+28/10/2020,Clarenville,Coop,Black tea,E,17.58
+28/10/2020,Clarenville,Sobeys,Black tea,E,19.78
+28/10/2020,Clarenville,Sobeys,Bread whole wheat,O,3.32
+28/10/2020,Clarenville,Coop,Bread whole wheat,O,3.70
+28/10/2020,Clarenville,Sobeys,Carrot,O,3.29
+28/10/2020,Clarenville,Coop,Carrot,O,3.85
+28/10/2020,Clarenville,Coop,Cheddar cheese,O,14.98
+28/10/2020,Clarenville,Sobeys,Cheddar cheese,O,13.98
+28/10/2020,Clarenville,Sobeys,Corn,O,5.32
+28/10/2020,Clarenville,Sobeys,Ground beef,E,10.56
+28/10/2020,Clarenville,Coop,Ground beef,E,11.00
+28/10/2020,Clarenville,Sobeys,Orange,O,5.49
+28/10/2020,Clarenville,Coop,Orange,O,6.59
+28/10/2020,Clarenville,Coop,Peanut butter,E,8.98
+28/10/2020,Clarenville,Sobeys,Peanut butter,E,4.99
+28/10/2020,Clarenville,Sobeys,Peas,O,5.32
+28/10/2020,Clarenville,Sobeys,Tomato,E,6.59
+28/10/2020,Clarenville,Coop,Tomato,E,7.69
+28/10/2020,Clarenville,Sobeys,Tuna canned,E,7.35
+28/10/2020,Clarenville,Coop,Tuna canned,E,9.82
+28/10/2020,Clarenville,Coop,White flour,O,3.79
+28/10/2020,Clarenville,Sobeys,White flour,O,2.20
+30/10/2020,Happy Valley Goose Bay,Coop,Apple,E,3.28
+30/10/2020,Happy Valley Goose Bay,Coop,Apple,E,5.48
+30/10/2020,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+30/10/2020,Happy Valley Goose Bay,North Mart,Black tea,E,30.79
+30/10/2020,Happy Valley Goose Bay,Coop,Bread whole wheat,O,5.95
+30/10/2020,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.17
+30/10/2020,Happy Valley Goose Bay,North Mart,Carrot,O,1.86
+30/10/2020,Happy Valley Goose Bay,Coop,Carrot,O,3.29
+30/10/2020,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.53
+30/10/2020,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,22.48
+30/10/2020,Happy Valley Goose Bay,Coop,Corn,O,4.79
+30/10/2020,Happy Valley Goose Bay,North Mart,Corn,O,6.39
+30/10/2020,Happy Valley Goose Bay,North Mart,Ground beef,E,14.45
+30/10/2020,Happy Valley Goose Bay,Coop,Ground beef,E,14.92
+30/10/2020,Happy Valley Goose Bay,Coop,Orange,O,2.84
+30/10/2020,Happy Valley Goose Bay,North Mart,Orange,O,4.82
+30/10/2020,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+30/10/2020,Happy Valley Goose Bay,North Mart,Peanut butter,E,11.98
+30/10/2020,Happy Valley Goose Bay,Coop,Peas,O,4.38
+30/10/2020,Happy Valley Goose Bay,North Mart,Peas,O,3.85
+30/10/2020,Happy Valley Goose Bay,North Mart,Tomato,E,5.04
+30/10/2020,Happy Valley Goose Bay,Coop,Tomato,E,5.27
+30/10/2020,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+30/10/2020,Happy Valley Goose Bay,North Mart,Tuna canned,E,17.59
+30/10/2020,Happy Valley Goose Bay,Coop,White flour,O,1.88
+30/10/2020,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+03/11/2020,Conception Bay South,Sobeys,Apple,E,4.04
+03/11/2020,Conception Bay South,Sobeys,Black tea,E,17.58
+03/11/2020,Conception Bay South,Sobeys,Bread whole wheat,O,4.19
+03/11/2020,Conception Bay South,Sobeys,Carrot,O,1.76
+03/11/2020,Conception Bay South,Sobeys,Cheddar cheese,O,13.98
+03/11/2020,Conception Bay South,Sobeys,Corn,O,4.92
+03/11/2020,Conception Bay South,Sobeys,Ground beef,E,13.20
+03/11/2020,Conception Bay South,Sobeys,Orange,O,3.67
+03/11/2020,Conception Bay South,Sobeys,Peanut butter,E,3.99
+03/11/2020,Conception Bay South,Sobeys,Peas,O,5.28
+03/11/2020,Conception Bay South,Sobeys,Tomato,E,7.69
+03/11/2020,Conception Bay South,Sobeys,Tuna canned,E,11.70
+03/11/2020,Conception Bay South,Sobeys,White flour,O,2.20
+06/11/2020,Clarenville,Sobeys,Apple,E,3.30
+06/11/2020,Clarenville,Coop,Apple,E,6.59
+06/11/2020,Clarenville,Sobeys,Black tea,E,29.12
+06/11/2020,Clarenville,Coop,Black tea,E,23.47
+06/11/2020,Clarenville,Sobeys,Bread whole wheat,O,3.69
+06/11/2020,Clarenville,Coop,Bread whole wheat,O,5.77
+06/11/2020,Clarenville,Sobeys,Carrot,O,3.29
+06/11/2020,Clarenville,Coop,Carrot,O,3.85
+06/11/2020,Clarenville,Sobeys,Cheddar cheese,O,13.98
+06/11/2020,Clarenville,Coop,Cheddar cheese,O,22.48
+06/11/2020,Clarenville,Coop,Corn,O,5.32
+06/11/2020,Clarenville,Sobeys,Corn,O,5.32
+06/11/2020,Clarenville,Sobeys,Ground beef,E,12.10
+06/11/2020,Clarenville,Coop,Ground beef,E,15.99
+06/11/2020,Clarenville,Sobeys,Orange,O,5.49
+06/11/2020,Clarenville,Coop,Orange,O,6.59
+06/11/2020,Clarenville,Sobeys,Peanut butter,E,6.98
+06/11/2020,Clarenville,Coop,Peanut butter,E,8.98
+06/11/2020,Clarenville,Coop,Peas,O,5.32
+06/11/2020,Clarenville,Sobeys,Peas,O,5.32
+06/11/2020,Clarenville,Sobeys,Tomato,E,8.79
+06/11/2020,Clarenville,Coop,Tomato,E,7.69
+06/11/2020,Clarenville,Sobeys,Tuna canned,E,8.00
+06/11/2020,Clarenville,Coop,Tuna canned,E,11.70
+06/11/2020,Clarenville,Coop,White flour,O,3.79
+06/11/2020,Clarenville,Sobeys,White flour,O,1.99
+10/11/2020,Happy Valley Goose Bay,Coop,Apple,E,4.38
+10/11/2020,Happy Valley Goose Bay,North Mart,Apple,E,5.46
+10/11/2020,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+10/11/2020,Happy Valley Goose Bay,North Mart,Black tea,E,35.30
+10/11/2020,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.17
+10/11/2020,Happy Valley Goose Bay,Coop,Bread whole wheat,O,7.70
+10/11/2020,Happy Valley Goose Bay,Coop,Carrot,O,3.29
+10/11/2020,Happy Valley Goose Bay,North Mart,Carrot,O,2.38
+10/11/2020,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,14.98
+10/11/2020,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.53
+10/11/2020,Happy Valley Goose Bay,North Mart,Corn,O,5.72
+10/11/2020,Happy Valley Goose Bay,Coop,Corn,O,6.65
+10/11/2020,Happy Valley Goose Bay,North Mart,Ground beef,E,9.90
+10/11/2020,Happy Valley Goose Bay,Coop,Ground beef,E,14.53
+10/11/2020,Happy Valley Goose Bay,Coop,Orange,O,3.50
+10/11/2020,Happy Valley Goose Bay,North Mart,Orange,O,12.09
+10/11/2020,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+10/11/2020,Happy Valley Goose Bay,North Mart,Peanut butter,E,7.98
+10/11/2020,Happy Valley Goose Bay,Coop,Peas,O,5.05
+10/11/2020,Happy Valley Goose Bay,North Mart,Peas,O,8.48
+10/11/2020,Happy Valley Goose Bay,North Mart,Tomato,E,5.04
+10/11/2020,Happy Valley Goose Bay,Coop,Tomato,E,6.59
+10/11/2020,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+10/11/2020,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+10/11/2020,Happy Valley Goose Bay,Coop,White flour,O,1.88
+10/11/2020,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+17/11/2020,Happy Valley Goose Bay,Coop,Apple,E,4.38
+17/11/2020,Happy Valley Goose Bay,North Mart,Apple,E,5.48
+17/11/2020,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+17/11/2020,Happy Valley Goose Bay,North Mart,Black tea,E,35.30
+17/11/2020,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.17
+17/11/2020,Happy Valley Goose Bay,Coop,Bread whole wheat,O,7.70
+17/11/2020,Happy Valley Goose Bay,Coop,Carrot,O,3.29
+17/11/2020,Happy Valley Goose Bay,North Mart,Carrot,O,2.38
+17/11/2020,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,14.98
+17/11/2020,Happy Valley Goose Bay,Coop,Cheddar cheese,O,13.76
+17/11/2020,Happy Valley Goose Bay,North Mart,Corn,O,6.39
+17/11/2020,Happy Valley Goose Bay,Coop,Corn,O,6.65
+17/11/2020,Happy Valley Goose Bay,North Mart,Ground beef,E,14.45
+17/11/2020,Happy Valley Goose Bay,Coop,Ground beef,E,14.97
+17/11/2020,Happy Valley Goose Bay,Coop,Orange,O,3.50
+17/11/2020,Happy Valley Goose Bay,North Mart,Orange,O,6.05
+17/11/2020,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+17/11/2020,Happy Valley Goose Bay,North Mart,Peanut butter,E,6.98
+17/11/2020,Happy Valley Goose Bay,Coop,Peas,O,5.05
+17/11/2020,Happy Valley Goose Bay,North Mart,Peas,O,3.85
+17/11/2020,Happy Valley Goose Bay,North Mart,Tomato,E,5.04
+17/11/2020,Happy Valley Goose Bay,Coop,Tomato,E,6.59
+17/11/2020,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+17/11/2020,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+17/11/2020,Happy Valley Goose Bay,Coop,White flour,O,1.88
+17/11/2020,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+18/11/2020,Clarenville,Sobeys,Apple,E,3.67
+18/11/2020,Clarenville,Coop,Apple,E,4.40
+18/11/2020,Clarenville,Sobeys,Black tea,E,29.12
+18/11/2020,Clarenville,Coop,Black tea,E,17.57
+18/11/2020,Clarenville,Sobeys,Bread whole wheat,O,4.15
+18/11/2020,Clarenville,Coop,Bread whole wheat,O,5.57
+18/11/2020,Clarenville,Sobeys,Carrot,O,3.29
+18/11/2020,Clarenville,Coop,Carrot,O,2.20
+18/11/2020,Clarenville,Sobeys,Cheddar cheese,O,12.48
+18/11/2020,Clarenville,Coop,Cheddar cheese,O,14.98
+18/11/2020,Clarenville,Coop,Corn,O,5.32
+18/11/2020,Clarenville,Sobeys,Corn,O,5.32
+18/11/2020,Clarenville,Sobeys,Ground beef,E,12.09
+18/11/2020,Clarenville,Coop,Ground beef,E,13.99
+18/11/2020,Clarenville,Coop,Orange,O,6.59
+18/11/2020,Clarenville,Sobeys,Orange,O,5.14
+18/11/2020,Clarenville,Sobeys,Peanut butter,E,10.98
+18/11/2020,Clarenville,Coop,Peanut butter,E,8.99
+18/11/2020,Clarenville,Coop,Peas,O,5.32
+18/11/2020,Clarenville,Sobeys,Peas,O,5.32
+18/11/2020,Clarenville,Coop,Tomato,E,7.69
+18/11/2020,Clarenville,Sobeys,Tomato,E,8.79
+18/11/2020,Clarenville,Sobeys,Tuna canned,E,8.00
+18/11/2020,Clarenville,Coop,Tuna canned,E,9.82
+18/11/2020,Clarenville,Coop,White flour,O,3.79
+18/11/2020,Clarenville,Sobeys,White flour,O,3.99
+26/11/2020,Happy Valley Goose Bay,Coop,Apple,E,4.38
+26/11/2020,Happy Valley Goose Bay,North Mart,Apple,E,5.48
+26/11/2020,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+26/11/2020,Happy Valley Goose Bay,North Mart,Black tea,E,35.30
+26/11/2020,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.17
+26/11/2020,Happy Valley Goose Bay,Coop,Bread whole wheat,O,7.70
+26/11/2020,Happy Valley Goose Bay,Coop,Carrot,O,3.29
+26/11/2020,Happy Valley Goose Bay,North Mart,Carrot,O,2.38
+26/11/2020,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,14.98
+26/11/2020,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.53
+26/11/2020,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+26/11/2020,Happy Valley Goose Bay,Coop,Corn,O,6.65
+26/11/2020,Happy Valley Goose Bay,Coop,Ground beef,E,14.53
+26/11/2020,Happy Valley Goose Bay,North Mart,Ground beef,E,14.75
+26/11/2020,Happy Valley Goose Bay,Coop,Orange,O,3.94
+26/11/2020,Happy Valley Goose Bay,North Mart,Orange,O,4.85
+26/11/2020,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+26/11/2020,Happy Valley Goose Bay,North Mart,Peanut butter,E,6.98
+26/11/2020,Happy Valley Goose Bay,Coop,Peas,O,5.05
+26/11/2020,Happy Valley Goose Bay,North Mart,Peas,O,3.85
+26/11/2020,Happy Valley Goose Bay,North Mart,Tomato,E,5.04
+26/11/2020,Happy Valley Goose Bay,Coop,Tomato,E,6.59
+26/11/2020,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+26/11/2020,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+26/11/2020,Happy Valley Goose Bay,Coop,White flour,O,1.88
+26/11/2020,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+01/12/2020,Happy Valley Goose Bay,Coop,Apple,E,4.38
+01/12/2020,Happy Valley Goose Bay,North Mart,Apple,E,5.46
+01/12/2020,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+01/12/2020,Happy Valley Goose Bay,North Mart,Black tea,E,35.30
+01/12/2020,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.17
+01/12/2020,Happy Valley Goose Bay,Coop,Bread whole wheat,O,7.70
+01/12/2020,Happy Valley Goose Bay,Coop,Carrot,O,3.29
+01/12/2020,Happy Valley Goose Bay,North Mart,Carrot,O,2.38
+01/12/2020,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,14.98
+01/12/2020,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.53
+01/12/2020,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+01/12/2020,Happy Valley Goose Bay,Coop,Corn,O,4.79
+01/12/2020,Happy Valley Goose Bay,Coop,Ground beef,E,14.53
+01/12/2020,Happy Valley Goose Bay,North Mart,Ground beef,E,14.75
+01/12/2020,Happy Valley Goose Bay,Coop,Orange,O,6.59
+01/12/2020,Happy Valley Goose Bay,North Mart,Orange,O,4.85
+01/12/2020,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+01/12/2020,Happy Valley Goose Bay,North Mart,Peanut butter,E,7.38
+01/12/2020,Happy Valley Goose Bay,Coop,Peas,O,5.05
+01/12/2020,Happy Valley Goose Bay,North Mart,Peas,O,3.85
+01/12/2020,Happy Valley Goose Bay,North Mart,Tomato,E,5.04
+01/12/2020,Happy Valley Goose Bay,Coop,Tomato,E,6.59
+01/12/2020,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+01/12/2020,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+01/12/2020,Happy Valley Goose Bay,Coop,White flour,O,1.88
+01/12/2020,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+02/12/2020,Clarenville,Sobeys,Apple,E,4.40
+02/12/2020,Clarenville,Sobeys,Black tea,E,21.98
+02/12/2020,Clarenville,Sobeys,Bread whole wheat,O,4.02
+02/12/2020,Clarenville,Sobeys,Carrot,O,4.39
+02/12/2020,Clarenville,Sobeys,Cheddar cheese,O,13.98
+02/12/2020,Clarenville,Sobeys,Corn,O,5.32
+02/12/2020,Clarenville,Sobeys,Ground beef,E,6.11
+02/12/2020,Clarenville,Sobeys,Orange,O,5.14
+02/12/2020,Clarenville,Sobeys,Peanut butter,E,3.99
+02/12/2020,Clarenville,Sobeys,Peas,O,5.32
+02/12/2020,Clarenville,Sobeys,Tomato,E,8.79
+02/12/2020,Clarenville,Sobeys,Tuna canned,E,8.00
+02/12/2020,Clarenville,Sobeys,White flour,O,3.99
+08/12/2020,Happy Valley Goose Bay,Coop,Apple,E,4.28
+08/12/2020,Happy Valley Goose Bay,North Mart,Apple,E,5.48
+08/12/2020,Happy Valley Goose Bay,North Mart,Black tea,E,26.46
+08/12/2020,Happy Valley Goose Bay,Coop,Black tea,E,29.11
+08/12/2020,Happy Valley Goose Bay,Coop,Bread whole wheat,O,6.12
+08/12/2020,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,6.12
+08/12/2020,Happy Valley Goose Bay,Coop,Carrot,O,3.29
+08/12/2020,Happy Valley Goose Bay,North Mart,Carrot,O,2.37
+08/12/2020,Happy Valley Goose Bay,Coop,Cheddar cheese,O,13.31
+08/12/2020,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,14.98
+08/12/2020,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+08/12/2020,Happy Valley Goose Bay,Coop,Corn,O,6.65
+08/12/2020,Happy Valley Goose Bay,Coop,Ground beef,E,14.72
+08/12/2020,Happy Valley Goose Bay,North Mart,Ground beef,E,14.82
+08/12/2020,Happy Valley Goose Bay,Coop,Orange,O,3.94
+08/12/2020,Happy Valley Goose Bay,North Mart,Orange,O,4.85
+08/12/2020,Happy Valley Goose Bay,North Mart,Peanut butter,E,4.98
+08/12/2020,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+08/12/2020,Happy Valley Goose Bay,Coop,Peas,O,5.05
+08/12/2020,Happy Valley Goose Bay,North Mart,Peas,O,3.85
+08/12/2020,Happy Valley Goose Bay,North Mart,Tomato,E,5.04
+08/12/2020,Happy Valley Goose Bay,Coop,Tomato,E,6.56
+08/12/2020,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+08/12/2020,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.71
+08/12/2020,Happy Valley Goose Bay,Coop,White flour,O,1.88
+08/12/2020,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+17/12/2020,Clarenville,Sobeys,Apple,E,4.40
+17/12/2020,Clarenville,Sobeys,Black tea,E,29.12
+17/12/2020,Clarenville,Sobeys,Bread whole wheat,O,4.19
+17/12/2020,Clarenville,Sobeys,Carrot,O,4.39
+17/12/2020,Clarenville,Sobeys,Cheddar cheese,O,8.82
+17/12/2020,Clarenville,Sobeys,Corn,O,4.92
+17/12/2020,Clarenville,Sobeys,Ground beef,E,12.76
+17/12/2020,Clarenville,Sobeys,Orange,O,5.49
+17/12/2020,Clarenville,Sobeys,Peanut butter,E,3.99
+17/12/2020,Clarenville,Sobeys,Peas,O,5.28
+17/12/2020,Clarenville,Sobeys,Tomato,E,3.99
+17/12/2020,Clarenville,Sobeys,Tuna canned,E,8.00
+17/12/2020,Clarenville,Sobeys,White flour,O,1.99
+17/12/2020,Happy Valley Goose Bay,Coop,Apple,E,4.38
+17/12/2020,Happy Valley Goose Bay,North Mart,Apple,E,5.26
+17/12/2020,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+17/12/2020,Happy Valley Goose Bay,North Mart,Black tea,E,35.30
+17/12/2020,Happy Valley Goose Bay,Coop,Bread whole wheat,O,6.12
+17/12/2020,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,6.12
+17/12/2020,Happy Valley Goose Bay,Coop,Carrot,O,3.29
+17/12/2020,Happy Valley Goose Bay,North Mart,Carrot,O,2.37
+17/12/2020,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,14.98
+17/12/2020,Happy Valley Goose Bay,Coop,Cheddar cheese,O,14.42
+17/12/2020,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+17/12/2020,Happy Valley Goose Bay,Coop,Corn,O,4.79
+17/12/2020,Happy Valley Goose Bay,North Mart,Ground beef,E,14.45
+17/12/2020,Happy Valley Goose Bay,Coop,Ground beef,E,14.53
+17/12/2020,Happy Valley Goose Bay,Coop,Orange,O,6.58
+17/12/2020,Happy Valley Goose Bay,North Mart,Orange,O,7.15
+17/12/2020,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+17/12/2020,Happy Valley Goose Bay,North Mart,Peanut butter,E,6.98
+17/12/2020,Happy Valley Goose Bay,Coop,Peas,O,5.05
+17/12/2020,Happy Valley Goose Bay,North Mart,Peas,O,3.85
+17/12/2020,Happy Valley Goose Bay,North Mart,Tomato,E,5.04
+17/12/2020,Happy Valley Goose Bay,Coop,Tomato,E,6.59
+17/12/2020,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+17/12/2020,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+17/12/2020,Happy Valley Goose Bay,Coop,White flour,O,1.88
+17/12/2020,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+28/12/2020,Clarenville,Sobeys,Apple,E,5.50
+28/12/2020,Clarenville,Coop,Apple,E,5.14
+28/12/2020,Clarenville,Coop,Black tea,E,19.78
+28/12/2020,Clarenville,Sobeys,Black tea,E,21.98
+28/12/2020,Clarenville,Sobeys,Bread whole wheat,O,4.43
+28/12/2020,Clarenville,Coop,Bread whole wheat,O,5.57
+28/12/2020,Clarenville,Sobeys,Carrot,O,4.39
+28/12/2020,Clarenville,Coop,Carrot,O,3.08
+28/12/2020,Clarenville,Coop,Cheddar cheese,O,14.98
+28/12/2020,Clarenville,Sobeys,Cheddar cheese,O,15.53
+28/12/2020,Clarenville,Coop,Corn,O,5.32
+28/12/2020,Clarenville,Sobeys,Corn,O,5.72
+28/12/2020,Clarenville,Sobeys,Ground beef,E,10.56
+28/12/2020,Clarenville,Coop,Ground beef,E,11.59
+28/12/2020,Clarenville,Coop,Orange,O,6.59
+28/12/2020,Clarenville,Sobeys,Orange,O,6.59
+28/12/2020,Clarenville,Coop,Peanut butter,E,2.99
+28/12/2020,Clarenville,Sobeys,Peanut butter,E,5.99
+28/12/2020,Clarenville,Coop,Peas,O,5.32
+28/12/2020,Clarenville,Sobeys,Peas,O,5.72
+28/12/2020,Clarenville,Sobeys,Tomato,E,7.69
+28/12/2020,Clarenville,Coop,Tomato,E,11.00
+28/12/2020,Clarenville,Sobeys,Tuna canned,E,8.18
+28/12/2020,Clarenville,Coop,Tuna canned,E,14.65
+28/12/2020,Clarenville,Sobeys,White flour,O,1.99
+03/01/2021,Corner Brook,Sobeys,Cheddar cheese,O,13.98
+03/01/2021,Corner Brook,Sobeys,Tomato,E,8.78
+05/01/2021,Bay Roberts,Dominion,Black tea,E,22.00
+05/01/2021,Bay Roberts,Dominion,Orange,O,4.40
+05/01/2021,Bay Roberts,Dominion,Peanut butter,E,6.49
+05/01/2021,Bay Roberts,Dominion,Tuna canned,E,8.76
+17/01/2021,Corner Brook,Colemans,Bread whole wheat,O,5.91
+21/01/2021,Happy Valley Goose Bay,North Mart,Apple,E,5.48
+21/01/2021,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+21/01/2021,Happy Valley Goose Bay,North Mart,Black tea,E,35.30
+21/01/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,6.12
+21/01/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,7.70
+21/01/2021,Happy Valley Goose Bay,Coop,Carrot,O,2.27
+21/01/2021,Happy Valley Goose Bay,North Mart,Carrot,O,2.37
+21/01/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,14.98
+21/01/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.50
+21/01/2021,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+21/01/2021,Happy Valley Goose Bay,Coop,Corn,O,4.79
+21/01/2021,Happy Valley Goose Bay,Coop,Ground beef,E,10.78
+21/01/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,14.55
+21/01/2021,Happy Valley Goose Bay,Coop,Orange,O,3.95
+21/01/2021,Happy Valley Goose Bay,North Mart,Orange,O,4.85
+21/01/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+21/01/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,7.38
+21/01/2021,Happy Valley Goose Bay,Coop,Peas,O,5.05
+21/01/2021,Happy Valley Goose Bay,North Mart,Peas,O,7.69
+21/01/2021,Happy Valley Goose Bay,North Mart,Tomato,E,5.05
+21/01/2021,Happy Valley Goose Bay,Coop,Tomato,E,7.25
+21/01/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+21/01/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+21/01/2021,Happy Valley Goose Bay,Coop,White flour,O,1.88
+21/01/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+01/02/2021,Conception Bay South,Dominion,Apple,E,5.45
+01/02/2021,Conception Bay South,Dominion,Black tea,E,24.19
+01/02/2021,Conception Bay South,Dominion,Bread whole wheat,O,8.15
+01/02/2021,Conception Bay South,Dominion,Cheddar cheese,O,14.48
+01/02/2021,Conception Bay South,Dominion,Corn,O,2.75
+01/02/2021,Conception Bay South,Dominion,Ground beef,E,5.49
+01/02/2021,Conception Bay South,Dominion,Orange,O,5.48
+01/02/2021,Conception Bay South,Dominion,Peanut butter,E,9.58
+01/02/2021,Conception Bay South,Dominion,Peas,O,2.75
+01/02/2021,Conception Bay South,Dominion,Tomato,E,7.69
+01/02/2021,Conception Bay South,Dominion,Tuna canned,E,9.94
+01/02/2021,Conception Bay South,Dominion,White flour,O,1.98
+03/02/2021,Corner Brook,Colemans,Apple,E,7.69
+03/02/2021,Corner Brook,Colemans,Black tea,E,22.92
+03/02/2021,Corner Brook,Colemans,Bread whole wheat,O,3.70
+03/02/2021,Corner Brook,Colemans,Cheddar cheese,O,12.45
+03/02/2021,Corner Brook,Colemans,Ground beef,E,11.00
+03/02/2021,Corner Brook,Colemans,Peanut butter,E,13.98
+03/02/2021,Corner Brook,Colemans,Tomato,E,4.38
+03/02/2021,Corner Brook,Colemans,Tuna canned,E,25.76
+04/02/2021,Happy Valley Goose Bay,Coop,Apple,E,4.39
+04/02/2021,Happy Valley Goose Bay,North Mart,Apple,E,4.39
+04/02/2021,Happy Valley Goose Bay,Coop,Black tea,E,35.30
+04/02/2021,Happy Valley Goose Bay,North Mart,Black tea,E,35.31
+04/02/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,6.12
+04/02/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,7.70
+04/02/2021,Happy Valley Goose Bay,Coop,Carrot,O,2.27
+04/02/2021,Happy Valley Goose Bay,North Mart,Carrot,O,2.37
+04/02/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,14.98
+04/02/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.50
+04/02/2021,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+04/02/2021,Happy Valley Goose Bay,Coop,Corn,O,4.79
+04/02/2021,Happy Valley Goose Bay,Coop,Ground beef,E,14.45
+04/02/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,14.75
+04/02/2021,Happy Valley Goose Bay,North Mart,Orange,O,3.89
+04/02/2021,Happy Valley Goose Bay,Coop,Orange,O,3.95
+04/02/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,7.38
+04/02/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,7.38
+04/02/2021,Happy Valley Goose Bay,Coop,Peas,O,5.05
+04/02/2021,Happy Valley Goose Bay,North Mart,Peas,O,3.85
+04/02/2021,Happy Valley Goose Bay,North Mart,Tomato,E,5.05
+04/02/2021,Happy Valley Goose Bay,Coop,Tomato,E,7.25
+04/02/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,11.71
+04/02/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.71
+04/02/2021,Happy Valley Goose Bay,Coop,White flour,O,1.88
+04/02/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+05/02/2021,St Johns,Sobeys,Apple,E,4.38
+05/02/2021,St Johns,Sobeys,Black tea,E,15.37
+05/02/2021,St Johns,Sobeys,Bread whole wheat,O,3.54
+05/02/2021,St Johns,Sobeys,Carrot,O,2.75
+05/02/2021,St Johns,Sobeys,Cheddar cheese,O,12.43
+05/02/2021,St Johns,Sobeys,Corn,O,2.75
+05/02/2021,St Johns,Sobeys,Ground beef,E,8.55
+05/02/2021,St Johns,Sobeys,Orange,O,7.55
+05/02/2021,St Johns,Sobeys,Peanut butter,E,6.98
+05/02/2021,St Johns,Sobeys,Peas,O,3.72
+05/02/2021,St Johns,Sobeys,Tomato,E,8.35
+05/02/2021,St Johns,Sobeys,Tuna canned,E,8.18
+05/02/2021,St Johns,Sobeys,White flour,O,3.99
+12/02/2021,Clarenville,Coop,Apple,E,4.40
+12/02/2021,Clarenville,Sobeys,Apple,E,4.40
+12/02/2021,Clarenville,Coop,Black tea,E,21.98
+12/02/2021,Clarenville,Sobeys,Bread whole wheat,O,3.49
+12/02/2021,Clarenville,Coop,Bread whole wheat,O,5.57
+12/02/2021,Clarenville,Coop,Carrot,O,3.08
+12/02/2021,Clarenville,Sobeys,Cheddar cheese,O,15.73
+12/02/2021,Clarenville,Coop,Corn,O,5.72
+12/02/2021,Clarenville,Sobeys,Corn,O,5.72
+12/02/2021,Clarenville,Coop,Ground beef,E,15.99
+12/02/2021,Clarenville,Coop,Orange,O,3.73
+12/02/2021,Clarenville,Sobeys,Orange,O,4.39
+12/02/2021,Clarenville,Coop,Peanut butter,E,8.98
+12/02/2021,Clarenville,Sobeys,Peanut butter,E,4.99
+12/02/2021,Clarenville,Coop,Peas,O,5.72
+12/02/2021,Clarenville,Sobeys,Peas,O,5.72
+12/02/2021,Clarenville,Coop,Tomato,E,5.48
+12/02/2021,Clarenville,Sobeys,Tomato,E,8.80
+12/02/2021,Clarenville,Sobeys,Tuna canned,E,11.71
+12/02/2021,Clarenville,Coop,Tuna canned,E,14.65
+12/02/2021,Clarenville,Sobeys,White flour,O,3.99
+12/02/2021,Clarenville,Coop,White flour,O,2.20
+13/02/2021,Corner Brook,Colemans,Apple,E,7.68
+13/02/2021,Corner Brook,Colemans,Black tea,E,22.92
+13/02/2021,Corner Brook,Colemans,Bread whole wheat,O,5.61
+13/02/2021,Corner Brook,Colemans,Peanut butter,E,8.98
+13/02/2021,Corner Brook,Colemans,Tomato,E,8.79
+13/02/2021,Corner Brook,Colemans,Tuna canned,E,25.76
+17/02/2021,Lewisporte,Coop,Apple,E,5.48
+17/02/2021,Lewisporte,Coop,Black tea,E,16.26
+17/02/2021,Lewisporte,Coop,Ground beef,E,10.99
+17/02/2021,Lewisporte,Coop,Peanut butter,E,4.00
+17/02/2021,Lewisporte,Coop,Tomato,E,6.56
+17/02/2021,Lewisporte,Coop,Tuna canned,E,11.70
+20/02/2021,Corner Brook,Colemans,Apple,E,6.56
+20/02/2021,Corner Brook,Colemans,Black tea,E,13.20
+20/02/2021,Corner Brook,Colemans,Carrot,O,3.84
+20/02/2021,Corner Brook,Colemans,Ground beef,E,13.98
+20/02/2021,Corner Brook,Colemans,Orange,O,2.57
+20/02/2021,Corner Brook,Colemans,Peanut butter,E,8.98
+20/02/2021,Corner Brook,Colemans,Tomato,E,4.38
+20/02/2021,Corner Brook,Colemans,Tuna canned,E,25.76
+20/02/2021,Corner Brook,Colemans,White flour,O,2.40
+21/02/2021,Bay Roberts,Dominion,Apple,E,3.33
+21/02/2021,Bay Roberts,Dominion,Black tea,E,13.20
+21/02/2021,Bay Roberts,Dominion,Bread whole wheat,O,4.40
+21/02/2021,Bay Roberts,Dominion,Carrot,O,2.93
+21/02/2021,Bay Roberts,Dominion,Cheddar cheese,O,14.48
+21/02/2021,Bay Roberts,Dominion,Corn,O,4.39
+21/02/2021,Bay Roberts,Dominion,Ground beef,E,6.59
+21/02/2021,Bay Roberts,Dominion,Orange,O,2.93
+21/02/2021,Bay Roberts,Dominion,Peanut butter,E,8.79
+21/02/2021,Bay Roberts,Dominion,Peas,O,4.39
+21/02/2021,Bay Roberts,Dominion,Tomato,E,7.68
+21/02/2021,Bay Roberts,Dominion,Tuna canned,E,10.53
+21/02/2021,Bay Roberts,Dominion,White flour,O,1.99
+22/02/2021,St Johns,Colemans,Apple,E,6.59
+22/02/2021,St Johns,Colemans,Black tea,E,18.01
+22/02/2021,St Johns,Colemans,Bread whole wheat,O,3.33
+22/02/2021,St Johns,Colemans,Carrot,O,3.52
+22/02/2021,St Johns,Colemans,Cheddar cheese,O,14.98
+22/02/2021,St Johns,Colemans,Corn,O,6.65
+22/02/2021,St Johns,Colemans,Ground beef,E,12.99
+22/02/2021,St Johns,Colemans,Orange,O,5.49
+22/02/2021,St Johns,Colemans,Peanut butter,E,4.99
+22/02/2021,St Johns,Colemans,Peas,O,5.32
+22/02/2021,St Johns,Colemans,Tomato,E,5.49
+22/02/2021,St Johns,Colemans,Tuna canned,E,11.70
+22/02/2021,St Johns,Colemans,White flour,O,1.80
+27/02/2021,Gander,Walmart,Apple,E,2.92
+27/02/2021,Gander,Walmart,Black tea,E,29.70
+27/02/2021,Gander,Walmart,Carrot,O,2.18
+27/02/2021,Gander,Walmart,Cheddar cheese,O,9.98
+27/02/2021,Gander,Walmart,Ground beef,E,11.01
+27/02/2021,Gander,Walmart,Orange,O,4.40
+27/02/2021,Gander,Walmart,Peanut butter,E,5.94
+27/02/2021,Gander,Walmart,Tomato,E,4.34
+27/02/2021,Gander,Walmart,Tuna canned,E,10.70
+01/03/2021,Nain,Franks,Peanut butter,E,12.98
+02/03/2021,Clarenville,Coop,Apple,E,5.14
+02/03/2021,Clarenville,Coop,Black tea,E,15.40
+02/03/2021,Clarenville,Coop,Bread whole wheat,O,5.61
+02/03/2021,Clarenville,Coop,Carrot,O,3.84
+02/03/2021,Clarenville,Coop,Cheddar cheese,O,19.98
+02/03/2021,Clarenville,Coop,Corn,O,5.32
+02/03/2021,Clarenville,Coop,Ground beef,E,13.99
+02/03/2021,Clarenville,Coop,Orange,O,6.59
+02/03/2021,Clarenville,Coop,Peanut butter,E,8.99
+02/03/2021,Clarenville,Coop,Peas,O,5.32
+02/03/2021,Clarenville,Coop,Tomato,E,5.49
+02/03/2021,Clarenville,Coop,Tuna canned,E,16.58
+02/03/2021,Clarenville,Coop,White flour,O,3.79
+02/03/2021,St Johns,Dominion,Apple,E,6.00
+02/03/2021,St Johns,Dominion,Black tea,E,26.43
+02/03/2021,St Johns,Dominion,Bread whole wheat,O,4.80
+02/03/2021,St Johns,Dominion,Cheddar cheese,O,16.38
+02/03/2021,St Johns,Dominion,Corn,O,4.80
+02/03/2021,St Johns,Dominion,Ground beef,E,14.40
+02/03/2021,St Johns,Dominion,Orange,O,5.49
+02/03/2021,St Johns,Dominion,Peanut butter,E,5.45
+02/03/2021,St Johns,Dominion,Peas,O,4.80
+02/03/2021,St Johns,Dominion,Tomato,E,8.80
+02/03/2021,St Johns,Dominion,Tuna canned,E,11.70
+02/03/2021,St Johns,Dominion,White flour,O,2.19
+03/03/2021,Lewisporte,Coop,Apple,E,5.48
+03/03/2021,Lewisporte,Coop,Black tea,E,16.26
+03/03/2021,Lewisporte,Coop,Peanut butter,E,5.98
+03/03/2021,Lewisporte,Coop,Tomato,E,5.48
+03/03/2021,Lewisporte,Coop,Tuna canned,E,7.35
+03/03/2021,Nain,Franks,Peanut butter,E,15.98
+03/03/2021,Nain,Franks,Tuna canned,E,19.35
+04/03/2021,Nain,Franks,Black tea,E,35.20
+04/03/2021,Nain,Franks,Black tea,E,27.15
+04/03/2021,Nain,Franks,Bread whole wheat,O,5.91
+04/03/2021,Nain,Franks,Cheddar cheese,O,24.40
+04/03/2021,Nain,Franks,Tuna canned,E,17.59
+09/03/2021,Clarenville,Coop,Apple,E,6.59
+09/03/2021,Clarenville,Coop,Black tea,E,15.40
+09/03/2021,Clarenville,Coop,Bread whole wheat,O,4.87
+09/03/2021,Clarenville,Coop,Carrot,O,3.84
+09/03/2021,Clarenville,Coop,Cheddar cheese,O,19.98
+09/03/2021,Clarenville,Coop,Corn,O,6.65
+09/03/2021,Clarenville,Coop,Ground beef,E,13.99
+09/03/2021,Clarenville,Coop,Orange,O,3.29
+09/03/2021,Clarenville,Coop,Peanut butter,E,8.99
+09/03/2021,Clarenville,Coop,Peas,O,5.59
+09/03/2021,Clarenville,Coop,Tomato,E,5.49
+09/03/2021,Clarenville,Coop,Tuna canned,E,16.58
+09/03/2021,Clarenville,Coop,White flour,O,1.88
+09/03/2021,St Johns,Colemans,Apple,E,5.49
+09/03/2021,St Johns,Colemans,Black tea,E,17.58
+09/03/2021,St Johns,Colemans,Bread whole wheat,O,4.39
+09/03/2021,St Johns,Colemans,Carrot,O,3.52
+09/03/2021,St Johns,Colemans,Cheddar cheese,O,12.25
+09/03/2021,St Johns,Colemans,Ground beef,E,13.99
+09/03/2021,St Johns,Colemans,Orange,O,1.43
+09/03/2021,St Johns,Colemans,Peanut butter,E,7.49
+09/03/2021,St Johns,Colemans,Peas,O,5.32
+09/03/2021,St Johns,Colemans,Tomato,E,5.49
+09/03/2021,St Johns,Colemans,Tuna canned,E,9.94
+09/03/2021,St Johns,Colemans,White flour,O,1.80
+11/03/2021,Stephenville,Colemans,Apple,E,6.59
+11/03/2021,Stephenville,Colemans,Black tea,E,22.18
+11/03/2021,Stephenville,Colemans,Bread whole wheat,O,3.70
+11/03/2021,Stephenville,Colemans,Carrot,O,3.29
+11/03/2021,Stephenville,Colemans,Cheddar cheese,O,16.23
+11/03/2021,Stephenville,Colemans,Corn,O,5.99
+11/03/2021,Stephenville,Colemans,Ground beef,E,10.99
+11/03/2021,Stephenville,Colemans,Orange,O,6.59
+11/03/2021,Stephenville,Colemans,Peanut butter,E,6.99
+11/03/2021,Stephenville,Colemans,Peas,O,5.99
+11/03/2021,Stephenville,Colemans,Tomato,E,4.39
+11/03/2021,Stephenville,Colemans,Tuna canned,E,9.82
+11/03/2021,Stephenville,Colemans,White flour,O,1.57
+11/03/2021,Corner Brook,Colemans,Apple,E,7.68
+11/03/2021,Corner Brook,Colemans,Black tea,E,17.61
+11/03/2021,Corner Brook,Colemans,Bread whole wheat,O,6.12
+11/03/2021,Corner Brook,Colemans,Ground beef,E,13.72
+11/03/2021,Corner Brook,Colemans,Peanut butter,E,8.98
+11/03/2021,Corner Brook,Colemans,Tomato,E,4.38
+11/03/2021,Corner Brook,Colemans,Tuna canned,E,25.76
+11/03/2021,Corner Brook,Colemans,White flour,O,2.60
+11/03/2021,Deer Lake,Colemans,Apple,E,6.59
+11/03/2021,Deer Lake,Colemans,Black tea,E,21.29
+11/03/2021,Deer Lake,Colemans,Bread whole wheat,O,3.70
+11/03/2021,Deer Lake,Colemans,Carrot,O,3.29
+11/03/2021,Deer Lake,Colemans,Cheddar cheese,O,16.23
+11/03/2021,Deer Lake,Colemans,Corn,O,5.99
+11/03/2021,Deer Lake,Colemans,Ground beef,E,11.99
+11/03/2021,Deer Lake,Colemans,Orange,O,5.49
+11/03/2021,Deer Lake,Colemans,Peanut butter,E,6.99
+11/03/2021,Deer Lake,Colemans,Peas,O,5.99
+11/03/2021,Deer Lake,Colemans,Tomato,E,4.39
+11/03/2021,Deer Lake,Colemans,Tuna canned,E,8.82
+11/03/2021,Deer Lake,Colemans,White flour,O,1.57
+11/03/2021,St Johns,Dominion,Apple,E,3.33
+11/03/2021,St Johns,Dominion,Black tea,E,13.20
+11/03/2021,St Johns,Dominion,Ground beef,E,8.55
+11/03/2021,St Johns,Dominion,Peanut butter,E,6.49
+11/03/2021,St Johns,Dominion,Tomato,E,4.59
+11/03/2021,St Johns,Dominion,Tuna canned,E,10.53
+24/03/2021,Clarenville,Coop,Apple,E,6.99
+24/03/2021,Clarenville,Coop,Black tea,E,15.40
+24/03/2021,Clarenville,Coop,Bread whole wheat,O,5.62
+24/03/2021,Clarenville,Coop,Carrot,O,3.84
+24/03/2021,Clarenville,Coop,Cheddar cheese,O,19.98
+24/03/2021,Clarenville,Coop,Corn,O,6.65
+24/03/2021,Clarenville,Coop,Ground beef,E,15.99
+24/03/2021,Clarenville,Coop,Orange,O,6.59
+24/03/2021,Clarenville,Coop,Peanut butter,E,8.99
+24/03/2021,Clarenville,Coop,Peas,O,5.59
+24/03/2021,Clarenville,Coop,Tomato,E,5.49
+24/03/2021,Clarenville,Coop,Tuna canned,E,11.71
+24/03/2021,Clarenville,Coop,White flour,O,1.88
+24/03/2021,Lewisporte,Coop,Apple,E,5.48
+24/03/2021,Lewisporte,Coop,Black tea,E,16.26
+24/03/2021,Lewisporte,Coop,Ground beef,E,13.21
+24/03/2021,Lewisporte,Coop,Peanut butter,E,3.99
+24/03/2021,Lewisporte,Coop,Tomato,E,4.38
+24/03/2021,Lewisporte,Coop,Tuna canned,E,11.70
+24/03/2021,St Johns,Colemans,Apple,E,6.59
+24/03/2021,St Johns,Dominion,Apple,E,6.59
+24/03/2021,St Johns,Dominion,Black tea,E,21.98
+24/03/2021,St Johns,Colemans,Black tea,E,13.19
+24/03/2021,St Johns,Dominion,Bread whole wheat,O,4.39
+24/03/2021,St Johns,Colemans,Bread whole wheat,O,5.00
+24/03/2021,St Johns,Colemans,Carrot,O,2.75
+24/03/2021,St Johns,Dominion,Carrot,O,5.49
+24/03/2021,St Johns,Colemans,Cheddar cheese,O,14.98
+24/03/2021,St Johns,Dominion,Cheddar cheese,O,17.48
+24/03/2021,St Johns,Dominion,Corn,O,4.38
+24/03/2021,St Johns,Colemans,Corn,O,4.65
+24/03/2021,St Johns,Dominion,Ground beef,E,8.80
+24/03/2021,St Johns,Colemans,Ground beef,E,12.99
+24/03/2021,St Johns,Colemans,Orange,O,5.49
+24/03/2021,St Johns,Dominion,Orange,O,5.14
+24/03/2021,St Johns,Dominion,Peanut butter,E,3.99
+24/03/2021,St Johns,Colemans,Peanut butter,E,7.49
+24/03/2021,St Johns,Dominion,Peas,O,4.38
+24/03/2021,St Johns,Colemans,Peas,O,5.98
+24/03/2021,St Johns,Colemans,Tomato,E,5.49
+24/03/2021,St Johns,Dominion,Tomato,E,6.59
+24/03/2021,St Johns,Dominion,Tuna canned,E,17.50
+24/03/2021,St Johns,Colemans,Tuna canned,E,14.65
+24/03/2021,St Johns,Dominion,White flour,O,0.94
+24/03/2021,St Johns,Colemans,White flour,O,1.25
+31/03/2021,Clarenville,Sobeys,Apple,E,4.40
+31/03/2021,Clarenville,Coop,Apple,E,5.13
+31/03/2021,Clarenville,Sobeys,Black tea,E,21.98
+31/03/2021,Clarenville,Sobeys,Bread whole wheat,O,4.37
+31/03/2021,Clarenville,Coop,Bread whole wheat,O,5.61
+31/03/2021,Clarenville,Coop,Carrot,O,2.75
+31/03/2021,Clarenville,Sobeys,Carrot,O,3.30
+31/03/2021,Clarenville,Sobeys,Cheddar cheese,O,8.82
+31/03/2021,Clarenville,Coop,Cheddar cheese,O,14.98
+31/03/2021,Clarenville,Coop,Corn,O,4.65
+31/03/2021,Clarenville,Sobeys,Corn,O,5.72
+31/03/2021,Clarenville,Sobeys,Ground beef,E,10.56
+31/03/2021,Clarenville,Coop,Ground beef,E,12.99
+31/03/2021,Clarenville,Sobeys,Orange,O,2.89
+31/03/2021,Clarenville,Coop,Orange,O,6.39
+31/03/2021,Clarenville,Sobeys,Peanut butter,E,5.99
+31/03/2021,Clarenville,Coop,Peanut butter,E,8.99
+31/03/2021,Clarenville,Coop,Peas,O,4.65
+31/03/2021,Clarenville,Sobeys,Peas,O,5.72
+31/03/2021,Clarenville,Coop,Tomato,E,5.99
+31/03/2021,Clarenville,Sobeys,Tomato,E,7.69
+31/03/2021,Clarenville,Sobeys,Tuna canned,E,8.76
+31/03/2021,Clarenville,Coop,Tuna canned,E,14.71
+31/03/2021,Clarenville,Sobeys,White flour,O,1.97
+31/03/2021,Clarenville,Coop,White flour,O,4.40
+01/04/2021,Happy Valley Goose Bay,Coop,Apple,E,4.38
+01/04/2021,Happy Valley Goose Bay,North Mart,Apple,E,5.48
+01/04/2021,Happy Valley Goose Bay,Coop,Black tea,E,20.27
+01/04/2021,Happy Valley Goose Bay,North Mart,Black tea,E,35.31
+01/04/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,6.12
+01/04/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,6.12
+01/04/2021,Happy Valley Goose Bay,Coop,Carrot,O,2.99
+01/04/2021,Happy Valley Goose Bay,North Mart,Carrot,O,2.37
+01/04/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,13.30
+01/04/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,14.98
+01/04/2021,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+01/04/2021,Happy Valley Goose Bay,Coop,Corn,O,6.65
+01/04/2021,Happy Valley Goose Bay,Coop,Ground beef,E,14.79
+01/04/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,14.99
+01/04/2021,Happy Valley Goose Bay,Coop,Orange,O,3.94
+01/04/2021,Happy Valley Goose Bay,North Mart,Orange,O,4.20
+01/04/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+01/04/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,6.98
+01/04/2021,Happy Valley Goose Bay,Coop,Peas,O,4.65
+01/04/2021,Happy Valley Goose Bay,North Mart,Peas,O,3.85
+01/04/2021,Happy Valley Goose Bay,North Mart,Tomato,E,5.04
+01/04/2021,Happy Valley Goose Bay,Coop,Tomato,E,6.58
+01/04/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+01/04/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+01/04/2021,Happy Valley Goose Bay,Coop,White flour,O,1.88
+01/04/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.90
+03/04/2021,Corner Brook,Colemans,Apple,E,7.68
+03/04/2021,Corner Brook,Colemans,Black tea,E,8.79
+03/04/2021,Corner Brook,Colemans,Ground beef,E,11.00
+03/04/2021,Corner Brook,Colemans,Peanut butter,E,8.98
+03/04/2021,Corner Brook,Colemans,Tomato,E,6.59
+03/04/2021,Corner Brook,Colemans,Tuna canned,E,25.76
+03/04/2021,Lewisporte,Coop,Apple,E,5.04
+03/04/2021,Lewisporte,Coop,Ground beef,E,9.41
+03/04/2021,Lewisporte,Coop,Peanut butter,E,4.99
+03/04/2021,Lewisporte,Coop,Tomato,E,5.04
+03/04/2021,Lewisporte,Coop,Tuna canned,E,11.70
+05/04/2021,Gander,Walmart,Apple,E,2.92
+05/04/2021,Gander,Walmart,Black tea,E,9.45
+05/04/2021,Gander,Walmart,Carrot,O,2.18
+05/04/2021,Gander,Walmart,Ground beef,E,11.01
+05/04/2021,Gander,Walmart,Peanut butter,E,7.42
+05/04/2021,Gander,Walmart,Tomato,E,4.40
+05/04/2021,Gander,Walmart,Tuna canned,E,10.70
+05/04/2021,Gander,Walmart,White flour,O,2.31
+10/04/2021,Conception Bay South,Dominion,Apple,E,5.48
+10/04/2021,Conception Bay South,Dominion,Black tea,E,24.19
+10/04/2021,Conception Bay South,Dominion,Bread whole wheat,O,6.65
+10/04/2021,Conception Bay South,Dominion,Cheddar cheese,O,14.98
+10/04/2021,Conception Bay South,Dominion,Corn,O,2.75
+10/04/2021,Conception Bay South,Dominion,Orange,O,5.48
+10/04/2021,Conception Bay South,Dominion,Peanut butter,E,9.98
+10/04/2021,Conception Bay South,Dominion,Peas,O,2.75
+10/04/2021,Conception Bay South,Dominion,Tomato,E,7.69
+10/04/2021,Conception Bay South,Dominion,Tuna canned,E,9.94
+10/04/2021,Conception Bay South,Dominion,White flour,O,2.00
+11/04/2021,Corner Brook,Colemans,Apple,E,7.68
+11/04/2021,Corner Brook,Colemans,Black tea,E,13.20
+11/04/2021,Corner Brook,Colemans,Bread whole wheat,O,6.12
+11/04/2021,Corner Brook,Colemans,Ground beef,E,7.69
+11/04/2021,Corner Brook,Colemans,Peanut butter,E,8.98
+11/04/2021,Corner Brook,Colemans,Tomato,E,4.38
+11/04/2021,Corner Brook,Colemans,Tuna canned,E,25.76
+14/04/2021,Clarenville,Sobeys,Apple,E,4.40
+14/04/2021,Clarenville,Coop,Apple,E,5.14
+14/04/2021,Clarenville,Sobeys,Bread whole wheat,O,3.32
+14/04/2021,Clarenville,Coop,Bread whole wheat,O,5.57
+14/04/2021,Clarenville,Sobeys,Carrot,O,3.30
+14/04/2021,Clarenville,Coop,Carrot,O,1.98
+14/04/2021,Clarenville,Sobeys,Cheddar cheese,O,13.97
+14/04/2021,Clarenville,Sobeys,Corn,O,5.72
+14/04/2021,Clarenville,Coop,Corn,O,6.65
+14/04/2021,Clarenville,Coop,Ground beef,E,8.80
+14/04/2021,Clarenville,Sobeys,Ground beef,E,13.86
+14/04/2021,Clarenville,Sobeys,Orange,O,2.18
+14/04/2021,Clarenville,Sobeys,Peanut butter,E,4.49
+14/04/2021,Clarenville,Coop,Peanut butter,E,6.29
+14/04/2021,Clarenville,Sobeys,Peas,O,5.72
+14/04/2021,Clarenville,Coop,Peas,O,6.65
+14/04/2021,Clarenville,Coop,Tomato,E,4.39
+14/04/2021,Clarenville,Sobeys,Tomato,E,7.69
+14/04/2021,Clarenville,Sobeys,Tuna canned,E,8.18
+14/04/2021,Clarenville,Coop,Tuna canned,E,14.64
+14/04/2021,Clarenville,Coop,White flour,O,2.40
+14/04/2021,Clarenville,Sobeys,White flour,O,1.99
+14/04/2021,Happy Valley Goose Bay,Coop,Apple,E,4.39
+14/04/2021,Happy Valley Goose Bay,North Mart,Apple,E,4.39
+14/04/2021,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+14/04/2021,Happy Valley Goose Bay,North Mart,Black tea,E,35.30
+14/04/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,6.12
+14/04/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,7.70
+14/04/2021,Happy Valley Goose Bay,Coop,Carrot,O,2.27
+14/04/2021,Happy Valley Goose Bay,North Mart,Carrot,O,5.39
+14/04/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.53
+14/04/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,0.40
+14/04/2021,Happy Valley Goose Bay,North Mart,Corn,O,4.65
+14/04/2021,Happy Valley Goose Bay,Coop,Corn,O,4.78
+14/04/2021,Happy Valley Goose Bay,Coop,Ground beef,E,14.53
+14/04/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,14.73
+14/04/2021,Happy Valley Goose Bay,North Mart,Orange,O,3.89
+14/04/2021,Happy Valley Goose Bay,Coop,Orange,O,3.95
+14/04/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+14/04/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,7.38
+14/04/2021,Happy Valley Goose Bay,Coop,Peas,O,5.05
+14/04/2021,Happy Valley Goose Bay,North Mart,Peas,O,10.25
+14/04/2021,Happy Valley Goose Bay,Coop,Tomato,E,5.05
+14/04/2021,Happy Valley Goose Bay,North Mart,Tomato,E,5.05
+14/04/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+14/04/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.71
+14/04/2021,Happy Valley Goose Bay,Coop,White flour,O,1.90
+14/04/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.90
+15/04/2021,Nain,Franks,Apple,E,3.58
+15/04/2021,Nain,Franks,Apple,E,5.52
+15/04/2021,Nain,Northern,Black tea,E,28.66
+15/04/2021,Nain,Franks,Black tea,E,35.19
+15/04/2021,Nain,Northern,Black tea,E,35.20
+15/04/2021,Nain,Franks,Black tea,E,28.60
+15/04/2021,Nain,Franks,Black tea,E,27.15
+15/04/2021,Nain,Northern,Black tea,E,29.09
+15/04/2021,Nain,Northern,Bread whole wheat,O,7.98
+15/04/2021,Nain,Franks,Bread whole wheat,O,7.39
+15/04/2021,Nain,Franks,Cheddar cheese,O,22.45
+15/04/2021,Nain,Northern,Cheddar cheese,O,24.23
+15/04/2021,Nain,Franks,Cheddar cheese,O,27.48
+15/04/2021,Nain,Franks,Corn,O,7.32
+15/04/2021,Nain,Northern,Corn,O,6.29
+15/04/2021,Nain,Franks,Ground beef,E,17.00
+15/04/2021,Nain,Franks,Ground beef,E,20.00
+15/04/2021,Nain,Northern,Peanut butter,E,10.38
+15/04/2021,Nain,Franks,Peanut butter,E,12.98
+15/04/2021,Nain,Northern,Peanut butter,E,6.89
+15/04/2021,Nain,Franks,Peanut butter,E,15.98
+15/04/2021,Nain,Northern,Peanut butter,E,11.69
+15/04/2021,Nain,Franks,Peas,O,7.32
+15/04/2021,Nain,Franks,Peas,O,10.79
+15/04/2021,Nain,Franks,Tomato,E,9.08
+15/04/2021,Nain,Northern,Tuna canned,E,39.90
+15/04/2021,Nain,Northern,Tuna canned,E,28.28
+15/04/2021,Nain,Northern,Tuna canned,E,37.59
+15/04/2021,Nain,Northern,Tuna canned,E,16.16
+15/04/2021,Nain,Franks,White flour,O,5.14
+15/04/2021,Nain,Franks,White flour,O,2.66
+15/04/2021,Nain,Northern,White flour,O,3.52
+15/04/2021,Nain,Franks,White flour,O,6.61
+15/04/2021,Nain,Northern,White flour,O,4.60
+16/04/2021,Lewisporte,Coop,Apple,E,5.48
+16/04/2021,Lewisporte,Coop,Black tea,E,12.99
+16/04/2021,Lewisporte,Coop,Ground beef,E,15.41
+16/04/2021,Lewisporte,Coop,Peanut butter,E,6.98
+16/04/2021,Lewisporte,Coop,Tomato,E,5.04
+16/04/2021,Lewisporte,Coop,Tuna canned,E,11.71
+18/04/2021,Corner Brook,Colemans,Apple,E,7.68
+18/04/2021,Corner Brook,Colemans,Black tea,E,13.20
+18/04/2021,Corner Brook,Colemans,Ground beef,E,12.10
+18/04/2021,Corner Brook,Colemans,Peanut butter,E,8.98
+18/04/2021,Corner Brook,Colemans,Tomato,E,5.48
+18/04/2021,Corner Brook,Colemans,Tuna canned,E,25.76
+18/04/2021,St Johns,Sobeys,Apple,E,5.49
+18/04/2021,St Johns,Sobeys,Black tea,E,16.25
+18/04/2021,St Johns,Sobeys,Bread whole wheat,O,4.19
+18/04/2021,St Johns,Sobeys,Cheddar cheese,O,21.44
+18/04/2021,St Johns,Sobeys,Corn,O,3.32
+18/04/2021,St Johns,Sobeys,Ground beef,E,8.79
+18/04/2021,St Johns,Sobeys,Orange,O,7.41
+18/04/2021,St Johns,Sobeys,Peanut butter,E,6.98
+18/04/2021,St Johns,Sobeys,Peas,O,3.32
+18/04/2021,St Johns,Sobeys,Tomato,E,2.18
+18/04/2021,St Johns,Sobeys,Tuna canned,E,8.17
+18/04/2021,St Johns,Sobeys,White flour,O,3.99
+21/04/2021,Clarenville,Coop,Cheddar cheese,O,14.98
+22/04/2021,Nain,Franks,Apple,E,5.14
+22/04/2021,Nain,Northern,Apple,E,7.99
+22/04/2021,Nain,Franks,Black tea,E,35.20
+22/04/2021,Nain,Northern,Black tea,E,35.19
+22/04/2021,Nain,Franks,Black tea,E,28.61
+22/04/2021,Nain,Franks,Black tea,E,27.15
+22/04/2021,Nain,Northern,Bread whole wheat,O,8.40
+22/04/2021,Nain,Franks,Bread whole wheat,O,7.39
+22/04/2021,Nain,Northern,Bread whole wheat,O,10.99
+22/04/2021,Nain,Northern,Carrot,O,7.25
+22/04/2021,Nain,Northern,Carrot,O,4.07
+22/04/2021,Nain,Northern,Cheddar cheese,O,22.50
+22/04/2021,Nain,Northern,Cheddar cheese,O,24.23
+22/04/2021,Nain,Northern,Corn,O,6.29
+22/04/2021,Nain,Northern,Corn,O,8.38
+22/04/2021,Nain,Northern,Corn,O,10.79
+22/04/2021,Nain,Franks,Ground beef,E,17.00
+22/04/2021,Nain,Northern,Ground beef,E,19.99
+22/04/2021,Nain,Northern,Peanut butter,E,10.38
+22/04/2021,Nain,Northern,Peanut butter,E,11.38
+22/04/2021,Nain,Franks,Peanut butter,E,12.98
+22/04/2021,Nain,PJC,Peanut butter,E,6.89
+22/04/2021,Nain,Franks,Peanut butter,E,15.98
+22/04/2021,Nain,Northern,Peanut butter,E,11.69
+22/04/2021,Nain,Northern,Peas,O,10.78
+22/04/2021,Nain,Northern,Tomato,E,6.99
+22/04/2021,Nain,Franks,Tuna canned,E,17.59
+22/04/2021,Nain,Northern,Tuna canned,E,21.71
+22/04/2021,Nain,Northern,Tuna canned,E,39.90
+22/04/2021,Nain,Northern,Tuna canned,E,28.80
+22/04/2021,Nain,Northern,Tuna canned,E,37.59
+22/04/2021,Nain,Northern,Tuna canned,E,16.16
+22/04/2021,Nain,Northern,White flour,O,5.99
+22/04/2021,Nain,Franks,White flour,O,2.67
+22/04/2021,Nain,Northern,White flour,O,3.52
+22/04/2021,Nain,Northern,White flour,O,4.60
+23/04/2021,St Johns,Sobeys,Apple,E,5.49
+23/04/2021,St Johns,Sobeys,Black tea,E,15.37
+23/04/2021,St Johns,Sobeys,Bread whole wheat,O,4.19
+23/04/2021,St Johns,Sobeys,Carrot,O,2.75
+23/04/2021,St Johns,Sobeys,Cheddar cheese,O,11.08
+23/04/2021,St Johns,Sobeys,Corn,O,3.32
+23/04/2021,St Johns,Sobeys,Ground beef,E,10.56
+23/04/2021,St Johns,Sobeys,Orange,O,7.41
+23/04/2021,St Johns,Sobeys,Peanut butter,E,6.98
+23/04/2021,St Johns,Sobeys,Peas,O,3.32
+23/04/2021,St Johns,Sobeys,Tomato,E,4.39
+23/04/2021,St Johns,Sobeys,Tuna canned,E,8.18
+23/04/2021,St Johns,Sobeys,White flour,O,3.99
+26/04/2021,Grand Falls Windsor,Dominion,Apple,E,3.29
+26/04/2021,Grand Falls Windsor,Dominion,Black tea,E,17.60
+26/04/2021,Grand Falls Windsor,Dominion,Ground beef,E,11.00
+26/04/2021,Grand Falls Windsor,Dominion,Peanut butter,E,4.00
+26/04/2021,Grand Falls Windsor,Dominion,Tomato,E,4.04
+26/04/2021,Grand Falls Windsor,Dominion,Tuna canned,E,8.82
+26/04/2021,Grand Falls Windsor,Dominion,White flour,O,0.94
+26/04/2021,Happy Valley Goose Bay,Coop,Apple,E,4.39
+26/04/2021,Rigolet,Northern,Apple,E,5.99
+26/04/2021,Rigolet,Northern,Black tea,E,15.84
+26/04/2021,Rigolet,Northern,Ground beef,E,18.99
+26/04/2021,Rigolet,Northern,Peanut butter,E,6.49
+26/04/2021,Rigolet,Northern,Tomato,E,6.99
+26/04/2021,Rigolet,Northern,Tuna canned,E,22.30
+28/04/2021,Happy Valley Goose Bay,Coop,Apple,E,4.39
+28/04/2021,Happy Valley Goose Bay,North Mart,Apple,E,4.39
+28/04/2021,Happy Valley Goose Bay,Coop,Black tea,E,29.12
+28/04/2021,Happy Valley Goose Bay,North Mart,Black tea,E,35.31
+28/04/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,6.12
+28/04/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,6.15
+28/04/2021,Happy Valley Goose Bay,Coop,Carrot,O,2.27
+28/04/2021,Happy Valley Goose Bay,North Mart,Carrot,O,2.37
+28/04/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,15.53
+28/04/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,17.48
+28/04/2021,Happy Valley Goose Bay,North Mart,Corn,O,3.49
+28/04/2021,Happy Valley Goose Bay,Coop,Corn,O,4.79
+28/04/2021,Happy Valley Goose Bay,Coop,Ground beef,E,14.53
+28/04/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,15.29
+28/04/2021,Happy Valley Goose Bay,Coop,Orange,O,3.95
+28/04/2021,Happy Valley Goose Bay,North Mart,Orange,O,6.49
+28/04/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,5.98
+28/04/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,7.38
+28/04/2021,Happy Valley Goose Bay,Coop,Peas,O,5.05
+28/04/2021,Happy Valley Goose Bay,North Mart,Peas,O,3.85
+28/04/2021,Happy Valley Goose Bay,Coop,Tomato,E,5.05
+28/04/2021,Happy Valley Goose Bay,North Mart,Tomato,E,5.05
+28/04/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+28/04/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.71
+28/04/2021,Happy Valley Goose Bay,Coop,White flour,O,1.89
+28/04/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.90
+29/04/2021,Clarenville,Sobeys,Apple,E,4.40
+29/04/2021,Clarenville,Coop,Apple,E,5.14
+29/04/2021,Clarenville,Coop,Black tea,E,21.98
+29/04/2021,Clarenville,Sobeys,Black tea,E,55.10
+29/04/2021,Clarenville,Sobeys,Bread whole wheat,O,4.19
+29/04/2021,Clarenville,Coop,Bread whole wheat,O,5.57
+29/04/2021,Clarenville,Coop,Carrot,O,1.76
+29/04/2021,Clarenville,Coop,Cheddar cheese,O,14.98
+29/04/2021,Clarenville,Sobeys,Cheddar cheese,O,13.98
+29/04/2021,Clarenville,Sobeys,Corn,O,5.72
+29/04/2021,Clarenville,Coop,Corn,O,6.65
+29/04/2021,Clarenville,Sobeys,Ground beef,E,10.56
+29/04/2021,Clarenville,Coop,Ground beef,E,11.00
+29/04/2021,Clarenville,Coop,Orange,O,6.58
+29/04/2021,Clarenville,Sobeys,Orange,O,5.14
+29/04/2021,Clarenville,Coop,Peanut butter,E,4.44
+29/04/2021,Clarenville,Sobeys,Peanut butter,E,4.99
+29/04/2021,Clarenville,Coop,Peas,O,5.59
+29/04/2021,Clarenville,Sobeys,Peas,O,6.13
+29/04/2021,Clarenville,Coop,Tomato,E,4.39
+29/04/2021,Clarenville,Sobeys,Tomato,E,12.10
+29/04/2021,Clarenville,Sobeys,Tuna canned,E,8.18
+29/04/2021,Clarenville,Coop,Tuna canned,E,17.59
+29/04/2021,Clarenville,Coop,White flour,O,3.79
+29/04/2021,Clarenville,Sobeys,White flour,O,3.99
+30/04/2021,Gander,Walmart,Apple,E,2.92
+30/04/2021,Gander,Walmart,Black tea,E,9.45
+30/04/2021,Gander,Walmart,Carrot,O,2.18
+30/04/2021,Gander,Walmart,Ground beef,E,11.00
+30/04/2021,Gander,Walmart,Peanut butter,E,3.37
+30/04/2021,Gander,Walmart,Tomato,E,4.34
+30/04/2021,Gander,Walmart,Tuna canned,E,10.70
+30/04/2021,Gander,Walmart,White flour,O,3.17
+30/04/2021,Nain,Franks,Apple,E,5.14
+30/04/2021,Nain,Northern,Apple,E,7.19
+30/04/2021,Nain,Franks,Ground beef,E,16.99
+30/04/2021,Nain,Northern,Tomato,E,6.99
+30/04/2021,St Johns,Sobeys,Apple,E,5.49
+30/04/2021,St Johns,Sobeys,Black tea,E,15.37
+30/04/2021,St Johns,Sobeys,Bread whole wheat,O,4.19
+30/04/2021,St Johns,Sobeys,Carrot,O,3.29
+30/04/2021,St Johns,Sobeys,Cheddar cheese,O,18.48
+30/04/2021,St Johns,Sobeys,Corn,O,3.72
+30/04/2021,St Johns,Sobeys,Ground beef,E,12.75
+30/04/2021,St Johns,Sobeys,Orange,O,7.41
+30/04/2021,St Johns,Sobeys,Peanut butter,E,5.98
+30/04/2021,St Johns,Sobeys,Peas,O,3.72
+30/04/2021,St Johns,Sobeys,Tomato,E,6.59
+30/04/2021,St Johns,Sobeys,Tuna canned,E,7.35
+30/04/2021,St Johns,Sobeys,White flour,O,3.99
+01/05/2021,Bay Roberts,Dominion,Apple,E,3.29
+01/05/2021,Bay Roberts,Dominion,Bread whole wheat,O,4.40
+01/05/2021,Bay Roberts,Dominion,Carrot,O,2.74
+01/05/2021,Bay Roberts,Dominion,Cheddar cheese,O,12.50
+01/05/2021,Bay Roberts,Dominion,Ground beef,E,8.80
+01/05/2021,Bay Roberts,Dominion,Peas,O,4.38
+01/05/2021,Bay Roberts,Dominion,Tomato,E,4.38
+01/05/2021,Bay Roberts,Dominion,White flour,O,2.76
+01/05/2021,Nain,Northern,Black tea,E,50.35
+01/05/2021,Nain,Franks,Black tea,E,35.20
+01/05/2021,Nain,Franks,Black tea,E,35.20
+01/05/2021,Nain,Northern,Black tea,E,46.84
+01/05/2021,Nain,Franks,Black tea,E,28.61
+01/05/2021,Nain,Franks,Black tea,E,27.15
+01/05/2021,Nain,Northern,Black tea,E,28.96
+01/05/2021,Nain,Northern,Bread whole wheat,O,7.15
+01/05/2021,Nain,Northern,Bread whole wheat,O,10.99
+01/05/2021,Nain,Franks,Carrot,O,3.29
+01/05/2021,Nain,Franks,Cheddar cheese,O,13.30
+01/05/2021,Nain,Other,Cheddar cheese,O,24.23
+01/05/2021,Nain,Northern,Cheddar cheese,O,24.23
+01/05/2021,Nain,Northern,Ground beef,E,24.00
+01/05/2021,Nain,Northern,Peanut butter,E,10.38
+01/05/2021,Nain,Northern,Peanut butter,E,11.38
+01/05/2021,Nain,Franks,Peanut butter,E,12.98
+01/05/2021,Nain,Northern,Peanut butter,E,6.89
+01/05/2021,Nain,Franks,Peanut butter,E,15.98
+01/05/2021,Nain,Northern,Peanut butter,E,11.99
+01/05/2021,Nain,Northern,Peas,O,6.06
+01/05/2021,Nain,Franks,Tuna canned,E,17.59
+01/05/2021,Nain,Northern,Tuna canned,E,21.71
+01/05/2021,Nain,Northern,Tuna canned,E,39.90
+01/05/2021,Nain,Northern,Tuna canned,E,28.18
+01/05/2021,Nain,Northern,Tuna canned,E,28.18
+01/05/2021,Nain,Northern,Tuna canned,E,37.59
+01/05/2021,Nain,Northern,Tuna canned,E,16.16
+01/05/2021,Nain,Northern,White flour,O,5.99
+01/05/2021,Nain,Franks,White flour,O,2.67
+01/05/2021,Nain,Northern,White flour,O,3.52
+01/05/2021,Nain,Northern,White flour,O,4.60
+07/05/2021,Nain,Franks,Apple,E,6.99
+07/05/2021,Nain,Northern,Apple,E,7.99
+07/05/2021,Nain,Northern,Black tea,E,50.35
+07/05/2021,Nain,Franks,Black tea,E,35.19
+07/05/2021,Nain,Northern,Black tea,E,35.19
+07/05/2021,Nain,Northern,Black tea,E,46.84
+07/05/2021,Nain,Franks,Black tea,E,28.61
+07/05/2021,Nain,Franks,Black tea,E,27.15
+07/05/2021,Nain,Northern,Black tea,E,28.80
+07/05/2021,Nain,Northern,Bread whole wheat,O,8.40
+07/05/2021,Nain,Northern,Bread whole wheat,O,10.99
+07/05/2021,Nain,Franks,Carrot,O,5.41
+07/05/2021,Nain,Northern,Cheddar cheese,O,24.23
+07/05/2021,Nain,Northern,Cheddar cheese,O,24.98
+07/05/2021,Nain,Franks,Cheddar cheese,O,27.45
+07/05/2021,Nain,Northern,Cheddar cheese,O,27.48
+07/05/2021,Nain,Franks,Corn,O,6.29
+07/05/2021,Nain,Northern,Corn,O,6.29
+07/05/2021,Nain,Franks,Corn,O,8.09
+07/05/2021,Nain,Northern,Corn,O,8.09
+07/05/2021,Nain,Northern,Ground beef,E,23.99
+07/05/2021,Nain,Northern,Peanut butter,E,10.38
+07/05/2021,Nain,Northern,Peanut butter,E,11.38
+07/05/2021,Nain,Northern,Peanut butter,E,11.38
+07/05/2021,Nain,Franks,Peanut butter,E,12.98
+07/05/2021,Nain,Northern,Peanut butter,E,6.89
+07/05/2021,Nain,Franks,Peanut butter,E,15.98
+07/05/2021,Nain,Northern,Peanut butter,E,11.69
+07/05/2021,Nain,Franks,Peas,O,10.79
+07/05/2021,Nain,Franks,Tomato,E,6.99
+07/05/2021,Nain,Northern,Tomato,E,6.99
+07/05/2021,Nain,Franks,Tuna canned,E,17.59
+07/05/2021,Nain,Franks,Tuna canned,E,19.35
+07/05/2021,Nain,Northern,Tuna canned,E,28.18
+07/05/2021,Nain,Northern,Tuna canned,E,28.18
+07/05/2021,Nain,Northern,Tuna canned,E,16.16
+07/05/2021,Nain,Northern,White flour,O,5.99
+07/05/2021,Nain,Franks,White flour,O,2.67
+07/05/2021,Nain,Northern,White flour,O,3.52
+07/05/2021,Nain,Northern,White flour,O,4.60
+07/05/2021,St Johns,Sobeys,Apple,E,5.49
+07/05/2021,St Johns,Sobeys,Black tea,E,15.37
+07/05/2021,St Johns,Sobeys,Bread whole wheat,O,4.20
+07/05/2021,St Johns,Sobeys,Carrot,O,3.30
+07/05/2021,St Johns,Sobeys,Cheddar cheese,O,26.41
+07/05/2021,St Johns,Sobeys,Corn,O,3.72
+07/05/2021,St Johns,Sobeys,Ground beef,E,9.89
+07/05/2021,St Johns,Sobeys,Peanut butter,E,5.98
+07/05/2021,St Johns,Sobeys,Peas,O,3.72
+07/05/2021,St Johns,Sobeys,Tomato,E,6.59
+07/05/2021,St Johns,Sobeys,Tuna canned,E,7.35
+07/05/2021,St Johns,Sobeys,White flour,O,3.99
+08/05/2021,Grand Falls Windsor,Dominion,Apple,E,3.29
+08/05/2021,Grand Falls Windsor,Dominion,Apple,E,3.29
+08/05/2021,Grand Falls Windsor,Dominion,Black tea,E,9.90
+08/05/2021,Grand Falls Windsor,Dominion,Black tea,E,13.20
+08/05/2021,Grand Falls Windsor,Dominion,Bread whole wheat,O,4.58
+08/05/2021,Grand Falls Windsor,Dominion,Ground beef,E,6.58
+08/05/2021,Grand Falls Windsor,Dominion,Ground beef,E,6.58
+08/05/2021,Grand Falls Windsor,Dominion,Orange,O,5.48
+08/05/2021,Grand Falls Windsor,Dominion,Peanut butter,E,4.00
+08/05/2021,Grand Falls Windsor,Dominion,Peanut butter,E,4.00
+08/05/2021,Grand Falls Windsor,Dominion,Tomato,E,4.38
+08/05/2021,Grand Falls Windsor,Dominion,Tomato,E,4.38
+08/05/2021,Grand Falls Windsor,Dominion,Tuna canned,E,9.94
+08/05/2021,Grand Falls Windsor,Dominion,Tuna canned,E,9.94
+12/05/2021,Port aux Basques,Hockeys,Apple,E,4.63
+12/05/2021,Port aux Basques,Hockeys,Black tea,E,28.66
+12/05/2021,Port aux Basques,Hockeys,Carrot,O,3.29
+12/05/2021,Port aux Basques,Hockeys,Cheddar cheese,O,22.48
+12/05/2021,Port aux Basques,Hockeys,Ground beef,E,11.02
+12/05/2021,Port aux Basques,Hockeys,Peanut butter,E,6.99
+12/05/2021,Port aux Basques,Hockeys,Tuna canned,E,15.23
+12/05/2021,Port aux Basques,Hockeys,White flour,O,2.80
+14/05/2021,Clarenville,Coop,Apple,E,4.40
+14/05/2021,Clarenville,Sobeys,Apple,E,4.40
+14/05/2021,Clarenville,Sobeys,Black tea,E,19.78
+14/05/2021,Clarenville,Coop,Black tea,E,21.98
+14/05/2021,Clarenville,Coop,Bread whole wheat,O,3.67
+14/05/2021,Clarenville,Sobeys,Bread whole wheat,O,4.54
+14/05/2021,Clarenville,Sobeys,Carrot,O,3.30
+14/05/2021,Clarenville,Coop,Carrot,O,1.76
+14/05/2021,Clarenville,Coop,Cheddar cheese,O,14.98
+14/05/2021,Clarenville,Sobeys,Cheddar cheese,O,15.73
+14/05/2021,Clarenville,Sobeys,Corn,O,3.72
+14/05/2021,Clarenville,Coop,Corn,O,6.65
+14/05/2021,Clarenville,Sobeys,Ground beef,E,11.00
+14/05/2021,Clarenville,Coop,Ground beef,E,13.99
+14/05/2021,Clarenville,Coop,Orange,O,4.39
+14/05/2021,Clarenville,Sobeys,Orange,O,4.77
+14/05/2021,Clarenville,Sobeys,Peanut butter,E,3.77
+14/05/2021,Clarenville,Coop,Peanut butter,E,8.99
+14/05/2021,Clarenville,Sobeys,Peas,O,3.72
+14/05/2021,Clarenville,Coop,Peas,O,6.65
+14/05/2021,Clarenville,Coop,Tomato,E,4.39
+14/05/2021,Clarenville,Sobeys,Tomato,E,6.59
+14/05/2021,Clarenville,Sobeys,Tuna canned,E,7.35
+14/05/2021,Clarenville,Coop,Tuna canned,E,9.80
+14/05/2021,Clarenville,Coop,White flour,O,3.79
+14/05/2021,Clarenville,Sobeys,White flour,O,3.99
+14/05/2021,St Johns,Sobeys,Apple,E,5.49
+14/05/2021,St Johns,Sobeys,Black tea,E,15.37
+14/05/2021,St Johns,Sobeys,Bread whole wheat,O,3.32
+14/05/2021,St Johns,Sobeys,Carrot,O,3.30
+14/05/2021,St Johns,Sobeys,Cheddar cheese,O,26.41
+14/05/2021,St Johns,Sobeys,Corn,O,3.72
+14/05/2021,St Johns,Sobeys,Ground beef,E,12.51
+14/05/2021,St Johns,Sobeys,Peanut butter,E,5.98
+14/05/2021,St Johns,Sobeys,Peas,O,3.72
+14/05/2021,St Johns,Sobeys,Tomato,E,5.49
+14/05/2021,St Johns,Sobeys,Tuna canned,E,7.35
+14/05/2021,St Johns,Sobeys,White flour,O,3.99
+20/05/2021,Nain,Northern,Apple,E,5.99
+20/05/2021,Nain,Northern,Black tea,E,50.35
+20/05/2021,Nain,Northern,Black tea,E,35.20
+20/05/2021,Nain,Northern,Black tea,E,46.84
+20/05/2021,Nain,Northern,Black tea,E,28.82
+20/05/2021,Nain,Northern,Bread whole wheat,O,8.40
+20/05/2021,Nain,Northern,Bread whole wheat,O,2.26
+20/05/2021,Nain,Northern,Carrot,O,4.07
+20/05/2021,Nain,Northern,Cheddar cheese,O,24.04
+20/05/2021,Nain,Northern,Cheddar cheese,O,24.23
+20/05/2021,Nain,Northern,Cheddar cheese,O,24.98
+20/05/2021,Nain,Northern,Cheddar cheese,O,27.48
+20/05/2021,Nain,Northern,Corn,O,6.29
+20/05/2021,Nain,Northern,Corn,O,8.09
+20/05/2021,Nain,Northern,Ground beef,E,20.78
+20/05/2021,Nain,Northern,Orange,O,2.99
+20/05/2021,Nain,Northern,Peanut butter,E,10.38
+20/05/2021,Nain,Northern,Peanut butter,E,11.38
+20/05/2021,Nain,Northern,Peanut butter,E,11.38
+20/05/2021,Nain,Northern,Peanut butter,E,6.89
+20/05/2021,Nain,Northern,Peanut butter,E,11.69
+20/05/2021,Nain,Northern,Peas,O,10.79
+20/05/2021,Nain,Northern,Tomato,E,6.99
+20/05/2021,Nain,Northern,Tuna canned,E,28.18
+20/05/2021,Nain,Northern,Tuna canned,E,28.18
+20/05/2021,Nain,Northern,Tuna canned,E,37.59
+20/05/2021,Nain,Northern,Tuna canned,E,16.16
+20/05/2021,Nain,Northern,White flour,O,5.99
+20/05/2021,Nain,Northern,White flour,O,3.52
+20/05/2021,Nain,Northern,White flour,O,4.60
+21/05/2021,St Johns,Sobeys,Apple,E,5.49
+21/05/2021,St Johns,Sobeys,Black tea,E,16.25
+21/05/2021,St Johns,Sobeys,Bread whole wheat,O,4.19
+21/05/2021,St Johns,Sobeys,Carrot,O,3.29
+21/05/2021,St Johns,Sobeys,Cheddar cheese,O,16.63
+21/05/2021,St Johns,Sobeys,Corn,O,3.32
+21/05/2021,St Johns,Sobeys,Ground beef,E,10.10
+21/05/2021,St Johns,Sobeys,Orange,O,7.41
+21/05/2021,St Johns,Sobeys,Peanut butter,E,5.98
+21/05/2021,St Johns,Sobeys,Peas,O,3.32
+21/05/2021,St Johns,Sobeys,Tomato,E,4.39
+21/05/2021,St Johns,Sobeys,Tuna canned,E,7.35
+21/05/2021,St Johns,Sobeys,White flour,O,3.99
+22/05/2021,Port aux Basques,Hockeys,Apple,E,4.40
+22/05/2021,Port aux Basques,Hockeys,Black tea,E,36.00
+22/05/2021,Port aux Basques,Hockeys,Bread whole wheat,O,3.70
+22/05/2021,Port aux Basques,Hockeys,Cheddar cheese,O,17.50
+22/05/2021,Port aux Basques,Hockeys,Ground beef,E,11.12
+22/05/2021,Port aux Basques,Hockeys,Peanut butter,E,6.99
+22/05/2021,Port aux Basques,Hockeys,Tomato,E,4.40
+22/05/2021,Port aux Basques,Hockeys,Tuna canned,E,15.23
+22/05/2021,Port aux Basques,Hockeys,White flour,O,2.39
+27/05/2021,St Johns,Sobeys,Apple,E,5.49
+27/05/2021,St Johns,Sobeys,Black tea,E,16.25
+27/05/2021,St Johns,Sobeys,Bread whole wheat,O,4.19
+27/05/2021,St Johns,Sobeys,Carrot,O,3.29
+27/05/2021,St Johns,Sobeys,Cheddar cheese,O,16.62
+27/05/2021,St Johns,Sobeys,Corn,O,3.32
+27/05/2021,St Johns,Sobeys,Ground beef,E,10.92
+27/05/2021,St Johns,Sobeys,Orange,O,7.41
+27/05/2021,St Johns,Sobeys,Peanut butter,E,5.98
+27/05/2021,St Johns,Sobeys,Peas,O,3.32
+27/05/2021,St Johns,Sobeys,Tomato,E,6.59
+27/05/2021,St Johns,Sobeys,Tuna canned,E,7.35
+27/05/2021,St Johns,Sobeys,White flour,O,3.99
+30/05/2021,Gander,Walmart,Apple,E,2.92
+30/05/2021,Gander,Walmart,Black tea,E,23.04
+30/05/2021,Gander,Walmart,Carrot,O,2.18
+30/05/2021,Gander,Walmart,Ground beef,E,11.00
+30/05/2021,Gander,Walmart,Orange,O,6.57
+30/05/2021,Gander,Walmart,Peanut butter,E,3.37
+30/05/2021,Gander,Walmart,Peas,O,2.64
+30/05/2021,Gander,Walmart,Tomato,E,4.34
+30/05/2021,Gander,Walmart,Tuna canned,E,11.40
+30/05/2021,Gander,Walmart,White flour,O,3.17
+01/06/2021,Bay Roberts,Dominion,Apple,E,3.29
+01/06/2021,Bay Roberts,Dominion,Black tea,E,39.48
+01/06/2021,Bay Roberts,Dominion,Bread whole wheat,O,6.58
+01/06/2021,Bay Roberts,Dominion,Carrot,O,3.29
+01/06/2021,Bay Roberts,Dominion,Cheddar cheese,O,17.48
+01/06/2021,Bay Roberts,Dominion,Corn,O,4.38
+01/06/2021,Bay Roberts,Dominion,Orange,O,4.40
+01/06/2021,Bay Roberts,Dominion,Peanut butter,E,6.58
+01/06/2021,Bay Roberts,Dominion,Peas,O,4.38
+01/06/2021,Bay Roberts,Dominion,Tuna canned,E,11.70
+01/06/2021,Bay Roberts,Dominion,White flour,O,3.99
+02/06/2021,Nain,Northern,Apple,E,5.14
+02/06/2021,Nain,Northern,Black tea,E,30.80
+02/06/2021,Nain,Northern,Bread whole wheat,O,7.39
+02/06/2021,Nain,Northern,Carrot,O,3.29
+02/06/2021,Nain,Northern,Cheddar cheese,O,37.47
+02/06/2021,Nain,Northern,Corn,O,7.32
+02/06/2021,Nain,Northern,Ground beef,E,16.99
+02/06/2021,Nain,Northern,Peanut butter,E,12.98
+02/06/2021,Nain,Northern,Peas,O,6.78
+02/06/2021,Nain,Northern,Tomato,E,6.49
+02/06/2021,Nain,Northern,Tuna canned,E,21.70
+02/06/2021,Nain,Northern,White flour,O,2.32
+04/06/2021,Clarenville,Sobeys,Apple,E,4.40
+04/06/2021,Clarenville,Coop,Apple,E,5.14
+04/06/2021,Clarenville,Sobeys,Black tea,E,26.81
+04/06/2021,Clarenville,Coop,Black tea,E,12.47
+04/06/2021,Clarenville,Coop,Bread whole wheat,O,3.70
+04/06/2021,Clarenville,Sobeys,Bread whole wheat,O,4.43
+04/06/2021,Clarenville,Sobeys,Carrot,O,3.30
+04/06/2021,Clarenville,Coop,Cheddar cheese,O,14.98
+04/06/2021,Clarenville,Sobeys,Cheddar cheese,O,14.98
+04/06/2021,Clarenville,Coop,Corn,O,6.65
+04/06/2021,Clarenville,Coop,Ground beef,E,11.00
+04/06/2021,Clarenville,Sobeys,Ground beef,E,12.76
+04/06/2021,Clarenville,Sobeys,Orange,O,5.49
+04/06/2021,Clarenville,Sobeys,Peanut butter,E,3.77
+04/06/2021,Clarenville,Sobeys,Peas,O,5.72
+04/06/2021,Clarenville,Coop,Peas,O,4.00
+04/06/2021,Clarenville,Coop,Tomato,E,5.49
+04/06/2021,Clarenville,Sobeys,Tomato,E,5.49
+04/06/2021,Clarenville,Sobeys,Tuna canned,E,8.76
+04/06/2021,Clarenville,Coop,Tuna canned,E,9.82
+04/06/2021,Clarenville,Sobeys,White flour,O,3.99
+04/06/2021,Clarenville,Coop,White flour,O,1.88
+07/06/2021,Grand Falls Windsor,Dominion,Apple,E,3.29
+07/06/2021,Grand Falls Windsor,Dominion,Apple,E,3.29
+07/06/2021,Grand Falls Windsor,Dominion,Black tea,E,8.79
+07/06/2021,Grand Falls Windsor,Dominion,Black tea,E,12.76
+07/06/2021,Grand Falls Windsor,Dominion,Ground beef,E,10.99
+07/06/2021,Grand Falls Windsor,Dominion,Ground beef,E,10.99
+07/06/2021,Grand Falls Windsor,Dominion,Peanut butter,E,3.99
+07/06/2021,Grand Falls Windsor,Dominion,Peanut butter,E,4.00
+07/06/2021,Grand Falls Windsor,Dominion,Tomato,E,4.38
+07/06/2021,Grand Falls Windsor,Dominion,Tomato,E,4.38
+07/06/2021,Grand Falls Windsor,Dominion,Tuna canned,E,9.94
+07/06/2021,Grand Falls Windsor,Dominion,Tuna canned,E,9.94
+10/06/2021,Nain,Northern,Apple,E,7.99
+10/06/2021,Nain,Northern,Black tea,E,29.06
+10/06/2021,Nain,Northern,Bread whole wheat,O,8.40
+10/06/2021,Nain,Northern,Carrot,O,4.07
+10/06/2021,Nain,Northern,Cheddar cheese,O,24.04
+10/06/2021,Nain,Northern,Corn,O,6.29
+10/06/2021,Nain,Northern,Ground beef,E,20.78
+10/06/2021,Nain,Northern,Orange,O,8.29
+10/06/2021,Nain,Northern,Peanut butter,E,10.38
+10/06/2021,Nain,Northern,Peas,O,10.79
+10/06/2021,Nain,Northern,Tomato,E,6.99
+10/06/2021,Nain,Northern,Tuna canned,E,39.90
+10/06/2021,Nain,Northern,White flour,O,4.60
+11/06/2021,St Johns,Sobeys,Apple,E,5.49
+11/06/2021,St Johns,Sobeys,Black tea,E,16.25
+11/06/2021,St Johns,Sobeys,Bread whole wheat,O,4.19
+11/06/2021,St Johns,Sobeys,Carrot,O,3.29
+11/06/2021,St Johns,Sobeys,Cheddar cheese,O,21.44
+11/06/2021,St Johns,Sobeys,Corn,O,3.32
+11/06/2021,St Johns,Sobeys,Ground beef,E,15.41
+11/06/2021,St Johns,Sobeys,Peanut butter,E,6.98
+11/06/2021,St Johns,Sobeys,Peas,O,3.32
+11/06/2021,St Johns,Sobeys,Tomato,E,5.49
+11/06/2021,St Johns,Sobeys,Tuna canned,E,7.18
+11/06/2021,St Johns,Sobeys,White flour,O,3.99
+15/06/2021,Pasadena,Foodland,Ground beef,E,3.64
+15/06/2021,L'Anse au Loup,Earles Grocery,White flour,O,1.32
+15/06/2021,St Johns,Dominion,Cheddar cheese,O,10.89
+15/06/2021,St Johns,Dominion,Orange,O,2.57
+15/06/2021,St Philips,Dominion,Apple,E,6.61
+15/06/2021,St Philips,Dominion,Peanut butter,E,3.25
+15/06/2021,St Philips,Dominion,Tomato,E,15.08
+16/06/2021,St Johns,Colemans,Apple,E,5.13
+16/06/2021,St Johns,Colemans,Black tea,E,11.40
+16/06/2021,St Johns,Colemans,Ground beef,E,12.99
+16/06/2021,St Johns,Colemans,Peanut butter,E,5.99
+16/06/2021,St Johns,Colemans,Tomato,E,5.49
+16/06/2021,St Johns,Colemans,Tuna canned,E,9.82
+17/06/2021,Nain,Northern,Apple,E,7.99
+17/06/2021,Nain,Northern,Black tea,E,35.20
+17/06/2021,Nain,Northern,Bread whole wheat,O,8.49
+17/06/2021,Nain,Northern,Carrot,O,10.26
+17/06/2021,Nain,Northern,Carrot,O,4.07
+17/06/2021,Nain,Northern,Cheddar cheese,O,24.04
+17/06/2021,Nain,Northern,Cheddar cheese,O,27.48
+17/06/2021,Nain,Northern,Corn,O,6.29
+17/06/2021,Nain,Northern,Corn,O,10.79
+17/06/2021,Nain,Northern,Orange,O,8.29
+17/06/2021,Nain,Northern,Peanut butter,E,9.69
+17/06/2021,Nain,Northern,Peas,O,10.79
+17/06/2021,Nain,Northern,Tomato,E,6.99
+17/06/2021,Nain,Northern,Tuna canned,E,39.90
+17/06/2021,Nain,Northern,White flour,O,4.60
+18/06/2021,Burgeo,Foodland,Apple,E,8.79
+18/06/2021,Burgeo,Foodland,Carrot,O,3.84
+18/06/2021,Burgeo,Foodland,Ground beef,E,13.20
+18/06/2021,Burgeo,Foodland,Tomato,E,10.31
+24/06/2021,Nain,Franks,Apple,E,5.14
+24/06/2021,Nain,Northern,Apple,E,7.99
+24/06/2021,Nain,Northern,Black tea,E,50.35
+24/06/2021,Nain,Franks,Black tea,E,30.80
+24/06/2021,Nain,Northern,Bread whole wheat,O,8.40
+24/06/2021,Nain,Franks,Bread whole wheat,O,7.40
+24/06/2021,Nain,Franks,Carrot,O,3.30
+24/06/2021,Nain,Northern,Carrot,O,4.05
+24/06/2021,Nain,Northern,Cheddar cheese,O,24.04
+24/06/2021,Nain,Franks,Cheddar cheese,O,37.48
+24/06/2021,Nain,Franks,Corn,O,7.32
+24/06/2021,Nain,Northern,Corn,O,6.29
+24/06/2021,Nain,Franks,Ground beef,E,17.00
+24/06/2021,Nain,Northern,Ground beef,E,20.78
+24/06/2021,Nain,Northern,Orange,O,7.35
+24/06/2021,Nain,Northern,Peanut butter,E,10.38
+24/06/2021,Nain,Franks,Peanut butter,E,12.98
+24/06/2021,Nain,Franks,Peas,O,7.32
+24/06/2021,Nain,Northern,Peas,O,10.78
+24/06/2021,Nain,Northern,Tomato,E,6.94
+24/06/2021,Nain,Franks,Tuna canned,E,21.71
+24/06/2021,Nain,Northern,Tuna canned,E,28.17
+24/06/2021,Nain,Franks,White flour,O,2.48
+24/06/2021,Nain,Northern,White flour,O,10.13
+29/06/2021,Gander,Walmart,Apple,E,2.92
+29/06/2021,Gander,Walmart,Black tea,E,14.81
+29/06/2021,Gander,Walmart,Carrot,O,2.18
+29/06/2021,Gander,Walmart,Cheddar cheese,O,14.43
+29/06/2021,Gander,Walmart,Corn,O,4.63
+29/06/2021,Gander,Walmart,Ground beef,E,11.00
+29/06/2021,Gander,Walmart,Orange,O,3.28
+29/06/2021,Gander,Walmart,Peanut butter,E,3.37
+29/06/2021,Gander,Walmart,Tomato,E,3.68
+29/06/2021,Gander,Walmart,Tuna canned,E,5.12
+29/06/2021,Gander,Walmart,White flour,O,2.51
+29/06/2021,St Johns,Sobeys,Apple,E,4.40
+29/06/2021,St Johns,Sobeys,Black tea,E,21.10
+29/06/2021,St Johns,Sobeys,Carrot,O,3.29
+29/06/2021,St Johns,Sobeys,Ground beef,E,12.76
+29/06/2021,St Johns,Sobeys,Peanut butter,E,6.98
+29/06/2021,St Johns,Sobeys,Tomato,E,4.42
+29/06/2021,St Johns,Sobeys,Tuna canned,E,8.17
+30/06/2021,Clarenville,Sobeys,Apple,E,4.40
+30/06/2021,Clarenville,Coop,Black tea,E,21.98
+30/06/2021,Clarenville,Sobeys,Black tea,E,21.98
+30/06/2021,Clarenville,Sobeys,Bread whole wheat,O,2.94
+30/06/2021,Clarenville,Coop,Bread whole wheat,O,4.39
+30/06/2021,Clarenville,Sobeys,Carrot,O,3.29
+30/06/2021,Clarenville,Sobeys,Cheddar cheese,O,14.98
+30/06/2021,Clarenville,Coop,Cheddar cheese,O,22.48
+30/06/2021,Clarenville,Sobeys,Corn,O,5.72
+30/06/2021,Clarenville,Coop,Corn,O,6.65
+30/06/2021,Clarenville,Sobeys,Ground beef,E,10.56
+30/06/2021,Clarenville,Coop,Ground beef,E,15.99
+30/06/2021,Clarenville,Sobeys,Orange,O,4.49
+30/06/2021,Clarenville,Coop,Orange,O,5.93
+30/06/2021,Clarenville,Coop,Peanut butter,E,4.99
+30/06/2021,Clarenville,Sobeys,Peanut butter,E,4.99
+30/06/2021,Clarenville,Sobeys,Peas,O,5.72
+30/06/2021,Clarenville,Coop,Peas,O,4.00
+30/06/2021,Clarenville,Sobeys,Tomato,E,5.49
+30/06/2021,Clarenville,Coop,Tomato,E,6.59
+30/06/2021,Clarenville,Coop,Tuna canned,E,9.80
+30/06/2021,Clarenville,Sobeys,Tuna canned,E,10.53
+30/06/2021,Clarenville,Coop,White flour,O,3.79
+30/06/2021,Clarenville,Sobeys,White flour,O,3.99
+30/06/2021,Happy Valley Goose Bay,Northern,Apple,E,4.59
+30/06/2021,Happy Valley Goose Bay,Coop,Apple,E,8.95
+30/06/2021,Happy Valley Goose Bay,Northern,Black tea,E,14.25
+30/06/2021,Happy Valley Goose Bay,Coop,Black tea,E,30.87
+30/06/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,5.17
+30/06/2021,Happy Valley Goose Bay,Northern,Bread whole wheat,O,5.17
+30/06/2021,Happy Valley Goose Bay,Coop,Carrot,O,2.74
+30/06/2021,Happy Valley Goose Bay,Northern,Carrot,O,3.07
+30/06/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,17.48
+30/06/2021,Happy Valley Goose Bay,Northern,Cheddar cheese,O,21.25
+30/06/2021,Happy Valley Goose Bay,Coop,Corn,O,4.78
+30/06/2021,Happy Valley Goose Bay,Northern,Corn,O,29.96
+30/06/2021,Happy Valley Goose Bay,Coop,Ground beef,E,14.92
+30/06/2021,Happy Valley Goose Bay,Northern,Ground beef,E,16.99
+30/06/2021,Happy Valley Goose Bay,Northern,Orange,O,3.79
+30/06/2021,Happy Valley Goose Bay,Coop,Orange,O,8.45
+30/06/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,5.99
+30/06/2021,Happy Valley Goose Bay,Northern,Peanut butter,E,15.38
+30/06/2021,Happy Valley Goose Bay,Coop,Peas,O,7.00
+30/06/2021,Happy Valley Goose Bay,Northern,Peas,O,4.30
+30/06/2021,Happy Valley Goose Bay,Northern,Tomato,E,8.78
+30/06/2021,Happy Valley Goose Bay,Coop,Tomato,E,4.91
+30/06/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+30/06/2021,Happy Valley Goose Bay,Northern,Tuna canned,E,11.70
+30/06/2021,Happy Valley Goose Bay,Coop,White flour,O,1.79
+30/06/2021,Happy Valley Goose Bay,Northern,White flour,O,1.80
+30/06/2021,Rigolet,Northern,Black tea,E,18.90
+30/06/2021,Rigolet,Northern,Bread whole wheat,O,6.65
+30/06/2021,Rigolet,Northern,Carrot,O,4.40
+30/06/2021,Rigolet,Northern,Cheddar cheese,O,19.22
+30/06/2021,Rigolet,Northern,Ground beef,E,17.59
+30/06/2021,Rigolet,Northern,Orange,O,3.29
+30/06/2021,Rigolet,Northern,Peanut butter,E,8.98
+30/06/2021,Rigolet,Northern,Tomato,E,6.99
+30/06/2021,Rigolet,Northern,Tuna canned,E,22.30
+30/06/2021,Rigolet,Northern,White flour,O,2.40
+02/07/2021,Nain,Northern,Apple,E,7.99
+02/07/2021,Nain,Northern,Black tea,E,35.20
+02/07/2021,Nain,Northern,Bread whole wheat,O,8.40
+02/07/2021,Nain,Northern,Carrot,O,4.07
+02/07/2021,Nain,Northern,Cheddar cheese,O,24.04
+02/07/2021,Nain,Northern,Corn,O,10.79
+02/07/2021,Nain,Northern,Ground beef,E,20.78
+02/07/2021,Nain,Northern,Orange,O,8.29
+02/07/2021,Nain,Northern,Peanut butter,E,4.69
+02/07/2021,Nain,Northern,Peas,O,10.79
+02/07/2021,Nain,Northern,Tomato,E,6.99
+02/07/2021,Nain,Northern,Tuna canned,E,28.17
+02/07/2021,Nain,Northern,White flour,O,4.59
+05/07/2021,Corner Brook,Colemans,Apple,E,6.59
+05/07/2021,Corner Brook,Colemans,Black tea,E,9.57
+05/07/2021,Corner Brook,Colemans,Bread whole wheat,O,3.70
+05/07/2021,Corner Brook,Colemans,Cheddar cheese,O,18.73
+05/07/2021,Corner Brook,Colemans,Ground beef,E,13.98
+05/07/2021,Corner Brook,Colemans,Orange,O,5.33
+05/07/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+05/07/2021,Corner Brook,Colemans,Tomato,E,5.48
+05/07/2021,Corner Brook,Colemans,Tuna canned,E,23.53
+05/07/2021,Corner Brook,Colemans,White flour,O,2.60
+05/07/2021,St Johns,Sobeys,Apple,E,4.40
+05/07/2021,St Johns,Sobeys,Black tea,E,16.26
+05/07/2021,St Johns,Sobeys,Carrot,O,3.29
+05/07/2021,St Johns,Sobeys,Cheddar cheese,O,13.98
+05/07/2021,St Johns,Sobeys,Corn,O,3.32
+05/07/2021,St Johns,Sobeys,Ground beef,E,15.41
+05/07/2021,St Johns,Sobeys,Peanut butter,E,6.98
+05/07/2021,St Johns,Sobeys,Peas,O,3.32
+05/07/2021,St Johns,Sobeys,Tomato,E,4.42
+05/07/2021,St Johns,Sobeys,Tuna canned,E,8.17
+05/07/2021,St Johns,Sobeys,White flour,O,3.99
+06/07/2021,St Johns,Sobeys,Apple,E,5.48
+06/07/2021,St Johns,Sobeys,Black tea,E,15.37
+06/07/2021,St Johns,Sobeys,Carrot,O,4.39
+06/07/2021,St Johns,Sobeys,Cheddar cheese,O,12.48
+06/07/2021,St Johns,Sobeys,Corn,O,3.98
+06/07/2021,St Johns,Sobeys,Ground beef,E,12.76
+06/07/2021,St Johns,Sobeys,Peanut butter,E,2.98
+06/07/2021,St Johns,Sobeys,Peas,O,3.98
+06/07/2021,St Johns,Sobeys,Tomato,E,6.58
+06/07/2021,St Johns,Sobeys,Tuna canned,E,8.17
+06/07/2021,St Johns,Sobeys,White flour,O,3.99
+09/07/2021,Clarenville,Sobeys,Apple,E,4.40
+09/07/2021,Clarenville,Coop,Apple,E,5.14
+09/07/2021,Clarenville,Sobeys,Black tea,E,21.98
+09/07/2021,Clarenville,Coop,Black tea,E,15.40
+09/07/2021,Clarenville,Sobeys,Bread whole wheat,O,3.28
+09/07/2021,Clarenville,Coop,Bread whole wheat,O,5.61
+09/07/2021,Clarenville,Sobeys,Carrot,O,3.29
+09/07/2021,Clarenville,Coop,Carrot,O,3.07
+09/07/2021,Clarenville,Sobeys,Cheddar cheese,O,12.48
+09/07/2021,Clarenville,Coop,Cheddar cheese,O,14.98
+09/07/2021,Clarenville,Sobeys,Corn,O,3.98
+09/07/2021,Clarenville,Coop,Corn,O,6.65
+09/07/2021,Clarenville,Coop,Ground beef,E,11.99
+09/07/2021,Clarenville,Sobeys,Ground beef,E,13.21
+09/07/2021,Clarenville,Coop,Orange,O,5.93
+09/07/2021,Clarenville,Sobeys,Orange,O,4.40
+09/07/2021,Clarenville,Sobeys,Peanut butter,E,4.99
+09/07/2021,Clarenville,Coop,Peanut butter,E,6.29
+09/07/2021,Clarenville,Sobeys,Peas,O,3.98
+09/07/2021,Clarenville,Coop,Peas,O,4.00
+09/07/2021,Clarenville,Coop,Tomato,E,6.59
+09/07/2021,Clarenville,Sobeys,Tomato,E,5.49
+09/07/2021,Clarenville,Sobeys,Tuna canned,E,8.18
+09/07/2021,Clarenville,Coop,Tuna canned,E,9.80
+09/07/2021,Clarenville,Sobeys,White flour,O,3.99
+09/07/2021,Clarenville,Coop,White flour,O,1.59
+09/07/2021,St Johns,Dominion,Apple,E,4.40
+09/07/2021,St Johns,Dominion,Black tea,E,24.19
+09/07/2021,St Johns,Dominion,Ground beef,E,11.00
+09/07/2021,St Johns,Dominion,Peanut butter,E,5.99
+09/07/2021,St Johns,Dominion,Tomato,E,4.39
+09/07/2021,St Johns,Dominion,Tuna canned,E,11.70
+10/07/2021,Happy Valley Goose Bay,Coop,Apple,E,3.60
+10/07/2021,Happy Valley Goose Bay,North Mart,Apple,E,2.50
+10/07/2021,Happy Valley Goose Bay,Coop,Black tea,E,8.45
+10/07/2021,Happy Valley Goose Bay,North Mart,Black tea,E,19.78
+10/07/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,5.17
+10/07/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.61
+10/07/2021,Happy Valley Goose Bay,Coop,Carrot,O,2.74
+10/07/2021,Happy Valley Goose Bay,North Mart,Carrot,O,3.18
+10/07/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,17.48
+10/07/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,17.48
+10/07/2021,Happy Valley Goose Bay,North Mart,Corn,O,5.98
+10/07/2021,Happy Valley Goose Bay,Coop,Corn,O,7.98
+10/07/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,16.85
+10/07/2021,Happy Valley Goose Bay,Coop,Ground beef,E,14.98
+10/07/2021,Happy Valley Goose Bay,North Mart,Orange,O,4.85
+10/07/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,6.38
+10/07/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,8.99
+10/07/2021,Happy Valley Goose Bay,Coop,Peas,O,6.65
+10/07/2021,Happy Valley Goose Bay,North Mart,Peas,O,4.30
+10/07/2021,Happy Valley Goose Bay,Coop,Tomato,E,6.15
+10/07/2021,Happy Valley Goose Bay,North Mart,Tomato,E,4.61
+10/07/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.71
+10/07/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,21.18
+10/07/2021,Happy Valley Goose Bay,Coop,White flour,O,1.88
+10/07/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.88
+10/07/2021,Nain,Franks,Apple,E,5.39
+10/07/2021,Nain,Franks,Apple,E,5.14
+10/07/2021,Nain,Franks,Black tea,E,30.79
+10/07/2021,Nain,Northern,Black tea,E,35.20
+10/07/2021,Nain,Northern,Bread whole wheat,O,7.98
+10/07/2021,Nain,Franks,Bread whole wheat,O,7.39
+10/07/2021,Nain,Franks,Bread whole wheat,O,7.32
+10/07/2021,Nain,Franks,Carrot,O,3.30
+10/07/2021,Nain,Northern,Carrot,O,4.07
+10/07/2021,Nain,Northern,Cheddar cheese,O,24.04
+10/07/2021,Nain,Franks,Cheddar cheese,O,55.50
+10/07/2021,Nain,Northern,Corn,O,6.29
+10/07/2021,Nain,Franks,Ground beef,E,17.00
+10/07/2021,Nain,Northern,Ground beef,E,20.78
+10/07/2021,Nain,Northern,Orange,O,8.29
+10/07/2021,Nain,Northern,Peanut butter,E,10.38
+10/07/2021,Nain,Franks,Peanut butter,E,13.18
+10/07/2021,Nain,Franks,Peas,O,20.33
+10/07/2021,Nain,Northern,Peas,O,10.79
+10/07/2021,Nain,Northern,Tomato,E,6.99
+10/07/2021,Nain,Franks,Tuna canned,E,21.71
+10/07/2021,Nain,Northern,Tuna canned,E,28.18
+10/07/2021,Nain,Franks,White flour,O,2.48
+11/07/2021,Baie Verte,Coop,Apple,E,5.48
+11/07/2021,Baie Verte,Coop,Black tea,E,12.10
+11/07/2021,Baie Verte,Coop,Ground beef,E,6.34
+11/07/2021,Baie Verte,Coop,Peanut butter,E,4.79
+11/07/2021,Baie Verte,Coop,Tomato,E,3.94
+11/07/2021,Baie Verte,Coop,Tuna canned,E,10.53
+12/07/2021,Corner Brook,Colemans,Apple,E,6.59
+12/07/2021,Corner Brook,Colemans,Black tea,E,14.36
+12/07/2021,Corner Brook,Colemans,Bread whole wheat,O,6.65
+12/07/2021,Corner Brook,Colemans,Ground beef,E,14.50
+12/07/2021,Corner Brook,Colemans,Orange,O,5.33
+12/07/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+12/07/2021,Corner Brook,Colemans,Tuna canned,E,32.82
+12/07/2021,Corner Brook,Colemans,White flour,O,1.80
+15/07/2021,Nain,Northern,Apple,E,5.39
+15/07/2021,Nain,Franks,Apple,E,5.14
+15/07/2021,Nain,Franks,Black tea,E,30.75
+15/07/2021,Nain,Northern,Black tea,E,30.80
+15/07/2021,Nain,Franks,Black tea,E,28.61
+15/07/2021,Nain,Franks,Black tea,E,26.86
+15/07/2021,Nain,Northern,Bread whole wheat,O,8.40
+15/07/2021,Nain,Franks,Bread whole wheat,O,7.39
+15/07/2021,Nain,Northern,Carrot,O,4.06
+15/07/2021,Nain,Northern,Cheddar cheese,O,24.04
+15/07/2021,Nain,Northern,Corn,O,6.29
+15/07/2021,Nain,Franks,Ground beef,E,16.99
+15/07/2021,Nain,Northern,Ground beef,E,20.78
+15/07/2021,Nain,Northern,Orange,O,8.29
+15/07/2021,Nain,Northern,Peanut butter,E,10.38
+15/07/2021,Nain,Franks,Peanut butter,E,12.98
+15/07/2021,Nain,Franks,Peanut butter,E,13.18
+15/07/2021,Nain,Franks,Peanut butter,E,9.49
+15/07/2021,Nain,Northern,Peas,O,10.78
+15/07/2021,Nain,Northern,Tomato,E,6.99
+15/07/2021,Nain,Franks,Tuna canned,E,21.71
+15/07/2021,Nain,Northern,Tuna canned,E,28.18
+15/07/2021,Nain,Northern,White flour,O,5.99
+15/07/2021,Nain,Franks,White flour,O,2.48
+16/07/2021,Corner Brook,Colemans,Apple,E,5.14
+16/07/2021,Corner Brook,Colemans,Black tea,E,11.49
+16/07/2021,Corner Brook,Colemans,Bread whole wheat,O,3.95
+16/07/2021,Corner Brook,Colemans,Carrot,O,4.06
+16/07/2021,Corner Brook,Colemans,Cheddar cheese,O,11.23
+16/07/2021,Corner Brook,Colemans,Corn,O,5.98
+16/07/2021,Corner Brook,Colemans,Ground beef,E,13.20
+16/07/2021,Corner Brook,Colemans,Orange,O,4.38
+16/07/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+16/07/2021,Corner Brook,Colemans,Peas,O,7.13
+16/07/2021,Corner Brook,Colemans,Tomato,E,7.68
+16/07/2021,Corner Brook,Colemans,Tuna canned,E,7.35
+16/07/2021,Corner Brook,Colemans,White flour,O,1.98
+20/07/2021,Port aux Basques,Hockeys,Apple,E,4.40
+20/07/2021,Port aux Basques,Hockeys,Black tea,E,9.51
+20/07/2021,Port aux Basques,Hockeys,Carrot,O,3.30
+20/07/2021,Port aux Basques,Hockeys,Cheddar cheese,O,17.45
+20/07/2021,Port aux Basques,Hockeys,Peanut butter,E,6.99
+20/07/2021,Port aux Basques,Hockeys,Tuna canned,E,20.59
+20/07/2021,Port aux Basques,Hockeys,White flour,O,2.80
+20/07/2021,Carbonear,Dominion,Apple,E,6.58
+20/07/2021,Carbonear,Dominion,Apple,E,6.58
+20/07/2021,Carbonear,Dominion,Black tea,E,2.57
+20/07/2021,Carbonear,Dominion,Bread whole wheat,O,4.58
+20/07/2021,Carbonear,Dominion,Carrot,O,11.74
+20/07/2021,Carbonear,Dominion,Cheddar cheese,O,17.45
+20/07/2021,Carbonear,Dominion,Corn,O,4.65
+20/07/2021,Carbonear,Dominion,Ground beef,E,10.99
+20/07/2021,Carbonear,Dominion,Orange,O,5.48
+20/07/2021,Carbonear,Dominion,Peanut butter,E,6.58
+20/07/2021,Carbonear,Dominion,Peas,O,4.65
+20/07/2021,Carbonear,Dominion,Tomato,E,8.79
+20/07/2021,Carbonear,Dominion,Tomato,E,10.99
+20/07/2021,Carbonear,Dominion,Tuna canned,E,10.53
+20/07/2021,Carbonear,Dominion,Tuna canned,E,10.53
+20/07/2021,Carbonear,Dominion,White flour,O,2.76
+20/07/2021,St Johns,Colemans,Apple,E,5.14
+20/07/2021,St Johns,Colemans,Apple,E,3.30
+20/07/2021,St Johns,Dominion,Black tea,E,13.20
+20/07/2021,St Johns,Colemans,Black tea,E,17.60
+20/07/2021,St Johns,Dominion,Ground beef,E,11.00
+20/07/2021,St Johns,Colemans,Ground beef,E,13.99
+20/07/2021,St Johns,Dominion,Peanut butter,E,6.49
+20/07/2021,St Johns,Colemans,Peanut butter,E,6.99
+20/07/2021,St Johns,Colemans,Tomato,E,5.49
+20/07/2021,St Johns,Dominion,Tomato,E,6.59
+20/07/2021,St Johns,Dominion,Tuna canned,E,11.71
+20/07/2021,St Johns,Colemans,Tuna canned,E,11.76
+22/07/2021,Clarenville,Sobeys,Apple,E,4.40
+22/07/2021,Clarenville,Coop,Apple,E,5.14
+22/07/2021,Clarenville,Sobeys,Black tea,E,19.98
+22/07/2021,Clarenville,Coop,Black tea,E,21.98
+22/07/2021,Clarenville,Sobeys,Bread whole wheat,O,4.98
+22/07/2021,Clarenville,Coop,Bread whole wheat,O,6.58
+22/07/2021,Clarenville,Coop,Carrot,O,3.84
+22/07/2021,Clarenville,Sobeys,Cheddar cheese,O,19.98
+22/07/2021,Clarenville,Coop,Cheddar cheese,O,22.48
+22/07/2021,Clarenville,Sobeys,Corn,O,5.72
+22/07/2021,Clarenville,Coop,Corn,O,6.65
+22/07/2021,Clarenville,Sobeys,Ground beef,E,7.69
+22/07/2021,Clarenville,Coop,Ground beef,E,11.99
+22/07/2021,Clarenville,Sobeys,Orange,O,4.39
+22/07/2021,Clarenville,Coop,Orange,O,6.59
+22/07/2021,Clarenville,Sobeys,Peanut butter,E,4.99
+22/07/2021,Clarenville,Coop,Peanut butter,E,6.29
+22/07/2021,Clarenville,Sobeys,Peas,O,5.72
+22/07/2021,Clarenville,Coop,Peas,O,6.65
+22/07/2021,Clarenville,Coop,Tomato,E,6.59
+22/07/2021,Clarenville,Sobeys,Tuna canned,E,8.18
+22/07/2021,Clarenville,Coop,Tuna canned,E,9.82
+22/07/2021,Clarenville,Sobeys,White flour,O,3.99
+22/07/2021,Clarenville,Coop,White flour,O,5.28
+22/07/2021,Corner Brook,Colemans,Apple,E,6.64
+22/07/2021,Corner Brook,Colemans,Black tea,E,19.15
+22/07/2021,Corner Brook,Colemans,Bread whole wheat,O,3.56
+22/07/2021,Corner Brook,Colemans,Cheddar cheese,O,14.98
+22/07/2021,Corner Brook,Colemans,Ground beef,E,8.80
+22/07/2021,Corner Brook,Colemans,Orange,O,3.72
+22/07/2021,Corner Brook,Colemans,Peanut butter,E,8.98
+22/07/2021,Corner Brook,Colemans,Tomato,E,6.64
+22/07/2021,Corner Brook,Colemans,Tuna canned,E,32.82
+22/07/2021,Corner Brook,Colemans,White flour,O,2.20
+23/07/2021,Corner Brook,Colemans,Apple,E,5.14
+23/07/2021,Corner Brook,Colemans,Black tea,E,11.49
+23/07/2021,Corner Brook,Colemans,Bread whole wheat,O,3.95
+23/07/2021,Corner Brook,Colemans,Carrot,O,4.06
+23/07/2021,Corner Brook,Colemans,Cheddar cheese,O,12.48
+23/07/2021,Corner Brook,Colemans,Corn,O,5.98
+23/07/2021,Corner Brook,Colemans,Ground beef,E,12.98
+23/07/2021,Corner Brook,Colemans,Orange,O,4.38
+23/07/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+23/07/2021,Corner Brook,Colemans,Peas,O,7.13
+23/07/2021,Corner Brook,Colemans,Tomato,E,7.68
+23/07/2021,Corner Brook,Colemans,Tuna canned,E,7.35
+23/07/2021,Corner Brook,Colemans,White flour,O,1.98
+24/07/2021,Baie Verte,Coop,Apple,E,5.48
+25/07/2021,Baie Verte,Coop,Tomato,E,5.48
+27/07/2021,Carbonear,Dominion,Black tea,E,22.58
+27/07/2021,Carbonear,Dominion,Bread whole wheat,O,4.58
+27/07/2021,Carbonear,Dominion,Carrot,O,2.57
+27/07/2021,Carbonear,Dominion,Cheddar cheese,O,19.95
+27/07/2021,Carbonear,Dominion,Corn,O,5.05
+27/07/2021,Carbonear,Dominion,Ground beef,E,9.88
+27/07/2021,Carbonear,Dominion,Orange,O,5.48
+27/07/2021,Carbonear,Dominion,Peanut butter,E,6.58
+27/07/2021,Carbonear,Dominion,Peas,O,5.05
+27/07/2021,Carbonear,Dominion,White flour,O,2.76
+29/07/2021,Corner Brook,Colemans,Apple,E,7.68
+29/07/2021,Corner Brook,Colemans,Black tea,E,9.57
+29/07/2021,Corner Brook,Colemans,Bread whole wheat,O,3.33
+29/07/2021,Corner Brook,Colemans,Ground beef,E,13.99
+29/07/2021,Corner Brook,Colemans,Orange,O,5.48
+29/07/2021,Corner Brook,Colemans,Peanut butter,E,8.98
+29/07/2021,Corner Brook,Colemans,Tomato,E,5.48
+29/07/2021,Corner Brook,Colemans,Tuna canned,E,25.76
+29/07/2021,Baie Verte,Coop,Ground beef,E,10.55
+29/07/2021,St Johns,Colemans,Apple,E,5.14
+29/07/2021,St Johns,Dominion,Apple,E,4.40
+29/07/2021,St Johns,Dominion,Black tea,E,13.20
+29/07/2021,St Johns,Colemans,Black tea,E,17.60
+29/07/2021,St Johns,Dominion,Bread whole wheat,O,4.98
+29/07/2021,St Johns,Colemans,Bread whole wheat,O,6.46
+29/07/2021,St Johns,Colemans,Cheddar cheese,O,12.48
+29/07/2021,St Johns,Dominion,Cheddar cheese,O,12.80
+29/07/2021,St Johns,Dominion,Corn,O,5.32
+29/07/2021,St Johns,Colemans,Corn,O,6.65
+29/07/2021,St Johns,Dominion,Ground beef,E,11.00
+29/07/2021,St Johns,Colemans,Ground beef,E,13.99
+29/07/2021,St Johns,Colemans,Orange,O,5.49
+29/07/2021,St Johns,Dominion,Orange,O,5.49
+29/07/2021,St Johns,Colemans,Peanut butter,E,4.99
+29/07/2021,St Johns,Dominion,Peanut butter,E,6.49
+29/07/2021,St Johns,Dominion,Peas,O,5.05
+29/07/2021,St Johns,Colemans,Peas,O,5.99
+29/07/2021,St Johns,Colemans,Tomato,E,5.49
+29/07/2021,St Johns,Dominion,Tomato,E,6.59
+29/07/2021,St Johns,Colemans,Tuna canned,E,11.76
+29/07/2021,St Johns,Dominion,Tuna canned,E,17.58
+29/07/2021,St Johns,Colemans,White flour,O,2.39
+29/07/2021,St Johns,Dominion,White flour,O,2.76
+30/07/2021,Clarenville,Sobeys,Apple,E,4.40
+30/07/2021,Clarenville,Coop,Apple,E,5.14
+30/07/2021,Clarenville,Coop,Black tea,E,13.20
+30/07/2021,Clarenville,Sobeys,Black tea,E,19.80
+30/07/2021,Clarenville,Sobeys,Bread whole wheat,O,4.98
+30/07/2021,Clarenville,Coop,Bread whole wheat,O,6.15
+30/07/2021,Clarenville,Coop,Carrot,O,3.84
+30/07/2021,Clarenville,Coop,Cheddar cheese,O,12.48
+30/07/2021,Clarenville,Sobeys,Cheddar cheese,O,19.98
+30/07/2021,Clarenville,Sobeys,Corn,O,5.72
+30/07/2021,Clarenville,Sobeys,Ground beef,E,13.21
+30/07/2021,Clarenville,Coop,Ground beef,E,15.99
+30/07/2021,Clarenville,Sobeys,Orange,O,5.49
+30/07/2021,Clarenville,Coop,Orange,O,6.59
+30/07/2021,Clarenville,Sobeys,Peanut butter,E,4.99
+30/07/2021,Clarenville,Coop,Peanut butter,E,6.29
+30/07/2021,Clarenville,Sobeys,Peas,O,5.72
+30/07/2021,Clarenville,Coop,Peas,O,6.65
+30/07/2021,Clarenville,Coop,Tomato,E,4.39
+30/07/2021,Clarenville,Sobeys,Tomato,E,5.49
+30/07/2021,Clarenville,Sobeys,Tuna canned,E,8.18
+30/07/2021,Clarenville,Coop,Tuna canned,E,9.82
+30/07/2021,Clarenville,Coop,White flour,O,1.88
+30/07/2021,Clarenville,Sobeys,White flour,O,2.20
+30/07/2021,Gander,Walmart,Apple,E,2.92
+30/07/2021,Gander,Walmart,Black tea,E,13.61
+30/07/2021,Gander,Walmart,Carrot,O,2.18
+30/07/2021,Gander,Walmart,Cheddar cheese,O,14.43
+30/07/2021,Gander,Walmart,Corn,O,4.62
+30/07/2021,Gander,Walmart,Ground beef,E,11.01
+30/07/2021,Gander,Walmart,Orange,O,3.28
+30/07/2021,Gander,Walmart,Peanut butter,E,3.97
+30/07/2021,Gander,Walmart,Tomato,E,2.14
+30/07/2021,Gander,Walmart,Tuna canned,E,6.88
+30/07/2021,Gander,Walmart,White flour,O,2.51
+30/07/2021,Baie Verte,Coop,Tuna canned,E,14.92
+30/07/2021,Rigolet,Northern,Apple,E,5.99
+30/07/2021,Rigolet,Northern,Black tea,E,32.99
+30/07/2021,Rigolet,Northern,Bread whole wheat,O,6.65
+30/07/2021,Rigolet,Northern,Carrot,O,8.79
+30/07/2021,Rigolet,Northern,Cheddar cheese,O,22.99
+30/07/2021,Rigolet,Northern,Ground beef,E,17.65
+30/07/2021,Rigolet,Northern,Orange,O,3.89
+30/07/2021,Rigolet,Northern,Peanut butter,E,1.98
+30/07/2021,Rigolet,Northern,Tomato,E,6.99
+30/07/2021,Rigolet,Northern,Tuna canned,E,22.29
+30/07/2021,Rigolet,Northern,White flour,O,2.48
+31/07/2021,Clarenville,Sobeys,Carrot,O,3.29
+31/07/2021,Clarenville,Coop,Corn,O,6.65
+31/07/2021,Baie Verte,Coop,Apple,E,5.48
+31/07/2021,Baie Verte,Coop,Black tea,E,16.14
+31/07/2021,Baie Verte,Coop,Ground beef,E,9.88
+31/07/2021,Baie Verte,Coop,Peanut butter,E,3.99
+31/07/2021,Baie Verte,Coop,Tomato,E,5.48
+31/07/2021,Baie Verte,Coop,Tuna canned,E,10.53
+31/07/2021,Happy Valley Goose Bay,North Mart,Apple,E,4.59
+31/07/2021,Happy Valley Goose Bay,North Mart,Black tea,E,16.94
+31/07/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,3.69
+31/07/2021,Happy Valley Goose Bay,North Mart,Carrot,O,3.07
+31/07/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,21.23
+31/07/2021,Happy Valley Goose Bay,North Mart,Corn,O,9.96
+31/07/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,16.99
+31/07/2021,Happy Valley Goose Bay,North Mart,Orange,O,3.79
+31/07/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,15.38
+31/07/2021,Happy Valley Goose Bay,North Mart,Peas,O,4.30
+31/07/2021,Happy Valley Goose Bay,North Mart,Tomato,E,8.78
+31/07/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,12.41
+31/07/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.80
+31/07/2021,Nain,Franks,Apple,E,5.14
+31/07/2021,Nain,Franks,Black tea,E,30.79
+31/07/2021,Nain,Franks,Carrot,O,3.30
+31/07/2021,Nain,Franks,Peanut butter,E,9.49
+31/07/2021,Nain,Franks,Tuna canned,E,14.06
+31/07/2021,Nain,Franks,Tuna canned,E,21.71
+31/07/2021,Nain,Franks,White flour,O,2.48
+02/08/2021,Baie Verte,Coop,Peanut butter,E,5.98
+03/08/2021,Carbonear,Dominion,Apple,E,6.58
+03/08/2021,Carbonear,Dominion,Black tea,E,22.58
+03/08/2021,Carbonear,Dominion,Bread whole wheat,O,3.80
+03/08/2021,Carbonear,Dominion,Carrot,O,2.57
+03/08/2021,Carbonear,Dominion,Cheddar cheese,O,19.95
+03/08/2021,Carbonear,Dominion,Corn,O,5.05
+03/08/2021,Carbonear,Dominion,Ground beef,E,10.99
+03/08/2021,Carbonear,Dominion,Orange,O,5.48
+03/08/2021,Carbonear,Dominion,Peanut butter,E,2.49
+03/08/2021,Carbonear,Dominion,Peas,O,5.05
+03/08/2021,Carbonear,Dominion,Tomato,E,6.58
+03/08/2021,Carbonear,Dominion,Tuna canned,E,5.82
+03/08/2021,Carbonear,Dominion,White flour,O,2.76
+03/08/2021,Baie Verte,Coop,Black tea,E,14.33
+05/08/2021,Port aux Basques,Hockeys,Apple,E,4.40
+05/08/2021,Port aux Basques,Hockeys,Black tea,E,23.90
+05/08/2021,Port aux Basques,Hockeys,Bread whole wheat,O,6.29
+05/08/2021,Port aux Basques,Hockeys,Cheddar cheese,O,22.48
+05/08/2021,Port aux Basques,Hockeys,Ground beef,E,11.11
+05/08/2021,Port aux Basques,Hockeys,Peanut butter,E,6.99
+05/08/2021,Port aux Basques,Hockeys,Tomato,E,7.67
+05/08/2021,Port aux Basques,Hockeys,Tuna canned,E,23.47
+05/08/2021,Port aux Basques,Hockeys,White flour,O,2.80
+05/08/2021,Nain,Northern,Apple,E,7.99
+05/08/2021,Nain,Northern,Black tea,E,50.35
+05/08/2021,Nain,Northern,Black tea,E,30.80
+05/08/2021,Nain,Northern,Bread whole wheat,O,8.40
+05/08/2021,Nain,Northern,Cheddar cheese,O,24.04
+05/08/2021,Nain,Northern,Corn,O,6.29
+05/08/2021,Nain,Northern,Ground beef,E,20.78
+05/08/2021,Nain,Northern,Orange,O,8.29
+05/08/2021,Nain,Northern,Peanut butter,E,9.69
+05/08/2021,Nain,Northern,Peas,O,10.78
+05/08/2021,Nain,Northern,Tomato,E,6.99
+05/08/2021,Nain,Northern,Tuna canned,E,28.18
+05/08/2021,Nain,Northern,White flour,O,5.99
+06/08/2021,Corner Brook,Colemans,Apple,E,5.14
+06/08/2021,Corner Brook,Colemans,Black tea,E,13.20
+06/08/2021,Corner Brook,Colemans,Bread whole wheat,O,4.39
+06/08/2021,Corner Brook,Colemans,Carrot,O,4.06
+06/08/2021,Corner Brook,Colemans,Cheddar cheese,O,14.98
+06/08/2021,Corner Brook,Colemans,Corn,O,5.98
+06/08/2021,Corner Brook,Colemans,Ground beef,E,14.49
+06/08/2021,Corner Brook,Colemans,Orange,O,4.38
+06/08/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+06/08/2021,Corner Brook,Colemans,Peas,O,5.98
+06/08/2021,Corner Brook,Colemans,Tomato,E,6.58
+06/08/2021,Corner Brook,Colemans,Tuna canned,E,7.35
+06/08/2021,Corner Brook,Colemans,White flour,O,1.25
+06/08/2021,Nain,Franks,Apple,E,5.14
+06/08/2021,Nain,Franks,Black tea,E,30.80
+06/08/2021,Nain,Franks,Carrot,O,3.30
+06/08/2021,Nain,Franks,Corn,O,7.32
+06/08/2021,Nain,Franks,Peanut butter,E,12.98
+06/08/2021,Nain,Franks,Tomato,E,6.49
+06/08/2021,Nain,Franks,Tuna canned,E,14.06
+06/08/2021,Nain,Franks,White flour,O,2.51
+06/08/2021,St Johns,Sobeys,Apple,E,5.48
+06/08/2021,St Johns,Sobeys,Black tea,E,13.17
+06/08/2021,St Johns,Sobeys,Ground beef,E,9.88
+06/08/2021,St Johns,Sobeys,Peanut butter,E,5.98
+06/08/2021,St Johns,Sobeys,Tomato,E,6.59
+06/08/2021,St Johns,Sobeys,Tuna canned,E,8.18
+09/08/2021,Carbonear,Dominion,Apple,E,6.58
+09/08/2021,Carbonear,Dominion,Black tea,E,33.56
+09/08/2021,Carbonear,Dominion,Bread whole wheat,O,3.98
+09/08/2021,Carbonear,Dominion,Carrot,O,2.93
+09/08/2021,Carbonear,Dominion,Cheddar cheese,O,19.95
+09/08/2021,Carbonear,Dominion,Corn,O,3.99
+09/08/2021,Carbonear,Dominion,Ground beef,E,9.89
+09/08/2021,Carbonear,Dominion,Orange,O,5.48
+09/08/2021,Carbonear,Dominion,Peanut butter,E,6.58
+09/08/2021,Carbonear,Dominion,Peas,O,3.99
+09/08/2021,Carbonear,Dominion,Tomato,E,6.56
+09/08/2021,Carbonear,Dominion,Tuna canned,E,7.59
+09/08/2021,Carbonear,Dominion,White flour,O,3.99
+12/08/2021,Corner Brook,Colemans,Apple,E,6.58
+12/08/2021,Corner Brook,Colemans,Black tea,E,13.17
+12/08/2021,Corner Brook,Colemans,Bread whole wheat,O,3.70
+12/08/2021,Corner Brook,Colemans,Ground beef,E,14.49
+12/08/2021,Corner Brook,Colemans,Orange,O,5.48
+12/08/2021,Corner Brook,Colemans,Peanut butter,E,4.49
+12/08/2021,Corner Brook,Colemans,Tuna canned,E,23.53
+12/08/2021,Hopedale,Franks,Apple,E,4.40
+12/08/2021,Hopedale,DJs,Black tea,E,10.26
+12/08/2021,Hopedale,Franks,Black tea,E,10.26
+12/08/2021,Hopedale,Franks,Bread whole wheat,O,7.39
+12/08/2021,Hopedale,DJs,Carrot,O,2.99
+12/08/2021,Hopedale,Franks,Carrot,O,3.29
+12/08/2021,Hopedale,Franks,Cheddar cheese,O,22.20
+12/08/2021,Hopedale,Franks,Corn,O,7.32
+12/08/2021,Hopedale,DJs,Ground beef,E,8.99
+12/08/2021,Hopedale,Franks,Ground beef,E,16.99
+12/08/2021,Hopedale,Franks,Orange,O,5.14
+12/08/2021,Hopedale,Franks,Peanut butter,E,6.49
+12/08/2021,Hopedale,DJs,Peanut butter,E,6.99
+12/08/2021,Hopedale,Franks,Peas,O,7.32
+12/08/2021,Hopedale,DJs,Tomato,E,5.99
+12/08/2021,Hopedale,Franks,Tomato,E,6.99
+12/08/2021,Hopedale,Franks,Tuna canned,E,12.88
+12/08/2021,Hopedale,DJs,Tuna canned,E,15.82
+12/08/2021,Hopedale,Franks,White flour,O,2.19
+12/08/2021,Hopedale,DJs,White flour,O,2.83
+14/08/2021,Happy Valley Goose Bay,Coop,Apple,E,15.39
+14/08/2021,Happy Valley Goose Bay,Coop,Black tea,E,28.18
+14/08/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,9.61
+14/08/2021,Happy Valley Goose Bay,Coop,Carrot,O,2.74
+14/08/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,17.48
+14/08/2021,Happy Valley Goose Bay,Coop,Corn,O,6.65
+14/08/2021,Happy Valley Goose Bay,Coop,Ground beef,E,12.53
+14/08/2021,Happy Valley Goose Bay,Coop,Orange,O,3.94
+14/08/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,5.99
+14/08/2021,Happy Valley Goose Bay,Coop,Peas,O,4.65
+14/08/2021,Happy Valley Goose Bay,Coop,Tomato,E,3.94
+14/08/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,10.50
+14/08/2021,Happy Valley Goose Bay,Coop,White flour,O,1.88
+20/08/2021,Corner Brook,Colemans,Apple,E,5.48
+20/08/2021,Corner Brook,Colemans,Black tea,E,11.76
+20/08/2021,Corner Brook,Colemans,Bread whole wheat,O,4.82
+20/08/2021,Corner Brook,Colemans,Carrot,O,4.06
+20/08/2021,Corner Brook,Colemans,Cheddar cheese,O,14.98
+20/08/2021,Corner Brook,Colemans,Corn,O,3.09
+20/08/2021,Corner Brook,Colemans,Corn,O,6.98
+20/08/2021,Corner Brook,Colemans,Ground beef,E,10.99
+20/08/2021,Corner Brook,Colemans,Orange,O,4.38
+20/08/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+20/08/2021,Corner Brook,Colemans,Peas,O,6.98
+20/08/2021,Corner Brook,Colemans,Tomato,E,5.50
+20/08/2021,Corner Brook,Colemans,Tuna canned,E,20.00
+20/08/2021,Corner Brook,Colemans,White flour,O,1.98
+21/08/2021,Nain,Franks,Apple,E,5.14
+21/08/2021,Nain,Northern,Apple,E,7.99
+21/08/2021,Nain,Franks,Black tea,E,30.80
+21/08/2021,Nain,Northern,Black tea,E,35.20
+21/08/2021,Nain,Northern,Bread whole wheat,O,11.98
+21/08/2021,Nain,Franks,Carrot,O,3.28
+21/08/2021,Nain,Northern,Carrot,O,13.19
+21/08/2021,Nain,Northern,Cheddar cheese,O,24.98
+21/08/2021,Nain,Franks,Corn,O,7.32
+21/08/2021,Nain,Northern,Corn,O,10.78
+21/08/2021,Nain,Franks,Ground beef,E,17.00
+21/08/2021,Nain,Northern,Ground beef,E,20.78
+21/08/2021,Nain,Northern,Orange,O,8.29
+21/08/2021,Nain,Franks,Peanut butter,E,9.49
+21/08/2021,Nain,Northern,Peanut butter,E,9.69
+21/08/2021,Nain,Northern,Peas,O,10.79
+21/08/2021,Nain,Northern,Tomato,E,6.99
+21/08/2021,Nain,Franks,Tuna canned,E,14.05
+21/08/2021,Nain,Franks,Tuna canned,E,28.18
+21/08/2021,Nain,Franks,White flour,O,2.48
+21/08/2021,Nain,Northern,White flour,O,4.60
+22/08/2021,Clarenville,Sobeys,Apple,E,4.40
+22/08/2021,Clarenville,Sobeys,Black tea,E,15.40
+22/08/2021,Clarenville,Sobeys,Bread whole wheat,O,4.39
+22/08/2021,Clarenville,Sobeys,Carrot,O,3.30
+22/08/2021,Clarenville,Sobeys,Cheddar cheese,O,15.73
+22/08/2021,Clarenville,Sobeys,Corn,O,4.65
+22/08/2021,Clarenville,Sobeys,Ground beef,E,13.21
+22/08/2021,Clarenville,Sobeys,Orange,O,4.40
+22/08/2021,Clarenville,Sobeys,Peanut butter,E,3.77
+22/08/2021,Clarenville,Sobeys,Peas,O,4.65
+22/08/2021,Clarenville,Sobeys,Tuna canned,E,8.18
+22/08/2021,Clarenville,Sobeys,White flour,O,2.52
+23/08/2021,Carbonear,Dominion,Apple,E,6.58
+23/08/2021,Carbonear,Dominion,Black tea,E,23.14
+23/08/2021,Carbonear,Dominion,Bread whole wheat,O,3.33
+23/08/2021,Carbonear,Dominion,Carrot,O,2.93
+23/08/2021,Carbonear,Dominion,Cheddar cheese,O,19.95
+23/08/2021,Carbonear,Dominion,Corn,O,4.65
+23/08/2021,Carbonear,Dominion,Ground beef,E,9.88
+23/08/2021,Carbonear,Dominion,Orange,O,5.48
+23/08/2021,Carbonear,Dominion,Peanut butter,E,6.58
+23/08/2021,Carbonear,Dominion,Peas,O,4.65
+23/08/2021,Carbonear,Dominion,Tomato,E,6.58
+23/08/2021,Carbonear,Dominion,Tuna canned,E,10.53
+23/08/2021,Carbonear,Dominion,White flour,O,1.99
+23/08/2021,Gander,Walmart,Apple,E,4.39
+23/08/2021,Gander,Walmart,Black tea,E,17.52
+23/08/2021,Gander,Walmart,Carrot,O,2.18
+23/08/2021,Gander,Walmart,Cheddar cheese,O,14.43
+23/08/2021,Gander,Walmart,Corn,O,4.63
+23/08/2021,Gander,Walmart,Ground beef,E,11.00
+23/08/2021,Gander,Walmart,Orange,O,4.37
+23/08/2021,Gander,Walmart,Peanut butter,E,3.77
+23/08/2021,Gander,Walmart,Tomato,E,3.27
+23/08/2021,Gander,Walmart,Tuna canned,E,6.88
+23/08/2021,Gander,Walmart,White flour,O,2.55
+28/08/2021,Baie Verte,410 Grocery,Apple,E,6.59
+28/08/2021,Baie Verte,410 Grocery,Black tea,E,10.26
+28/08/2021,Baie Verte,410 Grocery,Ground beef,E,13.19
+28/08/2021,Baie Verte,410 Grocery,Peanut butter,E,4.99
+28/08/2021,Baie Verte,410 Grocery,Tomato,E,12.09
+28/08/2021,Baie Verte,410 Grocery,Tuna canned,E,11.70
+28/08/2021,Nain,Franks,Apple,E,5.14
+28/08/2021,Nain,Northern,Apple,E,7.99
+28/08/2021,Nain,Franks,Black tea,E,30.79
+28/08/2021,Nain,Northern,Black tea,E,35.19
+28/08/2021,Nain,Northern,Bread whole wheat,O,7.98
+28/08/2021,Nain,Franks,Carrot,O,3.30
+28/08/2021,Nain,Northern,Carrot,O,13.19
+28/08/2021,Nain,Northern,Cheddar cheese,O,27.48
+28/08/2021,Nain,Northern,Corn,O,10.79
+28/08/2021,Nain,Northern,Ground beef,E,20.76
+28/08/2021,Nain,Northern,Orange,O,8.29
+28/08/2021,Nain,Northern,Peanut butter,E,6.89
+28/08/2021,Nain,Franks,Peanut butter,E,9.49
+28/08/2021,Nain,Northern,Peas,O,10.79
+28/08/2021,Nain,Franks,Tomato,E,6.49
+28/08/2021,Nain,Northern,Tomato,E,6.99
+28/08/2021,Nain,Franks,Tuna canned,E,14.06
+28/08/2021,Nain,Northern,Tuna canned,E,28.18
+28/08/2021,Nain,Franks,White flour,O,2.48
+28/08/2021,Nain,Northern,White flour,O,4.60
+29/08/2021,Corner Brook,Colemans,Apple,E,6.58
+29/08/2021,Corner Brook,Colemans,Black tea,E,19.15
+29/08/2021,Corner Brook,Colemans,Bread whole wheat,O,4.82
+29/08/2021,Corner Brook,Colemans,Ground beef,E,8.79
+29/08/2021,Corner Brook,Colemans,Peanut butter,E,8.98
+29/08/2021,Corner Brook,Colemans,Tomato,E,5.48
+29/08/2021,Corner Brook,Colemans,Tuna canned,E,23.53
+29/08/2021,Happy Valley Goose Bay,North Mart,Apple,E,4.59
+29/08/2021,Happy Valley Goose Bay,North Mart,Black tea,E,14.25
+29/08/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.17
+29/08/2021,Happy Valley Goose Bay,North Mart,Carrot,O,3.07
+29/08/2021,Happy Valley Goose Bay,North Mart,Carrot,E,4.38
+29/08/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,22.48
+29/08/2021,Happy Valley Goose Bay,North Mart,Corn,O,3.85
+29/08/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,14.29
+29/08/2021,Happy Valley Goose Bay,North Mart,Orange,O,4.82
+29/08/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,7.38
+29/08/2021,Happy Valley Goose Bay,North Mart,Peas,O,5.98
+29/08/2021,Happy Valley Goose Bay,North Mart,Tomato,E,6.58
+29/08/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+29/08/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.79
+30/08/2021,Clarenville,Sobeys,Apple,E,4.40
+30/08/2021,Clarenville,Sobeys,Black tea,E,15.40
+30/08/2021,Clarenville,Sobeys,Bread whole wheat,O,4.37
+30/08/2021,Clarenville,Sobeys,Carrot,O,3.29
+30/08/2021,Clarenville,Sobeys,Cheddar cheese,O,12.48
+30/08/2021,Clarenville,Sobeys,Corn,O,3.32
+30/08/2021,Clarenville,Sobeys,Ground beef,E,12.76
+30/08/2021,Clarenville,Sobeys,Orange,O,4.40
+30/08/2021,Clarenville,Sobeys,Peanut butter,E,4.99
+30/08/2021,Clarenville,Sobeys,Peas,O,3.32
+30/08/2021,Clarenville,Sobeys,Tomato,E,3.73
+30/08/2021,Clarenville,Sobeys,Tuna canned,E,16.41
+30/08/2021,Clarenville,Sobeys,White flour,O,2.20
+31/08/2021,Carbonear,Dominion,Apple,E,6.58
+31/08/2021,Carbonear,Dominion,Black tea,E,33.56
+31/08/2021,Carbonear,Dominion,Bread whole wheat,O,3.33
+31/08/2021,Carbonear,Dominion,Carrot,O,2.93
+31/08/2021,Carbonear,Dominion,Cheddar cheese,O,19.95
+31/08/2021,Carbonear,Dominion,Corn,O,4.65
+31/08/2021,Carbonear,Dominion,Ground beef,E,13.19
+31/08/2021,Carbonear,Dominion,Orange,O,5.48
+31/08/2021,Carbonear,Dominion,Peanut butter,E,5.98
+31/08/2021,Carbonear,Dominion,Peas,O,4.65
+31/08/2021,Carbonear,Dominion,Tomato,E,6.58
+31/08/2021,Carbonear,Dominion,Tuna canned,E,8.76
+31/08/2021,Carbonear,Dominion,White flour,O,2.60
+31/08/2021,Rigolet,Northern,Apple,E,5.49
+31/08/2021,Rigolet,Northern,Black tea,E,26.65
+31/08/2021,Rigolet,Northern,Carrot,O,6.80
+31/08/2021,Rigolet,Northern,Cheddar cheese,O,26.41
+31/08/2021,Rigolet,Northern,Orange,O,3.89
+31/08/2021,Rigolet,Northern,Peanut butter,E,13.98
+31/08/2021,Rigolet,Northern,Tuna canned,E,22.30
+31/08/2021,Rigolet,Northern,White flour,O,2.48
+03/09/2021,Corner Brook,Colemans,Apple,E,5.14
+03/09/2021,Corner Brook,Colemans,Black tea,E,13.82
+03/09/2021,Corner Brook,Colemans,Carrot,O,3.08
+03/09/2021,Corner Brook,Colemans,Cheddar cheese,O,14.98
+03/09/2021,Corner Brook,Colemans,Corn,O,4.98
+03/09/2021,Corner Brook,Colemans,Ground beef,E,13.94
+03/09/2021,Corner Brook,Colemans,Orange,O,4.39
+03/09/2021,Corner Brook,Colemans,Peas,O,6.98
+03/09/2021,Corner Brook,Colemans,Tomato,E,4.38
+03/09/2021,Corner Brook,Colemans,Tuna canned,E,7.35
+03/09/2021,Corner Brook,Colemans,White flour,O,1.98
+05/09/2021,Baie Verte,Coop,Apple,E,5.48
+05/09/2021,Baie Verte,Coop,Black tea,E,19.78
+05/09/2021,Baie Verte,Coop,Ground beef,E,11.00
+05/09/2021,Baie Verte,Coop,Peanut butter,E,3.77
+05/09/2021,Baie Verte,Coop,Tomato,E,6.58
+05/09/2021,Baie Verte,Coop,Tuna canned,E,10.53
+06/09/2021,Carbonear,Dominion,Apple,E,6.59
+06/09/2021,Carbonear,Dominion,Black tea,E,33.56
+06/09/2021,Carbonear,Dominion,Bread whole wheat,O,3.33
+06/09/2021,Carbonear,Dominion,Carrot,O,2.93
+06/09/2021,Carbonear,Dominion,Cheddar cheese,O,19.95
+06/09/2021,Carbonear,Dominion,Corn,O,4.65
+06/09/2021,Carbonear,Dominion,Ground beef,E,9.88
+06/09/2021,Carbonear,Dominion,Orange,O,5.48
+06/09/2021,Carbonear,Dominion,Peanut butter,E,5.98
+06/09/2021,Carbonear,Dominion,Peas,O,4.65
+06/09/2021,Carbonear,Dominion,Tomato,E,6.58
+06/09/2021,Carbonear,Dominion,Tuna canned,E,5.88
+06/09/2021,Carbonear,Dominion,White flour,O,3.99
+06/09/2021,St Johns,Colemans,Apple,E,5.14
+06/09/2021,St Johns,Colemans,Black tea,E,21.98
+06/09/2021,St Johns,Colemans,Bread whole wheat,O,4.07
+06/09/2021,St Johns,Colemans,Carrot,O,3.52
+06/09/2021,St Johns,Colemans,Cheddar cheese,O,14.98
+06/09/2021,St Johns,Colemans,Corn,O,6.65
+06/09/2021,St Johns,Colemans,Ground beef,E,13.99
+06/09/2021,St Johns,Colemans,Orange,O,5.49
+06/09/2021,St Johns,Colemans,Peanut butter,E,4.99
+06/09/2021,St Johns,Colemans,Peas,O,5.99
+06/09/2021,St Johns,Colemans,Tuna canned,E,7.35
+06/09/2021,St Johns,Colemans,White flour,O,2.60
+09/09/2021,Corner Brook,Colemans,Apple,E,6.58
+09/09/2021,Corner Brook,Colemans,Black tea,E,14.30
+09/09/2021,Corner Brook,Colemans,Bread whole wheat,O,8.51
+09/09/2021,Corner Brook,Colemans,Ground beef,E,13.71
+09/09/2021,Corner Brook,Colemans,Peanut butter,E,8.49
+09/09/2021,Corner Brook,Colemans,Tomato,E,4.38
+09/09/2021,Corner Brook,Colemans,Tuna canned,E,23.53
+11/09/2021,Baie Verte,Coop,Apple,E,5.48
+11/09/2021,Baie Verte,Coop,Black tea,E,19.77
+11/09/2021,Baie Verte,Coop,Ground beef,E,6.34
+11/09/2021,Baie Verte,Coop,Peanut butter,E,5.49
+11/09/2021,Baie Verte,Coop,Tomato,E,4.38
+11/09/2021,Baie Verte,Coop,Tuna canned,E,10.53
+11/09/2021,Happy Valley Goose Bay,Coop,Apple,E,4.39
+11/09/2021,Happy Valley Goose Bay,Coop,Black tea,E,8.44
+11/09/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,1.79
+11/09/2021,Happy Valley Goose Bay,Coop,Carrot,O,2.74
+11/09/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,17.47
+11/09/2021,Happy Valley Goose Bay,Coop,Corn,O,4.78
+11/09/2021,Happy Valley Goose Bay,Coop,Ground beef,E,14.53
+11/09/2021,Happy Valley Goose Bay,Coop,Orange,O,6.59
+11/09/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,6.00
+11/09/2021,Happy Valley Goose Bay,Coop,Peas,O,7.12
+11/09/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,10.53
+11/09/2021,Happy Valley Goose Bay,Coop,White flour,O,5.61
+17/09/2021,Corner Brook,Colemans,Apple,E,8.78
+17/09/2021,Corner Brook,Colemans,Black tea,E,9.57
+17/09/2021,Corner Brook,Colemans,Bread whole wheat,O,4.07
+17/09/2021,Corner Brook,Colemans,Bread whole wheat,O,4.07
+17/09/2021,Corner Brook,Colemans,Carrot,O,2.75
+17/09/2021,Corner Brook,Colemans,Cheddar cheese,O,14.98
+17/09/2021,Corner Brook,Colemans,Corn,O,6.65
+17/09/2021,Corner Brook,Colemans,Ground beef,E,13.98
+17/09/2021,Corner Brook,Colemans,Orange,O,3.72
+17/09/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+17/09/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+17/09/2021,Corner Brook,Colemans,Peas,O,6.65
+17/09/2021,Corner Brook,Colemans,Tomato,E,6.58
+17/09/2021,Corner Brook,Colemans,Tuna canned,E,9.82
+17/09/2021,Corner Brook,Colemans,White flour,O,1.57
+18/09/2021,Baie Verte,Coop,Apple,E,3.72
+18/09/2021,Baie Verte,Coop,Black tea,E,19.77
+18/09/2021,Baie Verte,Coop,Ground beef,E,11.00
+18/09/2021,Baie Verte,Coop,Peanut butter,E,5.49
+18/09/2021,Baie Verte,Coop,Tomato,E,4.38
+18/09/2021,Baie Verte,Coop,Tuna canned,E,10.53
+20/09/2021,Clarenville,Sobeys,Apple,E,6.58
+20/09/2021,Clarenville,Sobeys,Black tea,E,21.98
+20/09/2021,Clarenville,Sobeys,Bread whole wheat,O,4.37
+20/09/2021,Clarenville,Sobeys,Carrot,O,3.29
+20/09/2021,Clarenville,Sobeys,Cheddar cheese,O,12.43
+20/09/2021,Clarenville,Sobeys,Corn,O,3.00
+20/09/2021,Clarenville,Sobeys,Ground beef,E,13.21
+20/09/2021,Clarenville,Sobeys,Orange,O,5.48
+20/09/2021,Clarenville,Sobeys,Peanut butter,E,4.75
+20/09/2021,Clarenville,Sobeys,Peas,O,3.00
+20/09/2021,Clarenville,Sobeys,Tomato,E,6.58
+20/09/2021,Clarenville,Sobeys,Tuna canned,E,7.82
+20/09/2021,Clarenville,Sobeys,White flour,O,1.99
+21/09/2021,Corner Brook,Colemans,Apple,E,6.58
+21/09/2021,Corner Brook,Colemans,Black tea,E,9.56
+21/09/2021,Corner Brook,Colemans,Bread whole wheat,O,4.07
+21/09/2021,Corner Brook,Colemans,Ground beef,E,13.99
+21/09/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+21/09/2021,Corner Brook,Colemans,Tomato,E,5.48
+21/09/2021,Corner Brook,Colemans,Tuna canned,E,32.82
+25/09/2021,Baie Verte,Coop,Apple,E,5.48
+25/09/2021,Baie Verte,Coop,Black tea,E,16.14
+25/09/2021,Baie Verte,Coop,Ground beef,E,12.10
+25/09/2021,Baie Verte,Coop,Peanut butter,E,5.99
+25/09/2021,Baie Verte,Coop,Tomato,E,3.72
+25/09/2021,Baie Verte,Coop,Tuna canned,E,10.53
+28/09/2021,Carbonear,Dominion,Apple,E,5.48
+28/09/2021,Carbonear,Dominion,Black tea,E,33.55
+28/09/2021,Carbonear,Dominion,Bread whole wheat,O,3.33
+28/09/2021,Carbonear,Dominion,Carrot,O,2.57
+28/09/2021,Carbonear,Dominion,Cheddar cheese,O,19.95
+28/09/2021,Carbonear,Dominion,Corn,O,4.65
+28/09/2021,Carbonear,Dominion,Ground beef,E,13.19
+28/09/2021,Carbonear,Dominion,Orange,O,5.48
+28/09/2021,Carbonear,Dominion,Peanut butter,E,6.58
+28/09/2021,Carbonear,Dominion,Peas,O,4.65
+28/09/2021,Carbonear,Dominion,Tomato,E,6.58
+28/09/2021,Carbonear,Dominion,Tuna canned,E,10.53
+28/09/2021,Carbonear,Dominion,White flour,O,1.60
+28/09/2021,Clarenville,Sobeys,Apple,E,6.59
+28/09/2021,Clarenville,Sobeys,Cheddar cheese,O,19.98
+28/09/2021,Clarenville,Sobeys,Corn,O,7.30
+28/09/2021,Clarenville,Sobeys,Corn,O,5.58
+28/09/2021,Clarenville,Sobeys,Ground beef,E,4.69
+28/09/2021,Clarenville,Sobeys,Orange,O,5.48
+28/09/2021,Clarenville,Sobeys,Peanut butter,E,4.99
+28/09/2021,Clarenville,Sobeys,Peas,O,3.98
+28/09/2021,Clarenville,Sobeys,Tomato,E,6.59
+28/09/2021,Clarenville,Sobeys,Tuna canned,E,8.76
+28/09/2021,Clarenville,Sobeys,White flour,O,2.20
+30/09/2021,Corner Brook,Colemans,Apple,E,7.68
+30/09/2021,Corner Brook,Colemans,Black tea,E,22.91
+30/09/2021,Corner Brook,Colemans,Bread whole wheat,O,3.70
+30/09/2021,Corner Brook,Colemans,Ground beef,E,13.99
+30/09/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+30/09/2021,Corner Brook,Colemans,Tomato,E,5.48
+30/09/2021,Corner Brook,Colemans,Tuna canned,E,23.52
+01/10/2021,Rigolet,Northern,Black tea,E,26.44
+01/10/2021,Rigolet,Northern,Bread whole wheat,O,6.65
+01/10/2021,Rigolet,Northern,Carrot,O,2.41
+01/10/2021,Rigolet,Northern,Cheddar cheese,O,25.89
+01/10/2021,Rigolet,Northern,Corn,O,4.00
+01/10/2021,Rigolet,Northern,Ground beef,E,18.99
+01/10/2021,Rigolet,Northern,Orange,O,3.29
+01/10/2021,Rigolet,Northern,Peanut butter,E,13.98
+01/10/2021,Rigolet,Northern,Tuna canned,E,22.30
+01/10/2021,Rigolet,Northern,White flour,O,2.48
+02/10/2021,Baie Verte,Coop,Apple,E,5.48
+02/10/2021,Baie Verte,Coop,Black tea,E,21.00
+02/10/2021,Baie Verte,Coop,Ground beef,E,9.88
+02/10/2021,Baie Verte,Coop,Peanut butter,E,7.98
+02/10/2021,Baie Verte,Coop,Tomato,E,6.58
+02/10/2021,Baie Verte,Coop,Tuna canned,E,10.53
+02/10/2021,Happy Valley Goose Bay,North Mart,Apple,E,4.59
+02/10/2021,Happy Valley Goose Bay,North Mart,Black tea,E,14.25
+02/10/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.17
+02/10/2021,Happy Valley Goose Bay,North Mart,Carrot,O,3.07
+02/10/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,22.47
+02/10/2021,Happy Valley Goose Bay,North Mart,Corn,O,5.98
+02/10/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,15.79
+02/10/2021,Happy Valley Goose Bay,North Mart,Orange,O,3.39
+02/10/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,6.99
+02/10/2021,Happy Valley Goose Bay,North Mart,Peas,O,5.98
+02/10/2021,Happy Valley Goose Bay,North Mart,Tomato,E,8.78
+02/10/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+02/10/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.79
+05/10/2021,Carbonear,Dominion,Apple,E,5.48
+05/10/2021,Carbonear,Dominion,Black tea,E,33.55
+05/10/2021,Carbonear,Dominion,Bread whole wheat,O,3.33
+05/10/2021,Carbonear,Dominion,Carrot,O,2.57
+05/10/2021,Carbonear,Dominion,Cheddar cheese,O,19.95
+05/10/2021,Carbonear,Dominion,Corn,O,5.05
+05/10/2021,Carbonear,Dominion,Ground beef,E,10.99
+05/10/2021,Carbonear,Dominion,Peanut butter,E,6.58
+05/10/2021,Carbonear,Dominion,Peas,O,5.05
+05/10/2021,Carbonear,Dominion,Tomato,E,5.93
+05/10/2021,Carbonear,Dominion,Tuna canned,E,10.53
+05/10/2021,Carbonear,Dominion,White flour,O,3.99
+05/10/2021,Hopedale,Franks,Apple,E,6.49
+05/10/2021,Hopedale,DJs,Apple,E,15.39
+05/10/2021,Hopedale,DJs,Black tea,E,21.90
+05/10/2021,Hopedale,Franks,Black tea,E,30.79
+05/10/2021,Hopedale,Franks,Cheddar cheese,O,24.78
+05/10/2021,Hopedale,DJs,Ground beef,E,16.99
+05/10/2021,Hopedale,Franks,Ground beef,E,16.99
+05/10/2021,Hopedale,Franks,Peanut butter,E,6.99
+05/10/2021,Hopedale,DJs,Tomato,E,6.99
+05/10/2021,Hopedale,Franks,Tomato,E,6.99
+05/10/2021,Hopedale,DJs,Tuna canned,E,12.88
+05/10/2021,Hopedale,Franks,Tuna canned,E,12.88
+05/10/2021,Hopedale,Franks,White flour,O,2.51
+07/10/2021,Corner Brook,Colemans,Apple,E,7.68
+07/10/2021,Corner Brook,Colemans,Black tea,E,17.58
+07/10/2021,Corner Brook,Colemans,Bread whole wheat,O,4.07
+07/10/2021,Corner Brook,Colemans,Carrot,O,3.07
+07/10/2021,Corner Brook,Colemans,Cheddar cheese,O,13.73
+07/10/2021,Corner Brook,Colemans,Corn,O,4.98
+07/10/2021,Corner Brook,Colemans,Corn,O,5.98
+07/10/2021,Corner Brook,Colemans,Ground beef,E,13.99
+07/10/2021,Corner Brook,Colemans,Orange,O,0.45
+07/10/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+07/10/2021,Corner Brook,Colemans,Peas,O,5.98
+07/10/2021,Corner Brook,Colemans,Tomato,E,4.38
+07/10/2021,Corner Brook,Colemans,Tuna canned,E,10.00
+07/10/2021,Corner Brook,Colemans,White flour,O,1.98
+11/10/2021,Baie Verte,410 Grocery,Apple,E,7.69
+11/10/2021,Baie Verte,410 Grocery,Black tea,E,8.77
+11/10/2021,Baie Verte,410 Grocery,Ground beef,E,12.99
+11/10/2021,Baie Verte,410 Grocery,Peanut butter,E,6.99
+11/10/2021,Baie Verte,410 Grocery,Tomato,E,5.49
+11/10/2021,Baie Verte,410 Grocery,Tuna canned,E,9.82
+12/10/2021,Carbonear,Dominion,Apple,E,5.48
+12/10/2021,Carbonear,Dominion,Black tea,E,33.55
+12/10/2021,Carbonear,Dominion,Bread whole wheat,O,3.98
+12/10/2021,Carbonear,Dominion,Carrot,O,1.83
+12/10/2021,Carbonear,Dominion,Cheddar cheese,O,19.95
+12/10/2021,Carbonear,Dominion,Corn,O,3.32
+12/10/2021,Carbonear,Dominion,Ground beef,E,13.19
+12/10/2021,Carbonear,Dominion,Peanut butter,E,6.58
+12/10/2021,Carbonear,Dominion,Peas,O,3.32
+12/10/2021,Carbonear,Dominion,Tomato,E,6.58
+12/10/2021,Carbonear,Dominion,Tuna canned,E,10.52
+12/10/2021,Carbonear,Dominion,White flour,O,1.99
+14/10/2021,Corner Brook,Colemans,Apple,E,3.67
+14/10/2021,Corner Brook,Colemans,Carrot,O,3.67
+14/10/2021,Corner Brook,Colemans,Cheddar cheese,O,14.98
+14/10/2021,Corner Brook,Colemans,Ground beef,E,19.80
+14/10/2021,Corner Brook,Colemans,Orange,O,2.93
+14/10/2021,Corner Brook,Colemans,Tomato,E,5.48
+14/10/2021,Corner Brook,Colemans,Tuna canned,E,10.00
+14/10/2021,Corner Brook,Colemans,White flour,O,1.28
+16/10/2021,Baie Verte,Coop,Apple,E,5.04
+16/10/2021,Baie Verte,Coop,Black tea,E,21.03
+16/10/2021,Baie Verte,Coop,Ground beef,E,13.21
+16/10/2021,Baie Verte,Coop,Peanut butter,E,4.99
+16/10/2021,Baie Verte,Coop,Tomato,E,5.48
+16/10/2021,Baie Verte,Coop,Tuna canned,E,10.52
+17/10/2021,Happy Valley Goose Bay,Coop,Apple,E,4.38
+17/10/2021,Happy Valley Goose Bay,North Mart,Apple,E,4.59
+17/10/2021,Happy Valley Goose Bay,Coop,Black tea,E,8.44
+17/10/2021,Happy Valley Goose Bay,North Mart,Black tea,E,15.84
+17/10/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,5.17
+17/10/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.17
+17/10/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,17.48
+17/10/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,17.47
+17/10/2021,Happy Valley Goose Bay,Coop,Corn,O,3.93
+17/10/2021,Happy Valley Goose Bay,North Mart,Corn,O,5.98
+17/10/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,17.17
+17/10/2021,Happy Valley Goose Bay,Coop,Ground beef,E,1.32
+17/10/2021,Happy Valley Goose Bay,Coop,Orange,O,3.94
+17/10/2021,Happy Valley Goose Bay,North Mart,Orange,O,4.82
+17/10/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,6.99
+17/10/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,6.00
+17/10/2021,Happy Valley Goose Bay,Coop,Peas,O,3.98
+17/10/2021,Happy Valley Goose Bay,North Mart,Peas,O,4.29
+17/10/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,10.52
+17/10/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,11.70
+17/10/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.79
+17/10/2021,Happy Valley Goose Bay,Coop,White flour,O,1.79
+18/10/2021,Corner Brook,Colemans,Apple,E,7.69
+18/10/2021,Corner Brook,Colemans,Black tea,E,22.92
+18/10/2021,Corner Brook,Colemans,Bread whole wheat,O,3.70
+18/10/2021,Corner Brook,Colemans,Ground beef,E,14.31
+18/10/2021,Corner Brook,Colemans,Peanut butter,E,10.58
+18/10/2021,Corner Brook,Colemans,Tomato,E,5.48
+18/10/2021,Corner Brook,Colemans,Tuna canned,E,23.53
+21/10/2021,Corner Brook,Colemans,Apple,E,6.61
+21/10/2021,Corner Brook,Colemans,Bread whole wheat,O,6.49
+21/10/2021,Corner Brook,Colemans,Cheddar cheese,O,12.48
+21/10/2021,Corner Brook,Colemans,Orange,O,4.39
+21/10/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+21/10/2021,Corner Brook,Colemans,Tomato,E,5.48
+21/10/2021,Corner Brook,Colemans,Tuna canned,E,17.58
+21/10/2021,Corner Brook,Colemans,White flour,O,1.57
+26/10/2021,Baie Verte,Coop,Apple,E,3.30
+26/10/2021,Baie Verte,Coop,Black tea,E,19.36
+26/10/2021,Baie Verte,Coop,Ground beef,E,6.35
+26/10/2021,Baie Verte,Coop,Peanut butter,E,6.65
+26/10/2021,Baie Verte,Coop,Tuna canned,E,10.53
+30/10/2021,Happy Valley Goose Bay,Coop,Apple,E,3.28
+30/10/2021,Happy Valley Goose Bay,North Mart,Apple,E,4.59
+30/10/2021,Happy Valley Goose Bay,Coop,Black tea,E,10.04
+30/10/2021,Happy Valley Goose Bay,North Mart,Black tea,E,17.40
+30/10/2021,Happy Valley Goose Bay,Coop,Bread whole wheat,O,5.17
+30/10/2021,Happy Valley Goose Bay,North Mart,Bread whole wheat,O,5.17
+30/10/2021,Happy Valley Goose Bay,Coop,Carrot,O,2.74
+30/10/2021,Happy Valley Goose Bay,North Mart,Carrot,O,3.07
+30/10/2021,Happy Valley Goose Bay,Coop,Cheddar cheese,O,17.48
+30/10/2021,Happy Valley Goose Bay,North Mart,Cheddar cheese,O,17.48
+30/10/2021,Happy Valley Goose Bay,North Mart,Corn,O,3.58
+30/10/2021,Happy Valley Goose Bay,Coop,Corn,O,3.98
+30/10/2021,Happy Valley Goose Bay,North Mart,Ground beef,E,14.49
+30/10/2021,Happy Valley Goose Bay,Coop,Ground beef,E,14.57
+30/10/2021,Happy Valley Goose Bay,North Mart,Orange,O,3.39
+30/10/2021,Happy Valley Goose Bay,Coop,Orange,O,3.95
+30/10/2021,Happy Valley Goose Bay,Coop,Peanut butter,E,5.99
+30/10/2021,Happy Valley Goose Bay,North Mart,Peanut butter,E,8.99
+30/10/2021,Happy Valley Goose Bay,Coop,Peas,O,3.98
+30/10/2021,Happy Valley Goose Bay,North Mart,Peas,O,3.98
+30/10/2021,Happy Valley Goose Bay,Coop,Tuna canned,E,10.52
+30/10/2021,Happy Valley Goose Bay,North Mart,Tuna canned,E,11.70
+30/10/2021,Happy Valley Goose Bay,North Mart,White flour,O,1.79
+30/10/2021,Happy Valley Goose Bay,Coop,White flour,O,1.80
+31/10/2021,Baie Verte,Coop,Apple,E,4.38
+31/10/2021,Baie Verte,Coop,Black tea,E,10.99
+31/10/2021,Baie Verte,Coop,Ground beef,E,13.21
+31/10/2021,Baie Verte,Coop,Peanut butter,E,5.29
+31/10/2021,Baie Verte,Coop,Tuna canned,E,8.82
+03/11/2021,Rigolet,Northern,Apple,E,4.40
+03/11/2021,Rigolet,Northern,Black tea,E,26.44
+03/11/2021,Rigolet,Northern,Bread whole wheat,O,6.65
+03/11/2021,Rigolet,Northern,Carrot,O,2.41
+03/11/2021,Rigolet,Northern,Cheddar cheese,O,26.41
+03/11/2021,Rigolet,Northern,Ground beef,E,22.59
+03/11/2021,Rigolet,Northern,Orange,O,3.89
+03/11/2021,Rigolet,Northern,Peanut butter,E,9.98
+03/11/2021,Rigolet,Northern,Tomato,E,5.99
+03/11/2021,Rigolet,Northern,Tuna canned,E,22.29
+03/11/2021,Rigolet,Northern,White flour,O,2.48
+03/11/2021,Nain,Franks,Black tea,E,30.79
+03/11/2021,Nain,Franks,Ground beef,E,16.99
+03/11/2021,Nain,Franks,Peanut butter,E,13.18
+03/11/2021,Nain,Franks,Tomato,E,6.49
+03/11/2021,Nain,Franks,Tuna canned,E,33.47
+04/11/2021,Corner Brook,Colemans,Apple,E,8.79
+04/11/2021,Corner Brook,Colemans,Carrot,O,4.39
+04/11/2021,Corner Brook,Colemans,Cheddar cheese,O,12.48
+04/11/2021,Corner Brook,Colemans,Ground beef,E,10.99
+04/11/2021,Corner Brook,Colemans,Orange,O,3.67
+04/11/2021,Corner Brook,Colemans,Peanut butter,E,4.99
+13/11/2021,Baie Verte,Coop,Apple,E,5.48
+13/11/2021,Baie Verte,Coop,Black tea,E,15.60
+13/11/2021,Baie Verte,Coop,Ground beef,E,12.10
+13/11/2021,Baie Verte,Coop,Peanut butter,E,5.29
+13/11/2021,Baie Verte,Coop,Tomato,E,8.78
+13/11/2021,Baie Verte,Coop,Tuna canned,E,10.53
+15/11/2021,Gander,Walmart,Apple,E,3.65
+15/11/2021,Gander,Walmart,Black tea,E,17.52
+15/11/2021,Gander,Walmart,Carrot,O,2.18
+15/11/2021,Gander,Walmart,Cheddar cheese,O,11.43
+15/11/2021,Gander,Walmart,Ground beef,E,8.75
+15/11/2021,Gander,Walmart,Orange,O,4.37
+15/11/2021,Gander,Walmart,Peanut butter,E,3.27
+15/11/2021,Gander,Walmart,Tomato,E,4.34
+15/11/2021,Gander,Walmart,Tuna canned,E,6.88
+15/11/2021,Gander,Walmart,White flour,O,2.39
+07/12/2021,Port Hope Simpson,JC Variety,Black tea,E,32.01
+07/12/2021,Port Hope Simpson,P & B Supermarket,Black tea,E,47.94
+07/12/2021,Port Hope Simpson,JC Variety,Carrot,O,6.59
+07/12/2021,Port Hope Simpson,JC Variety,Cheddar cheese,O,25.35
+07/12/2021,Port Hope Simpson,P & B Supermarket,Corn,O,5.40
+07/12/2021,Port Hope Simpson,JC Variety,Corn,O,6.65
+07/12/2021,Port Hope Simpson,JC Variety,Ground beef,E,23.58
+07/12/2021,Port Hope Simpson,P & B Supermarket,Ground beef,E,13.95
+07/12/2021,Port Hope Simpson,P & B Supermarket,Peanut butter,E,12.30
+07/12/2021,Port Hope Simpson,JC Variety,Peanut butter,E,12.78
+07/12/2021,Port Hope Simpson,JC Variety,Peas,O,6.65
+07/12/2021,Port Hope Simpson,P & B Supermarket,Tomato,E,7.95
+07/12/2021,Port Hope Simpson,JC Variety,Tomato,E,9.49
+07/12/2021,Port Hope Simpson,JC Variety,Tomato,E,4.27
+07/12/2021,Port Hope Simpson,JC Variety,Tuna canned,E,20.29
+07/12/2021,Port Hope Simpson,JC Variety,White flour,O,3.20

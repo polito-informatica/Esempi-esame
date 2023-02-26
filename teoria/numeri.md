@@ -241,3 +241,33 @@ Spiegare come sono rappresentati i numeri reali nell'elaboratore.
 
 Data l'equazione 12(i)+10(i)=112(3) dove i numeri 12 e 10 sono espressi in una base ignota (i) e il 112 è espresso in
 base 3, trovare la base ignota (i)
+
+## 34
+
+Ordinare in ordine crescente i seguenti numeri codificati in complemento a 2
+ed espressi in esadecimale: (a) A000 (b) 0A00 (c) FFFF (d) 0011
+
+## 35
+
+I seguenti numeri esadecimali rappresentano numeri binari codificati in complemento a 2 su 8 bit. Riportare tali numeri in ordine crescente di valore. (Non è necessario scrivere il valore decimale corrispondente).
+
+    01 A2 B2 32 80 7F FF
+
+## 36 
+
+Data una rappresentazione in complemento a 2 su 6 bit, indicare in binario e in ottale il più piccolo e il più grande valore rappresentabili.
+
+## 37
+
+Trasformare i tre numeri seguenti in complemento a 2 su 6 bit:
+
+1. +60
+2. -60
+3. +70
+
+## 38
+
+Eseguire le seguenti operazioni dopo aver convertito gli operandi, espressi in base 10, in complemento a due su 8 bit:
+
+1.    53 - 35
+2.    62 - 13

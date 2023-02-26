@@ -16,15 +16,24 @@ propria preparazione personale.
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2022/2023.
 
-- [Gestione conto ristorante](./esami2022-23/gestione_conto_ristorante) (30-31/01/2023)
-- [Gestione costi stampa](./esami2022-23/gestione_costi_stampa)  (30-31/01/2023)
-- [Impact factor](./esami2022-23/impact_factor) (30-31/01/2023)
-- [Polizia](./esami2022-23/polizia) (30-31/01/2023)
+Secondo appello (13-14/02/2023)
+- [Paniere dei prezzi in Newfoundland](./esami2022-23/paniere_prezzi_newfoundland)
+- [Gestione stazioni meteo](./esami2022-23/gestione_stazioni_meteo)
+- [Verifica requisiti di Laurea](./esami2022-23/verifica_requisiti_laurea)
+- [Verifica requisiti di Laurea](./esami2022-23/estrazioni_lotto)
+- [Gestione risultati di una gara podistica](./esami2022-23/gara_podistica)
+
+
+Primo appello (30-31/01/2023):
+- [Gestione conto ristorante](./esami2022-23/gestione_conto_ristorante) 
+- [Gestione costi stampa](./esami2022-23/gestione_costi_stampa)
+- [Impact factor](./esami2022-23/impact_factor)
+- [Polizia](./esami2022-23/polizia)
   - Soluzione proposta: [Video](https://youtu.be/e7KRSKSfkBM) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Esami/polizia)
-- [Gestione del prestito PC aziendali](./esami2022-23/prestito_pc_aziendali) (30-31/01/2023)
-- [Traiettorie Droni](./esami2022-23/traiettorie_droni) (30-31/01/2023)
-- [Viaggio della slitta](./esami2022-23/viaggio_della_slitta) (30-31/01/2023)
-- [Voti](./esami2022-23/voti) (30-31/01/2023)
+- [Gestione del prestito PC aziendali](./esami2022-23/prestito_pc_aziendali)
+- [Traiettorie Droni](./esami2022-23/traiettorie_droni)
+- [Viaggio della slitta](./esami2022-23/viaggio_della_slitta)
+- [Voti](./esami2022-23/voti)
 
 # Selezione di testi d'esame del 2021/2022
 

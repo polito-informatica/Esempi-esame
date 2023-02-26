@@ -148,3 +148,20 @@ applica.
 ## 29
 
 Qual è la differenza tra liste e insiemi?
+
+## 30
+
+Come si esegue un controllo di flusso in Python utilizzando "if", "elif" e "else"? Fornire un esempio
+
+## 31
+
+Spiegare la differenza tra liste e tuple. Una funzione puo' restituire una tupla? E una lista?
+
+## 32
+
+Nel linguaggio Python, cosa si intende quando si parla della differenza tra la *copia*
+di una lista e un *alias* alla lista stessa? Fornire un esempio.
+
+## 33
+
+Quali sono le principali caratteristiche di un insieme in Python?

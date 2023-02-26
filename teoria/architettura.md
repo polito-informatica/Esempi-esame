@@ -134,3 +134,36 @@ Spiegare qual è la funzione del clock. Cosa si intende per periodo e per freque
 
 Indicare brevemente quali sono le caratteristiche di un moderno computer portatile, in termini di velocità di clock,
 memoria RAM, hard disk, display.
+
+## 32
+
+Descrivere il ruolo dell'instruction register e del program counter nelle tre fasi fondamentali di esecuzione di un'istruzione da parte della CPU.
+
+## 33
+
+Date le seguenti due funzioni Booleane F e G, verificare e dimostrare l' eventuale equivalenza logica.
+
+F(A,B,C) = NOT(A + B x C) + NOT(A)
+
+G(A,B,C) = A x (B + C) + NOT(A)
+
+Nota: '+' operatore OR; 'x' operatore AND
+
+## 34
+
+Qual è il ruolo della Floating Point Unit in una CPU?
+
+## 35
+
+Spiegare perché in un sistema di elaborazione è presente una gerarchia di memoria.
+
+## 36
+
+La memoria RAM di un sistema di elaborazione ha un parallelismo di 8 bit.
+Avendo a disposizione 1024 celle di memoria, quanti numeri rappresentati in 
+virgola mobile (doppia precisione) è possibile memorizzare in tali celle?
+
+## 37
+
+Quali sono le funzioni dell'unità di controllo?
+
