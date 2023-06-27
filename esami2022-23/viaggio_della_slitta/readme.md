@@ -65,15 +65,15 @@ Si assuma che i file siano privi di errori.
 ### Esempio di percorso visualizzato in output
 
     Consegnato Bacchetta a Harry Potter (VE)
-        Viaggio di 639.5210019580376 km
+        Viaggio di 395.70216525174317 km
     Consegnato Cioccolato a Ron Weasley (TO)
-        Viaggio di 914.7292650198566 km
+        Viaggio di 555.4852774876166 km
     Consegnato Libro a Hermione Granger (RM)
-        Viaggio di 396.44941684588036 km
+        Viaggio di 0.0 km
     Consegnato Animale a Newt Scamander (RM)
         Viaggio di 396.44941684588036 km
     Consegnato Mantello a Rubeus Hagrid (BA)
-        Viaggio di 474.53863170537545 km
+        Viaggio di 397.3080031954206 km
     Consegnato Serpente a Draco Malfoy (ME)
         Viaggio di 150.3085087723676 km
     Consegnato Gioiello a Luna Lovegood (PA)
