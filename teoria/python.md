@@ -182,3 +182,26 @@ Che cosa succede se dopo aver costruito l'insieme Python `colori` come segue:
 colori = set(['bianco','giallo','verde','rosso','viola'])
 ``` 
 viene eseguita la riga di codice `print(colori[2])`? Motivare la risposta.
+
+## 37 
+
+Come si può fare in Python a convertire una stringa in maiuscolo?
+
+## 38 
+
+È possibile usare una lista come chiave di un dizionario Python? E una tupla?
+Rispondere si o no, motivando la risposta.
+
+## 39
+
+In una funzione Python, qual è la differenza tra argomenti e valori restituiti?
+Quanti argomenti può avere una invocazione di funzione?
+E quanti valori può restituire una funzione?
+
+## 40 
+
+Quali sono le differenze tra lista e set?
+
+## 41
+
+Come si può fare in Python a convertire un carattere numerico in intero?

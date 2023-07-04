@@ -178,3 +178,24 @@ Qual è la funzione della memoria principale (o primaria) in un calcolatore?
 ## 40
 
 Descrivere il concetto di ciclo macchina esplicitandone le varie fasi.
+
+## 41
+
+Che cosa è la RAM ? A cosa serve?
+
+## 42
+
+Quali sono le funzioni del BUS?
+
+## 43
+
+Spiegare cosa sono e a cosa servono i bus. Quali tipi di bus esistono?
+
+## 44
+
+Spiegare il concetto di gerarchia della memoria.
+
+## 45
+
+Che cosa è la ALU ? A cosa serve?
+

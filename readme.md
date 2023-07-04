@@ -17,7 +17,11 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 2022/2023.
 
 Terzo appello (30/06/2023):
-- [Campeggio](./esami2022-23/campeggio)  _new_
+- [Battaglia Navale](./esami2022-23/battaglia_navale)
+- [Capitan Nemo](./esami2022-23/capitan_nemo)
+- [Campeggio](./esami2022-23/campeggio)
+- [Enterprise](./esami2022-23/enterprise)
+- [Torneo calcio](./esami2022-23/torneo_calcio)
 
 
 Secondo appello (13-14/02/2023):

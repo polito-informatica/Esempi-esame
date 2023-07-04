@@ -294,3 +294,30 @@ quali sono i valori rappresentati?
 
 1.    001101
 2.    110011
+
+## 42
+
+Ordinare in ordine crescente i seguenti numeri su 8 bit rappresentati in esadecimale in complemento a due: CB, 7F, AA
+
+## 43
+
+Trasformare i due numeri seguenti espressi in base esadecimale in: (a) base 2, (b) base 4 e (c) base 8
+
+    AB15
+    12FF
+
+## 44
+
+Data l'equazione 12<sub>(i)</sub>+10<sub>(i)</sub>=16<sub>(10)</sub> dove i numeri 12 e 10 sono espressi in 
+una base ignota (i) e il 16 è espresso in base 10, trovare la base ignota (i).
+
+## 45
+
+Trasformare i due numeri seguenti espressi in base esadecimale in: (a) base 2, (b) base 4 e (c) base 8
+
+    C2A4
+    A0C3
+
+## 46
+
+Ordinare in ordine crescente i seguenti numeri su 8 bit rappresentati in esadecimale in complemento a due: 5B, 4F, DA

@@ -1,0 +1,6 @@
+Inter:Milan:2:2
+Juventus:Roma:1:0
+Milan:Juventus:0:1
+Roma:Inter:1:2
+Inter:Juventus:2:1
+Roma:Milan:0:0

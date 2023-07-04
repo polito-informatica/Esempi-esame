@@ -1,0 +1,5 @@
+Terra,10,150
+Vulcan,7,100
+Kronos,12,200
+Andoria,9,120
+Betazed,6,80

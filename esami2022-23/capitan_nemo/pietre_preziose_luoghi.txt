@@ -1,0 +1,5 @@
+Atlantide,Pietra dell'Anima,Opale Marino
+Grande Barriera Corallina,Corallo Nero,Pietra di Luna,Perla
+Mariana Trench,Topazio,Quarzo Fumé,Perla,Pietra dell'Anima
+Pacific Rim,Corallo Nero,Pietra di Luna,Opale Marino
+Atlantide,Pietra dell'Anima,Opale Marino,Quarzo Fumé,Perla

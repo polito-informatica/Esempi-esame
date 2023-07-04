@@ -1,0 +1,8 @@
+Terra,Inglese,Cinese,Spagnolo
+Vulcan,Vulcaniano,Golic Vulcan
+Kronos,Klingonese,Orioni
+Andoria,Andoriano,Klingonese,Vulcaniano
+Betazed,Betazoid,Lapis
+Romulus,Romulano,Inglese,Klingonese,Vulcaniano
+QonoS,Klingonese,Inglese
+Cardassia,Cardassiano,Inglese,Cinese
