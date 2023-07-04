@@ -16,6 +16,10 @@ propria preparazione personale.
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2022/2023.
 
+Terzo appello (30/06/2023):
+- [Campeggio](./esami2022-23/campeggio)  _new_
+
+
 Secondo appello (13-14/02/2023):
 - [Paniere dei prezzi in Newfoundland](./esami2022-23/paniere_prezzi)
 - [Gestione stazioni meteo](./esami2022-23/stazioni_meteo)

@@ -1,0 +1,10 @@
+id_cliente;arrivo;partenza;tipo_abitazione;numero_adulti;numero_bambini;elettricità
+1;01/06/23;09/06/23;tenda;2;0;sì
+2;01/06/23;05/06/23;camper;2;1;no
+3;01/06/23;05/06/23;camper;2;2;sì
+4;05/06/23;15/06/23;tenda;2;2;no
+5;10/06/23;20/06/23;tenda;5;0;sì
+6;10/06/23;25/06/23;camper;2;2;sì
+7;20/06/23;30/06/23;camper;3;1;sì
+8;30/06/23;05/07/23;tenda;5;0;no
+9;30/06/23;10/07/23;camper;1;0;no
