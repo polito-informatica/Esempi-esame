@@ -9,25 +9,23 @@ particolare, il programma deve:
 - leggere le informazioni relative ai clienti dal file `occupazione.txt`. Tale file contiene delle righe formattate come
   nel seguente esempio:
 
+      id_cliente;arrivo;partenza;tipo_abitazione;numero_adulti;numero_bambini;elettricità
+      1;01/06/23;09/06/23;tenda;2;0;sì
+      2;01/06/23;05/06/23;camper;2;1;no
+      ...
 
-    id_cliente;arrivo;partenza;tipo_abitazione;numero_adulti;numero_bambini;elettricità
-    1;01/06/23;09/06/23;tenda;2;0;sì
-    2;01/06/23;05/06/23;camper;2;1;no
-    ...
-
-In particolare, in ogni riga sono riportati: l'id del cliente, la data di arrivo e di partenza, il tipo di abitazione (
+  In particolare, in ogni riga sono riportati: l'id del cliente, la data di arrivo e di partenza, il tipo di abitazione (
 tenda o camper), il numero di adulti e di bambini, e se il cliente intende utilizzare l'elettricità (sì o no);
 
 - leggere le informazioni relative ai prezzi, per periodo, dal file prezzi.txt. Tale file contiene delle righe
   formattate come nel seguente esempio:
 
+      dal;al;prezzo_tenda;prezzo_camper;prezzo_persona;prezzo_elettricità;
+      01/06/23;07/06/23;8.00;15.00;2.00;1.00;
+      08/06/23;14/06/23;10.00;17.00;2.00;1.00;
+      ...
 
-    dal;al;prezzo_tenda;prezzo_camper;prezzo_persona;prezzo_elettricità;
-    01/06/23;07/06/23;8.00;15.00;2.00;1.00;
-    08/06/23;14/06/23;10.00;17.00;2.00;1.00;
-    ...
-
-In particolare, ogni riga contiene i prezzi relativi a ogni periodo: da quando a quando i prezzi sono validi, il prezzo
+  In particolare, ogni riga contiene i prezzi relativi a ogni periodo: da quando a quando i prezzi sono validi, il prezzo
 per una tenda, il prezzo per un camper, il prezzo per ogni persona (non c'è differenza tra adulti e bambini) e il prezzo
 per l'uso dell'elettricità. I prezzi sono giornalieri;
 
@@ -39,9 +37,9 @@ per l'uso dell'elettricità. I prezzi sono giornalieri;
   restituire un output stampato su schermo, formattato come segue:
 
 
-    cliente: 1, arrivo: 01/06/23, partenza: 09/06/23, tipo: tenda, persone: 2, elettricità: sì, prezzo: 106.0, numero notti: 8
-    cliente: 2, arrivo: 01/06/23, partenza: 05/06/23, tipo: camper, persone: 3, elettricità: no, prezzo: 84.0, numero notti: 4
-    ...
+      cliente: 1, arrivo: 01/06/23, partenza: 09/06/23, tipo: tenda, persone: 2, elettricità: sì, prezzo: 106.0, numero notti: 8
+      cliente: 2, arrivo: 01/06/23, partenza: 05/06/23, tipo: camper, persone: 3, elettricità: no, prezzo: 84.0, numero notti: 4
+      ...
 
 - il programma deve gestire eventuali eccezioni in apertura dei file.
 
