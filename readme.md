@@ -19,7 +19,7 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 Terzo appello (30/06/2023):
 - [Battaglia Navale](./esami2022-23/battaglia_navale)
 - [Capitan Nemo](./esami2022-23/capitan_nemo)
-- [Campeggio](./esami2022-23/campeggio)
+- [Campeggio](./esami2022-23/campeggio) ([Soluzione](./esami2022-23/campeggio/soluzione.py))
 - [Enterprise](./esami2022-23/enterprise)
 - [Torneo calcio](./esami2022-23/torneo_calcio)
 
@@ -32,7 +32,7 @@ Secondo appello (13-14/02/2023):
 - [Gestione risultati di una gara podistica](./esami2022-23/gara_podistica)
 - [Stabilimento balneare](./esami2022-23/stabilimento_balneare)
 - [Ricerca Comuni](./esami2022-23/ricerca_comuni)
-- [Gestione Allarmi Robot](./esami2022-23/allarmi_robot)
+- [Gestione Allarmi Robot](./esami2022-23/allarmi_robot) ([Soluzione](./esami2022-23/allarmi_robot/soluzione.py))
 
 
 Primo appello (30-31/01/2023):
@@ -43,7 +43,7 @@ Primo appello (30-31/01/2023):
   - Soluzione proposta: [Video](https://youtu.be/e7KRSKSfkBM) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Esami/polizia)
 - [Gestione del prestito PC aziendali](./esami2022-23/prestito_pc_aziendali)
 - [Traiettorie Droni](./esami2022-23/traiettorie_droni)
-- [Viaggio della slitta](./esami2022-23/viaggio_della_slitta)
+- [Viaggio della slitta](./esami2022-23/viaggio_della_slitta) ([Soluzione](./esami2022-23/viaggio_della_slitta/soluzione.py))
 - [Voti](./esami2022-23/voti)
 
 # Selezione di testi d'esame del 2021/2022
