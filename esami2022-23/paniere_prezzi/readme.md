@@ -52,7 +52,7 @@ Si scriva un programma Python che supporti le analisi della provincia. Il progra
 #### Output del programma (stampato a monitor; Apple, Ground beef, Bread e q sono inseriti dall'utente, senza asterischi)
 
 ```
-Prodotti: 
+Prodotti:
 - Apple
 - Black tea
 - Ground beef
@@ -60,43 +60,42 @@ Prodotti:
 - Tomato
 - Tuna canned
 
-Colemans: 
-- Apple: 3.30 $/chilo
-- Black tea: 11.40 $/chilo
-- Ground beef: 10.99 $/chilo
-- Peanut butter: 10.58 $/chilo
-- Tomato: 4.38 $/chilo
-- Tuna canned: 10.00 $/chilo
+Colemans
+- Apple: 3.3 $/kg
+- Black tea: 8.79 $/kg
+- Ground beef: 7.69 $/kg
+- Peanut butter: 4.49 $/kg
+- Tomato: 4.38 $/kg
+- Tuna canned: 7.35 $/kg
 
-Sobeys: 
-- Apple: 3.30 $/chilo
-- Black tea: 13.17 $/chilo
-- Ground beef: 10.10 $/chilo
-- Peanut butter: 10.98 $/chilo
-- Tomato: 12.10 $/chilo
-- Tuna canned: 10.53 $/chilo
+Sobeys
+- Apple: 3.3 $/kg
+- Black tea: 13.17 $/kg
+- Ground beef: 4.69 $/kg
+- Peanut butter: 2.98 $/kg
+- Tomato: 2.18 $/kg
+- Tuna canned: 7.18 $/kg
 
-Walmart: 
-- Apple: 2.92 $/chilo
-- Black tea: 13.61 $/chilo
-- Ground beef: 11.00 $/chilo
-- Peanut butter: 3.27 $/chilo
-- Tomato: 2.14 $/chilo
-- Tuna canned: 10.70 $/chilo
+Walmart
+- Apple: 2.92 $/kg
+- Black tea: 9.45 $/kg
+- Ground beef: 8.75 $/kg
+- Peanut butter: 3.27 $/kg
+- Tomato: 2.14 $/kg
+- Tuna canned: 5.12 $/kg
 
-Che cibo vuoi cercare? (q per smettere) 
+Che cibo vuoi cercare? (q per smettere)
 *Apple*
-Prezzo minimo: 2.92 $/chilo da Walmart
+Prezzo minimo: 2.5 $/kg da North Mart
 
 Che cibo vuoi cercare? (q per smettere) 
 *Ground beef*
-Prezzo minimo: 10.10 $/chilo da Sobeys
+Prezzo minimo: 1.32 $/kg da Coop
 
-Che cibo vuoi cercare? (q per smettere) 
+Che cibo vuoi cercare? (q per smettere)
 *Bread*
-Prodotto non disponibile
+Cibo Bread non trovato
 
-Che cibo vuoi cercare? (q per smettere) 
-*q*
+Che cibo vuoi cercare? (q per smettere) q
 Arrivederci
 ```
