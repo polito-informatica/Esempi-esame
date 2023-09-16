@@ -1,20 +1,14 @@
-# Esempi di esercizi simil-esame
-
-I seguenti esercizi sono delle esercitazioni, di difficoltà simile a quella dell'esame, per esercitarsi e migliorare la
-propria preparazione personale.
-
-- [Codifica e decodifica Morse](esempi/morse)
-- [Gioco 'Dinosauri'](esempi/dinosauri)
-- [Plotter](esempi/plotter)
-- [Poker](esempi/poker)
-- [Potenze del binomio](esempi/potenze_binomio)
-- [Statistiche sui comuni italiani](esempi/statistiche_comuni)
-- [Qualità della vita](esempi/qdv)
-
 # Testi d'esame del 2022/2023
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2022/2023.
+
+Quarto appello (19/09/2023):
+- [Statistiche Calciatori](./esami2022-23/statistiche_calciatori/)
+- [Profilo di temperatura](./esami2022-23/profilo_temperatura/)
+- [Biblioteche](./esami2022-23/biblioteche/)
+- [Pedaggi autostradali](./esami2022-23/pedaggi_autostradali/)
+- [Tempesta](./esami2022-23/tempesta/)
 
 Terzo appello (30/06/2023):
 - [Battaglia Navale](./esami2022-23/battaglia_navale)
@@ -85,10 +79,24 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 - [Piramidi](esami2020-21/piramidi)
 - [Ricette](esami2020-21/ricette)
 
-# Selezione di quesiti di teoria del 2020/2021 e 2021/22
+# Altri esempi di esercizi simil-esame
 
-I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
-2020/2021.
+I seguenti esercizi sono delle esercitazioni, di difficoltà simile a quella dell'esame, per esercitarsi e migliorare la
+propria preparazione personale.
+
+- [Codifica e decodifica Morse](esempi/morse)
+- [Gioco 'Dinosauri'](esempi/dinosauri)
+- [Plotter](esempi/plotter)
+- [Poker](esempi/poker)
+- [Potenze del binomio](esempi/potenze_binomio)
+- [Statistiche sui comuni italiani](esempi/statistiche_comuni)
+- [Qualità della vita](esempi/qdv)
+
+
+# Selezione di quesiti di teoria dal 2020 al 2023
+
+I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli degli annio accademici
+2020/2021, 2021/2022 e 2022/2023.
 
 - [Esercizi sui sistemi di numerazione](teoria/numeri.md)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/JfSvRRgj35Q),

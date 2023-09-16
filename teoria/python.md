@@ -205,3 +205,23 @@ Quali sono le differenze tra lista e set?
 ## 41
 
 Come si può fare in Python a convertire un carattere numerico in intero?
+
+## 42
+
+In un insieme (set) di Python, quale caratteristica fondamentale deve avere il tipo di dato memorizzato?
+
+## 43
+
+Descrivere il costrutto try/except. Motivare la risposta con un (brevissimo) esempio.
+
+## 44
+
+Quali sono le caratteristiche principali degli insiemi (set) in Python? Quali sono le differenze fondamentali tra liste e insiemi?
+
+## 45
+
+Nella gestione delle eccezioni, quando è eseguita la clausola except? Aggiungere un (breve) esempio esplicativo in Python
+
+## 46
+
+Come si può determinare se una stringa sia trasformabile in un int?

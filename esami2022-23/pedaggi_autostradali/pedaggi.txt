@@ -1,0 +1,14 @@
+Torino;Settimo Torinese;1.30
+Settimo Torinese;Volpiano;1.00
+Volpiano;Rondissone;2.10
+Rondissone;Borgo d'Ale;2.10
+Borgo d'Ale;Santhia;1.30
+Santhia;Carisio;0.30
+Carisio;Balocco;0.70
+Balocco;Greggio;0.90
+Greggio;Biandrate;1.00
+Biandrate;Novara;1.00 
+Novara;Marcallo Mesero;3.20
+Marcallo Mesero;Arluno;0.70
+Arluno;Rho;0.90
+Rho;Milano;2.90

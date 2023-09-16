@@ -321,3 +321,30 @@ Trasformare i due numeri seguenti espressi in base esadecimale in: (a) base 2, (
 ## 46
 
 Ordinare in ordine crescente i seguenti numeri su 8 bit rappresentati in esadecimale in complemento a due: 5B, 4F, DA
+
+## 47
+
+Trasformare i due numeri seguenti in binario puro ed espressi in base esadecimale in:
+
+(a) base 2, (b) base 4 e (c) base 8
+
+    F1A7
+    1A43
+
+## 48 
+
+Dati i numeri A=1AF e B=8F02, in complemento a 2 (Ca2) espressi in base esadecimale, calcolare PRIMA la differenza A-B in binario Ca2 e POI riportare il risultato anche in decimale ed esadecimale. Dire inoltre se si verifica overflow.
+
+## 49 
+
+Si converta il numero 43 dalla base 6 alla base 7, spiegando i passaggi principali.
+
+## 50
+
+Sono dati i seguenti due numeri su 8 bit rappresentati in esadecimale in complemento a due: 0x73 e 0x99. Calcolare la loro somma.
+
+## 51
+
+Sommare la seguente coppia di numeri esadecimali considerandoli in complemento a 2 (CA2) e in Modulo e Segno (MS). Segnalare eventuali overflow.
+
+AA35 69BE

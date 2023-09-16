@@ -199,3 +199,22 @@ Spiegare il concetto di gerarchia della memoria.
 
 Che cosa è la ALU ? A cosa serve?
 
+## 46
+
+Quali sono le funzioni della ALU?
+
+## 47 
+
+Calcolare la massima dimensione di memoria allocabile in un sistema con un Address Bus di 24 bit e parallelismo di 16 byte. Esprimere il risultato nel massimo multiplo di byte possibile, mantenendo il valore comunque maggiore o uguale ad 1 (esempio: 128 kB, non 0.1 MB).
+
+## 48 
+
+Cosa sono il Program Counter (PC) e l'Instruction Register (IR)? Dove si trovano? Che ruolo hanno nel meccanismo di esecuzione delle istruzioni?
+
+## 49
+
+Spiegare cosa si intende per bus e quali sono le sue funzioni.
+
+## 50
+
+Descrivere il ruolo dell'unità operativa e i suoi componenti.
