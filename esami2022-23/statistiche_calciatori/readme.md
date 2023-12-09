@@ -36,7 +36,7 @@ Il programma deve stampare in output su schermo le suenti 3 informazioni.
 
 3. La squadra con l'attacco più efficace. L'efficacia dell'attacco di una squadra si calcola sommando l'efficacia dei suoi tre attaccanti più efficaci. La squadra con l'attacco più efficace è quella con la somma maggiore. ***A parità di squadre con l'attacco più efficace si stampi solo la prima in elenco***.
 
-***Suggerimento***: L'efficacia di tutti gli attaccanti è nota risolvendo il primo punto. Ordinando gli attaccanti per efficacia decrescente, occorre individuare per ogni squadra i suoi primi tre attaccanti in elenco, fare la media della loro efficacia, e ordinare l'elenco. ***Si supponga che il file sia corretto e contenga almeno tre attaccanti per ogni squadra***.
+***Suggerimento***: L'efficacia di tutti gli attaccanti è nota risolvendo il primo punto. Ordinando gli attaccanti per efficacia decrescente, occorre individuare per ogni squadra i suoi primi tre attaccanti in elenco, fare la somma della loro efficacia, e ordinare l'elenco. ***Si supponga che il file sia corretto e contenga almeno tre attaccanti per ogni squadra***.
 
 ## Esempio
 
@@ -70,8 +70,7 @@ Il programma deve stampare in output su schermo le suenti 3 informazioni.
     United States con 25.85 anni
     Ghana con 26.50 anni
 
-    La nazionale con l'attacco più efficace è England:
-    Callum Wilson con efficacia 0.021
-    Marcus Rashford con efficacia 0.014
-    Harry Kane con efficacia 0.012
-
+    La nazionale con l'attacco più efficace è Germany:
+    Niclas Füllkrug con efficacia 0.043
+    Leroy Sané con efficacia 0.009
+    Jonas Hofmann con efficacia 0.000
