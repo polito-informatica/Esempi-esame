@@ -99,16 +99,25 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 2020/2021, 2021/2022 e 2022/2023.
 
 - [Esercizi sui sistemi di numerazione](teoria/numeri.md)
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/1mSoNKT-0JE),
+      tratto dalle lezioni del 2023/24,
+      e [appunti della lezione](https://github.com/polito-informatica/Settimane2023/blob/main/Settimana14/esercizi_numerazione.txt)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/JfSvRRgj35Q),
       tratto dalle lezioni del 2022/23,
       e [appunti della lezione](https://github.com/polito-info-2022/Settimane/raw/master/Settimana14/TEORIA/L42-esercizi-numeri.pdf)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/NHuU4cKeDfM), tratto dalle lezioni del 2021/22
 - [Esercizi sull'architettura degli elaboratori](teoria/architettura.md)
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/hpcGqYonUPo),
+      tratto dalle lezioni del 2023/24,
+      e [appunti della lezione](https://github.com/polito-informatica/Settimane2023/blob/main/Settimana14/esercizi_architetture.txt)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/4UqjZzzJ1g8),
       tratto dalle lezioni del 2022/23,
       e [appunti della lezione](https://github.com/polito-info-2022/Settimane/raw/master/Settimana14/TEORIA/L43-esercizi-architetture.pdf)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/1BNqThR1YWU), tratto dalle lezioni del 2021/22
 - [Esercizi sulla programmazione in Python](teoria/python.md)
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/gxrnq7ChKws),
+      tratto dalle lezioni del 2023/24,
+      e [appunti della lezione](https://github.com/polito-informatica/Settimane2023/blob/main/Settimana14/esercizi_programmazione.txt)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/dmap7bnlb9s),
       tratto dalle lezioni del 2022/23,
       e [appunti della lezione](https://github.com/polito-info-2022/Settimane/raw/master/Settimana14/TEORIA/L44-esercizi-Python.pdf)
