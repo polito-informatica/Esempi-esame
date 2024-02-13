@@ -348,3 +348,78 @@ Sono dati i seguenti due numeri su 8 bit rappresentati in esadecimale in complem
 Sommare la seguente coppia di numeri esadecimali considerandoli in complemento a 2 (CA2) e in Modulo e Segno (MS). Segnalare eventuali overflow.
 
 AA35 69BE
+
+## 52
+
+Si considerino le seguenti operazioni in complemento a due su 8 bit (per comodità rappresentate in base 16). Il risultato dell'operazione è corretto. Si indichi, nei tre diversi casi, se si è verificato overflow, motivando la risposta data.
+
+(a) 6D + 82 = EF
+
+(b) 6D - 82 = EB
+
+(c) EF + EB = DA
+
+## 53
+
+Trasformare il numero F1A2 in complemento a 2 espresso in base esadecimale in: (a) base 2, (b) base 8
+
+## 54
+
+Dati i numeri A = 11001011 e B = 01010011, espressi su 8 bit, effettuare la somma considerandoli: 1. in binario puro 2. in modulo e segno 3. in complemento a due.
+
+Dire se le operazioni di somma creano overlow. Riportare i risultati in base 10.
+
+## 55
+
+Ordinare in ordine crescente le seguenti codifiche espresse in esadecimale, interpretando la corrispondente rappresentazione binaria secondo la codifica in binario puro e in complemento a 2:
+
+0001 
+
+FFFF 
+
+A001 
+
+3001
+
+## 56
+
+In quale base è giusta la seguente operazione:
+
+21 x 12 = 302
+
+## 57
+
+Emulare il comportamento dell'unità aritmetico-logica di una CPU a 8-bit indicando il risultato che verrà memorizzato in uno dei registri interni a seguito della somma tra i due numeri in CA2 di seguito rappresentati in base 16:
+
+    B7 
+    4E 
+
+Si riportino i passaggi principali dell'operazione indicando l'eventuale overflow
+
+## 58
+
+Assumendo di avere a disposizione 7 bit, indicare il minimo e massimo valore in complemento a due e modulo e segno in decimale e in binario.
+
+## 59
+
+Trasformare i due numeri seguenti espressi in base esadecimale in:
+
+(a) base 2, (b) base 4 e (c) base 8
+
+    B9CF
+    6224
+
+## 60
+
+Sono dati tre numeri espressi su 6 bit: 110010, 010110, 101100. Ordinarli dal più piccolo al più grande considerandoli: 1. in binario puro 2. in complemento a 2 3. in modulo e segno
+
+Motivare la risposta (convertendo i numeri in base 10 oppure con una spiegazione teorica).
+
+## 61
+
+Trasformare i due numeri seguenti in binario puro ed espressi in base esadecimale in:
+
+(a) base 2, (b) base 4 e (c) base 8
+
+    B2A6 
+    4AFF

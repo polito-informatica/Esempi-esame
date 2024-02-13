@@ -225,3 +225,84 @@ Nella gestione delle eccezioni, quando è eseguita la clausola except? Aggiunger
 ## 46
 
 Come si può determinare se una stringa sia trasformabile in un int?
+
+## 47
+
+Si consideri il seguente codice Python, che vorrebbe creare una lista dei numeri da 0 a 9, ma che genera un errore `AttributeError: 'NoneType' object has no attribute 'append'`. Si spieghi il motivo dell'errore e si corregga il codice (basta indicare la singola istruzione da correggere).
+
+```python
+    a = []
+    for i in range(10):
+        a = a.append(i)
+    print(a)
+```
+
+## 48
+
+Spiegare brevemente la differenza tra Set e Dizionari in Python.
+
+## 49
+
+Qual è la differenza tra warning ed eccezioni? Come vengono gestite queste ultime in Python? Motivare la risposta con un breve esempio.
+
+## 50
+
+In una funzione Python, qual è la differenza tra argomenti e valori restituiti?
+
+## 51
+
+Dati due insiemi così definiti: `colori_1 = set(["bianco","rosso","verde","giallo"])` e `colori_2 = set(["rosa","azzurro","nero","marrone"])`, cosa stamperà la seguente istruzione?
+
+```python
+print(len(colori_1.intersection(colori_2)))
+```
+
+## 52
+
+La funzione `read_list_of_studs()` intende ritornare una lista di record, ciascuno con i seguenti campi `'nome'`, `'cognome'`, `'matricola'`. Cosa c'e' di errato nel codice che segue? Dare una risposta sintetica ma esaustiva, indicando una possibile soluzione al problema.
+
+```python
+def read_list_of_studs(): 
+    lista = [] 
+    stud = {} 
+    for i in range(2): 
+        stud['nome'] = input("Nome: ") 
+        stud['cognome'] = input("Cognome: ") 
+        stud['matricola'] = input("Matricola: ") 
+        lista.append(stud) 
+    return lista
+```
+
+## 53
+
+Costruire un esempio di un dizionario che usa come chiave una coppia di valori (tupla) a cui è associato un valore stringa.
+
+## 54 
+
+Un insieme (set) di Python può contenere delle liste? si/no e perchè?
+
+## 55
+
+Quali sono i tipi di dato immutabili in Python? È possibile assegnare un nuovo valore ad una variabile il cui tipo di dato è immutabile?
+
+## 56
+
+Spiegare brevemente cosa fa il codice seguente, evidenziando soprattutto cosa stampa a video e se contiene errori.
+
+```python
+NOME_FILE = "mary.txt"
+
+filastrocca = open(NOME_FILE, "r", encoding="utf-8")
+righe = filastrocca.readlines()
+
+for riga in filastrocca:
+    riga = riga.strip()
+    parole = riga.split()
+    for parola in parole:
+        parola_pulita = parola.strip(',."?').lower()
+        print(parola_pulita)
+
+filastrocca.close()
+```
+
+

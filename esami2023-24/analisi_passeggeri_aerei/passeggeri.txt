@@ -1,0 +1,11 @@
+nome_passeggero,età,sesso,origine,destinazione,numero_volo
+Michael Jackson,50,M,Chicago,Miami,AA123
+Beyoncé,35,F,Miami,Chicago,AA124
+John Smith,30,M,New York,Los Angeles,UA123
+Jane Doe,25,F,New York,New York,UA123
+Madonna,55,F,New York,New York,UA123
+Barack Obama,60,M,Washington DC,London,BA123
+Michelle Obama,58,F,Washington DC,London,BA124
+Elon Musk,50,M,Austin,Tokyo,DL123
+Greta Thunberg,18,F,Stockholm,Paris,AF123
+Jeff Bezos,58,M,Seattle,San Francisco,DL1277

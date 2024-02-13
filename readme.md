@@ -1,3 +1,21 @@
+# Testi d'esame del 2023/2024
+
+I seguenti esercizi sono tratti dai testi d'esame proposti nei diversi appelli dell'anno accademico
+2022/2023.
+
+Primo appello (05-06/02/2024):
+- [Anti Plagio Musicale](./esami2023-24/anti_plagio_musicale/)
+- [Analisi dei passeggeri delle compagnie aeree](./esami2023-24/analisi_passeggeri_aerei/)
+- [Circuiti combinatori](./esami2023-24/circuiti_combinatori/)
+- [Emissioni di CO2](./esami2023-24/emissioni_co2/)
+- [Calcolo delle statistiche di una gara di Trial](./esami2023-24/gara_trial/)
+- [Gli esploratori nel deserto](./esami2023-24/esploratori_deserto/)
+- [Superenalotto](./esami2023-24/superenalotto/)
+- [Analisi degli Hashtag di Tendenza su GigglyGram](./esami2023-24/analisi_hashtag/)
+- [Trovare l'uscita da un labirinto](./esami2023-24/uscita_labirinto/)
+- [Forza quattro](./esami2023-24/forza_quattro/)
+
+
 # Testi d'esame del 2022/2023
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
@@ -93,10 +111,10 @@ propria preparazione personale.
 - [Qualità della vita](esempi/qdv)
 
 
-# Selezione di quesiti di teoria dal 2020 al 2023
+# Selezione di quesiti di teoria dal 2020 al 2024
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli degli annio accademici
-2020/2021, 2021/2022 e 2022/2023.
+2020/2021, 2021/2022, 2022/2023 e 2023/2024.
 
 - [Esercizi sui sistemi di numerazione](teoria/numeri.md)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/1mSoNKT-0JE),

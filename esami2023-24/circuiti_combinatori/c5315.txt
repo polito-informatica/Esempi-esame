@@ -1,0 +1,2307 @@
+buf U1 net144 net141
+buf U2 net298 net293
+and2 U3 net4114 net135 net4115
+not U4 
+buffer U5 net973 net3173
+not U6 net3547 net3546
+not U7 net3549 net3548
+not U10 net3551 net3550
+not U9 net3553 net3552
+not U10 net594 net545
+not U11 net599 net348
+not U12 net600 net366
+and U13 net601 net552 net562
+not U14 net602 net549
+not U15 net603 net545
+not U16 net3551 net545
+not U17 net611 net338
+not U18 net612 net358
+nand U19 net633 net373 net1
+and U20 net810 net141 net145
+not U21 net814 net3173
+not U22 net816 net4114
+and U23 net844 net2825 net27
+and U24 net846 net386 net556
+not U25 net848 net245
+not U26 net849 net552
+not U27 net850 net562
+not U28 net851 net559
+and U29 net852 net386 net559 net556 net552
+not U30 net1502 net1497
+buf U31 net1528 net1689
+buf U32 net1552 net1690
+buf U33 net1609 net1689
+buf U34 net1633 net1690
+buf U35 net1697 net137
+buf U36 net1698 net137
+buf U37 net1701 net141
+not U38 net2179 net2174
+buf U39 net2203 net1691
+buf U40 net2226 net1694
+buf U41 net2281 net1691
+buf U42 net2304 net1694
+buf U43 net2361 net254
+buf U44 net2370 net251
+buf U45 net2382 net251
+buf U46 net2393 net248
+buf U47 net2405 net248
+buf U48 net2418 net4088
+buf U49 net2442 net4087
+buf U50 net2476 net4089
+buf U51 net2500 net4090
+buf U52 net2533 net210
+buf U53 net2537 net210
+buf U54 net2541 net218
+buf U55 net2545 net218
+buf U56 net2549 net226
+buf U57 net2553 net226
+buf U58 net2557 net234
+buf U59 net2561 net234
+buf U60 net2627 net257
+buf U61 net2631 net257
+buf U62 net2635 net265
+buf U63 net2639 net265
+buf U64 net2643 net273
+buf U65 net2647 net273
+buf U66 net2651 net281
+buf U67 net2655 net281
+buf U68 net2721 net335
+buf U69 net2734 net335
+buf U70 net2816 net206
+and U71 net2822 net27 net31
+buf U72 net2826 net1
+buf U73 net2828 net2358
+buf U74 net2882 net293
+buf U75 net2886 net302
+buf U76 net2890 net308
+buf U77 net2894 net308
+buf U78 net2898 net316
+buf U79 net2902 net316
+buf U80 net2948 net324
+buf U81 net2952 net324
+buf U82 net2956 net341
+buf U83 net2960 net341
+buf U84 net2964 net351
+buf U85 net2968 net351
+buf U86 net3024 net257
+buf U87 net3028 net257
+buf U88 net3032 net265
+buf U89 net3036 net265
+buf U90 net3040 net273
+buf U91 net3044 net273
+buf U92 net3048 net281
+buf U93 net3052 net281
+buf U94 net3092 net332
+buf U95 net3105 net332
+buf U96 net3175 net549
+and U97 net3176 net31 net27
+not U98 net3181 net2358
+buf U99 net3204 net324
+buf U100 net3208 net324
+buf U101 net3212 net341
+buf U102 net3216 net341
+buf U103 net3220 net351
+buf U104 net3224 net351
+buf U105 net3256 net293
+buf U106 net3260 net302
+buf U107 net3264 net308
+buf U108 net3268 net308
+buf U109 net3272 net316
+buf U110 net3276 net316
+buf U111 net3302 net361
+buf U112 net3314 net361
+buf U113 net3354 net210
+buf U114 net3358 net210
+buf U115 net3362 net218
+buf U116 net3366 net218
+buf U117 net3370 net226
+buf U118 net3374 net226
+buf U119 net3378 net234
+buf U120 net3382 net234
+not U121 net3440 net324
+buf U122 net3554 net242
+buf U123 net3555 net242
+buf U124 net3556 net254
+buf U125 net3558 net4088
+buf U126 net3582 net4087
+buf U127 net3616 net4092
+buf U128 net3628 net4091
+buf U129 net3660 net4089
+buf U130 net3684 net4090
+not U131 net3721 net3717
+not U132 net3728 net3724
+buf U133 net3737 net4091
+buf U134 net3757 net4092
+buf U135 net3795 net4091
+buf U136 net3815 net4092
+buf U137 net3972 net4091
+buf U138 net3991 net4092
+buf U139 net4030 net4091
+buf U140 net4049 net4092
+buf U141 net4110 net299
+buf U142 net4119 net446
+buf U143 net4127 net457
+buf U144 net4135 net468
+buf U145 net4143 net422
+buf U146 net4151 net435
+buf U147 net4159 net389
+buf U148 net4167 net400
+buf U149 net4175 net411
+buf U150 net4183 net374
+buf U151 net4188 net4
+buf U152 net4276 net446
+buf U153 net4284 net457
+buf U154 net4292 net468
+buf U155 net4300 net435
+buf U156 net4308 net389
+buf U157 net4316 net400
+buf U158 net4324 net411
+buf U159 net4332 net422
+buf U160 net4340 net374
+buf U161 net4631 net479
+buf U162 net4639 net490
+buf U163 net4647 net503
+buf U164 net4655 net514
+buf U165 net4663 net523
+buf U166 net4671 net534
+buf U167 net4676 net54
+buf U168 net4764 net479
+buf U169 net4772 net503
+buf U170 net4780 net514
+buf U171 net4788 net523
+buf U172 net4796 net534
+buf U173 net4804 net490
+buf U174 net5082 net361
+buf U175 net5085 net369
+buf U176 net5090 net341
+buf U177 net5093 net351
+buf U178 net5098 net308
+buf U179 net5101 net316
+buf U180 net5108 net293
+buf U181 net5111 net302
+buf U182 net5332 net281
+buf U183 net5335 net289
+buf U184 net5340 net265
+buf U185 net5343 net273
+buf U186 net5348 net234
+buf U187 net5351 net257
+buf U188 net5356 net218
+buf U189 net5359 net226
+buf U190 net5369 net210
+not U191 net634 net633
+and U192 net815 net136 net814
+not U193 net845 net844
+not U194 net847 net846
+buf U195 net926 net1697
+buf U196 net923 net1701
+buf U197 net921 net2826
+and U198 net2979 net3553 net514
+or U199 net2999 net3547 net514
+buf U200 net892 net3175
+buf U201 net887 net4110
+not U202 net606 net3175
+and U203 net1580 net170 net1528 net1552
+and U204 net1586 net173 net1528 net1552
+and U205 net1592 net167 net1528 net1552
+and U206 net1598 net164 net1528 net1552
+and U207 net1604 net161 net1528 net1552
+nand U208 net656 net2822 net140
+and U209 net1668 net185 net1609 net1633
+and U210 net1674 net158 net1609 net1633
+and U211 net1680 net152 net1609 net1633
+and U212 net1686 net146 net1609 net1633
+and U213 net2254 net170 net2203 net2226
+and U214 net2260 net173 net2203 net2226
+and U215 net2266 net167 net2203 net2226
+and U216 net2272 net164 net2203 net2226
+and U217 net2278 net161 net2203 net2226
+and U218 net2339 net185 net2281 net2304
+and U219 net2345 net158 net2281 net2304
+and U220 net2351 net152 net2281 net2304
+and U221 net2357 net146 net2281 net2304
+and U222 net711 net106 net3660 net3684
+and U223 net721 net61 net2418 net2442
+and U224 net726 net106 net3558 net3582
+and U225 net731 net49 net3558 net3582
+and U226 net736 net103 net3558 net3582
+and U227 net741 net40 net3558 net3582
+and U228 net746 net37 net3558 net3582
+and U229 net751 net20 net2418 net2442
+and U230 net756 net17 net2418 net2442
+and U231 net761 net70 net2418 net2442
+and U232 net766 net64 net2418 net2442
+and U233 net771 net49 net3660 net3684
+and U234 net776 net103 net3660 net3684
+and U235 net781 net40 net3660 net3684
+and U236 net786 net37 net3660 net3684
+and U237 net791 net20 net2476 net2500
+and U238 net796 net17 net2476 net2500
+and U239 net801 net70 net2476 net2500
+and U240 net806 net64 net2476 net2500
+not U241 net809 net2822
+and U242 net3734 net123 net3728 net3717
+and U243 net842 net3795 net3815
+and U244 net858 net61 net2476 net2500
+and U245 net881 net3737 net3757
+not U246 net4123 net4119
+not U247 net4131 net4127
+not U248 net4139 net4135
+not U249 net4147 net4143
+not U250 net4155 net4151
+not U251 net4163 net4159
+not U252 net4171 net4167
+not U253 net4179 net4175
+not U254 net4187 net4183
+not U255 net4194 net4188
+not U256 net4282 net4276
+not U257 net4290 net4284
+not U258 net4298 net4292
+not U259 net4306 net4300
+not U260 net4314 net4308
+not U261 net4322 net4316
+not U262 net4330 net4324
+not U263 net4338 net4332
+not U264 net4346 net4340
+buf U265 net1526 net1697
+not U266 net1540 net1528
+not U267 net1564 net1552
+buf U268 net1606 net1697
+not U269 net1621 net1609
+not U270 net1645 net1633
+and U271 net1661 net179 net1609 net1633
+buf U272 net1688 net2826
+not U273 net4635 net4631
+not U274 net4643 net4639
+not U275 net4651 net4647
+not U276 net4659 net4655
+not U277 net4667 net4663
+not U278 net4675 net4671
+not U279 net4682 net4676
+not U280 net4770 net4764
+not U281 net4778 net4772
+not U282 net4786 net4780
+not U283 net4794 net4788
+not U284 net4802 net4796
+not U285 net4810 net4804
+buf U286 net2202 net1698
+not U287 net2215 net2203
+not U288 net2238 net2226
+buf U289 net2279 net1698
+not U290 net2293 net2281
+not U291 net2316 net2304
+and U292 net2332 net179 net2281 net2304
+not U293 net2430 net2418
+not U294 net2454 net2442
+not U295 net2488 net2476
+not U296 net2512 net2500
+not U297 net2536 net2533
+not U298 net2540 net2537
+not U299 net2544 net2541
+not U300 net2548 net2545
+not U301 net2552 net2549
+not U302 net2556 net2553
+not U303 net2560 net2557
+not U304 net2564 net2561
+and U305 net2566 net3553 net457 net2537
+and U306 net2572 net3553 net468 net2545
+and U307 net2578 net3553 net422 net2553
+and U308 net2584 net3553 net435 net2561
+and U309 net2590 net3547 net2533
+and U310 net2595 net3547 net2541
+and U311 net2600 net3547 net2549
+and U312 net2605 net3547 net2557
+not U313 net2630 net2627
+not U314 net2634 net2631
+not U315 net2638 net2635
+not U316 net2642 net2639
+not U317 net2646 net2643
+not U318 net2650 net2647
+not U319 net2654 net2651
+not U320 net2658 net2655
+and U321 net2660 net3553 net389 net2631
+and U322 net2666 net3553 net400 net2639
+and U323 net2672 net3553 net411 net2647
+and U324 net2678 net3553 net374 net2655
+and U325 net2684 net3547 net2627
+and U326 net2689 net3547 net2635
+and U327 net2694 net3547 net2643
+and U328 net2699 net3547 net2651
+not U329 net2728 net2721
+not U330 net2741 net2734
+and U331 net2748 net292 net2721
+and U332 net2750 net288 net2721
+and U333 net2752 net280 net2721
+and U334 net2754 net272 net2721
+and U335 net2756 net264 net2721
+and U336 net2758 net241 net2734
+and U337 net2760 net233 net2734
+and U338 net2762 net225 net2734
+and U339 net2764 net217 net2734
+and U340 net2766 net209 net2734
+buf U341 net2827 net1701
+not U342 net2838 net2828
+not U343 net2847 net2822
+not U344 net2885 net2882
+not U345 net2889 net2886
+not U346 net2893 net2890
+not U347 net2897 net2894
+not U348 net2901 net2898
+not U349 net2905 net2902
+and U350 net2906 net2393 net2886
+and U351 net2909 net2393 net479 net2894
+and U352 net2913 net2393 net490 net2902
+and U353 net2918 net3554 net2882
+and U354 net2922 net3554 net2890
+and U355 net2927 net3554 net2898
+not U356 net2951 net2948
+not U357 net2955 net2952
+not U358 net2959 net2956
+not U359 net2963 net2960
+not U360 net2967 net2964
+not U361 net2971 net2968
+and U362 net2973 net3553 net503 net2952
+not U363 net2980 net2979
+and U364 net2982 net3553 net523 net2960
+and U365 net2988 net3553 net534 net2968
+and U366 net2994 net3547 net2948
+and U367 net3001 net3547 net2956
+and U368 net3006 net3547 net2964
+not U369 net3027 net3024
+not U370 net3031 net3028
+not U371 net3035 net3032
+not U372 net3039 net3036
+not U373 net3043 net3040
+not U374 net3047 net3044
+not U375 net3051 net3048
+not U376 net3055 net3052
+and U377 net3056 net2393 net389 net3028
+and U378 net3060 net2393 net400 net3036
+and U379 net3064 net2393 net411 net3044
+and U380 net3068 net2393 net374 net3052
+and U381 net3073 net3554 net3024
+and U382 net3078 net3554 net3032
+and U383 net3083 net3554 net3040
+and U384 net3088 net3554 net3048
+not U385 net3099 net3092
+not U386 net3112 net3105
+and U387 net3119 net372 net3092
+and U388 net3121 net366 net3092
+and U389 net3123 net358 net3092
+and U390 net3125 net348 net3092
+and U391 net3126 net338 net3092
+and U392 net3128 net331 net3105
+and U393 net3130 net323 net3105
+and U394 net3132 net315 net3105
+and U395 net3134 net307 net3105
+and U396 net3136 net299 net3105
+not U397 net3187 net3181
+and U398 net3193 net83 net3181
+and U399 net3196 net86 net3181
+and U400 net3199 net88 net3181
+and U401 net3202 net88 net3181
+not U402 net3207 net3204
+not U403 net3211 net3208
+not U404 net3215 net3212
+not U405 net3219 net3216
+not U406 net3223 net3220
+not U407 net3227 net3224
+and U408 net3228 net2405 net503 net3208
+and U409 net3232 net2405 net514
+and U410 net3234 net2405 net523 net3216
+and U411 net3238 net2405 net534 net3224
+and U412 net3243 net3555 net3204
+or U413 net3247 net3555 net514
+and U414 net3249 net3555 net3212
+and U415 net3253 net3555 net3220
+not U416 net3259 net3256
+not U417 net3263 net3260
+not U418 net3267 net3264
+not U419 net3271 net3268
+not U420 net3275 net3272
+not U421 net3279 net3276
+and U422 net3280 net2405 net3260
+and U423 net3283 net2405 net479 net3268
+and U424 net3287 net2405 net490 net3276
+and U425 net3292 net3555 net3256
+and U426 net3295 net3555 net3264
+and U427 net3299 net3555 net3272
+not U428 net3305 net3302
+buf U429 net3306 net2816
+buf U430 net3310 net2816
+not U431 net3317 net3314
+buf U432 net3318 net2816
+buf U433 net3322 net2816
+and U434 net3326 net2405 net3302
+and U435 net3333 net2405 net3314
+not U436 net3357 net3354
+not U437 net3361 net3358
+not U438 net3365 net3362
+not U439 net3369 net3366
+not U440 net3373 net3370
+not U441 net3377 net3374
+not U442 net3381 net3378
+not U443 net3385 net3382
+and U444 net3386 net2393 net457 net3358
+and U445 net3390 net2393 net468 net3366
+and U446 net3394 net2393 net422 net3374
+and U447 net3398 net2393 net435 net3382
+and U448 net3403 net3554 net3354
+and U449 net3408 net3554 net3362
+and U450 net3413 net3554 net3370
+and U451 net3418 net3554 net3378
+not U452 net5088 net5082
+not U453 net5089 net5085
+not U454 net5096 net5090
+not U455 net5097 net5093
+buf U456 net3489 net3440
+buf U457 net3493 net3440
+not U458 net3570 net3558
+not U459 net3594 net3582
+not U460 net3622 net3616
+not U461 net3632 net3628
+and U462 net3637 net97 net3616
+and U463 net3640 net94 net3616
+and U464 net3643 net97 net3616
+and U465 net3646 net94 net3616
+not U466 net3672 net3660
+not U467 net3696 net3684
+not U468 net3745 net3737
+not U469 net3765 net3757
+not U470 net3803 net3795
+not U471 net3823 net3815
+not U472 net5338 net5332
+not U473 net5339 net5335
+not U474 net5346 net5340
+not U475 net5347 net5343
+not U476 net5354 net5348
+not U477 net5355 net5351
+not U478 net3979 net3972
+not U479 net3998 net3991
+not U480 net4037 net4030
+not U481 net4056 net4049
+buf U482 net4094 net4110
+not U483 net5104 net5098
+not U484 net5105 net5101
+not U485 net5114 net5108
+not U486 net5115 net5111
+not U487 net5362 net5356
+not U488 net5363 net5359
+buf U489 net5366 net2816
+not U490 net5373 net5369
+buf U491 net993 net1688
+buf U492 net978 net1688
+buf U493 net949 net1688
+buf U494 net939 net1688
+and U495 net2568 net457 net3551 net2540
+and U496 net2574 net468 net3551 net2548
+and U497 net2580 net422 net3551 net2556
+and U498 net2586 net435 net3551 net2564
+and U499 net2592 net3549 net2536
+and U500 net2597 net3549 net2544
+and U501 net2602 net3549 net2552
+and U502 net2607 net3549 net2560
+and U503 net2662 net389 net3551 net2634
+and U504 net2668 net400 net3551 net2642
+and U505 net2674 net411 net3551 net2650
+and U506 net2680 net374 net3551 net2658
+and U507 net2686 net3549 net2630
+and U508 net2691 net3549 net2638
+and U509 net2696 net3549 net2646
+and U510 net2701 net3549 net2654
+and U511 net2907 net2370 net2889
+and U512 net2910 net479 net2370 net2897
+and U513 net2914 net490 net2370 net2905
+and U514 net2920 net3556 net2885
+and U515 net2924 net3556 net2893
+and U516 net2929 net3556 net2901
+and U517 net2975 net503 net3551 net2955
+and U518 net2984 net523 net3551 net2963
+and U519 net2990 net534 net3551 net2971
+and U520 net2996 net3549 net2951
+and U521 net3003 net3549 net2959
+and U522 net3008 net3549 net2967
+and U523 net3015 net2980 net2999
+and U524 net3057 net389 net2370 net3031
+and U525 net3061 net400 net2370 net3039
+and U526 net3065 net411 net2370 net3047
+and U527 net3069 net374 net2370 net3055
+and U528 net3075 net3556 net3027
+and U529 net3080 net3556 net3035
+and U530 net3085 net3556 net3043
+and U531 net3090 net3556 net3051
+and U532 net3229 net503 net2382 net3211
+not U533 net3233 net3232
+and U534 net3235 net523 net2382 net3219
+and U535 net3239 net534 net2382 net3227
+and U536 net3244 net2361 net3207
+and U537 net3250 net2361 net3215
+and U538 net3254 net2361 net3223
+and U539 net3281 net2382 net3263
+and U540 net3284 net479 net2382 net3271
+and U541 net3288 net490 net2382 net3279
+and U542 net3293 net2361 net3259
+and U543 net3296 net2361 net3267
+and U544 net3300 net2361 net3275
+and U545 net3327 net2382 net3305
+and U546 net3334 net2382 net3317
+and U547 net3387 net457 net2370 net3361
+and U548 net3391 net468 net2370 net3369
+and U549 net3395 net422 net2370 net3377
+and U550 net3399 net435 net2370 net3385
+and U551 net3405 net3556 net3357
+and U552 net3410 net3556 net3365
+and U553 net3415 net3556 net3373
+and U554 net3420 net3556 net3381
+nand U555 net3422 net5085 net5088
+nand U556 net3423 net5082 net5089
+nand U557 net3431 net5093 net5096
+nand U558 net3432 net5090 net5097
+nand U559 net3895 net5335 net5338
+nand U560 net3896 net5332 net5339
+nand U561 net3904 net5343 net5346
+nand U562 net3905 net5340 net5347
+nand U563 net3913 net5351 net5354
+nand U564 net3914 net5348 net5355
+buf U565 net889 net4094
+nand U566 net5106 net5101 net5104
+nand U567 net5107 net5098 net5105
+nand U568 net5116 net5111 net5114
+nand U569 net5117 net5108 net5115
+nand U570 net5364 net5359 net5362
+nand U571 net5365 net5356 net5363
+not U572 net593 net4094
+and U573 net2880 net2838 net2847
+and U574 net2881 net2828 net2847
+and U575 net1579 net200 net1540 net1552
+and U576 net1585 net203 net1540 net1552
+and U577 net1591 net197 net1540 net1552
+and U578 net1597 net194 net1540 net1552
+and U579 net1603 net191 net1540 net1552
+and U580 net1667 net182 net1621 net1633
+and U581 net1673 net188 net1621 net1633
+and U582 net1679 net155 net1621 net1633
+and U583 net1685 net149 net1621 net1633
+and U584 net2876 net2838 net2847
+and U585 net2877 net2828 net2847
+and U586 net2253 net200 net2215 net2226
+and U587 net2259 net203 net2215 net2226
+and U588 net2265 net197 net2215 net2226
+and U589 net2271 net194 net2215 net2226
+and U590 net2277 net191 net2215 net2226
+and U591 net2338 net182 net2293 net2304
+and U592 net2344 net188 net2293 net2304
+and U593 net2350 net155 net2293 net2304
+and U594 net2356 net149 net2293 net2304
+and U595 net2868 net2838 net2847
+and U596 net2869 net2828 net2847
+and U597 net710 net109 net3672 net3684
+and U598 net2872 net2838 net2847
+and U599 net2873 net2828 net2847
+and U600 net720 net11 net2430 net2442
+and U601 net725 net109 net3570 net3582
+and U602 net730 net46 net3570 net3582
+and U603 net735 net100 net3570 net3582
+and U604 net740 net91 net3570 net3582
+and U605 net745 net43 net3570 net3582
+and U606 net750 net76 net2430 net2442
+and U607 net755 net73 net2430 net2442
+and U608 net760 net67 net2430 net2442
+and U609 net765 net14 net2430 net2442
+and U610 net770 net46 net3672 net3684
+and U611 net775 net100 net3672 net3684
+and U612 net780 net91 net3672 net3684
+and U613 net785 net43 net3672 net3684
+and U614 net790 net76 net2488 net2500
+and U615 net795 net73 net2488 net2500
+and U616 net800 net67 net2488 net2500
+and U617 net805 net14 net2488 net2500
+and U618 net841 net120 net3803 net3815
+and U619 net857 net11 net2488 net2500
+and U620 net880 net118 net3745 net3757
+and U621 net1660 net176 net1621 net1633
+and U622 net2331 net176 net2293 net2304
+or U623 net2569 net2566 net2568
+or U624 net2575 net2572 net2574
+or U625 net2581 net2578 net2580
+or U626 net2587 net2584 net2586
+or U627 net2593 net2590 net2592 net457
+or U628 net2598 net2595 net2597 net468
+or U629 net2603 net2600 net2602 net422
+or U630 net2608 net2605 net2607 net435
+or U631 net2663 net2660 net2662
+or U632 net2669 net2666 net2668
+or U633 net2675 net2672 net2674
+or U634 net2681 net2678 net2680
+or U635 net2687 net2684 net2686 net389
+or U636 net2692 net2689 net2691 net400
+or U637 net2697 net2694 net2696 net411
+or U638 net2702 net2699 net2701 net374
+and U639 net2747 net289 net2728
+and U640 net2749 net281 net2728
+and U641 net2751 net273 net2728
+and U642 net2753 net265 net2728
+and U643 net2755 net257 net2728
+and U644 net2757 net234 net2741
+and U645 net2759 net226 net2741
+and U646 net2761 net218 net2741
+and U647 net2763 net210 net2741
+and U648 net2765 net206 net2741
+not U649 net2857 net2847
+or U650 net2908 net2906 net2907
+or U651 net2911 net2909 net2910
+or U652 net2915 net2913 net2914
+or U653 net2925 net2922 net2924 net479
+or U654 net2930 net2927 net2929 net490
+or U655 net2933 net2918 net2920
+or U656 net2976 net2973 net2975
+or U657 net2985 net2982 net2984
+or U658 net2991 net2988 net2990
+or U659 net2997 net2994 net2996 net503
+or U660 net3004 net3001 net3003 net523
+or U661 net3009 net3006 net3008 net534
+or U662 net3058 net3056 net3057
+or U663 net3062 net3060 net3061
+or U664 net3066 net3064 net3065
+or U665 net3070 net3068 net3069
+or U666 net3076 net3073 net3075 net389
+or U667 net3081 net3078 net3080 net400
+or U668 net3086 net3083 net3085 net411
+or U669 net3091 net3088 net3090 net374
+and U670 net3118 net369 net3099
+and U671 net3120 net361 net3099
+and U672 net3122 net351 net3099
+and U673 net3124 net341 net3099
+and U674 net3127 net324 net3112
+and U675 net3129 net316 net3112
+and U676 net3131 net308 net3112
+and U677 net3133 net302 net3112
+and U678 net3135 net293 net3112
+or U679 net3147 net3099 net3126
+and U680 net3192 net83 net3187
+and U681 net3195 net87 net3187
+and U682 net3198 net34 net3187
+and U683 net3201 net34 net3187
+or U684 net3230 net3228 net3229
+or U685 net3236 net3234 net3235
+or U686 net3240 net3238 net3239
+or U687 net3245 net3243 net3244 net503
+or U688 net3251 net3249 net3250 net523
+or U689 net3255 net3253 net3254 net534
+or U690 net3282 net3280 net3281
+or U691 net3285 net3283 net3284
+or U692 net3289 net3287 net3288
+or U693 net3297 net3295 net3296 net479
+or U694 net3301 net3299 net3300 net490
+not U695 net3309 net3306
+not U696 net3313 net3310
+not U697 net3321 net3318
+not U698 net3325 net3322
+or U699 net3328 net3326 net3327
+and U700 net3329 net2405 net446 net3310
+or U701 net3335 net3333 net3334
+and U702 net3336 net2405 net446 net3322
+and U703 net3341 net3555 net3306
+and U704 net3345 net3555 net3318
+or U705 net3388 net3386 net3387
+or U706 net3392 net3390 net3391
+or U707 net3396 net3394 net3395
+or U708 net3400 net3398 net3399
+or U709 net3406 net3403 net3405 net457
+or U710 net3411 net3408 net3410 net468
+or U711 net3416 net3413 net3415 net422
+or U712 net3421 net3418 net3420 net435
+nand U713 net3424 net3422 net3423
+nand U714 net3433 net3431 net3432
+not U715 net3492 net3489
+not U716 net3496 net3493
+and U717 net3780 net117 net3745 net3757
+and U718 net3783 net126 net3745 net3757
+and U719 net3786 net127 net3745 net3757
+and U720 net3789 net128 net3745 net3757
+and U721 net3838 net131 net3803 net3815
+and U722 net3841 net129 net3803 net3815
+and U723 net3844 net119 net3803 net3815
+and U724 net3847 net130 net3803 net3815
+nand U725 net3897 net3895 net3896
+nand U726 net3906 net3904 net3905
+nand U727 net3915 net3913 net3914
+and U728 net4011 net122 net3979 net3991
+and U729 net4014 net113 net3979 net3991
+and U730 net4017 net53 net3979 net3991
+and U731 net4020 net114 net3979 net3991
+and U732 net4023 net115 net3979 net3991
+and U733 net4069 net52 net4037 net4049
+and U734 net4072 net112 net4037 net4049
+and U735 net4075 net116 net4037 net4049
+and U736 net4078 net121 net4037 net4049
+and U737 net4081 net123 net4037 net4049
+nand U738 net5206 net5116 net5117
+nand U739 net5209 net5106 net5107
+and U740 net5307 net3233 net3247
+or U741 net5322 net3292 net3293
+not U742 net5372 net5366
+nand U743 net5375 net5366 net5373
+nand U744 net5399 net5364 net5365
+not U745 net2813 net3015
+or U746 net3197 net3195 net3196
+or U747 net3200 net3198 net3199
+or U748 net3203 net3201 net3202
+or U749 net3194 net3192 net3193
+not U750 net2570 net2569
+not U751 net2576 net2575
+not U752 net2582 net2581
+not U753 net2588 net2587
+not U754 net2664 net2663
+not U755 net2670 net2669
+not U756 net2676 net2675
+not U757 net2682 net2681
+or U758 net2767 net2749 net2750
+or U759 net2772 net2751 net2752
+or U760 net2776 net2753 net2754
+or U761 net2780 net2755 net2756
+or U762 net2784 net2757 net2758
+or U763 net2788 net2759 net2760
+or U764 net2794 net2761 net2762
+or U765 net2798 net2763 net2764
+or U766 net2802 net2765 net2766
+not U767 net2912 net2911
+not U768 net2916 net2915
+not U769 net2936 net2908
+not U770 net2977 net2976
+not U771 net2986 net2985
+not U772 net2992 net2991
+not U773 net3059 net3058
+not U774 net3063 net3062
+not U775 net3067 net3066
+not U776 net3071 net3070
+or U777 net3137 net3120 net3121
+or U778 net3139 net3122 net3123
+or U779 net3143 net3124 net3125
+or U780 net3151 net3127 net3128
+or U781 net3155 net3129 net3130
+or U782 net3161 net3131 net3132
+or U783 net3165 net3133 net3134
+or U784 net3167 net3135 net3136
+not U785 net3231 net3230
+not U786 net3237 net3236
+not U787 net3241 net3240
+not U788 net3286 net3285
+not U789 net3290 net3289
+and U790 net3330 net446 net2382 net3313
+and U791 net3337 net446 net2382 net3325
+and U792 net3342 net2361 net3309
+and U793 net3346 net2361 net3321
+not U794 net3348 net3328
+not U795 net3352 net3335
+not U796 net3389 net3388
+not U797 net3393 net3392
+not U798 net3397 net3396
+not U799 net3401 net3400
+and U800 net3845 net3015 net3803 net3823
+or U801 net5126 net3118 net3119
+or U802 net5178 net2747 net2748
+not U803 net5325 net3282
+nand U804 net5374 net5369 net5372
+not U805 net2810 net2933
+and U806 net635 net3197 net3176
+and U807 net2878 net24 net2838 net2857
+and U808 net2879 net25 net2828 net2857
+and U809 net2874 net26 net2838 net2857
+and U810 net2875 net81 net2828 net2857
+and U811 net703 net3200 net3176
+and U812 net2866 net79 net2838 net2857
+and U813 net2867 net23 net2828 net2857
+and U814 net2870 net82 net2838 net2857
+and U815 net2871 net80 net2828 net2857
+and U816 net716 net3203 net3176
+and U817 net819 net3194 net3176
+and U818 net1789 net3147 net514
+and U819 net2036 net514 net3147
+and U820 net2611 net2570 net2593
+and U821 net2615 net2576 net2598
+and U822 net2619 net2582 net2603
+and U823 net2623 net2588 net2608
+and U824 net2705 net2664 net2687
+and U825 net2709 net2670 net2692
+and U826 net2713 net2676 net2697
+and U827 net2717 net2682 net2702
+and U828 net2939 net2912 net2925
+and U829 net2942 net2916 net2930
+buf U830 net2945 net2933
+and U831 net3012 net2977 net2997
+and U832 net3018 net2986 net3004
+and U833 net3021 net2992 net3009
+or U834 net3331 net3329 net3330
+or U835 net3338 net3336 net3337
+or U836 net3343 net3341 net3342 net446
+or U837 net3347 net3345 net3346 net446
+not U838 net3428 net3424
+not U839 net3437 net3433
+and U840 net3514 net3433 net3424 net3489
+and U841 net3836 net3352 net3803 net3823
+and U842 net3852 net3071 net3091
+not U843 net5311 net5307
+not U844 net3901 net3897
+not U845 net3910 net3906
+buf U846 net3934 net3915
+buf U847 net3938 net3915
+buf U848 net4652 net3147
+buf U849 net4783 net3147
+buf U850 net5137 net3147
+not U851 net5212 net5206
+not U852 net5213 net5209
+and U853 net5260 net3063 net3081
+and U854 net5263 net3067 net3086
+and U855 net5268 net3401 net3421
+and U856 net5271 net3059 net3076
+and U857 net5276 net3393 net3411
+and U858 net5279 net3397 net3416
+and U859 net5289 net3389 net3406
+and U860 net5296 net3237 net3251
+and U861 net5299 net3241 net3255
+and U862 net5304 net3231 net3245
+and U863 net5312 net3286 net3297
+and U864 net5315 net3290 net3301
+not U865 net5328 net5322
+nand U866 net5396 net5374 net5375
+not U867 net5403 net5399
+and U868 net1286 net446 net2802
+not U869 net2809 net2936
+not U870 net597 net3348
+and U871 net1031 net2802 net446
+not U872 net636 net635
+or U873 net637 net2878 net2879 net2880 net2881
+or U874 net671 net2874 net2875 net2876 net2877
+not U875 net704 net703
+or U876 net705 net2866 net2867 net2868 net2869
+or U877 net713 net2870 net2871 net2872 net2873
+not U878 net717 net716
+not U879 net820 net819
+and U880 net1046 net2798 net457
+and U881 net1064 net2794 net468
+and U882 net1071 net422 net2788
+and U883 net1097 net2784 net435
+and U884 net1111 net2780 net389
+and U885 net1128 net2776 net400
+and U886 net1145 net2772 net411
+and U887 net1160 net2767 net374
+and U888 net1301 net457 net2798
+and U889 net1318 net468 net2794
+and U890 net1324 net422 net2788
+and U891 net1341 net435 net2784
+and U892 net1359 net389 net2780
+and U893 net1382 net400 net2776
+and U894 net1404 net411 net2772
+and U895 net1412 net374 net2767
+not U896 net1704 net3167
+not U897 net1712 net3165
+buf U898 net1724 net3165
+and U899 net1742 net3161 net479
+and U900 net1749 net490 net3155
+and U901 net1775 net3151 net503
+and U902 net1806 net3143 net523
+and U903 net1823 net3139 net534
+not U904 net1829 net3137
+buf U905 net1837 net3137
+not U906 net1958 net3167
+not U907 net1966 net3165
+buf U908 net1978 net3165
+and U909 net1995 net479 net3161
+and U910 net2001 net490 net3155
+and U911 net2018 net503 net3151
+and U912 net2059 net523 net3143
+and U913 net2081 net534 net3139
+buf U914 net2089 net3137
+not U915 net2106 net3137
+buf U916 net3170 net3167
+not U917 net3332 net3331
+not U918 net3339 net3338
+not U919 net5132 net5126
+not U920 net5184 net5178
+not U921 net3853 net3852
+not U922 net3874 net3348
+and U923 net4076 net2936 net4037 net4056
+buf U924 net4116 net2802
+buf U925 net4124 net2798
+buf U926 net4132 net2794
+buf U927 net4140 net2788
+buf U928 net4148 net2784
+buf U929 net4156 net2780
+buf U930 net4164 net2776
+buf U931 net4172 net2772
+buf U932 net4180 net2767
+nor U933 net4228 net422 net2788
+buf U934 net4279 net2802
+buf U935 net4287 net2798
+buf U936 net4295 net2794
+buf U937 net4303 net2784
+buf U938 net4311 net2780
+buf U939 net4319 net2776
+buf U940 net4327 net2772
+buf U941 net4335 net2788
+buf U942 net4343 net2767
+nor U943 net4348 net422 net2788
+nor U944 net4464 net374 net2767
+buf U945 net4628 net3161
+buf U946 net4636 net3155
+buf U947 net4644 net3151
+buf U948 net4660 net3143
+buf U949 net4668 net3139
+nor U950 net4716 net490 net3155
+buf U951 net4767 net3161
+buf U952 net4775 net3151
+buf U953 net4791 net3143
+buf U954 net4799 net3139
+buf U955 net4807 net3155
+nor U956 net4812 net490 net3155
+buf U957 net5118 net3139
+buf U958 net5121 net3143
+buf U959 net5129 net3137
+buf U960 net5134 net3151
+buf U961 net5142 net3161
+buf U962 net5145 net3155
+buf U963 net5152 net3167
+buf U964 net5155 net3165
+buf U965 net5162 net2788
+buf U966 net5165 net2784
+buf U967 net5170 net2798
+buf U968 net5173 net2794
+buf U969 net5181 net2802
+buf U970 net5186 net2772
+buf U971 net5189 net2767
+buf U972 net5196 net2780
+buf U973 net5199 net2776
+nand U974 net5214 net5209 net5212
+nand U975 net5215 net5206 net5213
+not U976 net5329 net5325
+nand U977 net5330 net5325 net5328
+not U978 net2807 net2942
+not U979 net2808 net2939
+not U980 net2811 net3021
+not U981 net2812 net3018
+not U982 net2814 net3012
+not U983 net2626 net2623
+not U984 net2622 net2619
+not U985 net2618 net2615
+not U986 net2614 net2611
+not U987 net2720 net2717
+not U988 net2716 net2713
+not U989 net2712 net2709
+not U990 net2708 net2705
+and U991 net639 net637 net2827
+and U992 net673 net671 net2827
+and U993 net707 net705 net2827
+and U994 net715 net713 net2827
+and U995 net3731 net2945 net3728 net3721
+not U996 net4658 net4652
+nand U997 net1777 net4652 net4659
+nand U998 net2019 net4783 net4786
+not U999 net4787 net4783
+and U1000 net3350 net3332 net3343
+and U1001 net3353 net3339 net3347
+not U1002 net5141 net5137
+and U1003 net3513 net3428 net3433 net3492
+and U1004 net3516 net3424 net3437 net3496
+and U1005 net3517 net3437 net3428 net3493
+and U1006 net3778 net2717 net3745 net3765
+and U1007 net3781 net2713 net3745 net3765
+and U1008 net3784 net2709 net3745 net3765
+and U1009 net3787 net2705 net3745 net3765
+and U1010 net3839 net3021 net3803 net3823
+and U1011 net3842 net3018 net3803 net3823
+not U1012 net5266 net5260
+not U1013 net5267 net5263
+not U1014 net5274 net5268
+not U1015 net5275 net5271
+not U1016 net5302 net5296
+not U1017 net5303 net5299
+not U1018 net5310 net5304
+nand U1019 net3891 net5304 net5311
+not U1020 net3937 net3934
+not U1021 net3941 net3938
+and U1022 net3955 net3906 net3897 net3934
+and U1023 net3958 net3910 net3901 net3938
+and U1024 net4009 net2623 net3979 net3998
+and U1025 net4012 net2619 net3979 net3998
+and U1026 net4015 net2615 net3979 net3998
+and U1027 net4018 net2611 net3979 net3998
+and U1028 net4067 net3012 net4037 net4056
+and U1029 net4070 net2942 net4037 net4056
+and U1030 net4073 net2939 net4037 net4056
+and U1031 net4079 net2945 net4037 net4056
+nand U1032 net5239 net5214 net5215
+not U1033 net5282 net5276
+not U1034 net5283 net5279
+not U1035 net5293 net5289
+not U1036 net5318 net5312
+not U1037 net5319 net5315
+nand U1038 net5331 net5322 net5329
+not U1039 net5402 net5396
+nand U1040 net5405 net5396 net5403
+and U1041 net595 net2807 net2808 net2809 net2810
+and U1042 net596 net2811 net2812 net2813 net2814
+and U1043 net607 net2626 net2622 net2618 net2614
+and U1044 net608 net2720 net2716 net2712 net2708
+and U1045 net1845 net1704 net1724
+and U1046 net1846 net1712 net1704 net1742
+and U1047 net2115 net1958 net1978
+and U1048 net2116 net1966 net1958 net1995
+not U1049 net4122 net4116
+nand U1050 net1022 net4116 net4123
+not U1051 net4130 net4124
+nand U1052 net1033 net4124 net4131
+not U1053 net4138 net4132
+nand U1054 net1051 net4132 net4139
+not U1055 net4146 net4140
+nand U1056 net1079 net4140 net4147
+not U1057 net4154 net4148
+nand U1058 net1088 net4148 net4155
+not U1059 net4162 net4156
+nand U1060 net1099 net4156 net4163
+not U1061 net4170 net4164
+nand U1062 net1115 net4164 net4171
+not U1063 net4178 net4172
+nand U1064 net1133 net4172 net4179
+not U1065 net4186 net4180
+nand U1066 net1151 net4180 net4187
+not U1067 net4234 net4228
+nand U1068 net1276 net4279 net4282
+not U1069 net4283 net4279
+nand U1070 net1287 net4287 net4290
+not U1071 net4291 net4287
+nand U1072 net1305 net4295 net4298
+not U1073 net4299 net4295
+nand U1074 net1330 net4303 net4306
+not U1075 net4307 net4303
+nand U1076 net1342 net4311 net4314
+not U1077 net4315 net4311
+nand U1078 net1363 net4319 net4322
+not U1079 net4323 net4319
+nand U1080 net1388 net4327 net4330
+not U1081 net4331 net4327
+nand U1082 net1420 net4335 net4338
+not U1083 net4339 net4335
+nand U1084 net1428 net4343 net4346
+not U1085 net4347 net4343
+not U1086 net4634 net4628
+nand U1087 net1729 net4628 net4635
+not U1088 net4642 net4636
+nand U1089 net1757 net4636 net4643
+not U1090 net4650 net4644
+nand U1091 net1766 net4644 net4651
+nand U1092 net1776 net4655 net4658
+not U1093 net4666 net4660
+nand U1094 net1793 net4660 net4667
+not U1095 net4674 net4668
+nand U1096 net1811 net4668 net4675
+and U1097 net1849 net1712 net1742
+and U1098 net1852 net1712 net1742
+and U1099 net1875 net54 net1829
+not U1100 net4722 net4716
+nand U1101 net1982 net4767 net4770
+not U1102 net4771 net4767
+nand U1103 net2007 net4775 net4778
+not U1104 net4779 net4775
+nand U1105 net2020 net4780 net4787
+nand U1106 net2040 net4791 net4794
+not U1107 net4795 net4791
+nand U1108 net2065 net4799 net4802
+not U1109 net4803 net4799
+nand U1110 net2097 net4807 net4810
+not U1111 net4811 net4807
+and U1112 net2119 net1966 net1995
+and U1113 net2122 net1966 net1995
+not U1114 net5124 net5118
+not U1115 net5125 net5121
+nand U1116 net3452 net5129 net5132
+not U1117 net5133 net5129
+not U1118 net5140 net5134
+nand U1119 net3462 net5134 net5141
+not U1120 net5168 net5162
+not U1121 net5169 net5165
+not U1122 net5176 net5170
+not U1123 net5177 net5173
+nand U1124 net3484 net5181 net5184
+not U1125 net5185 net5181
+nor U1126 net3515 net3513 net3514
+nor U1127 net3518 net3516 net3517
+not U1128 net3857 net3853
+nand U1129 net3860 net5263 net5266
+nand U1130 net3861 net5260 net5267
+nand U1131 net3869 net5271 net5274
+nand U1132 net3870 net5268 net5275
+not U1133 net3878 net3874
+nand U1134 net3881 net5299 net5302
+nand U1135 net3882 net5296 net5303
+nand U1136 net3890 net5307 net5310
+and U1137 net3954 net3901 net3906 net3937
+and U1138 net3957 net3897 net3910 net3941
+and U1139 net4021 net3353 net3979 net3998
+not U1140 net4099 net3170
+buf U1141 net4236 net1071
+not U1142 net4354 net4348
+buf U1143 net4406 net1324
+not U1144 net4470 net4464
+buf U1145 net4552 net1412
+buf U1146 net4679 net1829
+buf U1147 net4687 net1704
+buf U1148 net4695 net1704
+buf U1149 net4703 net1712
+buf U1150 net4711 net1712
+buf U1151 net4724 net1749
+not U1152 net4818 net4812
+buf U1153 net4855 net1958
+buf U1154 net4865 net1966
+buf U1155 net4870 net2001
+buf U1156 net4913 net1958
+buf U1157 net4923 net1966
+buf U1158 net4951 net2106
+buf U1159 net5006 net2089
+buf U1160 net5039 net2106
+not U1161 net5148 net5142
+not U1162 net5149 net5145
+not U1163 net5158 net5152
+not U1164 net5159 net5155
+not U1165 net5192 net5186
+not U1166 net5193 net5189
+not U1167 net5202 net5196
+not U1168 net5203 net5199
+nand U1169 net5284 net5279 net5282
+nand U1170 net5285 net5276 net5283
+nand U1171 net5320 net5315 net5318
+nand U1172 net5321 net5312 net5319
+nand U1173 net5386 net5330 net5331
+nand U1174 net5404 net5399 net5402
+and U1175 net598 net595 net596 net597
+not U1176 net609 net3350
+nand U1177 net1021 net4119 net4122
+nand U1178 net1032 net4127 net4130
+nand U1179 net1050 net4135 net4138
+nand U1180 net1078 net4143 net4146
+nand U1181 net1087 net4151 net4154
+nand U1182 net1098 net4159 net4162
+nand U1183 net1114 net4167 net4170
+nand U1184 net1132 net4175 net4178
+nand U1185 net1150 net4183 net4186
+nand U1186 net1277 net4276 net4283
+nand U1187 net1288 net4284 net4291
+nand U1188 net1306 net4292 net4299
+nand U1189 net1331 net4300 net4307
+nand U1190 net1343 net4308 net4315
+nand U1191 net1364 net4316 net4323
+nand U1192 net1389 net4324 net4331
+nand U1193 net1421 net4332 net4339
+nand U1194 net1429 net4340 net4347
+nand U1195 net1728 net4631 net4634
+nand U1196 net1756 net4639 net4642
+nand U1197 net1765 net4647 net4650
+nand U1198 net1778 net1776 net1777
+nand U1199 net1792 net4663 net4666
+nand U1200 net1810 net4671 net4674
+nand U1201 net1983 net4764 net4771
+nand U1202 net2008 net4772 net4779
+nand U1203 net2021 net2019 net2020
+nand U1204 net2041 net4788 net4795
+nand U1205 net2066 net4796 net4803
+nand U1206 net2098 net4804 net4811
+nand U1207 net3443 net5121 net5124
+nand U1208 net3444 net5118 net5125
+nand U1209 net3453 net5126 net5133
+nand U1210 net3461 net5137 net5140
+nand U1211 net3466 net5165 net5168
+nand U1212 net3467 net5162 net5169
+nand U1213 net3475 net5173 net5176
+nand U1214 net3476 net5170 net5177
+nand U1215 net3485 net5178 net5185
+not U1216 net5243 net5239
+nand U1217 net3862 net3860 net3861
+nand U1218 net3871 net3869 net3870
+nand U1219 net3883 net3881 net3882
+nand U1220 net3892 net3890 net3891
+nor U1221 net3956 net3954 net3955
+nor U1222 net3959 net3957 net3958
+or U1223 net4756 net1837 net1875
+nand U1224 net5150 net5145 net5148
+nand U1225 net5151 net5142 net5149
+nand U1226 net5160 net5155 net5158
+nand U1227 net5161 net5152 net5159
+nand U1228 net5194 net5189 net5192
+nand U1229 net5195 net5186 net5193
+nand U1230 net5204 net5199 net5202
+nand U1231 net5205 net5196 net5203
+nand U1232 net5236 net3518 net3515
+buf U1233 net5286 net3350
+nand U1234 net5379 net5284 net5285
+nand U1235 net5389 net5320 net5321
+nand U1236 net5425 net5404 net5405
+and U1237 net610 net607 net608 net609
+nand U1238 net1023 net1021 net1022
+nand U1239 net1034 net1032 net1033
+nand U1240 net1052 net1050 net1051
+nand U1241 net1080 net1078 net1079
+nand U1242 net1089 net1087 net1088
+nand U1243 net1100 net1098 net1099
+nand U1244 net1116 net1114 net1115
+nand U1245 net1134 net1132 net1133
+nand U1246 net1152 net1150 net1151
+not U1247 net4242 net4236
+nand U1248 net1278 net1276 net1277
+nand U1249 net1289 net1287 net1288
+nand U1250 net1307 net1305 net1306
+nand U1251 net1332 net1330 net1331
+nand U1252 net1344 net1342 net1343
+nand U1253 net1365 net1363 net1364
+nand U1254 net1390 net1388 net1389
+nand U1255 net1422 net1420 net1421
+nand U1256 net1430 net1428 net1429
+nand U1257 net1730 net1728 net1729
+nand U1258 net1758 net1756 net1757
+nand U1259 net1767 net1765 net1766
+nand U1260 net1794 net1792 net1793
+nand U1261 net1812 net1810 net1811
+nand U1262 net1876 net4679 net4682
+not U1263 net4683 net4679
+not U1264 net4691 net4687
+not U1265 net4699 net4695
+not U1266 net4707 net4703
+not U1267 net4715 net4711
+not U1268 net4730 net4724
+nand U1269 net1984 net1982 net1983
+nand U1270 net2009 net2007 net2008
+nand U1271 net2042 net2040 net2041
+nand U1272 net2067 net2065 net2066
+nand U1273 net2099 net2097 net2098
+not U1274 net4869 net4865
+not U1275 net4927 net4923
+nand U1276 net3445 net3443 net3444
+nand U1277 net3454 net3452 net3453
+nand U1278 net3463 net3461 net3462
+nand U1279 net3468 net3466 net3467
+nand U1280 net3477 net3475 net3476
+nand U1281 net3486 net3484 net3485
+and U1282 net4103 net4099 net3170
+not U1283 net4412 net4406
+not U1284 net4558 net4552
+not U1285 net4859 net4855
+not U1286 net4876 net4870
+not U1287 net4917 net4913
+not U1288 net4955 net4951
+not U1289 net5012 net5006
+not U1290 net5043 net5039
+nand U1291 net5216 net5160 net5161
+nand U1292 net5219 net5150 net5151
+nand U1293 net5226 net5204 net5205
+nand U1294 net5229 net5194 net5195
+not U1295 net5392 net5386
+nand U1296 net5422 net3959 net3956
+and U1297 net1866 net1778 net1806
+nand U1298 net1877 net4676 net4683
+not U1299 net4762 net4756
+and U1300 net2142 net2021 net2059
+and U1301 net2146 net2021 net2059
+not U1302 net5242 net5236
+nand U1303 net3532 net5236 net5243
+not U1304 net3866 net3862
+not U1305 net3887 net3883
+buf U1306 net3918 net3871
+buf U1307 net3922 net3871
+buf U1308 net3926 net3892
+buf U1309 net3930 net3892
+not U1310 net5429 net5425
+or U1311 net4104 net4099 net4103
+buf U1312 net4743 net1778
+buf U1313 net4991 net2021
+buf U1314 net5001 net2021
+not U1315 net5292 net5286
+nand U1316 net5295 net5286 net5293
+not U1317 net5383 net5379
+not U1318 net5393 net5389
+nand U1319 net5394 net5389 net5392
+and U1320 net1439 net1278 net1301
+and U1321 net1440 net1289 net1278 net1318
+and U1322 net1441 net1307 net1278 net1324 net1289
+and U1323 net1847 net1730 net1704 net1749 net1712
+and U1324 net1168 net1023 net1046
+and U1325 net1169 net1034 net1023 net1064
+and U1326 net1170 net1052 net1023 net1071 net1034
+and U1327 net2117 net1984 net1958 net2001 net1966
+not U1328 net1086 net1080
+and U1329 net1166 net1034 net1080 net1052 net1023
+and U1330 net1171 net1034 net1064
+and U1331 net1172 net1052 net1071 net1034
+and U1332 net1173 net1080 net1052 net1034
+and U1333 net1174 net1034 net1064
+and U1334 net1175 net1071 net1052 net1034
+and U1335 net1176 net1052 net1071
+and U1336 net1177 net1080 net1052
+and U1337 net1178 net1052 net1071
+and U1338 net1179 net1100 net1152 net1116 net1089 net1134
+and U1339 net1181 net1089 net1111
+and U1340 net1182 net1100 net1089 net1128
+and U1341 net1183 net1116 net1089 net1145 net1100
+and U1342 net1184 net1134 net1116 net1089 net1160 net1100
+and U1343 net1188 net1100 net1128
+and U1344 net1189 net1116 net1145 net1100
+and U1345 net1190 net1134 net1116 net1160 net1100
+and U1346 net1191 net4 net1152 net1116 net1134 net1100
+and U1347 net1192 net1145 net1116
+and U1348 net1193 net1134 net1116 net1160
+and U1349 net1194 net4 net1152 net1116 net1134
+and U1350 net1195 net1134 net1160
+and U1351 net1196 net4 net1152 net1134
+and U1352 net1197 net4 net1152
+and U1353 net1437 net1422 net1307 net1289 net1278
+and U1354 net1442 net1289 net1318
+and U1355 net1443 net1307 net1324 net1289
+and U1356 net1444 net1422 net1307 net1289
+and U1357 net1445 net1289 net1318
+and U1358 net1446 net1307 net1324 net1289
+and U1359 net1447 net1307 net1324
+and U1360 net1451 net1430 net1390 net1365 net1344 net1332
+and U1361 net1454 net1332 net1359
+and U1362 net1455 net1344 net1332 net1382
+and U1363 net1456 net1365 net1332 net1404 net1344
+and U1364 net1457 net1390 net1365 net1332 net1412 net1344
+and U1365 net1465 net1344 net1382
+and U1366 net1466 net1365 net1404 net1344
+and U1367 net1467 net1390 net1365 net1412 net1344
+and U1368 net1468 net1430 net1365 net1344 net1390
+and U1369 net1469 net1344 net1382
+and U1370 net1470 net1365 net1404 net1344
+and U1371 net1471 net1390 net1365 net1412 net1344
+and U1372 net1472 net1365 net1404
+and U1373 net1473 net1390 net1365 net1412
+and U1374 net1474 net1430 net1365 net1390
+and U1375 net1475 net1365 net1404
+and U1376 net1476 net1390 net1365 net1412
+and U1377 net1477 net1390 net1412
+and U1378 net1481 net1422 net1307
+and U1379 net1482 net1430 net1390
+not U1380 net1764 net1758
+and U1381 net1843 net1712 net1758 net1730 net1704
+and U1382 net1850 net1730 net1749 net1712
+and U1383 net1851 net1758 net1730 net1712
+and U1384 net1853 net1749 net1730 net1712
+and U1385 net1854 net1730 net1749
+and U1386 net1855 net1758 net1730
+and U1387 net1856 net1730 net1749
+and U1388 net1857 net1778 net1829 net1794 net1767 net1812
+and U1389 net1859 net1767 net1789
+and U1390 net1860 net1778 net1767 net1806
+and U1391 net1861 net1794 net1767 net1823 net1778
+and U1392 net1862 net1812 net1794 net1767 net1837 net1778
+and U1393 net1867 net1794 net1823 net1778
+and U1394 net1868 net1812 net1794 net1837 net1778
+and U1395 net1869 net54 net1829 net1794 net1812 net1778
+and U1396 net1870 net1823 net1794
+and U1397 net1871 net1812 net1794 net1837
+and U1398 net1872 net54 net1829 net1794 net1812
+and U1399 net1873 net1812 net1837
+and U1400 net1874 net54 net1829 net1812
+nand U1401 net1878 net1876 net1877
+and U1402 net2113 net2099 net1984 net1966 net1958
+and U1403 net2120 net1984 net2001 net1966
+and U1404 net2121 net2099 net1984 net1966
+and U1405 net2123 net1984 net2001 net1966
+and U1406 net2124 net1984 net2001
+and U1407 net2128 net2106 net2067 net2042 net2021 net2009
+and U1408 net2131 net2009 net2036
+and U1409 net2132 net2021 net2009 net2059
+and U1410 net2133 net2042 net2009 net2081 net2021
+and U1411 net2134 net2067 net2042 net2009 net2089 net2021
+and U1412 net2143 net2042 net2081 net2021
+and U1413 net2144 net2067 net2042 net2089 net2021
+and U1414 net2145 net2106 net2042 net2021 net2067
+and U1415 net2147 net2042 net2081 net2021
+and U1416 net2148 net2067 net2042 net2089 net2021
+and U1417 net2149 net2042 net2081
+and U1418 net2150 net2067 net2042 net2089
+and U1419 net2151 net2106 net2042 net2067
+and U1420 net2152 net2042 net2081
+and U1421 net2153 net2067 net2042 net2089
+and U1422 net2154 net2067 net2089
+and U1423 net2158 net2099 net1984
+and U1424 net2159 net2106 net2067
+not U1425 net3449 net3445
+not U1426 net3458 net3454
+not U1427 net3472 net3468
+not U1428 net3481 net3477
+buf U1429 net3497 net3463
+buf U1430 net3501 net3463
+buf U1431 net3505 net3486
+buf U1432 net3509 net3486
+nand U1433 net3531 net5239 net5242
+not U1434 net5428 net5422
+nand U1435 net3967 net5422 net5429
+buf U1436 net4191 net1152
+buf U1437 net4199 net1023
+buf U1438 net4207 net1023
+buf U1439 net4215 net1034
+buf U1440 net4223 net1034
+buf U1441 net4231 net1052
+buf U1442 net4239 net1052
+buf U1443 net4247 net1089
+buf U1444 net4255 net1100
+buf U1445 net4263 net1116
+buf U1446 net4271 net1134
+buf U1447 net4371 net1422
+buf U1448 net4381 net1307
+buf U1449 net4391 net1278
+buf U1450 net4401 net1289
+buf U1451 net4429 net1422
+buf U1452 net4439 net1307
+buf U1453 net4449 net1278
+buf U1454 net4459 net1289
+buf U1455 net4497 net1430
+buf U1456 net4507 net1390
+buf U1457 net4517 net1332
+buf U1458 net4527 net1365
+buf U1459 net4537 net1344
+buf U1460 net4547 net1344
+buf U1461 net4585 net1430
+buf U1462 net4595 net1390
+buf U1463 net4605 net1332
+buf U1464 net4615 net1365
+buf U1465 net4719 net1730
+buf U1466 net4727 net1730
+buf U1467 net4735 net1767
+buf U1468 net4751 net1794
+buf U1469 net4759 net1812
+buf U1470 net4835 net2099
+buf U1471 net4845 net1984
+buf U1472 net4893 net2099
+buf U1473 net4903 net1984
+buf U1474 net4961 net2067
+buf U1475 net4971 net2009
+buf U1476 net4981 net2042
+buf U1477 net5049 net2067
+buf U1478 net5059 net2009
+buf U1479 net5069 net2042
+not U1480 net5222 net5216
+not U1481 net5223 net5219
+not U1482 net5232 net5226
+not U1483 net5233 net5229
+nand U1484 net5294 net5289 net5292
+nand U1485 net5395 net5386 net5393
+or U1486 net589 net1286 net1439 net1440 net1441
+or U1487 net616 net3167 net1845 net1846 net1847
+or U1488 net619 net1031 net1168 net1169 net1170
+or U1489 net627 net3167 net2115 net2116 net2117
+or U1490 net1185 net1097 net1181 net1182 net1183 net1184
+or U1491 net1448 net1318 net1447
+or U1492 net1458 net1341 net1454 net1455 net1456 net1457
+or U1493 net1478 net1404 net1477
+or U1494 net1863 net1775 net1859 net1860 net1861 net1862
+not U1495 net4747 net4743
+or U1496 net2125 net1995 net2124
+or U1497 net2135 net2018 net2131 net2132 net2133 net2134
+or U1498 net2155 net2081 net2154
+not U1499 net4995 net4991
+not U1500 net5005 net5001
+nand U1501 net3533 net3531 net3532
+not U1502 net3921 net3918
+not U1503 net3925 net3922
+not U1504 net3929 net3926
+not U1505 net3933 net3930
+and U1506 net3943 net3862 net3853 net3918
+and U1507 net3946 net3866 net3857 net3922
+and U1508 net3949 net3883 net3874 net3926
+and U1509 net3952 net3887 net3878 net3930
+nand U1510 net3966 net5425 net5428
+nand U1511 net4107 net4104 net132
+or U1512 net4196 net1046 net1171 net1172 net1173
+nor U1513 net4204 net1046 net1174 net1175
+or U1514 net4212 net1064 net1176 net1177
+nor U1515 net4220 net1064 net1178
+or U1516 net4244 net1111 net1188 net1189 net1190 net1191
+or U1517 net4252 net1128 net1192 net1193 net1194
+or U1518 net4260 net1145 net1195 net1196
+or U1519 net4268 net1160 net1197
+or U1520 net4361 net1301 net1442 net1443 net1444
+nor U1521 net4419 net1301 net1445 net1446
+or U1522 net4467 net1382 net1472 net1473 net1474
+or U1523 net4487 net1359 net1465 net1466 net1467 net1468
+nor U1524 net4555 net1382 net1475 net1476
+nor U1525 net4575 net1359 net1469 net1470 net1471
+or U1526 net4684 net1724 net1849 net1850 net1851
+nor U1527 net4692 net1724 net1852 net1853
+or U1528 net4700 net1742 net1854 net1855
+nor U1529 net4708 net1742 net1856
+or U1530 net4732 net1789 net1866 net1867 net1868 net1869
+or U1531 net4740 net1806 net1870 net1871 net1872
+or U1532 net4748 net1823 net1873 net1874
+or U1533 net4825 net1978 net2119 net2120 net2121
+nor U1534 net4883 net1978 net2122 net2123
+or U1535 net4928 net2059 net2149 net2150 net2151
+or U1536 net4941 net2036 net2142 net2143 net2144 net2145
+nor U1537 net5009 net2059 net2152 net2153
+nor U1538 net5029 net2036 net2146 net2147 net2148
+nand U1539 net5224 net5219 net5222
+nand U1540 net5225 net5216 net5223
+nand U1541 net5234 net5229 net5232
+nand U1542 net5235 net5226 net5233
+nand U1543 net5376 net5294 net5295
+nand U1544 net5417 net5394 net5395
+not U1545 net576 net1878
+and U1546 net588 net1437 net1451
+and U1547 net615 net1843 net1857
+and U1548 net626 net2113 net2128
+and U1549 net632 net1166 net1179
+nand U1550 net1198 net4191 net4194
+not U1551 net4195 net4191
+not U1552 net4203 net4199
+not U1553 net4211 net4207
+not U1554 net4219 net4215
+not U1555 net4227 net4223
+nand U1556 net1217 net4231 net4234
+not U1557 net4235 net4231
+nand U1558 net1221 net4239 net4242
+not U1559 net4243 net4239
+and U1560 net1224 net1179 net4
+not U1561 net4251 net4247
+not U1562 net4259 net4255
+not U1563 net4267 net4263
+not U1564 net4275 net4271
+not U1565 net1453 net1451
+not U1566 net4405 net4401
+not U1567 net4463 net4459
+not U1568 net4541 net4537
+not U1569 net4551 net4547
+nand U1570 net1895 net4719 net4722
+not U1571 net4723 net4719
+nand U1572 net1899 net4727 net4730
+not U1573 net4731 net4727
+and U1574 net1902 net1857 net54
+not U1575 net4739 net4735
+not U1576 net4755 net4751
+nand U1577 net1929 net4759 net4762
+not U1578 net4763 net4759
+not U1579 net2130 net2128
+not U1580 net3500 net3497
+not U1581 net3504 net3501
+not U1582 net3508 net3505
+not U1583 net3512 net3509
+and U1584 net3520 net3454 net3445 net3497
+and U1585 net3523 net3458 net3449 net3501
+and U1586 net3526 net3477 net3468 net3505
+and U1587 net3529 net3481 net3472 net3509
+buf U1588 net1002 net3533
+and U1589 net3837 net1878 net3795 net3823
+and U1590 net3942 net3857 net3862 net3921
+and U1591 net3945 net3853 net3866 net3925
+and U1592 net3948 net3878 net3883 net3929
+and U1593 net3951 net3874 net3887 net3933
+nand U1594 net3968 net3966 net3967
+not U1595 net4375 net4371
+not U1596 net4385 net4381
+not U1597 net4395 net4391
+not U1598 net4433 net4429
+not U1599 net4443 net4439
+not U1600 net4453 net4449
+not U1601 net4501 net4497
+not U1602 net4511 net4507
+not U1603 net4521 net4517
+not U1604 net4531 net4527
+not U1605 net4619 net4615
+not U1606 net4589 net4585
+not U1607 net4599 net4595
+not U1608 net4609 net4605
+not U1609 net4839 net4835
+not U1610 net4849 net4845
+not U1611 net4897 net4893
+not U1612 net4907 net4903
+not U1613 net4965 net4961
+not U1614 net4975 net4971
+not U1615 net4985 net4981
+not U1616 net5073 net5069
+not U1617 net5053 net5049
+not U1618 net5063 net5059
+nand U1619 net5247 net5224 net5225
+nand U1620 net5255 net5234 net5235
+and U1621 net590 net1437 net1458
+and U1622 net617 net1863 net1843
+and U1623 net620 net1185 net1166
+and U1624 net628 net2113 net2135
+not U1625 net3535 net3533
+nand U1626 net1199 net4188 net4195
+not U1627 net4202 net4196
+nand U1628 net1204 net4196 net4203
+not U1629 net4210 net4204
+nand U1630 net1207 net4204 net4211
+not U1631 net4218 net4212
+nand U1632 net1211 net4212 net4219
+not U1633 net4226 net4220
+nand U1634 net1214 net4220 net4227
+nand U1635 net1218 net4228 net4235
+nand U1636 net1222 net4236 net4243
+or U1637 net1225 net1185 net1224
+not U1638 net4250 net4244
+nand U1639 net1237 net4244 net4251
+not U1640 net4258 net4252
+nand U1641 net1242 net4252 net4259
+not U1642 net4266 net4260
+nand U1643 net1247 net4260 net4267
+not U1644 net4274 net4268
+nand U1645 net1252 net4268 net4275
+not U1646 net1462 net1458
+not U1647 net4690 net4684
+nand U1648 net1882 net4684 net4691
+not U1649 net4698 net4692
+nand U1650 net1885 net4692 net4699
+not U1651 net4706 net4700
+nand U1652 net1889 net4700 net4707
+not U1653 net4714 net4708
+nand U1654 net1892 net4708 net4715
+nand U1655 net1896 net4716 net4723
+nand U1656 net1900 net4724 net4731
+or U1657 net1903 net1863 net1902
+not U1658 net4738 net4732
+nand U1659 net1915 net4732 net4739
+not U1660 net4746 net4740
+nand U1661 net1920 net4740 net4747
+not U1662 net4754 net4748
+nand U1663 net1925 net4748 net4755
+nand U1664 net1930 net4756 net4763
+not U1665 net2139 net2135
+and U1666 net3519 net3449 net3454 net3500
+and U1667 net3522 net3445 net3458 net3504
+and U1668 net3525 net3472 net3477 net3508
+and U1669 net3528 net3468 net3481 net3512
+or U1670 net3848 net3836 net3837 net3838
+nor U1671 net3944 net3942 net3943
+nor U1672 net3947 net3945 net3946
+nor U1673 net3950 net3948 net3949
+nor U1674 net3953 net3951 net3952
+not U1675 net5421 net5417
+buf U1676 net1004 net3968
+and U1677 net4111 net4104 net4107
+and U1678 net4112 net4107 net132
+or U1679 net4351 net1448 net1481
+not U1680 net4365 net4361
+not U1681 net4409 net1448
+not U1682 net4423 net4419
+not U1683 net4471 net4467
+nand U1684 net4472 net4467 net4470
+or U1685 net4477 net1478 net1482
+not U1686 net4491 net4487
+not U1687 net4559 net4555
+nand U1688 net4560 net4555 net4558
+not U1689 net4565 net1478
+not U1690 net4579 net4575
+or U1691 net4815 net2125 net2158
+not U1692 net4829 net4825
+not U1693 net4873 net2125
+not U1694 net4887 net4883
+or U1695 net4931 net2155 net2159
+not U1696 net4934 net4928
+not U1697 net4945 net4941
+not U1698 net5013 net5009
+nand U1699 net5014 net5009 net5012
+not U1700 net5019 net2155
+not U1701 net5033 net5029
+not U1702 net5382 net5376
+nand U1703 net5385 net5376 net5383
+or U1704 net591 net589 net590
+or U1705 net618 net616 net617
+or U1706 net621 net619 net620
+or U1707 net629 net627 net628
+not U1708 net3970 net3968
+nand U1709 net1200 net1198 net1199
+nand U1710 net1203 net4199 net4202
+nand U1711 net1206 net4207 net4210
+nand U1712 net1210 net4215 net4218
+nand U1713 net1213 net4223 net4226
+nand U1714 net1219 net1217 net1218
+nand U1715 net1223 net1221 net1222
+nand U1716 net1236 net4247 net4250
+nand U1717 net1241 net4255 net4258
+nand U1718 net1246 net4263 net4266
+nand U1719 net1251 net4271 net4274
+nand U1720 net1881 net4687 net4690
+nand U1721 net1884 net4695 net4698
+nand U1722 net1888 net4703 net4706
+nand U1723 net1891 net4711 net4714
+nand U1724 net1897 net1895 net1896
+nand U1725 net1901 net1899 net1900
+nand U1726 net1914 net4735 net4738
+nand U1727 net1919 net4743 net4746
+nand U1728 net1924 net4751 net4754
+nand U1729 net1931 net1929 net1930
+nor U1730 net3521 net3519 net3520
+nor U1731 net3524 net3522 net3523
+nor U1732 net3527 net3525 net3526
+nor U1733 net3530 net3528 net3529
+not U1734 net5251 net5247
+not U1735 net5259 net5255
+or U1736 net4113 net4111 net4112
+nand U1737 net4473 net4464 net4471
+nand U1738 net4561 net4552 net4559
+nand U1739 net5015 net5006 net5013
+nand U1740 net5384 net5379 net5382
+nand U1741 net5406 net3947 net3944
+nand U1742 net5414 net3953 net3950
+and U1743 net1664 net3848 net1621 net1645
+and U1744 net2335 net3848 net2293 net2316
+and U1745 net718 net3848 net2430 net2454
+not U1746 net822 net3848
+and U1747 net855 net3848 net2488 net2512
+nand U1748 net1205 net1203 net1204
+nand U1749 net1208 net1206 net1207
+nand U1750 net1212 net1210 net1211
+nand U1751 net1215 net1213 net1214
+not U1752 net1220 net1219
+not U1753 net1231 net1225
+nand U1754 net1238 net1236 net1237
+nand U1755 net1243 net1241 net1242
+nand U1756 net1248 net1246 net1247
+nand U1757 net1253 net1251 net1252
+and U1758 net1272 net1225 net1086
+and U1759 net1483 net1462 net1453
+nand U1760 net1883 net1881 net1882
+nand U1761 net1886 net1884 net1885
+nand U1762 net1890 net1888 net1889
+nand U1763 net1893 net1891 net1892
+not U1764 net1898 net1897
+not U1765 net1909 net1903
+nand U1766 net1916 net1914 net1915
+nand U1767 net1921 net1919 net1920
+nand U1768 net1926 net1924 net1925
+and U1769 net1953 net1903 net1764
+and U1770 net2160 net2139 net2130
+not U1771 net4355 net4351
+nand U1772 net4356 net4351 net4354
+not U1773 net4413 net4409
+nand U1774 net4414 net4409 net4412
+nand U1775 net4474 net4472 net4473
+not U1776 net4481 net4477
+nand U1777 net4562 net4560 net4561
+not U1778 net4569 net4565
+not U1779 net4819 net4815
+nand U1780 net4820 net4815 net4818
+not U1781 net4877 net4873
+nand U1782 net4878 net4873 net4876
+not U1783 net4935 net4931
+nand U1784 net4936 net4931 net4934
+nand U1785 net5016 net5014 net5015
+not U1786 net5023 net5019
+nand U1787 net5244 net3524 net3521
+nand U1788 net5252 net3530 net3527
+nand U1789 net5409 net5384 net5385
+not U1790 net566 net1200
+not U1791 net577 net1931
+and U1792 net3733 net4113 net3724 net3721
+not U1793 net1209 net1208
+not U1794 net1216 net1215
+and U1795 net1257 net1225 net1205
+and U1796 net1262 net1225 net1212
+and U1797 net1267 net1225 net1220
+not U1798 net1887 net1886
+not U1799 net1894 net1893
+and U1800 net1935 net1903 net1883
+and U1801 net1943 net1903 net1890
+and U1802 net1948 net1903 net1898
+and U1803 net3779 net1200 net3737 net3765
+and U1804 net3840 net1931 net3795 net3823
+not U1805 net5412 net5406
+not U1806 net5420 net5414
+nand U1807 net3964 net5414 net5421
+nand U1808 net4357 net4348 net4355
+nand U1809 net4415 net4406 net4413
+nand U1810 net4821 net4812 net4819
+nand U1811 net4879 net4870 net4877
+nand U1812 net4937 net4928 net4935
+not U1813 net567 net1253
+not U1814 net568 net1248
+not U1815 net569 net1243
+not U1816 net570 net1238
+not U1817 net578 net1926
+not U1818 net579 net1921
+not U1819 net580 net1916
+and U1820 net1256 net1209 net1231
+and U1821 net1261 net1216 net1231
+and U1822 net1266 net1223 net1231
+and U1823 net1271 net1080 net1231
+not U1824 net1486 net1483
+and U1825 net1934 net1887 net1909
+and U1826 net1942 net1894 net1909
+and U1827 net1947 net1901 net1909
+and U1828 net1952 net1758 net1909
+not U1829 net2163 net2160
+not U1830 net5250 net5244
+nand U1831 net3537 net5244 net5251
+not U1832 net5258 net5252
+nand U1833 net3542 net5252 net5259
+and U1834 net3782 net1253 net3737 net3765
+and U1835 net3785 net1248 net3737 net3765
+and U1836 net3788 net1243 net3737 net3765
+or U1837 net3790 net3778 net3779 net3780
+and U1838 net3843 net1926 net3795 net3823
+and U1839 net3846 net1921 net3795 net3823
+or U1840 net3849 net3839 net3840 net3841
+nand U1841 net3960 net5409 net5412
+not U1842 net5413 net5409
+nand U1843 net3963 net5417 net5420
+and U1844 net4010 net1238 net3972 net3998
+and U1845 net4068 net1916 net4030 net4056
+nand U1846 net4358 net4356 net4357
+nand U1847 net4416 net4414 net4415
+not U1848 net4480 net4474
+nand U1849 net4483 net4474 net4481
+not U1850 net4568 net4562
+nand U1851 net4571 net4562 net4569
+nand U1852 net4822 net4820 net4821
+nand U1853 net4880 net4878 net4879
+nand U1854 net4938 net4936 net4937
+not U1855 net5022 net5016
+nand U1856 net5025 net5016 net5023
+or U1857 net1258 net1256 net1257
+or U1858 net1263 net1261 net1262
+or U1859 net1268 net1266 net1267
+or U1860 net1273 net1271 net1272
+or U1861 net1936 net1934 net1935
+or U1862 net1944 net1942 net1943
+or U1863 net1949 net1947 net1948
+or U1864 net1954 net1952 net1953
+nand U1865 net3536 net5247 net5250
+nand U1866 net3541 net5255 net5258
+or U1867 net3791 net3781 net3782 net3783
+or U1868 net3792 net3784 net3785 net3786
+or U1869 net3793 net3787 net3788 net3789
+or U1870 net3850 net3842 net3843 net3844
+or U1871 net3851 net3845 net3846 net3847
+nand U1872 net3961 net5406 net5413
+nand U1873 net3965 net3963 net3964
+or U1874 net4024 net4009 net4010 net4011
+or U1875 net4082 net4067 net4068 net4069
+nand U1876 net4482 net4477 net4480
+nand U1877 net4570 net4565 net4568
+nand U1878 net5024 net5019 net5022
+and U1879 net1666 net3790 net1609 net1645
+and U1880 net1670 net3849 net1621 net1645
+and U1881 net2337 net3790 net2281 net2316
+and U1882 net2341 net3849 net2293 net2316
+and U1883 net719 net3790 net2418 net2454
+and U1884 net758 net3849 net2430 net2454
+and U1885 net798 net3849 net2488 net2512
+not U1886 net838 net3849
+and U1887 net856 net3790 net2476 net2512
+not U1888 net861 net3790
+nand U1889 net3538 net3536 net3537
+nand U1890 net3543 net3541 net3542
+nand U1891 net3962 net3960 net3961
+not U1892 net4364 net4358
+nand U1893 net4367 net4358 net4365
+not U1894 net4422 net4416
+nand U1895 net4425 net4416 net4423
+nand U1896 net4484 net4482 net4483
+nand U1897 net4572 net4570 net4571
+not U1898 net4828 net4822
+nand U1899 net4831 net4822 net4829
+not U1900 net4886 net4880
+nand U1901 net4889 net4880 net4887
+not U1902 net4944 net4938
+nand U1903 net4947 net4938 net4945
+nand U1904 net5026 net5024 net5025
+not U1905 net571 net1273
+not U1906 net572 net1268
+not U1907 net573 net1263
+not U1908 net574 net1258
+not U1909 net581 net1954
+not U1910 net582 net1949
+not U1911 net583 net1944
+not U1912 net584 net1936
+not U1913 net623 net1936
+and U1914 net1576 net4082 net1540 net1564
+and U1915 net1578 net4024 net1528 net1564
+or U1916 net659 net1664 net1666 net1667 net1668
+and U1917 net1672 net3791 net1609 net1645
+and U1918 net1676 net3850 net1621 net1645
+and U1919 net1678 net3792 net1609 net1645
+and U1920 net1682 net3851 net1621 net1645
+and U1921 net1684 net3793 net1609 net1645
+and U1922 net2250 net4082 net2215 net2238
+and U1923 net2252 net4024 net2203 net2238
+or U1924 net691 net2335 net2337 net2338 net2339
+and U1925 net2343 net3791 net2281 net2316
+and U1926 net2347 net3850 net2293 net2316
+and U1927 net2349 net3792 net2281 net2316
+and U1928 net2353 net3851 net2293 net2316
+and U1929 net2355 net3793 net2281 net2316
+or U1930 net722 net718 net719 net720 net721
+and U1931 net743 net4082 net3570 net3594
+and U1932 net744 net4024 net3558 net3594
+and U1933 net748 net3851 net2430 net2454
+and U1934 net749 net3793 net2418 net2454
+and U1935 net753 net3850 net2430 net2454
+and U1936 net754 net3792 net2418 net2454
+and U1937 net759 net3791 net2418 net2454
+and U1938 net783 net4082 net3672 net3696
+and U1939 net784 net4024 net3660 net3696
+and U1940 net788 net3851 net2488 net2512
+and U1941 net789 net3793 net2476 net2512
+and U1942 net793 net3850 net2488 net2512
+and U1943 net794 net3792 net2476 net2512
+and U1944 net799 net3791 net2476 net2512
+and U1945 net3735 net1936 net3724 net3717
+not U1946 net832 net4082
+not U1947 net834 net3851
+not U1948 net836 net3850
+not U1949 net3835 net3965
+or U1950 net859 net855 net856 net857 net858
+not U1951 net871 net4024
+not U1952 net873 net3793
+not U1953 net875 net3792
+not U1954 net877 net3791
+buf U1955 net998 net3538
+buf U1956 net1000 net3543
+and U1957 net3651 net3965 net3632
+and U1958 net4013 net1273 net3972 net3998
+and U1959 net4016 net1268 net3972 net3998
+and U1960 net4019 net1263 net3972 net3998
+and U1961 net4022 net1258 net3972 net3998
+and U1962 net4071 net1954 net4030 net4056
+and U1963 net4074 net1949 net4030 net4056
+and U1964 net4077 net1944 net4030 net4056
+and U1965 net4080 net1936 net4030 net4056
+nand U1966 net4096 net4113 net1936
+nand U1967 net4366 net4361 net4364
+nand U1968 net4424 net4419 net4422
+nand U1969 net4830 net4825 net4828
+nand U1970 net4888 net4883 net4886
+nand U1971 net4946 net4941 net4944
+and U1972 net575 net566 net567 net568 net569 net570 net571 net572 net573 net574
+and U1973 net585 net576 net577 net578 net579 net580 net581 net582 net583 net584
+or U1974 net640 net1576 net1578 net1579 net1580
+and U1975 net661 net659 net1606
+or U1976 net662 net1670 net1672 net1673 net1674
+or U1977 net665 net1676 net1678 net1679 net1680
+or U1978 net668 net1682 net1684 net1685 net1686
+or U1979 net674 net2250 net2252 net2253 net2254
+and U1980 net693 net691 net2279
+or U1981 net694 net2341 net2343 net2344 net2345
+or U1982 net697 net2347 net2349 net2350 net2351
+or U1983 net700 net2353 net2355 net2356 net2357
+or U1984 net747 net743 net744 net745 net746
+or U1985 net752 net748 net749 net750 net751
+or U1986 net757 net753 net754 net755 net756
+or U1987 net762 net758 net759 net760 net761
+or U1988 net787 net783 net784 net785 net786
+or U1989 net792 net788 net789 net790 net791
+or U1990 net797 net793 net794 net795 net796
+or U1991 net802 net798 net799 net800 net801
+or U1992 net817 net3731 net3733 net3734 net3735
+and U1993 net839 net3835 net3803 net3823
+not U1994 net3540 net3538
+not U1995 net3545 net3543
+not U1996 net3777 net3962
+and U1997 net3648 net3962 net3632
+or U1998 net4025 net4012 net4013 net4014
+or U1999 net4026 net4015 net4016 net4017
+or U2000 net4027 net4018 net4019 net4020
+or U2001 net4028 net4021 net4022 net4023
+or U2002 net4083 net4070 net4071 net4072
+or U2003 net4084 net4073 net4074 net4075
+or U2004 net4085 net4076 net4077 net4078
+or U2005 net4086 net4079 net4080 net4081
+nand U2006 net4368 net4366 net4367
+nand U2007 net4426 net4424 net4425
+not U2008 net4490 net4484
+nand U2009 net4493 net4484 net4491
+not U2010 net4578 net4572
+nand U2011 net4581 net4572 net4579
+nand U2012 net4832 net4830 net4831
+nand U2013 net4890 net4888 net4889
+nand U2014 net4948 net4946 net4947
+not U2015 net5032 net5026
+nand U2016 net5035 net5026 net5033
+and U2017 net642 net640 net1526
+and U2018 net664 net662 net1606
+and U2019 net667 net665 net1606
+and U2020 net670 net668 net1606
+and U2021 net676 net674 net2202
+and U2022 net696 net694 net2279
+and U2023 net699 net697 net2279
+and U2024 net702 net700 net2279
+and U2025 net811 net4113 net4096
+and U2026 net812 net4096 net1936
+and U2027 net818 net816 net817
+and U2028 net853 net562 net3540 net3545 net3535 net3970
+and U2029 net878 net3777 net3745 net3765
+nand U2030 net4492 net4487 net4490
+nand U2031 net4580 net4575 net4578
+nand U2032 net5034 net5029 net5032
+and U2033 net1582 net4083 net1540 net1564
+and U2034 net1584 net4025 net1528 net1564
+and U2035 net1588 net4084 net1540 net1564
+and U2036 net1590 net4026 net1528 net1564
+and U2037 net1594 net4085 net1540 net1564
+and U2038 net1596 net4027 net1528 net1564
+and U2039 net1600 net4086 net1540 net1564
+and U2040 net1602 net4028 net1528 net1564
+and U2041 net2256 net4083 net2215 net2238
+and U2042 net2258 net4025 net2203 net2238
+and U2043 net2262 net4084 net2215 net2238
+and U2044 net2264 net4026 net2203 net2238
+and U2045 net2268 net4085 net2215 net2238
+and U2046 net2270 net4027 net2203 net2238
+and U2047 net2274 net4086 net2215 net2238
+and U2048 net2276 net4028 net2203 net2238
+and U2049 net708 net4086 net3672 net3696
+and U2050 net709 net4028 net3660 net3696
+and U2051 net723 net4086 net3570 net3594
+and U2052 net724 net4028 net3558 net3594
+and U2053 net728 net4085 net3570 net3594
+and U2054 net729 net4027 net3558 net3594
+and U2055 net733 net4084 net3570 net3594
+and U2056 net734 net4026 net3558 net3594
+and U2057 net738 net4083 net3570 net3594
+and U2058 net739 net4025 net3558 net3594
+and U2059 net768 net4085 net3672 net3696
+and U2060 net769 net4027 net3660 net3696
+and U2061 net773 net4084 net3672 net3696
+and U2062 net774 net4026 net3660 net3696
+and U2063 net778 net4083 net3672 net3696
+and U2064 net779 net4025 net3660 net3696
+or U2065 net813 net811 net812
+not U2066 net824 net4086
+not U2067 net826 net4085
+not U2068 net828 net4084
+not U2069 net830 net4083
+and U2070 net854 net852 net853 net245
+not U2071 net863 net4028
+not U2072 net865 net4027
+not U2073 net867 net4026
+not U2074 net869 net4025
+not U2075 net4374 net4368
+nand U2076 net4377 net4368 net4375
+not U2077 net4432 net4426
+nand U2078 net4435 net4426 net4433
+nand U2079 net4494 net4492 net4493
+nand U2080 net4582 net4580 net4581
+not U2081 net4838 net4832
+nand U2082 net4841 net4832 net4839
+not U2083 net4896 net4890
+nand U2084 net4899 net4890 net4897
+not U2085 net4954 net4948
+nand U2086 net4957 net4948 net4955
+nand U2087 net5036 net5034 net5035
+or U2088 net643 net1582 net1584 net1585 net1586
+or U2089 net646 net1588 net1590 net1591 net1592
+or U2090 net649 net1594 net1596 net1597 net1598
+or U2091 net652 net1600 net1602 net1603 net1604
+or U2092 net677 net2256 net2258 net2259 net2260
+or U2093 net680 net2262 net2264 net2265 net2266
+or U2094 net683 net2268 net2270 net2271 net2272
+or U2095 net686 net2274 net2276 net2277 net2278
+or U2096 net712 net708 net709 net710 net711
+or U2097 net727 net723 net724 net725 net726
+or U2098 net732 net728 net729 net730 net731
+or U2099 net737 net733 net734 net735 net736
+or U2100 net742 net738 net739 net740 net741
+or U2101 net772 net768 net769 net770 net771
+or U2102 net777 net773 net774 net775 net776
+or U2103 net782 net778 net779 net780 net781
+nand U2104 net4376 net4371 net4374
+nand U2105 net4434 net4429 net4432
+nand U2106 net4840 net4835 net4838
+nand U2107 net4898 net4893 net4896
+nand U2108 net4956 net4951 net4954
+and U2109 net645 net643 net1526
+and U2110 net648 net646 net1526
+and U2111 net651 net649 net1526
+and U2112 net654 net652 net1526
+and U2113 net679 net677 net2202
+and U2114 net682 net680 net2202
+and U2115 net685 net683 net2202
+and U2116 net688 net686 net2202
+nand U2117 net4378 net4376 net4377
+nand U2118 net4436 net4434 net4435
+not U2119 net4500 net4494
+nand U2120 net4503 net4494 net4501
+not U2121 net4588 net4582
+nand U2122 net4591 net4582 net4589
+nand U2123 net4842 net4840 net4841
+nand U2124 net4900 net4898 net4899
+nand U2125 net4958 net4956 net4957
+not U2126 net5042 net5036
+nand U2127 net5045 net5036 net5043
+nand U2128 net4502 net4497 net4500
+nand U2129 net4590 net4585 net4588
+nand U2130 net5044 net5039 net5042
+not U2131 net4384 net4378
+nand U2132 net4387 net4378 net4385
+not U2133 net4442 net4436
+nand U2134 net4445 net4436 net4443
+nand U2135 net4504 net4502 net4503
+nand U2136 net4592 net4590 net4591
+not U2137 net4848 net4842
+nand U2138 net4851 net4842 net4849
+not U2139 net4906 net4900
+nand U2140 net4909 net4900 net4907
+not U2141 net4964 net4958
+nand U2142 net4967 net4958 net4965
+nand U2143 net5046 net5044 net5045
+nand U2144 net4386 net4381 net4384
+nand U2145 net4444 net4439 net4442
+nand U2146 net4850 net4845 net4848
+nand U2147 net4908 net4903 net4906
+nand U2148 net4966 net4961 net4964
+nand U2149 net4388 net4386 net4387
+nand U2150 net4446 net4444 net4445
+not U2151 net4510 net4504
+nand U2152 net4513 net4504 net4511
+not U2153 net4598 net4592
+nand U2154 net4601 net4592 net4599
+nand U2155 net4852 net4850 net4851
+nand U2156 net4910 net4908 net4909
+nand U2157 net4968 net4966 net4967
+not U2158 net5052 net5046
+nand U2159 net5055 net5046 net5053
+nand U2160 net4512 net4507 net4510
+nand U2161 net4600 net4595 net4598
+nand U2162 net5054 net5049 net5052
+not U2163 net4394 net4388
+nand U2164 net4397 net4388 net4395
+not U2165 net4452 net4446
+nand U2166 net4455 net4446 net4453
+nand U2167 net4514 net4512 net4513
+nand U2168 net4602 net4600 net4601
+not U2169 net4858 net4852
+nand U2170 net4861 net4852 net4859
+not U2171 net4916 net4910
+nand U2172 net4919 net4910 net4917
+not U2173 net4974 net4968
+nand U2174 net4977 net4968 net4975
+nand U2175 net5056 net5054 net5055
+nand U2176 net4396 net4391 net4394
+nand U2177 net4454 net4449 net4452
+nand U2178 net4860 net4855 net4858
+nand U2179 net4918 net4913 net4916
+nand U2180 net4976 net4971 net4974
+nand U2181 net4398 net4396 net4397
+nand U2182 net4456 net4454 net4455
+not U2183 net4520 net4514
+nand U2184 net4523 net4514 net4521
+not U2185 net4608 net4602
+nand U2186 net4611 net4602 net4609
+nand U2187 net4862 net4860 net4861
+nand U2188 net4920 net4918 net4919
+nand U2189 net4978 net4976 net4977
+not U2190 net5062 net5056
+nand U2191 net5065 net5056 net5063
+nand U2192 net4522 net4517 net4520
+nand U2193 net4610 net4605 net4608
+nand U2194 net5064 net5059 net5062
+not U2195 net4404 net4398
+nand U2196 net1488 net4398 net4405
+not U2197 net4462 net4456
+nand U2198 net1493 net4456 net4463
+not U2199 net4868 net4862
+nand U2200 net2165 net4862 net4869
+not U2201 net4926 net4920
+nand U2202 net2170 net4920 net4927
+nand U2203 net4524 net4522 net4523
+nand U2204 net4612 net4610 net4611
+not U2205 net4984 net4978
+nand U2206 net4987 net4978 net4985
+nand U2207 net5066 net5064 net5065
+nand U2208 net1487 net4401 net4404
+nand U2209 net1492 net4459 net4462
+nand U2210 net2164 net4865 net4868
+nand U2211 net2169 net4923 net4926
+nand U2212 net4986 net4981 net4984
+nand U2213 net1489 net1487 net1488
+nand U2214 net1494 net1492 net1493
+nand U2215 net2166 net2164 net2165
+nand U2216 net2171 net2169 net2170
+not U2217 net4530 net4524
+nand U2218 net4533 net4524 net4531
+not U2219 net4618 net4612
+nand U2220 net4543 net4612 net4619
+nand U2221 net4988 net4986 net4987
+not U2222 net5072 net5066
+nand U2223 net4997 net5066 net5073
+nand U2224 net4532 net4527 net4530
+nand U2225 net4542 net4615 net4618
+nand U2226 net4996 net5069 net5072
+and U2227 net1513 net1494 net1462 net1502
+and U2228 net1514 net1489 net1458 net1502
+and U2229 net1515 net1494 net1483 net1497
+and U2230 net1516 net1489 net1486 net1497
+not U2231 net4994 net4988
+nand U2232 net2184 net4988 net4995
+and U2233 net2190 net2171 net2139 net2179
+and U2234 net2191 net2166 net2135 net2179
+and U2235 net2192 net2171 net2160 net2174
+and U2236 net2193 net2166 net2163 net2174
+nand U2237 net4534 net4532 net4533
+nand U2238 net4544 net4542 net4543
+nand U2239 net4998 net4996 net4997
+nand U2240 net2183 net4991 net4994
+or U2241 net4620 net1513 net1514 net1515 net1516
+or U2242 net5074 net2190 net2191 net2192 net2193
+not U2243 net4540 net4534
+nand U2244 net1507 net4534 net4541
+not U2245 net4550 net4544
+nand U2246 net1510 net4544 net4551
+nand U2247 net2185 net2183 net2184
+not U2248 net5004 net4998
+nand U2249 net2187 net4998 net5005
+nand U2250 net1506 net4537 net4540
+nand U2251 net1509 net4547 net4550
+not U2252 net4626 net4620
+nand U2253 net2186 net5001 net5004
+and U2254 net2195 net2174 net2185
+not U2255 net5080 net5074
+nand U2256 net1508 net1506 net1507
+nand U2257 net1511 net1509 net1510
+nand U2258 net2188 net2186 net2187
+not U2259 net1512 net1511
+and U2260 net1518 net1497 net1508
+not U2261 net2189 net2188
+and U2262 net1517 net1512 net1502
+and U2263 net2194 net2189 net2179
+or U2264 net4623 net1517 net1518
+or U2265 net5077 net2194 net2195
+nand U2266 net1519 net4623 net4626
+not U2267 net4627 net4623
+nand U2268 net2196 net5077 net5080
+not U2269 net5081 net5077
+nand U2270 net1520 net4620 net4627
+nand U2271 net2197 net5074 net5081
+nand U2272 net1521 net1519 net1520
+nand U2273 net2198 net2196 net2197
+and U2274 net840 net2198 net3795 net3823
+and U2275 net879 net1521 net3737 net3765
+not U2276 net1524 net1521
+not U2277 net2201 net2198
+or U2278 net843 net839 net840 net841 net842
+or U2279 net882 net878 net879 net880 net881
+and U2280 net3649 net1524 net3628
+and U2281 net3652 net2201 net3628
+or U2282 net3657 net3648 net3649
+or U2283 net3658 net3651 net3652
+and U2284 net3636 net3657 net3622
+and U2285 net3639 net3658 net3622
+and U2286 net3642 net3657 net3622
+and U2287 net3645 net3658 net3622
+or U2288 net3653 net3636 net3637
+or U2289 net3654 net3639 net3640
+or U2290 net3655 net3642 net3643
+or U2291 net3656 net3645 net3646
+and U2292 net763 net3656 net2430 net2454
+and U2293 net764 net3655 net2418 net2454
+and U2294 net803 net3656 net2488 net2512
+and U2295 net804 net3655 net2476 net2512
+and U2296 net1657 net3654 net1621 net1645
+and U2297 net1659 net3653 net1609 net1645
+and U2298 net2328 net3654 net2293 net2316
+and U2299 net2330 net3653 net2281 net2316
+or U2300 net1662 net1657 net1659 net1660 net1661
+or U2301 net2333 net2328 net2330 net2331 net2332
+or U2302 net767 net763 net764 net765 net766
+or U2303 net807 net803 net804 net805 net806
+and U2304 net657 net1662 net1606
+and U2305 net689 net2333 net2279
+not U2306 net658 net657
+not U2307 net690 net689

@@ -218,3 +218,43 @@ Spiegare cosa si intende per bus e quali sono le sue funzioni.
 ## 50
 
 Descrivere il ruolo dell'unità operativa e i suoi componenti.
+
+## 51
+
+Si vuole progettare un sistema di elaborazione che permetta di installare fino a 64 GB di memoria RAM e fino a 4 GB di memoria cache di primo livello. Sapendo che la memoria è organizzata in celle con parallelismo di 128 bit, determinare la dimensione minima dell'Address Bus.
+
+## 52
+
+Qual è la funzione dei registri in una CPU?
+
+## 53
+
+Motivare la necessità di una gerarchia di memoria in un elaboratore. Citare i principali elementi di memoria, ordinandoli in base alla loro velocità e capienza.
+
+## 54
+
+Spiegare il ruolo del bus nel ciclo di esecuzione di una istruzione.
+
+## 55
+
+Quante celle di memoria sono indirizzabili con un address BUS a 10 "fili"? Qual è la massima dimensione di memoria installabile se le celle hanno un'ampiezza di 2 byte?
+
+## 56
+
+Descrivere il ruolo dei registri della CPU all'interno delle gerarchia di memoria.
+
+## 57
+
+Elencare, in ordine crescente di tempo di esecuzione le seguenti categorie di operazioni: lettura/scrittura da I/O, lettura/scrittura di un dato in memoria, operazioni tra interi e operazioni tra numeri reali.
+
+## 58
+
+Quali sono le funzioni della ALU?
+
+## 59
+
+Indicare almeno 4 compiti svolti dal sistema operativo.
+
+## 60
+
+Cosa sono i bus? A cosa servono? Quali tipi di bus esistono?
