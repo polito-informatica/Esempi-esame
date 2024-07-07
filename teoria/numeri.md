@@ -423,3 +423,73 @@ Trasformare i due numeri seguenti in binario puro ed espressi in base esadecimal
 
     B2A6 
     4AFF
+
+# 62
+
+Si considerino in numeri binari espressi in esadecimale AA e 0F. Convertirli in binario e sommarli interpretandoli in binario puro e in complemento a due. Fornire il risultato e indicare se avviene overflow. 
+
+## 63
+
+Quali dei seguenti numeri espressi su 6 bit in complemento a 2 sono pari? 
+
+1. 110010 
+2. 010110 
+3. 101100 
+4. 110011 
+5. 011110 
+6. 001100 
+7. 101000 
+8. 111111 
+9. 100110 
+10. 011101
+
+## 64
+
+Dati i seguenti due numeri in complemento a 2 su 8 bit, calcolarne la somma e segnalare un eventuale overflow.
+
+A = 11110100
+
+B = 01001011
+
+## 65
+
+Dati i seguenti due interi positivi A e B rappresentati con una codifica in binario ('puro'), codificarli in complemento-a-2 prima su 7bit e poi su 8bit 
+
+-    A=1110001
+-    B=10101 
+
+Per entrambi i parallelismi (7bit e 8bit) dire se: A>B, A<B, o A=B.
+
+## 66
+
+Ordinare in ordine crescente i seguenti numeri su 8 bit rappresentati in esadecimale in complemento a due: CB, 7F, AA
+
+## 67
+
+Date le seguenti rappresentazioni su 5 bit: 10000 e 11111 considerarle in:
+
+(a) modulo e segno e (b) complemento a 2
+
+Quali sono i valori rappresentati minori nei due casi?
+
+## 68
+
+Date le seguenti sequenze di bit su 8 bit: 0x80 e 0xFF, quali sono i valori rappresentati supponendo il loro formato essere (a) modulo e segno e (b) complemento a 2?
+
+## 69
+
+Sommare i due numeri seguenti in complemento a 2 che sono espressi in base esadecimale. Dire se c'è stato overflow oppure no:
+
+1.    F1
+2.    1A
+
+## 70
+
+Si eseguano le seguenti conversioni di base, riportando i passaggi principali:
+
+    a) 123 dalla base 8 alla base 10
+    b) 31 dalla base 3 alla base 5
+
+## 71
+
+Convertire in complemento a due su 6 bit i seguenti due numeri: a=-12, b=20. Calcolare a - b (a meno b) e fornire il risultato, indicando se si è verificato un overflow. Riportare tutti i passaggi.

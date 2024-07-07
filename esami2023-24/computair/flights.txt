@@ -1,0 +1,4 @@
+F001;Anchorage;100
+F020;Firebanks;10
+F201;Anchorage;200
+F304;Seward;50

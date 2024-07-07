@@ -3,6 +3,20 @@
 I seguenti esercizi sono tratti dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2022/2023.
 
+Appello riservato laureandi (30/04/2024):
+- [ComputAir](./esami2023-24/computair/)
+
+Secondo appello (19-20/02/2024):
+- [ATP Finals](./esami2023-24/atp_finals/)
+- [Avvistamenti UFO](./esami2023-24/avvistamenti_ufo/)
+- [Fiumi Nigeria](./esami2023-24/fiumi_nigeria/)
+- [Fusione Anulare](./esami2023-24/fusione_anulare/)
+- [Indice Green](./esami2023-24/indice_green/)
+- [Iscrizioni scolastiche](./esami2023-24/iscrizioni_scolastiche/)
+- [Miss Shelley](./esami2023-24/miss_shelley/)
+- [Personaggi delle favole](./esami2023-24/personaggi_favole/)
+- [Trivia Game](./esami2023-24/trivia_game/)
+
 Primo appello (05-06/02/2024):
 - [Anti Plagio Musicale](./esami2023-24/anti_plagio_musicale/)
 - [Analisi dei passeggeri delle compagnie aeree](./esami2023-24/analisi_passeggeri_aerei/)

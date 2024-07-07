@@ -306,3 +306,68 @@ filastrocca.close()
 ```
 
 
+## 57
+
+Che differenza c'è tra *sollevare* un'eccezione e *gestire* un'eccezione?
+
+## 58
+
+Indicare il/i valore/i contenuto/i nella variabile `a`:
+
+```python
+def f(indice, lista):
+    lista[indice], lista[0] = 0, indice
+    return sum(lista)
+
+a = f(2, [1,2,3,4])
+```
+
+## 59
+
+Cosa succede in un programma Python se si tenta di aprire un file in modalità lettura avendo sbagliato il nome del file? Come si può porre rimedio a tale situazione?
+
+## 60
+
+Quale tipo di dato si ottiene leggendo da tastiera con la funzione `input()`? Come bisogna procedere per sommare un valore intero ed uno decimale letti (separatamente) da tastiera e assegnati a due variabili diverse?
+
+## 61
+
+Come si può fare in Python a convertire una stringa in maiuscolo?
+
+## 62
+
+Siano dati due insiemi creati nel seguente modo: 
+```python
+colori1 = set(["giallo","verde","rosso","viola"])
+colori2 = set(["rosso","ciano","verde","magenta","ciano","viola","giallo"])
+```
+Cosa produce l'istruzione seguente? 
+```python
+print(colori2 >= colori1)
+```
+
+## 63
+
+In Python, può un set contenere una tupla generica? E può una tupla contenere un set generico? Motiva la risposta.
+
+## 64
+
+In un dizionario, si può usare una lista come chiave e associarle come valore un set? si, no e perchè?
+
+## 65
+
+Si supponga di avere le seguenti strutture dati in Python:
+
+```python
+a = ["c","i","a","o"]
+
+b = "ciao"
+```
+
+- Con quale istruzione si può accedere e modificare il primo elemento di `a`?
+- È possibile fare lo stesso con `b`? Motivare la risposta.
+
+## 66
+
+Scrivere il codice Python per creare, popolare con due voci e stampare un set di tuple.
+

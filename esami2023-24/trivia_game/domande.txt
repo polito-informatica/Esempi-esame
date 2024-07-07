@@ -1,0 +1,202 @@
+Capitale dell'Italia?
+0
+Roma
+Milano
+Berlino
+Parigi
+
+Elemento chimico con simbolo "H"?
+1
+Idrogeno
+Ossigeno
+Carbonio
+Ferro
+
+Autore del romanzo "1984"?
+1
+George Orwell
+J.K. Rowling
+Ernest Hemingway
+F. Scott Fitzgerald
+
+Continente in cui si trova l'Egitto?
+0
+Africa
+Asia
+Europa
+Nord America
+
+Lingua ufficiale del Brasile?
+0
+Portoghese
+Spagnolo
+Inglese
+Francese
+
+Pittore della "Mona Lisa"?
+1
+Leonardo da Vinci
+Michelangelo
+Pablo Picasso
+Vincent van Gogh
+
+Isola più grande del mondo?
+1
+Groenlandia
+Australia
+Borneo
+Giappone
+
+Nazione più popolosa al mondo?
+1
+India
+Cina
+USA
+Russia
+
+Autore di "Romeo e Giulietta"?
+1
+William Shakespeare
+Charles Dickens
+Jane Austen
+Mark Twain
+
+Scopritore del principio della conservazione dell'energia?
+3
+Hermann von Helmholtz
+Isaac Newton
+Albert Einstein
+James Clerk Maxwell
+
+Simbolo chimico per il tantalio?
+2
+Ta
+Tl
+Te
+Tb
+
+Lunghezza del fiume Po?
+4
+652
+987
+432
+523
+
+Presidente degli USA nel 1962?
+4
+John F. Kennedy
+Richard Nixon
+Lyndon B. Johnson
+Dwight D. Eisenhower
+
+Autore di "Crime and Punishment"?
+3
+Fyodor Dostoevsky
+Leo Tolstoy
+Anton Chekhov
+Nikolai Gogol
+
+Pianeta noto come "il pianeta rosso"?
+2
+Marte
+Giove
+Venere
+Saturno
+
+Autore del dipinto "L'urlo"?
+2
+Edvard Munch
+Vincent van Gogh
+Pablo Picasso
+Claude Monet
+
+Filosofo greco che ha coniato il termine "filosofia"?
+2
+Pitagora
+Socrate
+Platone
+Eraclito
+
+Anno di fondazione dell'Organizzazione delle Nazioni Unite (ONU)?
+3
+1945
+1919
+1955
+1965
+
+Elemento più abbondante nella crosta terrestre?
+2
+Ossigeno
+Silicio
+Alluminio
+Oro
+
+Elemento più denso della terra?
+3
+Osso
+Uranio
+Platino
+Osmio
+
+Quale lingua contiene il maggior numero di parole?
+3
+Inglese
+Russo
+Francese
+Cinese
+
+Chi ha sviluppato la teoria dei numeri primi?
+3
+Euclide
+Gauss
+Euler
+Fermat
+
+Quale pianeta è conosciuto come il "gigante gassoso"?
+3
+Giove
+Saturno
+Urano
+Nettuno
+
+In quale anno è stato pubblicato "Il Principe" di Machiavelli?
+4
+1513
+1605
+1452
+1632
+
+Chi è l'autore della scultura "Il Pensatore"?
+4
+Auguste Rodin
+Michelangelo
+Leonardo da Vinci
+Donatello
+
+Quale è il metallo più reattivo chimicamente?
+4
+Fluoro
+Cloro
+Sodio
+Potassio
+
+Chi ha scritto il saggio "Il Contratto Sociale"?
+4
+Jean-Jacques Rousseau
+John Locke
+Thomas Hobbes
+Karl Marx
+
+Qual è la montagna più alta del mondo?
+1
+Everest
+K2
+Kangchenjunga
+Lhotse
+
+Chi ha formulato la teoria del Big Bang insieme a George Gamow e altri?
+4
+Ralph Alpher
+Albert Einstein
+Stephen Hawking
+Carl Sagan  

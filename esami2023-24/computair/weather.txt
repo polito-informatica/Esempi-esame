@@ -1,0 +1,4 @@
+Anchorage;Rainy
+Firebanks;Sunny
+Seward;Stormy
+Whittier;Rainy

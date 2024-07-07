@@ -258,3 +258,44 @@ Indicare almeno 4 compiti svolti dal sistema operativo.
 ## 60
 
 Cosa sono i bus? A cosa servono? Quali tipi di bus esistono?
+
+## 61
+
+Si descriva brevemente cosa si intende per gerarchia di memoria in un sistema di elaborazione, e quali siano le caratteristiche fondamentali che differenziano i vari tipi di memorie.
+
+## 62
+
+Descrivere il concetto di gerarchia delle memorie.
+
+## 63
+
+Che cosa è una istruzione macchina eseguita dalla CPU e quali sono le fasi con cui la CPU gestisce un'istruzione macchina per permetterne la sua esecuzione?
+
+## 64
+
+Data una memoria RAM di dimensione 128 kB con Address Bus su 12 bit, si calcoli il parallelismo (in bit) delle celle.
+
+## 65
+
+Che cosa è la RAM ? A cosa serve?
+
+## 66
+
+Quali sono vantaggi e svantaggi di un sistema di elaborazione in cui tutti i dispositivi sono connessi allo stesso BUS di sistema? 
+
+## 67
+
+Descrivi brevemente lo scopo e le principali caratteristiche del BUS di sistema in un elaboratore.
+
+## 68
+
+A che cosa serve il ciclo di fetch-decode-execute e chi lo esegue?
+
+## 69
+
+Cosa si intende per “gerarchia di memoria” in un calcolatore elettronico, e a cosa serve?
+
+## 70
+
+Considerando una memoria di dimensione 1 KB (1 kilobyte) e un bus dati di 8 bit, calcolare la dimensione del bus indirizzi. Riportare tutti i passaggi.
+
