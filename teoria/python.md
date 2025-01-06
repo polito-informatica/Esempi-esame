@@ -371,3 +371,23 @@ b = "ciao"
 
 Scrivere il codice Python per creare, popolare con due voci e stampare un set di tuple.
 
+## 67
+
+Quale differenze ci sono tra una tupla e una lista?
+
+## 68 
+
+Considerando il linguaggio Python, spiega brevemente le somiglianze e le differenze tra: set, dizionari e liste.
+
+## 69
+
+Si illustri, anche mediante esempi, il concetto di dizionario come array associativo. 
+
+## 70
+
+Spiegare brevemente cosa sono le eccezioni in Python e come vengono gestite, anche mediante l'uso di esempi. 
+
+## 71
+
+Quale funzione può essere utilizzata in un ciclo `for` per ottenere contemporaneamente sia l'indice che il valore dell'elemento corrente? Fornire un esempio.
+

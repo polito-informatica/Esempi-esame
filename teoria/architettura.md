@@ -299,3 +299,22 @@ Cosa si intende per “gerarchia di memoria” in un calcolatore elettronico, e 
 
 Considerando una memoria di dimensione 1 KB (1 kilobyte) e un bus dati di 8 bit, calcolare la dimensione del bus indirizzi. Riportare tutti i passaggi.
 
+## 71 
+
+Spiegare che cosa è l'ALU e che compiti 
+
+## 72
+
+Spiega brevemente il ruolo e le caratteristiche delle diverse componenti di memoria di un computer.
+
+## 73
+
+In che cosa consiste la gerarchia di memoria in un sistema di elaborazione? Quali sono i parametri che permettono di classificare le varie tipologie di memoria?
+
+## 74
+
+Spiegare brevemente le tre fasi fondamentali del meccanismo di esecuzione delle istruzioni in un calcolatore elettronico.
+
+## 75
+
+Qual è la funzione svolta dai BUS all'interno di un computer?

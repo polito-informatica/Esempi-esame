@@ -493,3 +493,28 @@ Si eseguano le seguenti conversioni di base, riportando i passaggi principali:
 ## 71
 
 Convertire in complemento a due su 6 bit i seguenti due numeri: a=-12, b=20. Calcolare a - b (a meno b) e fornire il risultato, indicando se si è verificato un overflow. Riportare tutti i passaggi.
+
+## 72
+
+Dati i due numeri in complemento a due su 8 bit `11110110` e `11001011` calcolarne la somma e segnalare un eventuale overflow. 
+
+## 73
+
+Dati i due numeri 36 in base 7 e -25 in base 8:
+
+- convertirli in binario utilizzando la rappresentazione in complemento a due su 6 bit.
+- Calcolare la loro somma in binario e convertire il risultato in decimale, specificando la presenza di overflow.
+
+Fornire i passaggi rilevanti per ottenere la risposta.
+
+## 74 
+
+Si converta il numero A3F dalla base 16 alle basi 8, 4 e 2; si spieghino i passaggi principali.
+
+## 75 
+
+Si converta il numero 24 dalla base 6 alla base 5, spiegando i passaggi principali.
+
+## 76
+
+Convertire in rappresentazione binaria ed esadecimale il valore numerico 138 espresso in base 10

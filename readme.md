@@ -3,7 +3,14 @@
 I seguenti esercizi sono tratti dai testi d'esame proposti nei diversi appelli dell'anno accademico
 2022/2023.
 
-Appello riservato laureandi (30/04/2024):
+Quarto appello (05/07/2024):
+- [Analisi dei Consumi e Produzioni](./esami2023-24/consumi_produzioni/)
+- [Prodotto di matrici](./esami2023-24/prodotto_matrici/)
+- [Gettoni di presenza](./esami2023-24/gettoni_presenza/)
+- [Magazzini](./esami2023-24/magazzini/)
+- [Gara podistica](./esami2023-24/gara_podistica/)
+
+Terzo Appello (riservato laureandi) (30/04/2024):
 - [ComputAir](./esami2023-24/computair/)
 
 Secondo appello (19-20/02/2024):
