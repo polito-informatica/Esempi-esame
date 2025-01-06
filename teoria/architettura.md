@@ -318,3 +318,19 @@ Spiegare brevemente le tre fasi fondamentali del meccanismo di esecuzione delle 
 ## 75
 
 Qual è la funzione svolta dai BUS all'interno di un computer?
+
+## 76
+
+Considerando una memoria di dimensione 1 KB (1 kilobyte) e un bus dati di 8 bit, calcolare la dimensione del bus indirizzi. Riportare tutti i passaggi.
+
+## 77
+
+Cosa si intende per “gerarchia di memoria” in un calcolatore elettronico, e a cosa serve?
+
+## 78
+
+Considerando una memoria di dimensione 1 MB (1 megabyte) e un bus dati di 32 bit, calcolare la dimensione del bus indirizzi. Riportare tutti i passaggi.
+
+## 79
+
+Descrivere le caratteristiche della ALU e della FPU.

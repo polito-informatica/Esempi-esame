@@ -518,3 +518,33 @@ Si converta il numero 24 dalla base 6 alla base 5, spiegando i passaggi principa
 ## 76
 
 Convertire in rappresentazione binaria ed esadecimale il valore numerico 138 espresso in base 10
+
+## 77
+
+Convertire in complemento a due su 6 bit i seguenti due numeri:
+
+*   a = -12
+*   b = 20
+
+Calcolare a - b (a meno b) e fornire il risultato sempre su 6 bit, indicando se si è verificato un overflow.
+Riportare tutti i passaggi.
+
+## 78
+
+Convertire i numeri A=-32, B=-11 in complemento a 2 **su 6 bit** e calcolarne la somma (A+B) e la differenza (A+(-B))
+
+## 79
+
+Convertire in complemento a due su 6 bit i seguenti due numeri decimali: 
+
+- a=-14
+
+- b=18. 
+
+Calcolare a - b (a meno b) e fornire il risultato, indicando se si è verificato un overflow. Riportare tutti i passaggi.
+
+
+## 80
+
+Si considerino i numeri binari A=110011 e B=001100. Interpretandoli secondo la codifica "complemento a 2" e la codifica "modulo e segno": dire per ciascun numero quale codifica rappresenta il valore maggiore.
+

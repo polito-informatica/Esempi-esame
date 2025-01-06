@@ -1,7 +1,12 @@
 # Testi d'esame del 2023/2024
 
-I seguenti esercizi sono tratti dai testi d'esame proposti nei diversi appelli dell'anno accademico
-2022/2023.
+I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2023/2024.
+
+Quinto appello (17/09/2024):
+- [Gestione database studenti](./esami2023-24/database_studenti/)
+- [Popolarità sui social](./esami2023-24/popolarita_social/)
+- [Gestione database canine](./esami2023-24/database_canile/)
+- [Pubblicazioni Open Access](./esami2023-24/open_access/)
 
 Quarto appello (05/07/2024):
 - [Analisi dei Consumi e Produzioni](./esami2023-24/consumi_produzioni/)
@@ -39,8 +44,7 @@ Primo appello (05-06/02/2024):
 
 # Testi d'esame del 2022/2023
 
-I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
-2022/2023.
+I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2022/2023.
 
 Quarto appello (19/09/2023):
 - [Statistiche Calciatori](./esami2022-23/statistiche_calciatori/)
@@ -56,7 +60,6 @@ Terzo appello (30/06/2023):
 - [Enterprise](./esami2022-23/enterprise)
 - [Torneo calcio](./esami2022-23/torneo_calcio)
 
-
 Secondo appello (13-14/02/2023):
 - [Paniere dei prezzi in Newfoundland](./esami2022-23/paniere_prezzi)
 - [Gestione stazioni meteo](./esami2022-23/stazioni_meteo)
@@ -66,7 +69,6 @@ Secondo appello (13-14/02/2023):
 - [Stabilimento balneare](./esami2022-23/stabilimento_balneare)
 - [Ricerca Comuni](./esami2022-23/ricerca_comuni)
 - [Gestione Allarmi Robot](./esami2022-23/allarmi_robot) ([Soluzione](./esami2022-23/allarmi_robot/soluzione.py))
-
 
 Primo appello (30-31/01/2023):
 - [Gestione conto ristorante](./esami2022-23/conto_ristorante) 
@@ -81,8 +83,7 @@ Primo appello (30-31/01/2023):
 
 # Selezione di testi d'esame del 2021/2022
 
-I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
-2021/2022.
+I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2021/2022.
 
 - [Auto Noleggio](esami2021-22/auto_noleggio) (31/01/2022)
   - Soluzione proposta: [Video](https://youtu.be/Qhke4XOch1Q) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Settimana14/auto_noleggio)
@@ -98,8 +99,7 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 
 # Selezione di testi d'esame del 2020/2021
 
-I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico
-2020/2021.
+I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2020/2021.
 
 - [Agenda appuntamenti](esami2020-21/agenda)
 - [Astrologia Calciatori](esami2020-21/astrologia_calciatori)

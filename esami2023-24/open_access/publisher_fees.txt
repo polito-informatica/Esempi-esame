@@ -1,0 +1,6 @@
+Wiley; 3000
+ACM; 1660
+IOP; 1950
+MDPI; 2020
+Inderscience; 2800
+EDP; 1100

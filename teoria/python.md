@@ -391,3 +391,26 @@ Spiegare brevemente cosa sono le eccezioni in Python e come vengono gestite, anc
 
 Quale funzione può essere utilizzata in un ciclo `for` per ottenere contemporaneamente sia l'indice che il valore dell'elemento corrente? Fornire un esempio.
 
+## 72
+
+Spiegare brevemente le differenze tra Set e Liste in Python.
+
+## 73
+
+Si vuole memorizzare un polinomio $P(x)$ tramite un dizionario Python in cui la chiave è il grado della $x$ e il valore ` il coefficiente di quel grado. Scrivere come verrebbe memorizzato in python il polinomio $P(x) = -2x^3 + 2x^2 + 5x - 1$.
+
+## 74
+
+Spiegare brevemente la differenza tra Set e Dizionari in Python.
+
+## 75
+
+Cosa fa il seguente frammento di codice?
+
+```python
+personaggi = set(['bianconiglio','alice','cheshire','dodo','brucaliffo'])
+print(max(personaggi))
+print(personaggi[2])
+```
+
+
