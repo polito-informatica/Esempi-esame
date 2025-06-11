@@ -413,4 +413,31 @@ print(max(personaggi))
 print(personaggi[2])
 ```
 
+## 76
+
+Spiegare le differenze che ci sono tra liste e dizionari in Python.
+
+## 77
+
+Scrivere un pezzo di codice per richiedere due numeri `x` ed `y` in input all'utente e stampare il rapporto `x/y`. Il codice deve gestire le eccezioni che si possono verificare. Indicare inoltre quali linee di codice possono sollevare eccezioni (e di che tipo).
+
+## 78
+
+Individuare (se presenti) eventuali malfunzionamenti della seguente funzione Python scritta per leggere e memorizzare una lista di 10 interi letti da tastiera. Indicare una possibile soluzione.
+
+```python
+def read(lista):
+    intList = []
+    for i in range(10):
+        val = int(input(f'val {i:2d}:'))
+        intList.append(val)
+    lista = intList
+    return
+```
+
+## 79
+
+Cosa si intende per indentazione del codice? È necessaria in Python?
+
+
 

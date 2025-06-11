@@ -334,3 +334,20 @@ Considerando una memoria di dimensione 1 MB (1 megabyte) e un bus dati di 32 bit
 ## 79
 
 Descrivere le caratteristiche della ALU e della FPU.
+
+## 80
+
+Descrivere la funzione dei BUS in un elaboratore, spiegandone l’importanza e analizzando i diversi tipi esistenti.
+
+## 81
+
+Descrivere le fasi principali del ciclo di esecuzione di un'istruzione, spiegando quali elementi dell'unità di controllo vengono coinvolti e come avviene il passaggio di dati.
+
+## 82
+
+Descrivere funzionalità e differenze tra la memoria RAM e la memoria Cache in una comune architettura di elaborazione.
+
+## 83
+
+Elencare le tipologie di memoria presenti in un calcolatore, ordinandole dalla più veloce alla più lenta.
+

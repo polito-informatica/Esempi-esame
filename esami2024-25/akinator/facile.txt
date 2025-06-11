@@ -1,0 +1,4 @@
+gatto
+persona
+computer
+prova

@@ -548,3 +548,42 @@ Calcolare a - b (a meno b) e fornire il risultato, indicando se si è verificato
 
 Si considerino i numeri binari A=110011 e B=001100. Interpretandoli secondo la codifica "complemento a 2" e la codifica "modulo e segno": dire per ciascun numero quale codifica rappresenta il valore maggiore.
 
+## 81 
+
+Dati i numeri decimali 57 e 102:
+
+1. Convertirli in complemento a due (CA2) con rappresentazione a 8 bit
+
+2. Eseguire la somma dei due numeri
+
+3. Verificare se si verifica un overflow durante l’operazione
+
+
+## 82
+
+Convertire i numeri A=56 e B=-127 in binario modulo e segno su 8 bit, sommarli e dire se si verifica overflow. Riportare i passaggi.
+
+## 83
+
+Due numeri interi relativi N1 e N2 sono codificati in complemento 2 e rappresentati rispettivamente in base 8 e base 16. Calcolare il risultato N1-N2 su 12 bit indicando l'eventuale presenza di overflow.
+
+N1 = 7534
+
+N2 = ABC 
+
+## 84
+
+Sono dati i seguenti numeri esadecimali su 8 bit: 
+
+- 6F 
+- A2 
+- 11 
+- 9A
+
+Ordinarli dal più piccolo al più grande considerandoli in: 
+
+- binario puro 
+- CA2
+
+
+

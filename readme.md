@@ -1,3 +1,13 @@
+# Testi d'esame del 2024/2025
+
+I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2024/2025.
+
+Primo appello (27-28/01/2025):
+- [Akinator](./esami2024-25/akinator/)
+- [Superenalotto](./esami2024-25/superenalotto/)
+- [Performance Mercati](./esami2024-25/mercati/)
+- [Tetris](./esami2024-25/tetris/)
+
 # Testi d'esame del 2023/2024
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2023/2024.
