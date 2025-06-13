@@ -480,3 +480,30 @@ A cosa serve la funzione `enumerate`? Cosa restituisce? Fornire un esempio appli
 
 Spiegare brevemente la differenza tra Liste e Dizionari in Python.
 
+## 89
+
+A cosa serve la funzione enumerate() in python? Scrivere un esempio di uso.
+
+## 90
+
+Perchè questa definizione non è corretta?
+
+```python
+s = {[2,4], [2,2], [1,0]}
+```
+
+## 91
+
+Spiegare brevemente la differenza tra Set e Dizionari in Python.
+
+## 92
+
+Spiegare brevemente cosa sono le eccezioni in Python e come vengono gestite. Fare almeno un esempio.
+
+## 93
+
+Descrivere il tipo del seguente oggetto Python:
+
+```python
+valori = {'Marco': {2,4,6}, 'Paola':{2,3,1}, 'Sara':{1,1,6}}
+```

@@ -651,3 +651,30 @@ Trasformare i due numeri seguenti espressi in base esadecimale in: (a) base 2, (
 1. F1A2
 2. B023
 
+## 94
+
+Convertire in ca2 su 8 bit i numeri 112 e 76, sommarli, scrivere il risultato e indicare se si è verificato overflow
+
+## 95
+
+Quale tra i due numeri esadecimali **in complemento a due** A=1AF3 e B=8F02 è più grande? Motivare i passaggi.
+
+## 96
+
+Convertire in complemento a due su 6 bit i seguenti due numeri decimali: 
+
+a=-14
+
+b=18. 
+
+Calcolare a - b (a meno b) e fornire il risultato, indicando se si è verificato un overflow. Riportare tutti i passaggi.
+
+## 97
+
+Si converta il valore 121 dalla base 3 alla base 7, spiegando i passaggi principali.
+
+## 98
+
+Sommare i due numeri in ca2 su 8 bit espressi in base esadecimale come 1E e AF. Indicare il risultato se l'operazione genera un overflow.
+
+

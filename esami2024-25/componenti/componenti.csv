@@ -1,0 +1,14 @@
+id,developer,component,module,language,version,size_kb
+101,Mario Rossi,UserManager,LoginHandler,Python,v1.0,120
+102,Mario Rossi,UserManager,RegisterHandler,Python,v1.0,135
+103,Mario Rossi,UserManager,PasswordReset,Python,v1.0,110
+201,Luca Verdi,AnalyticsTool,Tracker,Java,v2.3,200
+202,Luca Verdi,AnalyticsTool,Reporter,Java,v2.3,180
+203,Luca Verdi,AnalyticsTool,Filter,C++,v2.3,170
+301,Anna Bianchi,ShopCart,AddToCart,JavaScript,v1.5,90
+302,Anna Bianchi,ShopCart,RemoveFromCart,JavaScript,v1.5,95
+401,Mario Rossi,AuthLib,TokenGen,Go,v2.0,80
+402,Mario Rossi,AuthLib,TokenVerify,Go,v2.0,75
+501,Sara Neri,ReportGen,CSVExporter,Python,v1.1,130
+502,Sara Neri,ReportGen,PDFExporter,Python,v1.1,150
+503,Sara Neri,ReportGen,HTMLExporter,Python,v1.1,120

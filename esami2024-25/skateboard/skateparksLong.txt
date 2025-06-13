@@ -1,0 +1,10 @@
+San Francisco;Dogpatch Skate Park;3
+Simi Valley;Downtown Ramp;4
+New York;Central Skate Park;5
+Los Angeles;Venice Beach Skate Park;2
+San Diego;Ocean Beach Skatepark;3
+Santa Monica;The Cove Skatepark;4
+Philadelphia;FDR Skatepark;5
+Houston;Lee and Joe Jamail Skatepark;3
+Miami;Lot 11 Skatepark;4
+Denver;Denver Skatepark;2

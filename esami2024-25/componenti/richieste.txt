@@ -1,0 +1,7 @@
+d:Mario Rossi
+d:Sara Neri
+d:Marco Bianchi
+l:Python
+l:Go
+l:Rust
+

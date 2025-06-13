@@ -1,0 +1,4 @@
+San Francisco;Dogpatch Skate Park;3
+Simi Valley;Downtown Ramp;4
+New York;Central Skate Park;5
+Los Angeles;Venice Beach Skate Park;2

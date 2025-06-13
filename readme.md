@@ -18,6 +18,13 @@ Secondo appello (10-11/02/2025):
 - [Eldoria](./esami2024-25/eldoria/)
 - [Sensori di Monitoraggio Ambientale](./esami2024-25/monitoraggio/)
 - [Carriera Universitaria](./esami2024-25/carriera/)
+- [Skateboard](./esami2024-25/skateboard/)
+- [Sportelli Postali](./esami2024-25/sportelli/)
+- [Partite giocate](./esami2024-25/partite/)
+- [e-commerce](./esami2024-25/e-commerce/)
+
+Terzo Appello (riservato laureandi) (29/04/2025):
+- [Componenti Software](./esami2024-25/componenti/)
 
 # Testi d'esame del 2023/2024
 

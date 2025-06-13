@@ -1,0 +1,7 @@
+id_giocatore,nome,cognome,data_aggiornamento,partite_giocate
+101,Lionel,Messi,2023-06-01,1002
+102,Cristiano,Ronaldo,2023-06-01,1150
+103,Neymar,Junior,2023-06-01,620
+104,Zlatan,Ibrahimovic,2023-06-01,980
+105,Kylian,Mbappe,2013-06-01,390
+107,Andres,Iniesta,2023-06-01,700

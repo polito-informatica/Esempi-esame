@@ -1,0 +1,5 @@
+Tony Hawk;San Francisco;95,88,92
+Rodney Mullen;Simi Valley;89,90,93,87
+Nyjah Huston;Los Angeles;94,91,90
+Chris Cole;Los Angeles;88,85,90,92
+Jhon Eagle;Pasadena;85,91,94

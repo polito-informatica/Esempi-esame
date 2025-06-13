@@ -387,3 +387,24 @@ Dire di cosa si occupa l'Unità di Controllo di una CPU e descriverne le sue com
 
 Qual è la funzione dei registri in una CPU?
 
+## 93
+
+Qual'è la funzione svolta dall'ALU all'interno della CPU?
+
+## 94
+
+Calcolare la massima dimensione di memoria in byte allocabile in un sistema con un Address Bus di 20 bit e parallelismo di 4 byte.
+Come cambierebbe il risultato se l'Address Bus avesse un bit in più?
+
+## 95
+
+Considerando una memoria di dimensione 1 KB (1 kilobyte) e un bus dati di 8 bit, calcolare la dimensione del bus indirizzi. Riportare tutti i passaggi.
+
+## 96
+
+Spiegare brevemente in cosa consiste la fase di **fetch** nel meccanismo di esecuzione delle istruzioni in un calcolatore elettronico.
+
+## 97
+
+A che cosa servono i registri all'interno della CPU?
+

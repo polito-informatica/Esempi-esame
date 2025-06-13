@@ -1,0 +1,8 @@
+Alice,TaskA,15,750
+Lukas,TaskA,15,755
+Renzo,TaskA,10,765
+Meg,TaskC,18,800
+Bob,TaskB,20,825
+Charlie,TaskC,10,900
+David,TaskD,25,990
+Michelle,TaskD,20,1015

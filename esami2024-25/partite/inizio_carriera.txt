@@ -1,0 +1,7 @@
+id_giocatore,nome,cognome,data_inizio_carriera
+101,Lionel,Messi,2004-10-16
+102,Cristiano,Ronaldo,2002-08-14
+103,Neymar,Junior,2009-03-07
+104,Zlatan,Ibrahimovic,1999-09-19
+105,Kylian,Mbappe,2015-12-02
+106,Luka,Modric,2003-05-01

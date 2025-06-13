@@ -1,0 +1,23 @@
+Tony Hawk;San Francisco;95,88,92,94
+Rodney Mullen;Simi Valley;89,90,93,87
+Nyjah Huston;Los Angeles;94,91,90,96
+Chris Cole;Los Angeles;88,85,90,92,89
+Jhon Eagle;Pasadena;85,91,94
+Leticia Bufoni;Los Angeles;92,95,88,91
+Ryan Sheckler;San Diego;90,87,89,92
+Lizzie Armanto;Santa Monica;86,88,90,85
+Bam Margera;Philadelphia;84,89,91
+Paul Rodriguez;Los Angeles;92,94,90,87
+Eric Koston;Los Angeles;91,90,92,94
+Shane O’Neill;New York;95,97,94
+Alex Sorgente;San Diego;89,91,94,96
+Evan Smith;Philadelphia;88,89,90,92
+Tom Schaar;San Francisco;94,92,96,95
+David Gonzalez;Houston;87,90,92,85
+Jamie Foy;Miami;93,94,89,87
+Kevin Hoefler;New York;94,96,95,97
+Zion Wright;Miami;89,88,92,91
+Kelvin Hoefler;New York;95,97,98
+Tyshawn Jones;New York;96,94,95,98
+Luan Oliveira;Denver;90,89,92,91
+Carlos Ribeiro;Denver;89,91,90,92
