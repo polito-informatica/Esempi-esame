@@ -1,0 +1,4 @@
+SENSOR_001 ParcoCentrale Temperatura
+SENSOR_002 PiazzaPrincipale Inquinamento
+SENSOR_003 ViaVerde Luminosità
+SENSOR_004 CentroStorico Pressione

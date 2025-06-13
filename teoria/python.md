@@ -460,4 +460,23 @@ In una funzione Python, qual è la differenza tra argomenti e valori restituiti?
 
 Volendo memorizzare un elenco di studenti rappresentati da matricola e media, e volendoli ordinare per media, salvarli in un dizionario usando come chiave la media è una buona idea? Spiegare vantaggi e svantaggi di tale approccio.
 
+## 84
+
+Indicare in Python quali fra gli operatori relazionali `==`, `!=`, `>`, `>=`, `<`, `<=` sono definiti per gli insiemi (ossia, possono essere utilizzati per confrontare due insiemi `set1` e `set2`). Per gli operatori definiti, spiegare come è effettuato il confronto.
+
+## 85
+
+Descrivere la differenza tra **liste** e **dizionari**, evidenziare i vantaggi di ognuna delle due strutture dati e fornire un esempio in cui sia più opportuno utilizzare un dizionario e un esempio in cui sia più opportuno utilizzare una lista.
+
+## 86
+
+In un dizionario, si può usare una lista come chiave? Si, no e perchè?
+
+## 87
+
+A cosa serve la funzione `enumerate`? Cosa restituisce? Fornire un esempio applicativo.
+
+## 88
+
+Spiegare brevemente la differenza tra Liste e Dizionari in Python.
 

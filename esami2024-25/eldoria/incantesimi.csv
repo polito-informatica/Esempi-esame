@@ -1,0 +1,30 @@
+101,Fulmine,attacco,1,5
+102,Scudo,difesa,1,7
+103,Palla di fuoco,attacco,3,10
+104,Cura,supporto,2,4
+105,Tempesta di ghiaccio,attacco,6,12
+106,Invisibilità,supporto,5,3
+107,Protezione,difesa,4,6
+108,Dardo incantato,attacco,1,3
+109,Ali di fata,supporto,9,2
+110,Soffio di fuoco,attacco,3,8
+111,Terremoto,attacco,6,15
+112,Muro di pietra,difesa,8,9
+113,Illusione,supporto,7,5
+114,Pioggia di meteoriti,attacco,10,18
+115,Benedizione,supporto,12,6
+116,Armatura magica,difesa,11,8
+117,Disintegrazione,attacco,16,20
+118,Parola del potere,supporto,17,7
+119,Volo,supporto,19,4
+120,Onda d'urto,attacco,14,11
+121,Pietrificazione,attacco,20,16
+122,Teletrasporto,supporto,18,9
+123,Evocazione elementale,attacco,4,7
+124,Raggio di luce,attacco,8,6
+125,Trasformazione,supporto,15,8
+126,Fulmine oscuro,attacco,13,9
+127,Controllo mentale,supporto,20,10
+128,Barriera magica,difesa,16,12
+129,Esplosione arcana,attacco,17,14
+130,Resurrezione,supporto,1,15

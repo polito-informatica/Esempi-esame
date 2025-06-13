@@ -12,6 +12,13 @@ Primo appello (27-28/01/2025):
 - [Musica Classica](./esami2024-25/musica/)
 - [Ghiaccio](./esami2024-25/ghiaccio/)
 
+Secondo appello (10-11/02/2025):
+- [Asta in busta chiusa](./esami2024-25/asta/)
+- [Caccia agli assenti](./esami2024-25/assenti/)
+- [Eldoria](./esami2024-25/eldoria/)
+- [Sensori di Monitoraggio Ambientale](./esami2024-25/monitoraggio/)
+- [Carriera Universitaria](./esami2024-25/carriera/)
+
 # Testi d'esame del 2023/2024
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2023/2024.

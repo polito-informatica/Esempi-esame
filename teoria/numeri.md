@@ -623,4 +623,31 @@ Rappresentare il numero 12:
 4. in case 5
 
 
+## 89
+
+Nel sistema di numerazione posizionale a base 5, quanti sono i numeri rappresentabili esattamente su 4 cifre? (Ossia, i numeri rappresentabili su 4 cifre, in cui la cifra più significativa non è zero).
+
+## 90
+
+Sia dato il seguente numero su 8 bit, rappresentato in forma compatta in base esadecimale: `F3`
+
+Determinare quanto vale in base 10 nel caso in cui sia rappresentato in: 
+- binario puro 
+- modulo e segno 
+- complemento a 2
+
+## 91
+
+Sommare i due numeri in ca2 su 8 bit espressi in base esadecimale come E7 e AF. Indicare il risultato se l'operazione genera un overflow.
+
+## 92
+
+Convertire i due numeri BD e 60 da esadecimale a binario, quindi considerarli come numeri in complemento a 2 su 8 bit e farne la somma. Riportare il risultato in binario e decimale, segnalare se c'è stato overflow e perché.
+
+## 93
+
+Trasformare i due numeri seguenti espressi in base esadecimale in: (a) base 2, (b) base 4 e (c) base 8
+
+1. F1A2
+2. B023
 

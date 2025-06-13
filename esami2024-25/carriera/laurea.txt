@@ -1,0 +1,8 @@
+matricola,nome,cognome,data_laurea
+123,Marco,Rossi,2020-07-10
+223,Giorgia,Bianchi,2021-06-15
+323,Luca,Verdi,2022-09-30
+423,Sara,Neri,2021-07-25
+523,Elena,Viola,2021-10-01
+623,Alberto,Rosso,2021-10-20
+723,Pino,Abete,2018-01-01

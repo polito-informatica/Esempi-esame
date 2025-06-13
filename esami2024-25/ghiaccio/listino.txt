@@ -1,0 +1,14 @@
+a Los Angeles 5
+b San Diego 9
+c San Francisco 11
+d Sacramento 12
+e Portland 14
+f Seattle 15
+g Albuquerque 18
+h Kansas City 20
+i Denver 19
+l Chicago 25
+m Boston 40
+n Washington 41
+o New Orleans 30
+p Miami 23

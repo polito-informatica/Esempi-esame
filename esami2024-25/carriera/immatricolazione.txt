@@ -1,0 +1,7 @@
+matricola,nome,cognome,data_immatricolazione
+123,Marco,Rossi,2015-10-01
+223,Giorgia,Bianchi,2016-09-15
+323,Luca,Verdi,2017-10-01
+423,Sara,Neri,2015-09-25
+523,Elena,Viola,2016-10-01
+723,Pino,Abete,2019-01-01

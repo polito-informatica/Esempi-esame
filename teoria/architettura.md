@@ -367,3 +367,23 @@ Illustrare il ciclo di esecuzione di una istruzione.
 
 Che cos'è il program counter? Descriverne il funzionamento.
 
+## 88
+
+Che relazione c'è tra dimensione del bus e massima memoria presente nel sistema?
+
+## 89
+
+Descrivere il ruolo dell'unità operativa e i suoi componenti.
+
+## 90
+
+A che cosa servono i registri all'interno della CPU?
+
+## 91
+
+Dire di cosa si occupa l'Unità di Controllo di una CPU e descriverne le sue componenti.
+
+## 92
+
+Qual è la funzione dei registri in una CPU?
+
