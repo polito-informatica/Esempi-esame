@@ -1,0 +1,71 @@
+id,composer,composition,movement,ensemble,catalog_name,seconds
+1733,Schubert,Piano Sonata in A major,2. Andantino,Solo Piano,D959,546
+1734,Schubert,Piano Sonata in A major,3. Scherzo. Allegro vivace,Solo Piano,D959,325
+1735,Schubert,Piano Sonata in A major,4. Rondo. Allegretto,Solo Piano,D959,714
+1749,Schubert,Piano Sonata in A minor,1. Moderato,Solo Piano,D845,696
+1750,Schubert,Piano Sonata in A minor,2. Andante poco mosso,Solo Piano,D845,784
+1751,Schubert,Piano Sonata in A minor,3. Scherzo. Allegro vivace - Trio. Un poco piu lento,Solo Piano,D845,475
+1752,Schubert,Piano Sonata in A minor,4. Rondo. Allegro vivace,Solo Piano,D845,362
+1755,Schubert,Piano Sonata in A minor,2. Andante,Solo Piano,D784,229
+1756,Schubert,Piano Sonata in A minor,3. Allegro vivace,Solo Piano,D784,371
+1757,Schubert,Piano Sonata in C minor,1. Allegro,Solo Piano,D958,710
+1758,Schubert,Piano Sonata in C minor,2. Adagio,Solo Piano,D958,468
+1759,Schubert,Piano Sonata in C minor,3. Menuetto and Trio,Solo Piano,D958,194
+1760,Schubert,Piano Sonata in C minor,4. Allegro,Solo Piano,D958,655
+1763,Schubert,4 Impromptus,1. Impromptu in F minor,Solo Piano,OP142,600
+1764,Schubert,4 Impromptus,2. Impromptu in A-flat major,Solo Piano,OP142,438
+1765,Schubert,4 Impromptus,3. Impromptu in B-flat major,Solo Piano,OP142,676
+1766,Schubert,4 Impromptus,4. Impromptu in F minor,Solo Piano,OP142,427
+1768,Schubert,Piano Sonata in A major,2. Andante,Solo Piano,D664,290
+1771,Schubert,Piano Sonata in D-flat major,1. Allegro moderato,Solo Piano,D568,647
+1772,Schubert,Piano Sonata in D-flat major,2. Andante molto,Solo Piano,D568,417
+1773,Schubert,Piano Sonata in D-flat major,3. Menuetto. Allegretto,Solo Piano,D568,307
+1775,Schubert,Piano Sonata in D major,1. Allegro vivace,Solo Piano,D850,578
+1776,Schubert,Piano Sonata in D major,2. Con moto,Solo Piano,D850,726
+1777,Schubert,Piano Sonata in D major,3. Scherzo. Allegro vivace,Solo Piano,D850,629
+1788,Mozart,String Quartet No 19 in C major,1. Adagio - Allegro,String Quartet,K465,513
+1789,Mozart,String Quartet No 19 in C major,2. Andante cantabile,String Quartet,K465,461
+1790,Mozart,String Quartet No 19 in C major,3. Menuetto. Allegro,String Quartet,K465,323
+1791,Mozart,String Quartet No 19 in C major,4. Allegro molto,String Quartet,K465,351
+1792,Mozart,String Quartet No 19 in C major,1. Adagio - Allegro,String Quartet,K465,472
+1793,Mozart,String Quartet No 19 in C major,2. Andante cantabile,String Quartet,K465,504
+1805,Mozart,String Quartet No 14 in G major,1. Allegro vivace assai,String Quartet,K387,356
+1807,Mozart,String Quartet No 14 in G major,3. Andante cantabile,String Quartet,K387,444
+1822,Mozart,String Quartet No 15 in D minor,1. Allegro moderato,String Quartet,K421,460
+1824,Mozart,String Quartet No 15 in D minor,3. Menuetto and Trio. Allegretto,String Quartet,K421,252
+1835,Mozart,String Quartet No 23 in F major,3. Menuetto. Allegretto,String Quartet,K590,236
+1859,Mozart,String Quartet No 18 in A major,2. Menuetto and Trio,String Quartet,K464,392
+2112,Brahms,Cello Sonata No 1 in E minor,1. Allegro non troppo,Accompanied Cello,OP38,897
+2113,Brahms,Cello Sonata No 1 in E minor,2. Allegretto quasi Menuetto,Accompanied Cello,OP38,352
+2114,Brahms,Cello Sonata No 1 in E minor,3. Allegro,Accompanied Cello,OP38,403
+2138,Brahms,String Quartet in C minor,2. Romanze: Poco adagio,String Quartet,OP51NO1,429
+2140,Brahms,String Quartet in C minor,4. Allegro,String Quartet,OP51NO1,381
+2148,Brahms,Piano Quartet No 1 in G minor,1. Allegro,Piano Quartet,OP25,822
+2149,Brahms,Piano Quartet No 1 in G minor,2. Intermezzo: Allegro ma non troppo,Piano Quartet,OP25,476
+2150,Brahms,Piano Quartet No 1 in G minor,3. Andante con moto,Piano Quartet,OP25,599
+2151,Brahms,Piano Quartet No 1 in G minor,4. Rondo alla Zingarese: Presto,Piano Quartet,OP25,533
+2177,Ravel,String Quartet in F,1. Allegro moderato - tres doux,String Quartet,35,490
+2178,Ravel,String Quartet in F,2. Assez vif - tres rythme,String Quartet,35,355
+2179,Ravel,String Quartet in F,3. Tres lent,String Quartet,35,505
+2180,Ravel,String Quartet in F,4. Vif et agite,String Quartet,35,293
+2186,Bach,Violin Partita No 3 in E major,1. Preludio,Solo Violin,BWV1006,214
+2191,Bach,Violin Partita No 3 in E major,6. Bourree,Solo Violin,BWV1006,102
+2217,Bach,Cello Suite 3,1. Prelude,Solo Cello,BWV1009,186
+2218,Bach,Cello Suite 3,2. Allemande,Solo Cello,BWV1009,199
+2219,Bach,Cello Suite 3,3. Courante,Solo Cello,BWV1009,260
+2220,Bach,Cello Suite 3,4. Sarabande,Solo Cello,BWV1009,302
+2221,Bach,Cello Suite 3,5. Bouree,Solo Cello,BWV1009,241
+2222,Bach,Cello Suite 3,6. Gigue,Solo Cello,BWV1009,202
+2241,Bach,Violin Sonata No 1 in G minor,1. Adagio,Solo Violin,BWV1001,242
+2242,Bach,Violin Sonata No 1 in G minor,2. Fuga,Solo Violin,BWV1001,312
+2243,Bach,Violin Sonata No 1 in G minor,3. Siciliana,Solo Violin,BWV1001,193
+2244,Bach,Violin Sonata No 1 in G minor,4. Presto,Solo Violin,BWV1001,214
+2288,Bach,Violin Partita No 1 in B minor,2. Corrente,Solo Violin,BWV1002,191
+2289,Bach,Violin Partita No 1 in B minor,3. Sarabande,Solo Violin,BWV1002,203
+2293,Bach,Cello Suite 4,1. Prelude,Solo Cello,BWV1010,310
+2294,Bach,Cello Suite 4,2. Allemande,Solo Cello,BWV1010,228
+2295,Bach,Cello Suite 4,3. Courante,Solo Cello,BWV1010,259
+2296,Bach,Cello Suite 4,4. Sarabande,Solo Cello,BWV1010,291
+2297,Bach,Cello Suite 4,5. Bouree,Solo Cello,BWV1010,334
+2298,Bach,Cello Suite 4,6. Gigue,Solo Cello,BWV1010,153
+2659,Bach,Violin Partita No 1 in B minor,6. Double,Solo Violin,BWV1002,108

@@ -439,5 +439,25 @@ def read(lista):
 
 Cosa si intende per indentazione del codice? È necessaria in Python?
 
+## 80
+
+Quali tipi di dato possono essere contenuti in un insieme Python? Quali caratteristiche devono soddisfare questi dati?
+
+## 81
+
+Descrivere a parole la seguente struttura dati:
+
+```python
+d = {'A': {2,3,5}, 'K': {1,2,4}, 'M': {3,5,6}}
+```
+
+
+## 82
+
+In una funzione Python, qual è la differenza tra argomenti e valori restituiti?
+
+## 83
+
+Volendo memorizzare un elenco di studenti rappresentati da matricola e media, e volendoli ordinare per media, salvarli in un dizionario usando come chiave la media è una buona idea? Spiegare vantaggi e svantaggi di tale approccio.
 
 

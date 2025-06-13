@@ -587,3 +587,40 @@ Ordinarli dal più piccolo al più grande considerandoli in:
 
 
 
+## 85
+
+Si considerino le seguenti rappresentazioni esadecimali come codifiche in complemento a 2:
+1. A6
+2. 9B
+
+Quali sono i valori rappresentati?
+
+## 86
+
+Si considerino i seguenti numeri binari in complemento a 2 scritti in formato esadecimale: 
+
+- EB
+- 1F
+
+Effettuare la somma indicando se si verifica overflow.
+
+## 87
+
+Ordinare in ordine crescente le seguenti codifiche espresse in esadecimale, interpretando la corrispondente rappresentazione binaria prima secondo la codifica in binario puro e poi in complemento a 2:
+
+1) 0001 
+2) A001 
+3) 6001 
+4) FFFF
+
+## 88
+
+Rappresentare il numero 12:
+
+1. in base 2
+2. in base 3 
+3. in base 4
+4. in case 5
+
+
+

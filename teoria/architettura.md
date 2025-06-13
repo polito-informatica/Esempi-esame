@@ -351,3 +351,19 @@ Descrivere funzionalità e differenze tra la memoria RAM e la memoria Cache in u
 
 Elencare le tipologie di memoria presenti in un calcolatore, ordinandole dalla più veloce alla più lenta.
 
+## 84
+
+Si supponga di avere un segnale di clock alla frequenza di 2 GHz e un programma che deve eseguire 10000000 (dieci milioni) di operazioni. Sapendo che ogni operazione richiede mediamente 4 cicli di clock, quanto tempo sarà necessario per l'esecuzione del programma?
+
+## 85
+
+Indicare il motivo per cui le operazioni tra numeri interi richiedono meno tempo di quelle tra numeri reali.
+
+## 86
+
+Illustrare il ciclo di esecuzione di una istruzione.
+
+## 87
+
+Che cos'è il program counter? Descriverne il funzionamento.
+

@@ -7,6 +7,10 @@ Primo appello (27-28/01/2025):
 - [Superenalotto](./esami2024-25/superenalotto/)
 - [Performance Mercati](./esami2024-25/mercati/)
 - [Tetris](./esami2024-25/tetris/)
+- [Australian Open](./esami2024-25/australian/)
+- [Miglior Vista](./esami2024-25/vista/)
+- [Musica Classica](./esami2024-25/musica/)
+- [Ghiaccio](./esami2024-25/ghiaccio/)
 
 # Testi d'esame del 2023/2024
 
