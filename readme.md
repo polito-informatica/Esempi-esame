@@ -1,3 +1,14 @@
+# INFORMATICA - RACCOLTA DI TESTI D'ESAME
+
+| Esercizi di programmazione | [Domande di Teoria](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#altri-esempi-di-esercizi-simil-esame) |
+|----------------------------|-------------------|
+| [Anno 2024/25](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#testi-desame-del-20242025)               | [Sistemi di numerazione](https://github.com/polito-informatica/Esempi-esame/blob/master/teoria/numeri.md) |
+| [Anno 2023/24](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#testi-desame-del-20232024)               | [Architettura degli elaboratori](https://github.com/polito-informatica/Esempi-esame/blob/master/teoria/architettura.md) |
+| [Anno 2022/23](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#testi-desame-del-20222023)               | [Programmazione in Python](https://github.com/polito-informatica/Esempi-esame/blob/master/teoria/python.md) |
+| [Anno 2021/22](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#selezione-di-testi-desame-del-20212022) | |
+| [Altri esempi](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#altri-esempi-di-esercizi-simil-esame)
+
+
 # Testi d'esame del 2024/2025
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2024/2025.
