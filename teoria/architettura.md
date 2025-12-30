@@ -408,3 +408,18 @@ Spiegare brevemente in cosa consiste la fase di **fetch** nel meccanismo di esec
 
 A che cosa servono i registri all'interno della CPU?
 
+## 98
+
+Spiegare cosa sono e a cosa servono i registri della CPU.
+
+## 99
+
+Descrivere il contenuto dell'unità di controllo.
+
+## 100
+
+Descrivere le caratteristiche della ALU e della FPU.
+
+## 101
+
+Cosa sono ALU e FPU all'interno di un calcolatore? Che ruolo hanno, e quali sono le differenze principali?

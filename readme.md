@@ -13,15 +13,14 @@
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2024/2025.
 
-Primo appello (27-28/01/2025):
-- [Akinator](./esami2024-25/akinator/)
-- [Superenalotto](./esami2024-25/superenalotto/)
-- [Performance Mercati](./esami2024-25/mercati/)
-- [Tetris](./esami2024-25/tetris/)
-- [Australian Open](./esami2024-25/australian/)
-- [Miglior Vista](./esami2024-25/vista/)
-- [Musica Classica](./esami2024-25/musica/)
-- [Ghiaccio](./esami2024-25/ghiaccio/)
+Quarto Appello (20/06/2025):
+- [Dipinto](./esami2024-25/dipinto/)
+- [Mastermind](./esami2024-25/mastermind/)
+- [Materia Oscura](./esami2024-25/materia_oscura/)
+- [Monitoraggio segnale Wi-Fi](./esami2024-25/segnale_wifi/)
+
+Terzo Appello (riservato laureandi) (29/04/2025):
+- [Componenti Software](./esami2024-25/componenti/)
 
 Secondo appello (10-11/02/2025):
 - [Asta in busta chiusa](./esami2024-25/asta/)
@@ -34,8 +33,15 @@ Secondo appello (10-11/02/2025):
 - [Partite giocate](./esami2024-25/partite/)
 - [e-commerce](./esami2024-25/e-commerce/)
 
-Terzo Appello (riservato laureandi) (29/04/2025):
-- [Componenti Software](./esami2024-25/componenti/)
+Primo appello (27-28/01/2025):
+- [Akinator](./esami2024-25/akinator/)
+- [Superenalotto](./esami2024-25/superenalotto/)
+- [Performance Mercati](./esami2024-25/mercati/)
+- [Tetris](./esami2024-25/tetris/)
+- [Australian Open](./esami2024-25/australian/)
+- [Miglior Vista](./esami2024-25/vista/)
+- [Musica Classica](./esami2024-25/musica/)
+- [Ghiaccio](./esami2024-25/ghiaccio/)
 
 # Testi d'esame del 2023/2024
 

@@ -678,3 +678,32 @@ Si converta il valore 121 dalla base 3 alla base 7, spiegando i passaggi princip
 Sommare i due numeri in ca2 su 8 bit espressi in base esadecimale come 1E e AF. Indicare il risultato se l'operazione genera un overflow.
 
 
+## 99
+
+Sommare la seguente coppia di numeri A e B su 8 bit conformemente alle seguenti rappresentazioni: 
+
+- Binario puro 
+- Modulo e segno 
+- Complemento a due
+
+Per ognuna delle 3 somme specificare se c’è overflow
+
+A = 10011000
+
+B = 11110011
+
+## 100
+
+Rappresentare il numero 13 in base 2, in base 3 e in base 4. 
+
+## 101
+
+Dati i seguenti numeri espressi in formato esadecimale: 
+
+`A5`, `B6`
+
+convertirli in binario puro e valutare se il risultato della loro somma è un numero pari o dispari, motivando la risposta.
+
+## 102
+
+Si supponga che `F1` e `3F` siano due numeri binari in complemento a 2, rappresentati in base esadecimale. Si calcoli la somma dei due valori, riportando il risultato finale con la stessa rappresentazione degli operandi. Dire se si verifica overflow oppure no, e perché.

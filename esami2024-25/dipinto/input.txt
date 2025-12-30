@@ -1,0 +1,2 @@
+img1.txt 2 1
+img2.txt 3 0

@@ -507,3 +507,44 @@ Descrivere il tipo del seguente oggetto Python:
 ```python
 valori = {'Marco': {2,4,6}, 'Paola':{2,3,1}, 'Sara':{1,1,6}}
 ```
+
+## 94
+
+La seguente funzione modifica una lista di numeri, eliminando ripetizioni di 1 consecutive (tralasciando il primo 1 della sequenza).
+
+Per esempio trasforma:
+
+00011000100001
+
+in
+
+0001000100001
+
+Valutarne la bontà, argomentando vantaggi e svantaggi.
+
+```python
+print(funzione(list('00011000100001')))
+
+def funzione(lista):
+    i=1
+    while i <len(lista):
+        if lista[i]='1' and lista[i-1]='1':
+            lista.remove(l[i])
+        i+=1
+```
+
+## 95
+
+Descrivere le differenze dei set rispetto alle liste.
+
+## 96
+
+Che cosa significa in Python usare un dizionario come un "array associativo"? Si corredi la risposta con un esempio.
+
+## 97
+
+Descrivere a parole il tipo di struttura dati della variabile `x`:
+
+```python
+x = [(2,3),(4,-1)]
+````
