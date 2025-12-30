@@ -1,0 +1,4 @@
+bar_char=#
+show_values=true
+sort=desc
+title=Frutta Ordinata per Quantità

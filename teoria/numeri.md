@@ -707,3 +707,25 @@ convertirli in binario puro e valutare se il risultato della loro somma è un nu
 ## 102
 
 Si supponga che `F1` e `3F` siano due numeri binari in complemento a 2, rappresentati in base esadecimale. Si calcoli la somma dei due valori, riportando il risultato finale con la stessa rappresentazione degli operandi. Dire se si verifica overflow oppure no, e perché.
+
+## 103
+
+Effettuare le seguenti conversioni:
+
+a) 57 da base 10 a base 2, binario puro su 8 bit
+
+b) 110010 da base 2, ca2 su 6 bit, a base 10
+
+c) 1100101 da base 2 a base 16
+
+## 104
+
+Dati i numeri 15 e 45 (in base 10), convertirli in binario e sommarli. Sapendo che il risultato deve essere rappresentato su 6 bit, indicare se l’operazione genera overflow e motivare la risposta.
+
+## 105
+
+Dati i numeri 23 e 37 (in base 10), convertirli in binario puro su **6 bit** e sommarli. Indicare se l’operazione genera overflow e motivare la risposta.
+
+## 106
+
+Siano date le seguenti rappresentazioni A=101100, B=001100 e C=100000. Si individui il valore minore considerando i valori prima in modulo e segno e poi in complemento a 2.

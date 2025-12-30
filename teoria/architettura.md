@@ -423,3 +423,15 @@ Descrivere le caratteristiche della ALU e della FPU.
 ## 101
 
 Cosa sono ALU e FPU all'interno di un calcolatore? Che ruolo hanno, e quali sono le differenze principali?
+
+## 102
+
+Spiegare brevemente i diversi tipi di memoria presenti in un calcolatore.
+
+## 103
+
+Qual è il numero minimo di bit di Address Bus necessario per indirizzare una memoria da 4 GigaByte con un parallelismo di 32 bit?
+
+## 104
+
+Si descriva il ruolo del registro dei Flag e dei registri Program Counter (PC) e Instruction Register (IR) nel ciclo macchina dell'unità di controllo.

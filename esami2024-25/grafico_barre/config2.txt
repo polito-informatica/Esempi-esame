@@ -1,0 +1,4 @@
+max_bar_length=60
+bar_char=-
+show_values=false
+sort=asc

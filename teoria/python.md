@@ -547,4 +547,16 @@ Descrivere a parole il tipo di struttura dati della variabile `x`:
 
 ```python
 x = [(2,3),(4,-1)]
-````
+```
+
+## 98
+
+Spiegare brevemente la differenza tra stringhe e liste in Python.
+
+## 99
+
+Il linguaggio Python mette a disposizione dei programmatori **dizionari** (`dict`) e **insiemi** (`set`). Si richiede di fornire una sintetica descrizione di queste due strutture dati complesse, indicando almeno una caratteristica comune.
+
+## 100
+
+Spiegare brevemente la differenza tra liste e tuple in Python. Sono entrambe ammissibili come chiavi di un dizionario?
