@@ -729,3 +729,160 @@ Dati i numeri 23 e 37 (in base 10), convertirli in binario puro su **6 bit** e s
 ## 106
 
 Siano date le seguenti rappresentazioni A=101100, B=001100 e C=100000. Si individui il valore minore considerando i valori prima in modulo e segno e poi in complemento a 2.
+
+<!-- Anno Accademico 2025/26 -->
+
+## 107
+
+Dati i seguenti numeri con segno espressi in decimale 
+
+- A = +67 
+- B = +106 
+
+si convertano nei rispettivi valori binari in complemento a 2 su 8 bit, se ne esegua la somma, indicando se il risultato ha prodotto un OVERFLOW.
+
+## 108
+
+Ordinare in ordine crescente le seguenti codifiche espresse in esadecimale, interpretando la corrispondente rappresentazione binaria secondo la codifica in binario puro e in complemento a 2:
+
+`0001` `A001` `6001` `FFFF`
+
+## 109
+
+Qual è la rappresentazione ottale del binario puro 1110111? Si riportino i passaggi principali.
+
+## 110
+
+Siano dati i seguenti numeri, codificati in complemento a 2 su 8 bit, e rappresentati per brevità in base 16. Si scrivano tali numeri in binario, e si mettano in ordine dal più piccolo al più grande, giustificando il criterio utilizzato per ordinarli.
+
+Nota: non utilizzare mai la base 10.
+
+Numeri: `77`, `88`, `3F`, `F3`
+
+## 111
+
+Siano dati i seguenti numeri binari rappresentati per brevità in base 16. Si esegua la somma considerandoli rappresentati prima in complemento a 2 e poi in modulo e segno. Riportare il risultato rappresentato in base 16. Indicare se c'è overflow.
+
+Numeri: `77`, `88`
+
+## 112
+
+Siano dati i due numeri 23 e 8F in base 16. Immaginando che siano codicficati in CA2, sommarli ed evidenziare eventuale overflow
+
+## 113
+
+Si supponga che `3F` e `FA` siano due numeri binari codificati in complemento a 2, rappresentati in base esadecimale. Si determini quale dei due numeri corrisponde al valore maggiore in base 10 e si calcoli poi la loro somma in binario, riportando il risultato finale con la stessa rappresentazione degli operandi (base 16).
+
+## 114
+
+Dati i seguenti due numeri positivi N1 e N2 in binario puro su 8-bit rappresentati in esadecimale, ricavare i corrispettivi negativi -N1 e -N2 in complemento-2 su 8-bit rappresentandoli in esadecimale.
+
+- N1 = 75 
+- N2 = AB
+
+## 115
+
+Eseguire l'operazione di somma in complemento a 2 su 8 bit e determinare se si verifica un overflow, giustificando la risposta.
+
+- Numero 1: −45 
+- Numero 2: +83
+
+Istruzioni:
+
+- Rappresentare i numeri in complemento a 2 su 8 bit. 
+- Eseguire la somma binaria dei due numeri in complemento a 2 
+- Verificare la presenza di overflow 
+- Mostrare il risultato finale in binario e in decimale
+
+## 116
+
+Dati i due numeri in complemento a due su 8 bit `11110111` e `01111011`, calcolarne la somma e segnalare un eventuale overflow.
+
+## 117
+
+Siano dati i seguenti numeri, codificati in complemento a 2 su 8 bit, e rappresentati per brevità in base 16. Si scrivano tali numeri in binario, e si mettano in ordine dal più piccolo al più grande, giustificando il criterio utilizzato per ordinarli.
+
+Nota: non utilizzare mai la base 10.
+
+Numeri: `A2`, `55`, `3F`, `F3`
+
+## 118
+
+Siano dati i seguenti numeri in base decimale: A = -105 B = -54
+
+Si effettui la somma A+B in complemento a due su 8 bit e si dica se si verifica overflow e perché. Riportare i passaggi principali e il risultato.
+
+## 119
+
+Dati due numeri in complemento a due espressi in esadecimale A=1F e B=81, calcolare il risultato della somma in binario e dire se la somma genera overflow.
+
+## 120
+
+Ordinare in ordine crescente i seguenti numeri codificati in complemento a 2 ed espressi in esadecimale: `A000` `0A00` `FFFF` `0011`
+
+## 121
+
+Siano dati N1=F1A2 e N2=B023; assumendo che N1 e N2 rappresentino le codifiche di due numeri relativi in complemento a due, scritte in base 16 per comodità, ricavare:
+
+a) la codifica di N1 e N2 in base 2;
+
+b) la codifica di N1 e N2 in base 8.
+
+## 122
+
+Quale tra i due numeri esadecimali A=`4E` e B=`8D` è più grande? Motivare i passaggi.
+
+## 123
+
+Effettuare la somma dei seguenti numeri espressi in complemento a due su 8 bit. Indicare il risultato della somma oppure, se viene generato overflow, motivare perché si verifica.
+
+01101001 + 00111100
+
+## 124
+
+Dati i due numeri in complemento a due su 8 bit `11110110` e `11001011` calcolarne la somma e segnalare un eventuale overflow.
+
+## 125
+
+Verificare se i due valori sotto indicati corrispondono a rappresentazioni valide nella base di partenza. In caso affermativo, effettuare la conversione nella base richiesta
+
+(a) il valore 121 dalla base 3 alla base 10
+
+(b) il valore 140 dalla base 4 alla base 8
+
+Si giustifichino le risposte e si indichino i passaggi principali.
+
+## 126
+
+Sono dati i seguenti numeri in complemento a 2 su 8 bit, rappresentati in forma compatta in base esadecimale.
+
+Elencare: a) tutti i numeri pari b) tutti i numeri negativi
+
+```
+68
+8B
+81
+C4
+B2
+7E
+16
+08
+```
+
+## 127
+
+Dati i due numeri in binario puro su 8 bit `10110110` e `01001011` calcolarne la somma e segnalare un eventuale overflow.
+
+## 128
+
+Siano date le seguenti rappresentazioni A=`101100`, B=`001100` e C=`100000` su 6 bit. Si individui il valore della somma A+B+C (sempre su 6 bit) considerando i valori in complemento a 2. Si specifichi se si verifica overflow oppure no.
+
+## 129
+
+Effettuare la somma dei seguenti numeri espressi in complemento a due su 8 bit. Riportare il risultato della somma oppure, se viene generato overflow, motivare perché si verifica.
+
+11010011 + 10110101
+
+## 130
+
+Dati i due numeri in complemento a due su 8 bit 11110110 e 11001011 calcolarne la somma e segnalare un eventuale overflow.

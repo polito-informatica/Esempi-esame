@@ -435,3 +435,106 @@ Qual è il numero minimo di bit di Address Bus necessario per indirizzare una me
 ## 104
 
 Si descriva il ruolo del registro dei Flag e dei registri Program Counter (PC) e Instruction Register (IR) nel ciclo macchina dell'unità di controllo.
+
+<!-- Anno Accademico 2025/26 -->
+
+## 105
+
+Perché in un sistema di elaborazione la memoria ha una struttura "gerarchica"?
+
+## 106
+
+Spiegare il ruolo del bus nel ciclo di esecuzione di una istruzione.
+
+## 107
+
+Che cosa si intende per gerarchia della memoria in un calcolatore elettronico? Perché è utile?
+
+## 108
+
+Dato un sistema di elaborazione dotato di ABUS di 28 bit e DBUS di 32 bit, cosa si può dire a proposito del numero e della dimensione dei registri della CPU?
+
+## 109
+
+Spiegare cos'è il clock e qual è la sua funzione in un elaboratore.
+
+## 110
+
+Descrivere le tre fasi fondamentali di esecuzione di un'istruzione da parte della CPU.
+
+## 111
+
+Cosa sono i registri in un elaboratore? Che ruolo gioca il registro dei flag?
+
+## 112
+
+Cos'è l'unità operativa di una CPU, di cosa si compone e che ruolo svolge durante il ciclo macchina?
+
+## 113
+
+Che ruolo ha il clock in un sistema di elaborazione?
+
+## 114
+
+Spiegare che cosa è l'FPU e che compiti svolge.
+
+## 115
+
+Spiegare che cosa è l'ALU e che compiti svolge
+
+## 116
+
+Spiegare cosa sono i registri e descrivere quali registri intervengono e come intervengono nel ciclo di esecuzione di un’istruzione.
+
+## 117
+
+Perché in un sistema di elaborazione esistono più tipi di memorie?
+
+## 118
+
+Come si calcola la dimensione in Byte di una memoria, dati la dimensione del Data Bus e dell'Address Bus?
+
+## 119
+
+Qual è la funzione dei registri in una CPU?
+
+## 120
+
+Un calcolatore ha un Address Bus di 32 bit e ogni parola di memoria ha parallelismo di 8 byte. Qual è la massima dimensione di memoria in MB che può indirizzare questo calcolatore?
+
+## 121
+
+Descrivere la gerarchia di memoria di un calcolatore, elencando i livelli principali dal più veloce al più lento e indicando per ciascuno le caratteristiche principali in termini di velocità, capacità e volatilità.
+
+## 122
+
+Che cosa sono e qual è la funzione dei registri di una CPU? Si dettagli il ruolo del registro Program Counter.
+
+## 123
+
+Spiegare brevemente il meccanismo di esecuzione delle istruzioni in un calcolatore elettronico. Di quante e quali fasi si compone?
+
+## 124
+
+Calcolare la massima dimensione di memoria indirizzabile, espressa in byte, in un sistema che presenta:
+
+- un Address Bus di 10 bit
+- un parallelismo di memoria pari a 2 byte
+
+Come cambierebbe il risultato se l'Address Bus avesse un bit in più?
+
+## 125
+
+Spiegare che cosa è l'ALU e che compiti svolge.
+
+## 126
+
+Si consideri un sistema con una memoria RAM pari a 8 kB. Nell'ipotesi che le celle di memoria abbiano un'ampiezza di 2 byte, qual è il numero minimo di bit che deve avere l'address bus del sistema?
+
+## 127
+
+Descrivere l’unità di controllo, specificandone i principali blocchi costitutivi e illustrando la funzione svolta da ciascuno di essi.
+
+## 128
+
+Che cosa sono e qual è la funzione dei registri di una CPU? Si dettagli il ruolo del registro Program Counter.

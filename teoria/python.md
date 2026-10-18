@@ -560,3 +560,145 @@ Il linguaggio Python mette a disposizione dei programmatori **dizionari** (`dict
 ## 100
 
 Spiegare brevemente la differenza tra liste e tuple in Python. Sono entrambe ammissibili come chiavi di un dizionario?
+
+<!-- Anno Accademico 2025/26 -->
+
+## 101
+
+Spiegare come funziona l'operatore di slice (`:`) e su quali tipologie di dati può essere utilizzato.
+
+## 102
+
+In una funzione Python, qual è la differenza tra argomenti e valori restituiti?
+
+## 103
+
+Spiegare principali analogie e differenze tra liste e set (insiemi) in Python.
+
+## 104
+
+Assumento che 'amici' sia un dizionario che associa a ciascun nome di persona (chiave di tipo stringa) un valore intero pari al numero di amici di quella persona, si spieghi la differenza tra l'istruzione:
+
+```python
+amici['Gigi'] = 8
+```
+
+e l'istruzione:
+
+```python
+amici = { 'Gigi': 8 }
+```
+
+## 105
+
+In quali casi l'uso di un set è preferibile ad una lista?
+
+## 106
+
+Spiegare la differenza tra parametro formale e parametro attuale (argomento) di una funzione Python.
+
+## 107
+
+Spiegare brevemente la differenza tra liste e insiemi in Python. Indicare, con una breve motivazione, quale tra le seguenti due strutture dati non può essere creata in Python: i) una lista di insiemi, ii) un insieme di liste.
+
+## 108
+
+Che errore ha commesso il programmatore nel seguente codice? Suggerire una soluzione.
+
+```python
+for i in range(len(int_list)):
+    if int_list[i] < 0:
+        int_list.pop(i)
+```
+
+## 109
+
+Si consideri il codice seguente che ha lo scopo di ordinare una lista di numeri interi.
+
+```python
+def ordina (myLista):
+    newlista = []
+    newlista = sorted(myLista)
+
+lista = [4, 3, 1, 2]
+ordina(lista)
+print(lista)
+```
+
+- Si descriva il comportamento del programma.
+- La lista stampata risulta ordinata?
+- Se la risposta è No, si corregga il codice per averla ordinata.
+
+## 110
+
+Quali differenze ci sono tra una tupla e un dizionario in Python?
+
+## 111
+
+Supponendo che `elenco` sia una lista di numeri interi, spiegate la differenza tra l'istruzione
+
+```python
+elenco.sort()
+```
+
+e l'istruzione
+
+```python
+sorted(elenco)
+```
+
+## 112
+
+Spiegare molto brevemente il ruolo delle parole chiave `try` e `except` nella gestione delle eccezioni in Python; elencare almeno due vantaggi che presenta un programma in cui le eccezioni sono state gestite adeguatamente.
+
+## 113
+
+Dato un set come posso salvare uno specifico valore in una variabile (se tale valore esiste) **senza modificare il contenuto del set**? Per esempio dato il set `s={0,6,3,1,2,4}`, voglio estrarre il valore 3 e salvarlo in una variabile x.
+
+## 114
+
+Spiegare brevemente la differenza tra Liste e Insiemi (set) in Python.
+
+## 115
+
+Spiegare brevemente la differenza tra Liste e Dizionari in Python.
+
+## 116
+
+Perchè questa definizione non è corretta?
+
+```python
+my_set = {[1,0],[2,4], [2,2]}
+```
+
+## 117
+
+Descrivere cos'è un dizionario in Python, come si accede ai suoi elementi e in quale situazione è preferibile usarlo rispetto a una lista.
+
+## 118
+
+Spiegare brevemente cosa sono le eccezioni in Python e come vengono gestite, anche mediante l'uso di un esempio.
+
+## 119
+
+Cosa è un set (insieme) in Python? Si può costruire un insieme di stringhe? E un insieme di liste?
+
+## 120
+
+Elencare due vincoli che devono soddisfare le chiavi e i valori di un dizionario in Python.
+
+## 121
+
+Quali vantaggi e quali svantaggi fornisce un insieme rispetto ad una lista?
+
+## 122
+
+Quali sono le differenze tra liste e tuple in Python?
+
+## 123
+
+Descrivere le differenze tra i cicli `for` e `while` in Python, specificando in quali situazioni è più opportuno utilizzare ciascuno di essi. Motivare la risposta attraverso un esempio concreto per ogni tipo di ciclo.
+
+## 124
+
+Spiegare brevemente cosa sono le eccezioni in Python e come vengono gestite, anche mediante l'uso di un esempio.
