@@ -2,7 +2,7 @@
 
 | Esercizi di programmazione | 
 |----------------------------|
-| Anno 2025/26 | 
+| Anno 2025/26 (coming soon) | 
 | [Anno 2024/25](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#testi-desame-del-20242025)  |
 | [Anno 2023/24](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#testi-desame-del-20232024)               |
 | [Anno 2022/23](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#testi-desame-del-20222023)               | 
@@ -19,9 +19,7 @@
 
 # Testi d'esame del 2024/2025
 
-I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2024/2025.
-
-Quinto Appello (10/09/2025): 🆕
+Quinto Appello (10/09/2025):
 - [Creature, Lotte e Allenatori](./esami2024-25/lottatori/)
 - [Formula 1](./esami2024-25/formula1/)
 - [Grafico a barre testuale](./esami2024-25/grafico_barre/)
@@ -59,8 +57,6 @@ Primo appello (27-28/01/2025):
 - [Ghiaccio](./esami2024-25/ghiaccio/)
 
 # Testi d'esame del 2023/2024
-
-I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2023/2024.
 
 Quinto appello (17/09/2024):
 - [Gestione database studenti](./esami2023-24/database_studenti/)
@@ -104,8 +100,6 @@ Primo appello (05-06/02/2024):
 
 # Testi d'esame del 2022/2023
 
-I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2022/2023.
-
 Quarto appello (19/09/2023):
 - [Statistiche Calciatori](./esami2022-23/statistiche_calciatori/)
 - [Profilo di temperatura](./esami2022-23/profilo_temperatura/)
@@ -141,9 +135,7 @@ Primo appello (30-31/01/2023):
 - [Viaggio della slitta](./esami2022-23/viaggio_della_slitta) ([Soluzione](./esami2022-23/viaggio_della_slitta/soluzione.py))
 - [Voti](./esami2022-23/voti)
 
-# Selezione di testi d'esame del 2021/2022
-
-I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2021/2022.
+# Testi d'esame del 2021/2022 (selezione)
 
 - [Auto Noleggio](esami2021-22/auto_noleggio) (31/01/2022)
   - Soluzione proposta: [Video](https://youtu.be/Qhke4XOch1Q) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Settimana14/auto_noleggio)
@@ -157,9 +149,7 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
   - Soluzione proposta: [Video](https://youtu.be/udb0aHCXGPY) - [Progetto](https://github.com/polito-info-2022/Settimane/tree/master/Settimana14/separa_conti)
 - [Controllo Compiti Copiati](./esami2021-22/controllo_compiti)
 
-# Selezione di testi d'esame del 2020/2021
-
-I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli dell'anno accademico 2020/2021.
+# Testi d'esame del 2020/2021 (selezione)
 
 - [Agenda appuntamenti](esami2020-21/agenda)
 - [Astrologia Calciatori](esami2020-21/astrologia_calciatori)
@@ -192,12 +182,18 @@ propria preparazione personale.
 - [Qualità della vita](esempi/qdv)
 
 
-# Selezione di quesiti di teoria dal 2020 al 2024
+# Quesiti di teoria dal 2020 al 2026
 
 I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei diversi appelli degli annio accademici
-2020/2021, 2021/2022, 2022/2023 e 2023/2024.
+2020/2021, 2021/2022, 2022/2023, 2023/2024, 2024/2025 e 2025/2026 🆕.
 
 - [Esercizi sui sistemi di numerazione](teoria/numeri.md)
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/FgQzYH0af_w),
+      tratto dalle lezioni del 2025/26
+      e [appunti della lezione](https://raw.githubusercontent.com/polito-informatica/Settimane2025/refs/heads/main/Settimana05/esercizi%20numeri.md) 🆕
+    - Video con la [soluzione di alcuni quesiti](https://youtu.be/XYzLSQmFTKA),
+      tratto dalle lezioni del 2024/25
+      e [appunti della lezione](https://raw.githubusercontent.com/polito-informatica/Settimane2024/refs/heads/main/Settimana09/esercizi.md) 🆕
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/1mSoNKT-0JE),
       tratto dalle lezioni del 2023/24,
       e [appunti della lezione](https://github.com/polito-informatica/Settimane2023/blob/main/Settimana14/esercizi_numerazione.txt)
