@@ -1,21 +1,37 @@
-# INFORMATICA - RACCOLTA DI TESTI D'ESAME
+<div align="center">
+  <h1>📝 INFORMATICA - RACCOLTA DI TESTI D'ESAME</h1>
+  <p><b>Archivio completo degli esami, esercizi di preparazione e quesiti di teoria.</b></p>
+</div>
 
-| Esercizi di programmazione | 
-|----------------------------|
-| Anno 2025/26 (coming soon) | 
-| [Anno 2024/25](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#testi-desame-del-20242025)  |
-| [Anno 2023/24](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#testi-desame-del-20232024)               |
-| [Anno 2022/23](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#testi-desame-del-20222023)               | 
-| [Anno 2021/22](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#selezione-di-testi-desame-del-20212022) |
-| [Altri esempi](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#altri-esempi-di-esercizi-simil-esame)
-||
+<hr />
 
-| [Domande di Teoria](https://github.com/polito-informatica/Esempi-esame?tab=readme-ov-file#altri-esempi-di-esercizi-simil-esame) |
-|----------------------------|
-| [Sistemi di numerazione](https://github.com/polito-informatica/Esempi-esame/blob/master/teoria/numeri.md) |
-| [Architettura degli elaboratori](https://github.com/polito-informatica/Esempi-esame/blob/master/teoria/architettura.md) |
-| [Programmazione in Python](https://github.com/polito-informatica/Esempi-esame/blob/master/teoria/python.md) |
-| |
+<!-- NAVIGAZIONE RAPIDA E INDICE -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Esercizi di Programmazione</h3>
+      <ul>
+        <li>Anno 2025/26 <i>(coming soon)</i></li>
+        <li><a href="#testi-desame-del-20242025">Anno 2024/25</a></li>
+        <li><a href="#testi-desame-del-20232024">Anno 2023/24</a></li>
+        <li><a href="#testi-desame-del-20222023">Anno 2022/23</a></li>
+        <li><a href="#testi-desame-del-20212022-selezione">Anno 2021/22</a></li>
+        <li><a href="#testi-desame-del-20202021-selezione">Anno 2020/21</a></li>
+        <li><a href="#altri-esempi-di-esercizi-simil-esame">Altri esempi</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📘 Domande di Teoria</h3>
+      <ul>
+        <li><a href="#quesiti-di-teoria-dal-2020-al-2026">Sistemi di numerazione</a></li>
+        <li><a href="#quesiti-di-teoria-dal-2020-al-2026">Architettura degli elaboratori</a></li>
+        <li><a href="#quesiti-di-teoria-dal-2020-al-2026">Programmazione in Python</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 # Testi d'esame del 2024/2025
 
