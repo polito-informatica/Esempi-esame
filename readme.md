@@ -11,7 +11,7 @@
     <td width="50%" valign="top">
       <h3>💻 Esercizi di Programmazione</h3>
       <ul>
-        <li>Anno 2025/26 <i>(coming soon)</i></li>
+        <li><a href="#testi-desame-del-20252026">Anno 2025/26</a></li>
         <li><a href="#testi-desame-del-20242025">Anno 2024/25</a></li>
         <li><a href="#testi-desame-del-20232024">Anno 2023/24</a></li>
         <li><a href="#testi-desame-del-20222023">Anno 2022/23</a></li>
@@ -33,7 +33,7 @@
 
 <br />
 
-# Testi d'esame del 2026/2027
+# Testi d'esame del 2025/2026
 
 Primo Appello (26-27/01/2026)
 - [Opificio](./esami2025-26/opificio/)
