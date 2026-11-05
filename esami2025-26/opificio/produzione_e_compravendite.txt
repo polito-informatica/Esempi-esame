@@ -1,0 +1,24 @@
+croci,-15,600,04:12:1821
+anelli in latta,-800,05:12:1821
+gommalacca,-4.5,05:12:1821
+resina vegetale,-6.5,05:12:1821
+stagno,-8.2,05:12:1821
+bracciali,10,05:12:1821
+gommalacca,-2.5,07:12:1821
+resina vegetale,-3.5,07:12:1821
+stagno,-6.2,07:12:1821
+collane,6,07:12:1821
+bottoni ornamentali,-100,17:12:1821
+anelli in latta,8000,30000,19:12:1821
+gommalacca,20.5,12,20:12:1821
+anelli in latta,-1600,04:01:1822
+gommalacca,-9.2,04:01:1822
+resina vegetale,-12.5,04:01:1822
+stagno,-16.2,04:01:1822
+bracciali,20,04:01:1822
+anelli in latta,800,3000,04:01:1822
+bracciali,-50,4000,06:01:1822
+croci,-12,500,08:01:1822
+resina vegetale,-236.5,05:12:1821
+stagno,-1128.2,05:12:1821
+croci,1000,09:01:1822

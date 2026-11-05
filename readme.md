@@ -33,6 +33,18 @@
 
 <br />
 
+# Testi d'esame del 2026/2027
+
+Primo Appello (26-27/01/2026)
+- [Opificio](./esami2025-26/opificio/)
+- [Follower](./esami2025-26/follower/)
+- [Linea Ferroviaria](./esami2025-26/linea_ferroviaria/)
+- [Risparmio Assicurato](./esami2025-26/risparmio_assicurato/)
+- [Svezia](./esami2025-26/svezia/)
+- [Auriga](./esami2025-26/auriga/)
+- [Ufficio Acquisti](./esami2025-26/ufficio_acquisti/)
+- [Befana Ecologista](./esami2025-26/befana_ecologista/)
+
 # Testi d'esame del 2024/2025
 
 Quinto Appello (10/09/2025):

@@ -1,0 +1,9 @@
+anelli in latta,materia prima,2456
+bottoni ornamentali,prodotto lavorato,341
+bracciali,prodotto lavorato,49
+collane,prodotto lavorato,21
+croci,prodotto lavorato,123
+franchi,denaro,12045
+gommalacca,materia prima,124.5
+resina vegetale,materia prima,122.5
+stagno,materia prima,2034.2

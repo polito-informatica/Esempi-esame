@@ -1,0 +1,20 @@
+marca,modello,tipologia_veicolo
+Fiat,Panda,1
+Volkswagen,Golf,1
+Toyota,Yaris,1
+Ford,Focus,1
+Renault,Clio,1
+Peugeot,208,1
+Opel,Corsa,1
+Honda,Civic,1
+Nissan,Qashqai,2
+Jeep,Renegade,2
+BMW,X1,2
+Mercedes-Benz,Sprinter,3
+Iveco,Daily,3
+Piaggio,Liberty,4
+Yamaha,MT-07,5
+Ducati,Monster,5
+Kawasaki,Ninja 650,5
+Tesla,Model 3,1
+Volvo,XC40 Recharge,2
