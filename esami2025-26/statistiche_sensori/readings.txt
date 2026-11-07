@@ -1,0 +1,18 @@
+#Sensore AB0x1 Temperatura
+1000
+1050
+930
+#Sensore XY034  Temperatura
+4003
+4010
+#Sensore Wn43 Pressione
+102
+103
+101
+#Sensor AB0x1 Temperatura
+1003
+1012
+1025
+#Sensore Wn45 Pressione
+99
+100

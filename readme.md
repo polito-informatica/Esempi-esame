@@ -35,6 +35,15 @@
 
 # Testi d'esame del 2025/2026
 
+Secondo Appello (09-10/02/2026)
+- [Gestione Esami](./esami2025-26/gestione_esami/)
+- [Log di un Server Web](./esami2025-26/log_server_web/)
+- [Collegamenti e Carichi](./esami2025-26/collegamenti_carichi/)
+- [Neo-Tokio 7](./esami2025-26/neo_tokio_7/)
+- [Estrazione Stringhe](./esami2025-26/estrazione_stringhe/)
+- [Statistiche Sensori](./esami2025-26/statistiche_sensori/)
+- [Torneo Videogiochi](./esami2025-26/torneo_videogiochi/)
+
 Primo Appello (26-27/01/2026)
 - [Opificio](./esami2025-26/opificio/)
 - [Follower](./esami2025-26/follower/)
