@@ -11,7 +11,7 @@
     <td width="50%" valign="top">
       <h3>💻 Esercizi di Programmazione</h3>
       <ul>
-        <li><a href="#testi-desame-del-20252026">Anno 2025/26</a></li>
+        <li><a href="#testi-desame-del-20252026">Anno 2025/26</a> 🆕</li>
         <li><a href="#testi-desame-del-20242025">Anno 2024/25</a></li>
         <li><a href="#testi-desame-del-20232024">Anno 2023/24</a></li>
         <li><a href="#testi-desame-del-20222023">Anno 2022/23</a></li>
@@ -33,9 +33,12 @@
 
 <br />
 
-# Testi d'esame del 2025/2026
+# Testi d'esame del 2025/2026 🆕
 
-Secondo Appello (09-10/02/2026)
+Terzo Appello (riservato laureandi) (06/05/2026) 🆕
+- [Streaming Musicale](./esami2025-26/streaming_musicale/)
+
+Secondo Appello (09-10/02/2026) 🆕
 - [Gestione Esami](./esami2025-26/gestione_esami/)
 - [Log di un Server Web](./esami2025-26/log_server_web/)
 - [Collegamenti e Carichi](./esami2025-26/collegamenti_carichi/)
@@ -44,7 +47,7 @@ Secondo Appello (09-10/02/2026)
 - [Statistiche Sensori](./esami2025-26/statistiche_sensori/)
 - [Torneo Videogiochi](./esami2025-26/torneo_videogiochi/)
 
-Primo Appello (26-27/01/2026)
+Primo Appello (26-27/01/2026) 🆕
 - [Opificio](./esami2025-26/opificio/)
 - [Follower](./esami2025-26/follower/)
 - [Linea Ferroviaria](./esami2025-26/linea_ferroviaria/)
@@ -63,7 +66,7 @@ Quinto Appello (10/09/2025):
 - [Riscaldamento](./esami2024-25/riscaldamento/)
 - [Scuola di magia](./esami2024-25/scuola_magia/)
 
-Quarto Appello (20/06/2025): 🆕
+Quarto Appello (20/06/2025): 
 - [Dipinto](./esami2024-25/dipinto/)
 - [Mastermind](./esami2024-25/mastermind/)
 - [Materia Oscura](./esami2024-25/materia_oscura/)
@@ -227,10 +230,10 @@ I seguenti esercizi sono tratti direttamente dai testi d'esame proposti nei dive
 - [Esercizi sui sistemi di numerazione](teoria/numeri.md)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/FgQzYH0af_w),
       tratto dalle lezioni del 2025/26
-      e [appunti della lezione](https://raw.githubusercontent.com/polito-informatica/Settimane2025/refs/heads/main/Settimana05/esercizi%20numeri.md) 🆕
+      e [appunti della lezione](https://raw.githubusercontent.com/polito-informatica/Settimane2025/refs/heads/main/Settimana05/esercizi%20numeri.md)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/XYzLSQmFTKA),
       tratto dalle lezioni del 2024/25
-      e [appunti della lezione](https://raw.githubusercontent.com/polito-informatica/Settimane2024/refs/heads/main/Settimana09/esercizi.md) 🆕
+      e [appunti della lezione](https://raw.githubusercontent.com/polito-informatica/Settimane2024/refs/heads/main/Settimana09/esercizi.md)
     - Video con la [soluzione di alcuni quesiti](https://youtu.be/1mSoNKT-0JE),
       tratto dalle lezioni del 2023/24,
       e [appunti della lezione](https://github.com/polito-informatica/Settimane2023/blob/main/Settimana14/esercizi_numerazione.txt)
